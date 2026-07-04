@@ -1,0 +1,1001 @@
+product_id,product_name,category,sub_category,author_name,publisher_name,unit_price,cost_price,supplier_id,stock_quantity,launch_date,format,language,page_count,reader_group,best_seller_score
+P00001,Short Stories Masterclass,Fiction,Short Stories,Amin Ahmed,Green Books Ltd,454.53,,S00483,453,10/18/2022 21:54,Hardcover,Bangla,277,Professional,0.984
+P00002,Entrepreneurship Handbook,Business,Entrepreneurship,Naila Uddin,Prime Supply Co,518.21,334.91,S00143,244,4/4/2021 15:28,Paperback,Bangla,841,Kids,0.455
+P00003,Databases Handbook Series,Programming,Databases,Jalal Islam,Bright Supply Co,1001.02,625.99,S00970,553,9/6/2020 21:29,eBook,English,842,Elderly,0.314
+P00004,English Grammar Masterclass Series,Academic,English Grammar,Mala Chowdhury,Eastern Trade Group,537.49,403.33,S00982,238,12/25/2021 3:47,eBook,English,674,Young,0.991
+P00005,Bank Jobs Guide Practice,Exam Prep,Bank Jobs,Mohiuddin Rahman,Delta Supply Co,930.27,715.75,S00214,482,8/4/2021 5:55,eBook,English,675,Kids,0.503
+P00006,Bangla Literature Essentials Edition,Academic,Bangla Literature,Mala Hossain,Bright Publishing House,1043.23,812.52,S00289,611,10/9/2022 10:47,,Bangla,712,Young,0.312
+P00007,Mystery Handbook, Fiction ,Mystery,Mohiuddin Rahman,Ocean Enterprises,864.51,693.07,S00242,76,12/2/2021 6:35,Hardcover,Bangla,273,Young,0.233
+P00008,Bangla Literature Simplified Series,Academic,Bangla Literature,Sabbir Uddin,Royal Books Ltd,,342.84,S00794,23,10/21/2025 22:13,Hardcover,English,823,Kids,0.249
+P00009,Bangla Literature Essentials Edition,Academic,Bangla Literature,Anika Uddin,Eastern Enterprises,444.64,272.26,S00946,187,12/28/2023 12:23,Paperback,Bangla,164,Professional,0.389
+P00010,Prayer Guides Simplified,Religious,Prayer Guides,Rashid Sarker,Global Publishing House,826.53,557.88,S00035,523,9/7/2021 10:05,eBook,English,42,Young,0.264
+P00011,Mystery Simplified,Fiction,Mystery,Anika Chowdhury,Global Supply Co,712.23,525.19,S00627,569,8/8/2021 17:03,eBook,Bangla,53,Professional,0.236
+P00012,Accounting Handbook,Business,Accounting,Jalal Khan,Prime Distributors,1241.11,918.59,S00925,59,2/19/2021 20:40,eBook,Bangla,244,Young,0.636
+P00013,Coloring Books Complete,Children,Coloring Books,Mohiuddin Islam,Eastern Logistics,282.01,195.42,S00801,377,2/25/2024 17:54,Hardcover,Bangla,653,Young,0.568
+P00014,Management Simplified,Business,Management,Mala Chowdhury,National Supply Co,824.71,490.04,S00063,187,5/17/2026 4:51,Paperback,Bangla,147,Young,0.39
+P00015,Romance Workbook, Fiction ,Romance,Rumana Rahman,Metro Trade Group,341.4,,S00310,245,1/3/2026 5:40,Hardcover,English,341,Professional,0.569
+P00016,Finance Simplified,Business,Finance,Jalal Islam,Green Enterprises,1337.86,911.09,S00908,83,7/13/2021 1:51,Hardcover,English,831,Kids,0.414
+P00017,Mystery Simplified,Fiction,Mystery,Mala Ahmed,Global Supply Co,785.56,459.45,S00483,243,7/21/2024 1:15,eBook,Bangla,636,Young,0.418
+P00018,Classic Guide,Fiction,Classic,Rashid Ahmed,Eastern Publishing House,458.58,326.37,S00040,294,2/26/2024 18:49,Hardcover,English,47,Young,0.48
+P00019,Mathematics Complete Series,Academic,Mathematics,Sabbir Khan,Prime Enterprises,663.27,428.23,S00907,272,11/21/2020 6:24,Hardcover,Bangla,90,Young,0.266
+P00020,Bank Jobs Essentials Series,Exam Prep,Bank Jobs,Rashid Islam,National Books Ltd,496.77,336.94,S00633,631,1/6/2025 22:43,Hardcover,Bangla,429,Elderly,0.796
+P00021,Activity Books Masterclass,Children,Activity Books,Sultana Chowdhury,Metro Distributors,208.86,151.85,S00114,120,5/30/2021 16:54,Paperback,English,363,Professional,0.654
+P00022,Accounting Workbook,Business,Accounting,Sabbir Rahman,Metro Distributors,324.26,,S00095,249,6/27/2023 20:22,Hardcover,Bangla,526,Kids,0.675
+P00023,Physics Workbook Series,Academic,Physics,Kamal Ahmed,National Publishing House,282.48,181.88,S00237,157,11/24/2021 8:15,eBook,Bangla,702,Elderly,0.632
+P00024,Quran Studies Masterclass,Religious,Quran Studies,Anika Rahman,Prime Logistics,,487.28,S00153,213,7/7/2019 22:55,Hardcover,Bangla,442,Elderly,0.961
+P00025,Romance Handbook,Fiction,Romance,Sabbir Rahman,Bright Books Ltd,278.75,170.82,S00259,,10/28/2024 1:25,Hardcover,English,235,Professional,0.566
+P00026,Communication Masterclass,Self Help,Communication,Anika Uddin,Delta Supply Co,539.5,311.56,S00849,147,1/12/2023 11:42,eBook,Bangla,788,Professional,0.282
+P00027,Web Development Masterclass Pro,Programming,Web Development,Shahana Rahman,Royal Books Ltd,1185.38,657.19,S00562,185,12/25/2020 8:43,Hardcover,English,592,Professional,0.282
+P00028,Habit Building Essentials,Self Help,Habit Building,Mala Rahman,Metro Logistics,507.6,370.65,S00926,402,12/29/2021 12:13,Hardcover,Bangla,762,Professional,0.664
+P00029,Management Handbook,Business,Management,Shahana Sarker,Delta Books Ltd,1033.28,622.94,S00031,152,1/22/2024 5:58,Paperback,English,108,Professional,0.28
+P00030,Data Science Handbook Pro, Programming ,Data Science,Anika Hossain,Royal Books Ltd,715.6,406.82,S00442,142,1/8/2020 20:31,Hardcover,Bangla,793,Kids,0.874
+P00031,Mindfulness Complete,Self Help,Mindfulness,Touhid Khan,National Books Ltd,445.56,344.78,S00332,381,11/14/2021 22:03,Hardcover,Bangla,277,Professional,0.825
+P00032,Accounting Guide,Business,Accounting,Touhid Hossain,Metro Trade Group,1326.91,879.33,S00789,195,4/29/2025 9:45,Paperback,Bangla,449,Kids,0.391
+P00033,Productivity Handbook,Self Help,Productivity,Sultana Islam,Global Books Ltd,291.37,210.36,S00460,322,1/29/2024 19:09,eBook,Bangla,682,Professional,0.899
+P00034,Coloring Books Handbook,children,Coloring Books,Sultana Rahman,Bright Distributors,215.45,170.58,S00945,395,6/11/2021 22:12,Paperback,Bangla,600,Young,0.713
+P00035,Habit Building Handbook,SELF HELP,Habit Building,Rashid Rahman,National Books Ltd,834.86,619.83,S00651,33,12/13/2023 4:46,eBook,Bangla,646,Young,0.521
+P00036,Writers Masterclass,Biography,Writers,Shahana Hossain,Metro Books Ltd,989.48,605.54,S00775,257,4/22/2024 22:05,Paperback,Bangla,822,Young,0.45
+P00037,Classic Essentials,Fiction,Classic,Amin Hossain,Bright Logistics,302.93,,S00122,205,3/7/2021 15:30,Paperback,Bangla,549,Elderly,0.973
+P00038,Productivity Essentials,Self Help,Productivity,Rashid Islam,Global Trade Group,462.86,263.01,S00817,465,12/16/2023 9:29,Paperback,English,225,Professional,0.766
+P00039,Prayer Guides Handbook,Religious,Prayer Guides,Touhid Sarker,Prime Enterprises,641.78,374.71,S00309,143,3/31/2024 23:44,Paperback,Bangla,583,Professional,0.329
+P00040,Quran Studies Simplified,Religious,Quran Studies,Mala Islam,Eastern Logistics,631.08,385.84,S00709,347,1/22/2022 2:41,eBook,Bangla,630,Professional,0.205
+P00041,Algorithms Masterclass Pro, Programming ,Algorithms,Sultana Uddin,Bright Supply Co,1020.52,695.6,S00407,403,12/12/2021 19:59,Hardcover,Bangla,40,Professional,0.609
+P00042,Machine Learning Complete Edition,Programming,Machine Learning,Ferdous Sarker,Metro Distributors,568.33,347.06,S00345,649,5/31/2026 11:56,Paperback,Bangla,374,Elderly,0.25
+P00043,Biology Essentials Series,Academic,Biology,Sultana Sarker,Global Supply Co,544.93,362.99,S00521,54,12/4/2020 3:15,Paperback,Bangla,160,Kids,0.318
+P00044,Romance Workbook,Fiction,Romance,Rumana Islam,Eastern Distributors,334.72,244.17,S00505,,10/6/2025 16:56,eBook,,119,Young,0.951
+P00045,Databases Workbook Practice,Programming,Databases,Touhid Islam,Delta Publishing House,1094.04,765.02,S00006,220,5/14/2023 13:21,eBook,English,460,Young,0.35
+P00046,Bank Jobs Essentials Practice,Exam Prep,Bank Jobs,Ferdous Uddin,Royal Books Ltd,564.94,376.81,S00300,131,4/1/2023 17:03,eBook,Bangla,382,Young,0.769
+P00047,English Grammar Essentials Pro,Academic,English Grammar,Amin Khan,Eastern Logistics,1006.26,773.29,S00994,243,5/2/2020 2:45,eBook,English,89,Professional,0.435
+P00048,Web Development Workbook Pro,Programming,Web Development,Rumana Rahman,Green Distributors,384.94,231.36,S00669,511,6/23/2021 1:06,eBook,Bangla,781,Young,0.688
+P00049,Teacher Recruitment Guide Edition,Exam Prep,Teacher Recruitment,Naila Rahman,Royal Books Ltd,748.62,528.36,S00451,57,12/15/2023 10:58,eBook,Bangla,326,Young,0.434
+P00050,Bank Jobs Masterclass Pro,Exam Prep,Bank Jobs,Mohiuddin Sarker,Green Supply Co,881.68,551.54,S00352,625,8/24/2024 11:39,Paperback,Bangla,748,Young,0.853
+P00051,Python Complete Pro,Programming,Python,Naila Uddin,Royal Publishing House,266.36,183.2,S00345,591,8/14/2019 9:29,Paperback,Bangla,620,Professional,0.238
+P00052,Adventure Workbook,Fiction,Adventure,Shahana Sarker,Royal Publishing House,577.28,393.44,S00278,171,1/3/2024 17:24,Hardcover,Bangla,331,Professional,0.645
+P00053,Prayer Guides Complete,Religious,Prayer Guides,Jalal Khan,Ocean Logistics,254.7,169.57,S00172,272,8/18/2025 6:11,eBook,Bangla,685,Young,0.56
+P00054,English Grammar Handbook Series,ACADEMIC,English Grammar,Rumana Ahmed,Royal Books Ltd,726.04,430.17,S00235,116,9/1/2020 8:48,eBook,English,352,Young,0.872
+P00055,English Grammar Workbook Practice,Academic,English Grammar,Rashid Chowdhury,Delta Books Ltd,463.58,316.38,S00956,,10/28/2019 5:55,Paperback,English,761,Professional,0.939
+P00056,Chemistry Guide Edition,Academic,Chemistry,Sultana Khan,Royal Supply Co,,232.87,S00893,298,12/25/2020 5:11,eBook,Bangla,393,Professional,0.527
+P00057,Short Stories Workbook,Fiction,Short Stories,Jalal Islam,Global Trade Group,469.59,365.61,S00096,28,11/11/2025 3:37,Paperback,Bangla,290,Young,0.438
+P00058,Rhymes Guide,Children,Rhymes,Mala Rahman,Delta Enterprises,125.77,94.26,S00962,286,2/15/2019 0:53,Hardcover,Bangla,90,Young,0.746
+P00059,Teacher Recruitment Handbook Series,Exam Prep,Teacher Recruitment,Shahana Khan,Royal Books Ltd,475.29,331.33,S00378,619,1/31/2020 7:05,,Bangla,253,Young,0.455
+P00060,Machine Learning Complete Practice,Programming,Machine Learning,Amin Hossain,Eastern Publishing House,531.5,314.83,S00639,18,4/5/2019 3:55,eBook,English,89,Young,0.937
+P00061,Web Development Workbook Pro,Programming,Web Development,Sabbir Islam,Bright Publishing House,1197.06,716.64,S00901,618,10/4/2021 12:06,Paperback,Bangla,202,Young,0.319
+P00062,Thriller Workbook,Fiction,Thriller,Touhid Sarker,Global Trade Group,850.87,471.06,S00561,315,8/18/2024 20:43,eBook,English,650,Young,0.275
+P00063,Machine Learning Complete Edition,Programming,Machine Learning,Jalal Rahman,Royal Logistics,833.27,638.26,S00438,416,5/7/2019 14:22,eBook,Bangla,794,Professional,0.64
+P00064,Data Science Simplified Series,Programming,Data Science,Riaz Sarker,Green Books Ltd,661.67,520.67,S00799,228,12/1/2022 9:39,Paperback,English,191,Professional,0.255
+P00065,Finance Essentials,Business,Finance,Mohiuddin Hossain,Royal Enterprises,1123.11,744.83,S00095,57,3/31/2021 17:29,Hardcover,English,394,Young,0.918
+P00066,Productivity Essentials,Self Help,Productivity,Kamal Chowdhury,Delta Publishing House,570.33,412.5,S00797,111,9/10/2022 6:44,Hardcover,English,486,Young,0.392
+P00067,Bank Jobs Masterclass Edition,Exam Prep,Bank Jobs,Rumana Ahmed,Bright Enterprises,1062.59,808.06,S00263,103,10/8/2023 12:29,eBook,Bangla,422,Young,0.52
+P00068,Mathematics Masterclass Practice,Academic,Mathematics,Jalal Rahman,Delta Enterprises,324.27,225.94,S00055,24,8/12/2022 23:34,eBook,Bangla,439,Young,0.697
+P00069,Short Stories Masterclass,Fiction,Short Stories,Riaz Ahmed,Metro Supply Co,771.97,545.33,S00646,294,11/1/2024 12:31,Hardcover,Bangla,84,Young,0.832
+P00070,Mathematics Complete Series,Academic,Mathematics,Touhid Islam,Ocean Distributors,1104.1,902.27,S00316,462,7/27/2024 7:00,Paperback,Bangla,836,Young,0.519
+P00071,Teacher Recruitment Simplified Edition,Exam Prep,Teacher Recruitment,Jalal Rahman,Delta Enterprises,411.59,284.95,S00318,426,5/5/2026 14:24,Paperback,English,681,Young,0.308
+P00072,Classic Masterclass,Fiction,Classic,Touhid Rahman,Green Logistics,547.18,438.14,S00895,448,6/12/2020 21:42,eBook,Bangla,185,Kids,0.945
+P00073,Data Science Simplified Edition,Programming,Data Science,Rumana Sarker,Royal Logistics,802.84,571.59,S00012,506,3/18/2021 4:34,eBook,Bangla,327,Young,0.409
+P00074,Artists Workbook,Biography,Artists,Ferdous Ahmed,Royal Supply Co,452.87,319.21,S00867,541,2/13/2026 1:44,eBook,Bangla,160,Kids,0.83
+P00075,Communication Guide,Self Help,Communication,Ferdous Rahman,National Books Ltd,228.78,167.63,S00066,284,3/16/2020 17:48,Paperback,Bangla,423,Elderly,0.321
+P00076,Chemistry Essentials Pro,Academic,Chemistry,Mohiuddin Sarker,Bright Enterprises,709.89,576.43,S00621,525,12/7/2022 9:08,,Bangla,167,Young,0.316
+P00077,Physics Essentials Edition,Academic,Physics,Rashid Sarker,Eastern Logistics,,307.28,S00171,463,7/31/2021 2:51,Hardcover,Bangla,398,Young,0.2
+P00078,BCS Complete Series,Exam Prep,BCS,Rumana Ahmed,Ocean Books Ltd,576.28,395.74,S00452,292,12/8/2022 16:09,Paperback,English,524,Kids,0.53
+P00079,BCS Handbook Edition,Exam Prep,BCS,Riaz Khan,Metro Distributors,836.65,462.74,S00574,613,4/22/2025 15:46,Paperback,Bangla,538,Young,0.936
+P00080,Algorithms Handbook Edition,Programming,Algorithms,Kamal Khan,Royal Books Ltd,338.42,247.46,S00650,433,5/29/2020 14:12,eBook,Bangla,434,Professional,0.44
+P00081,Coloring Books Guide, Children ,Coloring Books,Shahana Khan,National Books Ltd,273.3,199.1,S00856,384,10/14/2022 14:20,eBook,Bangla,106,Professional,0.211
+P00082,Bank Jobs Masterclass Pro,Exam Prep,Bank Jobs,Naila Sarker,National Publishing House,1033.26,,S00555,175,3/18/2022 19:33,Paperback,Bangla,326,Professional,0.649
+P00083,Classic Handbook,Fiction,Classic,Naila Hossain,Global Books Ltd,429.27,333.58,S00029,194,8/30/2020 23:41,Paperback,Bangla,769,Young,0.328
+P00084,Web Development Essentials Practice,Programming,Web Development,Jalal Islam,Global Enterprises,760.03,536.45,S00438,579,5/13/2021 17:08,Hardcover,English,395,Kids,0.575
+P00085,Scientists Workbook,Biography,Scientists,Sabbir Uddin,Prime Supply Co,639.17,483.1,S00398,633,9/6/2022 11:44,eBook,English,803,Professional,0.998
+P00086,Physics Essentials Series,Academic,Physics,Touhid Sarker,Ocean Distributors,319.21,207.76,S00488,149,5/30/2020 14:25,eBook,Bangla,34,Young,0.479
+P00087,Databases Handbook Practice,Programming,Databases,Naila Khan,Ocean Enterprises,667.12,519.29,S00042,331,4/22/2024 17:38,Paperback,Bangla,179,Young,0.575
+P00088,Accounting Essentials,Business,Accounting,Kamal Khan,Royal Enterprises,360.88,238.92,S00707,484,6/25/2019 12:08,eBook,Bangla,127,Young,0.625
+P00089,Bank Jobs Guide Edition,Exam Prep,Bank Jobs,Ferdous Hossain,Delta Supply Co,855.21,582.58,S00355,60,8/22/2021 23:48,eBook,Bangla,246,Young,0.436
+P00090,Classic Masterclass,Fiction,Classic,Mala Rahman,Royal Books Ltd,212.86,124.39,S00315,102,4/7/2026 1:53,Paperback,Bangla,506,Elderly,0.529
+P00091,University Admission Simplified Practice,Exam Prep,University Admission,Kamal Sarker,Eastern Enterprises,486.61,371.75,S00782,424,5/21/2019 14:38,eBook,English,602,Young,0.954
+P00092,Mystery Simplified,Fiction,Mystery,Shahana Sarker,Royal Distributors,902.98,665.67,S00343,75,3/4/2020 13:56,eBook,English,327,Professional,0.305
+P00093,Databases Complete Pro,Programming,Databases,Naila Ahmed,Prime Publishing House,1003,583.19,S00407,352,4/26/2021 4:48,eBook,Bangla,663,Professional,0.758
+P00094,Marketing Essentials,Business,Marketing,Sabbir Islam,Ocean Distributors,1315.52,903.91,S00167,472,3/20/2026 10:05,,Bangla,792,Young,0.385
+P00095,Prayer Guides Complete,Religious,Prayer Guides,Rashid Sarker,Metro Enterprises,340.77,242.08,S00035,144,10/31/2021 21:59,Hardcover,English,260,Professional,0.994
+P00096,University Admission Simplified Practice,Exam Prep,University Admission,Rumana Hossain,Prime Books Ltd,1140.56,,S00782,338,12/31/2025 12:35,Paperback,Bangla,422,Young,0.687
+P00097,Prayer Guides Workbook,Religious,Prayer Guides,Sultana Chowdhury,Bright Enterprises,562.36,,S00401,108,11/9/2024 9:05,Paperback,English,32,Professional,0.445
+P00098,Leadership Simplified,Self Help,Leadership,Shahana Khan,Delta Supply Co,983.04,673.27,S00903,,11/2/2025 3:18,,English,601,Young,0.463
+P00099,Coloring Books Essentials,Children,Coloring Books,Kamal Khan,Ocean Distributors,318.87,201.67,S00076,307,8/20/2021 18:33,Hardcover,Bangla,643,Young,0.772
+P00100,Prayer Guides Handbook,Religious,Prayer Guides,Riaz Chowdhury,Metro Enterprises,867.29,485.13,S00192,617,1/14/2022 20:24,eBook,English,540,Professional,0.872
+P00101,Fiqh Simplified,Religious,Fiqh,Jalal Khan,Global Trade Group,264.28,146.88,S00675,24,10/24/2019 0:07,Hardcover,Bangla,382,Young,0.654
+P00102,Adventure Guide,Fiction,Adventure,Riaz Uddin,Eastern Distributors,457.22,315.19,S00242,347,10/24/2022 19:42,eBook,Bangla,494,Kids,0.463
+P00103,Biology Complete Pro,Academic,Biology,Anika Hossain,Delta Books Ltd,801.55,447.13,S00720,63,5/10/2021 22:19,eBook,Bangla,450,Elderly,0.207
+P00104,Physics Masterclass Series,Academic,Physics,Ferdous Hossain,Green Enterprises,800.11,538.98,S00848,18,2/26/2021 8:11,Paperback,English,224,Young,0.751
+P00105,Accounting Guide,Business,Accounting,Anika Khan,Green Publishing House,,269.08,S00039,,3/7/2020 4:46,eBook,Bangla,259,Young,0.639
+P00106,Romance Complete,Fiction,Romance,Rumana Uddin,Green Distributors,928.59,727.05,S00933,488,4/27/2021 12:03,Paperback,Bangla,201,Professional,0.702
+P00107,Prayer Guides Essentials,Religious,Prayer Guides,Amin Hossain,Eastern Books Ltd,743.81,535.31,S00132,499,10/6/2022 16:55,eBook,Bangla,160,Professional,0.448
+P00108,Activity Books Handbook,Children,Activity Books,Anika Rahman,Delta Logistics,241.26,195.46,S00937,114,1/2/2019 20:38,Paperback,English,207,Young,0.782
+P00109,Python Simplified Series,Programming,Python,Touhid Uddin,Global Enterprises,397.12,303.54,S00179,559,3/20/2023 15:41,eBook,Bangla,241,Young,0.516
+P00110,Admission Test Masterclass Practice,Exam Prep,Admission Test,Kamal Sarker,National Publishing House,995.55,562.1,S00767,264,9/13/2020 8:54,Hardcover,English,60,Young,0.36
+P00111,Leaders Essentials,Biography,Leaders,Mala Khan,Ocean Logistics,233.65,177.88,S00822,480,3/2/2026 8:17,Paperback,Bangla,530,Young,0.274
+P00112,BCS Guide Pro,Exam Prep,BCS,Rumana Hossain,Ocean Distributors,846.42,603.56,S00402,495,4/16/2020 19:15,eBook,Bangla,648,Professional,0.511
+P00113,Communication Masterclass,Self Help,Communication,Riaz Rahman,Global Trade Group,229.76,179.25,S00737,483,3/30/2020 23:40,Paperback,English,635,Professional,0.566
+P00114,Adventure Essentials,Fiction,Adventure,Sultana Ahmed,Royal Logistics,304.82,205.82,S00645,276,1/7/2019 18:47,eBook,Bangla,48,Young,0.882
+P00115,Mystery Masterclass,Fiction,Mystery,Riaz Ahmed,Metro Trade Group,813.93,566.07,S00256,554,8/13/2024 11:39,eBook,Bangla,54,Elderly,0.893
+P00116,University Admission Workbook Edition,Exam Prep,University Admission,Shahana Chowdhury,Prime Books Ltd,742.32,459.95,S00411,611,3/19/2021 22:13,eBook,English,306,Young,0.893
+P00117,Teacher Recruitment Complete Edition,Exam Prep,Teacher Recruitment,Kamal Chowdhury,Royal Logistics,341.87,261.88,S00527,256,2/2/2024 2:08,eBook,Bangla,119,Elderly,0.674
+P00118,Bangla Literature Simplified Pro,Academic,Bangla Literature,Rashid Ahmed,Delta Distributors,860.36,615.96,S00203,592,3/21/2019 7:40,eBook,Bangla,156,Professional,0.633
+P00119,Chemistry Handbook Edition,Academic,Chemistry,Mala Rahman,Bright Enterprises,1150.55,941.07,S00421,49,7/28/2023 1:33,eBook,Bangla,536,Young,0.915
+P00120,Adventure Handbook,Fiction,Adventure,Rumana Sarker,Ocean Books Ltd,440.81,253.74,S00089,305,1/29/2021 5:00,Paperback,Bangla,633,Professional,0.394
+P00121,Artists Guide,Biography,Artists,Naila Chowdhury,Delta Logistics,506.98,385.2,S00325,62,12/1/2023 22:23,Paperback,,556,Young,0.601
+P00122,Activity Books Simplified,Children,Activity Books,Kamal Ahmed,Delta Books Ltd,146.91,120.26,S00598,216,10/30/2024 17:04,eBook,Bangla,797,Professional,0.312
+P00123,Leadership Simplified,self help,Leadership,Anika Sarker,Royal Logistics,439.62,278.35,S00651,330,5/4/2021 1:12,Paperback,English,572,Professional,0.903
+P00124,Habit Building Essentials,self help,Habit Building,Jalal Rahman,National Enterprises,985.22,789.5,S00847,447,8/28/2020 7:48,Hardcover,Bangla,798,Young,0.467
+P00125,Adventure Complete,Fiction,Adventure,Anika Uddin,Bright Enterprises,390.68,241.33,S00637,113,1/15/2024 4:24,eBook,Bangla,705,Professional,0.973
+P00126,Physics Handbook Series,Academic,Physics,Riaz Chowdhury,Bright Enterprises,984.18,591.58,S00712,96,1/11/2024 1:49,Hardcover,English,248,Professional,0.647
+P00127,Quran Studies Complete,Religious,Quran Studies,Jalal Rahman,Eastern Books Ltd,743.28,466.93,S00551,562,4/4/2019 20:11,Hardcover,English,615,Professional,0.65
+P00128,Coloring Books Complete,Children,Coloring Books,Jalal Rahman,Green Supply Co,289.91,203.88,S00801,141,6/15/2019 5:58,Paperback,Bangla,504,Young,0.366
+P00129,Rhymes Essentials,Children,Rhymes,Sultana Rahman,Green Supply Co,385.4,,S00827,406,1/19/2019 11:57,Paperback,Bangla,414,Professional,0.673
+P00130,Writers Guide,BIOGRAPHY,Writers,Rumana Sarker,Royal Publishing House,892.38,728.34,S00830,176,6/5/2023 17:03,eBook,Bangla,741,Elderly,0.793
+P00131,Python Essentials Edition,Programming,Python,Mala Khan,Royal Logistics,634.92,383.21,S00562,202,7/25/2021 6:33,Hardcover,Bangla,158,Young,0.454
+P00132,Finance Workbook,Business,Finance,Amin Uddin,Prime Supply Co,660.47,414.5,S00925,557,6/9/2021 14:42,Hardcover,Bangla,711,Elderly,0.586
+P00133,Adventure Masterclass,FICTION,Adventure,Mohiuddin Chowdhury,Metro Logistics,649.56,369.18,S00636,619,8/12/2022 2:57,eBook,Bangla,565,Elderly,0.322
+P00134,BCS Essentials Series,Exam Prep,BCS,Riaz Uddin,Global Supply Co,558.57,348.75,S00369,158,10/25/2020 11:37,eBook,Bangla,612,Young,0.772
+P00135,Bank Jobs Essentials Edition,Exam Prep,Bank Jobs,Amin Islam,Eastern Distributors,921.45,739.29,S00412,511,12/5/2025 13:11,,English,178,Kids,0.333
+P00136,Fiqh Workbook,Religious,Fiqh,Sabbir Sarker,Bright Books Ltd,801.49,521.14,S00260,,3/23/2022 12:24,Hardcover,,156,Professional,0.229
+P00137,Quran Studies Guide,Religious,Quran Studies,Rumana Rahman,Global Trade Group,489.05,269.45,S00913,193,7/25/2024 2:51,Hardcover,English,163,Young,0.74
+P00138,Fiqh Masterclass,Religious,Fiqh,Rashid Chowdhury,Delta Distributors,261.46,174.92,S00951,320,9/8/2025 0:05,Hardcover,Bangla,544,Young,0.949
+P00139,Romance Masterclass,Fiction,Romance,Naila Hossain,Eastern Books Ltd,302.65,191.91,S00973,154,5/25/2025 15:46,eBook,Bangla,596,Kids,0.669
+P00140,Machine Learning Guide Series,Programming,Machine Learning,Sultana Ahmed,Metro Publishing House,1092.16,768.61,S00475,620,7/2/2019 10:07,Paperback,Bangla,419,Young,0.306
+P00141,Finance Masterclass,Business,Finance,Anika Sarker,Metro Trade Group,1143.82,784.27,S00294,324,12/24/2023 10:00,,Bangla,34,Elderly,0.699
+P00142,Activity Books Masterclass,Children,Activity Books,Jalal Khan,Delta Enterprises,141.01,92.5,S00749,171,1/27/2025 22:23,eBook,English,300,Professional,0.483
+P00143,Physics Masterclass Series,Academic,Physics,Jalal Hossain,National Enterprises,495.44,383.24,S00197,625,5/25/2021 5:03,Paperback,Bangla,642,Young,0.454
+P00144,Classic Workbook,Fiction,Classic,Mala Uddin,Global Trade Group,727.41,462.62,S00298,482,1/24/2023 4:17,Hardcover,Bangla,521,Young,0.966
+P00145,Data Science Guide Practice,Programming,Data Science,Sultana Islam,Green Logistics,1156.72,742.34,S00455,537,12/17/2024 18:44,Hardcover,Bangla,129,Professional,0.383
+P00146,Web Development Masterclass Edition,Programming,Web Development,Sultana Uddin,Eastern Books Ltd,966.92,540.09,S00007,148,4/7/2020 9:45,eBook,Bangla,175,Young,0.297
+P00147,Activity Books Essentials,Children,Activity Books,Naila Sarker,Bright Enterprises,374.26,262.77,S00061,559,9/23/2024 8:29,Hardcover,English,379,Young,0.463
+P00148,Bank Jobs Guide Edition,Exam Prep,Bank Jobs,Sultana Chowdhury,Prime Trade Group,318.18,218.99,S00021,317,3/15/2020 0:27,eBook,Bangla,278,Young,0.278
+P00149,Story Books Simplified,Children,Story Books,Anika Rahman,National Books Ltd,217.71,135.22,S00383,561,12/18/2021 8:25,eBook,English,771,Professional,0.583
+P00150,Chemistry Masterclass Pro,Academic,Chemistry,Jalal Ahmed,Royal Books Ltd,1056.18,632.26,S00126,131,12/17/2021 6:26,Hardcover,Bangla,239,Elderly,0.68
+P00151,Machine Learning Complete Practice,Programming,Machine Learning,Shahana Chowdhury,Bright Supply Co,918.22,543.35,S00160,41,7/27/2022 12:41,eBook,English,347,Kids,0.705
+P00152,Mathematics Masterclass Practice,Academic,Mathematics,Sultana Sarker,Metro Logistics,609.52,462.98,S00084,601,11/8/2022 20:57,Paperback,Bangla,408,Young,0.431
+P00153,Algorithms Guide Pro,Programming,Algorithms,Touhid Chowdhury,Global Trade Group,606.11,475.34,S00901,649,9/14/2023 15:28,eBook,English,278,Young,0.807
+P00154,Habit Building Handbook,Self Help,Habit Building,Touhid Uddin,Eastern Trade Group,459.06,285.79,S00957,35,12/11/2022 2:36,Paperback,Bangla,813,Young,0.88
+P00155,Data Science Simplified Practice,Programming,Data Science,Riaz Khan,Eastern Enterprises,1059.71,695,S00648,131,2/17/2021 15:06,Paperback,English,611,Professional,0.922
+P00156,Classic Workbook,Fiction,Classic,Amin Khan,Eastern Publishing House,900.27,731.29,S00725,326,6/30/2025 3:18,eBook,Bangla,129,Young,0.653
+P00157,Short Stories Workbook,Fiction,Short Stories,Shahana Islam,Delta Supply Co,392.1,226.44,S00762,619,3/20/2021 19:48,Hardcover,Bangla,475,Professional,0.293
+P00158,Adventure Guide,Fiction,Adventure,Amin Uddin,Ocean Books Ltd,457.08,263.43,S00678,426,8/4/2024 20:51,Paperback,Bangla,218,Young,0.803
+P00159,Admission Test Workbook Series,Exam Prep,Admission Test,Mohiuddin Khan,Ocean Distributors,1041.66,762.16,S00090,399,2/27/2021 14:28,eBook,Bangla,292,Professional,0.961
+P00160,Activity Books Handbook,Children,Activity Books,Rumana Uddin,Ocean Enterprises,324.2,196.6,S00380,118,5/11/2019 3:51,eBook,Bangla,383,Elderly,0.855
+P00161,Picture Books Simplified,Children,Picture Books,Rumana Uddin,Global Books Ltd,426.62,239.5,S00080,24,6/30/2025 13:18,eBook,Bangla,711,Kids,0.229
+P00162,Web Development Masterclass Pro,Programming,Web Development,Riaz Ahmed,Metro Supply Co,1169.7,957.74,S00074,73,12/27/2019 2:14,Paperback,English,838,Young,0.549
+P00163,Bangla Literature Essentials Series,Academic,Bangla Literature,Mohiuddin Rahman,Ocean Distributors,1196.77,880.08,S00307,90,5/13/2019 0:44,Hardcover,Bangla,565,Young,0.246
+P00164,Adventure Complete,Fiction,Adventure,Jalal Uddin,Royal Logistics,659.37,448.93,S00665,81,2/3/2026 5:09,Hardcover,,88,Professional,0.225
+P00165,University Admission Masterclass Edition, Exam Prep ,University Admission,Mohiuddin Khan,Global Distributors,1158.01,707.13,S00696,439,5/17/2022 3:52,Paperback,Bangla,715,Young,0.921
+P00166,Bank Jobs Handbook Pro,Exam Prep,Bank Jobs,Rashid Chowdhury,Prime Books Ltd,,263.25,S00305,628,4/14/2024 13:54,Paperback,Bangla,305,Professional,0.615
+P00167,Fiqh Handbook,Religious,Fiqh,Touhid Chowdhury,Bright Distributors,,376.58,S00551,377,3/29/2022 18:36,Paperback,Bangla,469,Professional,0.733
+P00168,Rhymes Complete,Children,Rhymes,Mala Chowdhury,Global Enterprises,,229.12,S00124,586,7/7/2024 3:52,Paperback,Bangla,846,Professional,0.396
+P00169,Machine Learning Workbook Edition,Programming,Machine Learning,Shahana Hossain,Global Publishing House,998.59,568.34,S00572,561,3/17/2024 21:16,,Bangla,213,Professional,0.379
+P00170,Marketing Handbook,Business,Marketing,Ferdous Islam,Bright Distributors,1034.26,814.66,S00228,168,7/22/2021 22:14,Paperback,English,655,Professional,0.478
+P00171,Physics Complete Practice,Academic,Physics,Sultana Sarker,Prime Logistics,417.91,286.65,S00241,449,5/17/2024 5:22,Hardcover,Bangla,408,Young,0.488
+P00172,Mathematics Workbook Series,Academic,Mathematics,Jalal Sarker,Prime Distributors,1160.39,671.89,S00934,400,6/12/2024 14:05,eBook,Bangla,623,Professional,0.703
+P00173,Mystery Complete,fiction,Mystery,Riaz Islam,Green Publishing House,261.5,203.45,S00590,585,2/21/2023 22:37,eBook,Bangla,562,Professional,0.858
+P00174,Bangla Literature Simplified Edition,Academic,Bangla Literature,Anika Hossain,Prime Trade Group,679.31,487.96,S00771,466,5/7/2022 11:16,Hardcover,Bangla,64,Kids,0.994
+P00175,Thriller Workbook,Fiction,Thriller,Shahana Chowdhury,Global Supply Co,989.71,605.92,S00040,466,6/30/2019 17:43,Hardcover,Bangla,617,Young,0.744
+P00176,Picture Books Complete, Children ,Picture Books,Ferdous Hossain,National Enterprises,439.95,261.47,S00380,161,8/15/2024 1:10,Hardcover,Bangla,643,Young,0.213
+P00177,Story Books Essentials,Children,Story Books,Amin Islam,Royal Distributors,215.62,125.46,S00097,553,4/15/2026 12:18,Paperback,English,288,Professional,0.746
+P00178,Databases Handbook Practice,Programming,Databases,Naila Uddin,Global Logistics,260,206.73,S00622,239,4/3/2025 19:29,Hardcover,Bangla,70,Professional,0.499
+P00179,Chemistry Complete Series,Academic,Chemistry,Kamal Uddin,Delta Enterprises,1062.81,680.54,S00779,588,8/17/2024 23:25,eBook,Bangla,807,Young,0.654
+P00180,Biology Essentials Pro,Academic,Biology,Naila Sarker,Royal Trade Group,1040.11,644.07,S00011,157,9/9/2020 11:37,Paperback,Bangla,719,Young,0.598
+P00181,Adventure Handbook,Fiction,Adventure,Amin Sarker,Delta Supply Co,854.09,485.56,S00320,417,11/5/2024 12:20,Hardcover,Bangla,788,Young,0.582
+P00182,Short Stories Guide,Fiction,Short Stories,Sabbir Sarker,Ocean Enterprises,781.81,605.06,S00086,498,11/26/2021 21:32,Paperback,English,328,Professional,0.243
+P00183,Thriller Essentials,Fiction,Thriller,Touhid Hossain,Prime Trade Group,810.91,453.72,S00582,372,7/14/2022 8:40,Hardcover,Bangla,750,Young,0.728
+P00184,Short Stories Simplified,Fiction,Short Stories,Shahana Ahmed,Ocean Books Ltd,738.39,566.24,S00315,487,8/12/2021 22:09,Paperback,English,517,Elderly,0.92
+P00185,Bangla Literature Workbook Pro,Academic,Bangla Literature,Amin Hossain,Prime Distributors,704.48,517.29,S00307,496,2/3/2024 7:26,eBook,Bangla,571,Kids,0.623
+P00186,Islamic History Workbook,Religious,Islamic History,Kamal Islam,Delta Supply Co,566.97,422.58,S00103,60,10/15/2025 7:06,Paperback,Bangla,738,Kids,0.829
+P00187,Leaders Handbook,Biography,Leaders,Ferdous Chowdhury,Metro Books Ltd,711.05,566.66,S00024,449,10/29/2025 16:24,Paperback,Bangla,648,Young,0.99
+P00188,Hadith Simplified,Religious,Hadith,Touhid Hossain,Delta Supply Co,208.5,158.27,S00811,537,7/17/2025 17:13,eBook,English,709,Elderly,0.835
+P00189,Romance Workbook,Fiction,Romance,Rashid Khan,Prime Supply Co,864.47,626.24,S00256,,7/31/2023 6:47,eBook,English,402,Kids,0.89
+P00190,Accounting Simplified,Business,Accounting,Rashid Chowdhury,Green Publishing House,421.68,303.73,S00050,71,6/30/2020 10:03,Paperback,Bangla,470,Young,0.539
+P00191,Management Complete,Business,Management,Ferdous Rahman,Eastern Trade Group,502.4,277.34,S00772,311,4/24/2022 17:49,Hardcover,English,192,Young,0.83
+P00192,Physics Guide Pro,Academic,Physics,Naila Hossain,Delta Books Ltd,1148.27,655.19,S00072,63,7/6/2023 15:49,Hardcover,English,476,Professional,0.202
+P00193,Activity Books Workbook,Children,Activity Books,Touhid Khan,Global Books Ltd,,136.55,S00127,546,2/19/2019 12:11,Paperback,Bangla,599,Young,0.246
+P00194,Algorithms Masterclass Series,Programming,Algorithms,Shahana Hossain,Ocean Logistics,1007.78,770.3,S00806,202,9/9/2023 22:06,Hardcover,Bangla,340,Professional,0.253
+P00195,Rhymes Workbook,Children,Rhymes,Ferdous Uddin,National Books Ltd,449.98,264.94,S00746,429,9/17/2022 17:10,eBook,English,812,Elderly,0.675
+P00196,Coloring Books Guide,Children,Coloring Books,Naila Islam,Metro Distributors,190.96,-50,S00543,376,11/4/2021 13:29,Hardcover,Bangla,797,Elderly,0.911
+P00197,Python Handbook Pro,programming,Python,Sultana Sarker,Green Distributors,1073.81,816.73,S00888,592,7/7/2021 6:58,eBook,Bangla,464,Young,0.839
+P00198,University Admission Complete Edition,Exam Prep,University Admission,Ferdous Rahman,Bright Books Ltd,642.39,396.96,S00564,613,10/11/2022 19:41,eBook,Bangla,157,Young,0.25
+P00199,Short Stories Simplified, Fiction ,Short Stories,Riaz Uddin,Delta Publishing House,396.19,309.85,S00590,,4/24/2026 13:00,Paperback,Bangla,231,Professional,0.875
+P00200,Finance Workbook,Business,Finance,Mohiuddin Ahmed,Prime Supply Co,377.55,216.9,S00989,88,2/4/2021 3:18,eBook,Bangla,699,Kids,0.457
+P00201,Mindfulness Guide,Self Help,Mindfulness,Amin Rahman,Green Distributors,861.21,501.89,S00947,174,1/5/2022 15:05,eBook,Bangla,569,Young,0.376
+P00202,Management Masterclass,Business,Management,Jalal Khan,Royal Supply Co,1361.56,1036.02,S00432,370,8/12/2023 12:52,Hardcover,Bangla,629,Young,0.882
+P00203,Management Complete,Business,Management,Sultana Khan,Metro Publishing House,336.86,220.24,S00479,50,2/14/2025 2:06,Hardcover,Bangla,145,Elderly,0.954
+P00204,Entrepreneurs Essentials,Biography,Entrepreneurs,Shahana Ahmed,Global Books Ltd,297.77,206.94,S00556,291,4/11/2019 16:12,Paperback,Bangla,225,Elderly,0.932
+P00205,Data Science Masterclass Series,Programming,Data Science,Ferdous Chowdhury,Global Supply Co,263.32,152.43,S00179,612,2/9/2023 3:23,Paperback,Bangla,136,Professional,0.925
+P00206,Classic Essentials,Fiction,Classic,Rumana Khan,Prime Enterprises,606.73,461.22,S00733,530,11/3/2020 9:45,Hardcover,English,192,Young,0.694
+P00207,Bangla Literature Simplified Series,Academic,Bangla Literature,Naila Hossain,Prime Distributors,845.61,668.3,S00569,587,6/3/2025 9:19,Paperback,,654,Professional,0.218
+P00208,University Admission Simplified Edition,Exam Prep,University Admission,Shahana Sarker,Delta Distributors,444.1,293.67,S00129,148,2/29/2020 17:44,eBook,Bangla,240,Young,0.579
+P00209,English Grammar Masterclass Series,Academic,English Grammar,Mala Sarker,Delta Enterprises,908.9,723.55,S00881,374,6/1/2025 9:57,Paperback,Bangla,666,Young,0.771
+P00210,Thriller Essentials,Fiction,Thriller,Rumana Uddin,Metro Distributors,777.33,474.49,S00041,363,6/24/2024 1:44,Paperback,Bangla,824,Professional,0.93
+P00211,Teacher Recruitment Simplified Edition,Exam Prep,Teacher Recruitment,Riaz Sarker,Ocean Distributors,720.14,527.45,S00640,221,7/30/2024 20:40,Paperback,Bangla,443,Elderly,0.956
+P00212,Artists Handbook,Biography,Artists,Mala Islam,Royal Enterprises,660.6,394.73,S00292,245,2/9/2019 13:33,eBook,Bangla,142,Young,0.917
+P00213,Prayer Guides Simplified,Religious,Prayer Guides,Mala Islam,Delta Distributors,879.2,501.56,S00013,636,5/3/2023 16:10,eBook,English,592,Young,0.591
+P00214,BCS Workbook Series, Exam Prep ,BCS,Rumana Islam,Bright Publishing House,260.4,186.99,S00821,305,2/9/2021 21:15,Paperback,English,154,Young,0.972
+P00215,Islamic History Complete,Religious,Islamic History,Sabbir Hossain,Global Publishing House,511.45,309.49,S00764,234,4/16/2025 8:36,Paperback,Bangla,33,Young,0.995
+P00216,Data Science Workbook Practice, Programming ,Data Science,Sultana Islam,Ocean Supply Co,675.22,452.41,S00702,309,9/29/2025 19:30,Hardcover,Bangla,351,Young,0.497
+P00217,BCS Simplified Pro,Exam Prep,BCS,Rashid Hossain,Green Trade Group,720.09,513.6,S00640,332,6/4/2026 13:24,eBook,Bangla,109,Kids,0.61
+P00218,Databases Guide Series,Programming,Databases,Amin Chowdhury,Metro Publishing House,954.07,695.57,S00006,643,7/9/2020 23:47,eBook,Bangla,47,Professional,0.864
+P00219,Bangla Literature Complete Practice,Academic,Bangla Literature,Mala Hossain,Ocean Books Ltd,870.3,699.72,S00065,271,7/27/2022 7:14,eBook,Bangla,675,Young,0.222
+P00220,Thriller Masterclass,Fiction,Thriller,Naila Hossain,Ocean Publishing House,500.77,293.42,S00131,473,10/24/2019 11:19,Hardcover,Bangla,602,Kids,0.324
+P00221,Databases Essentials Edition,Programming,Databases,Anika Islam,Green Trade Group,596.84,416.03,S00784,291,9/12/2024 6:55,Hardcover,English,511,Kids,0.825
+P00222,Entrepreneurship Guide,Business,Entrepreneurship,Riaz Uddin,Green Trade Group,300.84,238.64,S00286,400,7/29/2025 1:43,Hardcover,Bangla,729,Elderly,0.956
+P00223,Python Workbook Pro,Programming,Python,Anika Ahmed,Global Logistics,514.1,329.36,S00562,150,12/20/2025 15:22,eBook,Bangla,748,Young,0.479
+P00224,Python Masterclass Practice,Programming,Python,Shahana Uddin,Eastern Publishing House,275.42,157.14,S00711,488,3/23/2019 11:57,eBook,Bangla,579,Professional,0.458
+P00225,Communication Masterclass,Self Help,Communication,Sultana Sarker,Delta Supply Co,340.04,196.69,S00833,351,11/14/2019 14:37,eBook,English,41,Professional,0.627
+P00226,University Admission Guide Edition,Exam Prep,University Admission,Amin Rahman,Global Trade Group,970.46,,S00219,244,10/2/2021 5:57,Hardcover,Bangla,801,Professional,0.608
+P00227,Accounting Simplified,Business,Accounting,Sabbir Islam,Bright Logistics,,302.96,S00324,25,5/21/2022 8:53,eBook,English,229,Young,0.878
+P00228,Artists Complete,Biography,Artists,Mala Rahman,Green Distributors,504.48,372.57,S00987,562,1/30/2019 11:34,Hardcover,Bangla,465,Young,0.931
+P00229,Web Development Masterclass Pro,Programming,Web Development,Shahana Uddin,Metro Supply Co,962.22,663.17,S00703,59,5/24/2025 21:30,Hardcover,English,186,Young,0.697
+P00230,Finance Complete,Business,Finance,Mohiuddin Islam,Bright Trade Group,659.27,516.1,S00157,359,10/21/2024 2:24,Hardcover,Bangla,654,Young,0.737
+P00231,Mindfulness Complete,Self Help,Mindfulness,Mohiuddin Ahmed,Delta Publishing House,,500.26,S00374,433,4/14/2025 11:53,Paperback,English,326,Young,0.896
+P00232,Adventure Essentials,Fiction,Adventure,Kamal Islam,Bright Supply Co,821.12,9000,S00933,503,8/29/2025 6:29,eBook,Bangla,500,Professional,0.572
+P00233,Story Books Workbook,Children,Story Books,Amin Sarker,Royal Logistics,334.3,221.42,S00591,640,1/10/2020 16:34,Hardcover,English,716,Young,0.864
+P00234,Bank Jobs Masterclass Series,Exam Prep,Bank Jobs,Ferdous Sarker,Green Books Ltd,897.91,601.16,S00300,,8/9/2022 17:38,Hardcover,Bangla,841,Professional,0.318
+P00235,Chemistry Complete Practice,Academic,Chemistry,Rashid Uddin,National Publishing House,910.05,687.15,S00705,638,10/1/2022 14:45,Paperback,Bangla,733,Young,0.457
+P00236,Leadership Guide,Self Help,Leadership,Shahana Hossain,National Distributors,270.69,156.71,S00166,173,5/14/2024 12:57,eBook,Bangla,226,Young,0.867
+P00237,Bangla Literature Guide Edition,Academic,Bangla Literature,Naila Sarker,Royal Enterprises,324.16,201.23,S00961,604,9/18/2024 5:54,Paperback,Bangla,759,Professional,0.824
+P00238,Classic Simplified,Fiction,Classic,Naila Hossain,Metro Logistics,659.86,539.71,S00608,94,10/18/2022 10:24,eBook,Bangla,243,Professional,0.983
+P00239,Thriller Masterclass,Fiction,Thriller,Rashid Rahman,Prime Trade Group,911.84,,S00320,474,4/19/2024 16:37,,Bangla,162,Young,0.454
+P00240,Biology Complete Practice, Academic ,Biology,Touhid Uddin,Prime Supply Co,440.97,360.23,S00084,628,5/14/2021 15:06,Paperback,Bangla,277,Elderly,0.926
+P00241,Activity Books Simplified,Children,Activity Books,Sultana Khan,Global Enterprises,449.89,344.58,S00545,443,3/4/2026 0:54,eBook,Bangla,516,Young,0.768
+P00242,Python Handbook Series,Programming,Python,Kamal Islam,Metro Supply Co,994.99,767.65,S00897,193,10/2/2021 7:51,Hardcover,Bangla,118,Young,0.596
+P00243,Biology Simplified Edition,ACADEMIC,Biology,Shahana Rahman,Prime Supply Co,1098.68,887.36,S00794,71,11/6/2023 18:54,Paperback,Bangla,379,Professional,0.748
+P00244,Web Development Simplified Practice,Programming,Web Development,Mohiuddin Sarker,Royal Supply Co,521.62,340.11,S00701,365,10/20/2023 13:49,eBook,Bangla,581,Young,0.232
+P00245,Activity Books Essentials,Children,Activity Books,Ferdous Rahman,Ocean Logistics,225.43,171.93,S00109,330,12/4/2019 20:58,eBook,Bangla,251,Kids,0.211
+P00246,Short Stories Complete,Fiction,Short Stories,Naila Ahmed,Green Publishing House,369.01,252.34,S00557,169,12/25/2021 9:11,eBook,English,765,Young,0.77
+P00247,Activity Books Handbook,Children,Activity Books,Jalal Chowdhury,Prime Supply Co,383.43,213.91,S00364,549,7/31/2022 20:26,Hardcover,Bangla,294,Young,0.739
+P00248,Machine Learning Guide Pro,programming,Machine Learning,Sabbir Islam,Global Enterprises,717.69,514.62,S00949,408,6/15/2025 18:57,Hardcover,Bangla,103,Kids,0.602
+P00249,Biology Masterclass Practice,Academic,Biology,Riaz Sarker,Royal Supply Co,301.8,231.44,S00227,531,2/13/2024 10:28,Paperback,English,34,Young,0.572
+P00250,Teacher Recruitment Workbook Practice,Exam Prep,Teacher Recruitment,Sabbir Khan,Ocean Distributors,286.71,172.18,S00443,393,10/1/2023 21:12,Paperback,Bangla,445,Young,0.704
+P00251,Habit Building Masterclass,Self Help,Habit Building,Anika Hossain,Green Trade Group,570.23,331.87,S00420,577,1/18/2022 8:26,eBook,English,467,Young,0.722
+P00252,Rhymes Complete,Children,Rhymes,Mohiuddin Sarker,Bright Trade Group,206.35,,S00444,618,1/6/2024 20:39,eBook,English,421,Young,0.614
+P00253,Fiqh Workbook,Religious,Fiqh,Jalal Chowdhury,Ocean Publishing House,888.27,708.31,S00135,54,11/7/2025 6:07,,English,311,Kids,0.561
+P00254,Mystery Handbook,Fiction,Mystery,Rumana Chowdhury,Bright Logistics,432.3,298.96,S00058,479,3/10/2021 4:55,Hardcover,Bangla,775,Young,0.435
+P00255,Chemistry Handbook Pro,academic,Chemistry,Riaz Uddin,Delta Distributors,721.13,469.79,S00902,455,9/18/2019 8:55,Paperback,Bangla,528,Young,0.835
+P00256,Leaders Simplified,Biography,Leaders,Mala Chowdhury,Prime Books Ltd,602.11,391.9,S00758,549,9/10/2020 15:57,Paperback,Bangla,442,Professional,0.373
+P00257,BCS Guide Pro,Exam Prep,BCS,Ferdous Hossain,Delta Enterprises,880.35,700.57,S00950,539,7/14/2022 15:03,Paperback,Bangla,839,Professional,0.822
+P00258,University Admission Masterclass Practice,Exam Prep,University Admission,Rashid Khan,Global Enterprises,524.63,421.99,S00727,403,6/18/2023 5:06,Paperback,English,788,Young,0.409
+P00259,Admission Test Workbook Series,Exam Prep,Admission Test,Sabbir Hossain,Metro Supply Co,557.82,350.59,S00170,649,3/19/2024 0:12,Paperback,English,443,Young,0.528
+P00260,Fiqh Handbook,Religious,Fiqh,Shahana Uddin,Delta Publishing House,715.57,583.89,S00333,57,1/3/2019 0:07,eBook,Bangla,621,Professional,0.684
+P00261,Quran Studies Workbook,Religious,Quran Studies,Rashid Sarker,Metro Supply Co,570.59,377.47,S00511,122,1/28/2021 7:58,eBook,English,572,Young,0.632
+P00262,Chemistry Simplified Edition,Academic,Chemistry,Sultana Khan,Royal Trade Group,463.45,355.81,S00047,341,8/31/2021 1:35,Paperback,Bangla,733,Young,0.776
+P00263,Biology Complete Practice,Academic,Biology,Kamal Uddin,Bright Logistics,791.34,512.89,S00860,24,1/1/2025 13:10,Paperback,Bangla,707,Young,0.912
+P00264,Biology Essentials Pro,Academic,Biology,Naila Islam,Prime Trade Group,322.79,190.02,S00093,184,8/23/2024 18:43,Hardcover,Bangla,443,Professional,0.78
+P00265,Thriller Complete,Fiction,Thriller,Sabbir Islam,Prime Enterprises,477.2,332.02,S00935,602,3/30/2022 9:47,eBook,English,765,Professional,0.629
+P00266,Quran Studies Masterclass,Religious,Quran Studies,Mala Uddin,Metro Trade Group,865.74,582.9,S00630,541,10/14/2019 0:20,,Bangla,371,Kids,0.336
+P00267,Islamic History Essentials,Religious,Islamic History,Naila Islam,Global Books Ltd,503.94,343.81,S00049,443,5/19/2023 10:21,Paperback,Bangla,312,Elderly,0.645
+P00268,Coloring Books Handbook,Children,Coloring Books,Mala Rahman,Eastern Supply Co,199.11,150.89,S00276,488,12/15/2022 0:31,Hardcover,English,420,Young,0.875
+P00269,Prayer Guides Handbook,Religious,Prayer Guides,Ferdous Hossain,Global Trade Group,206.33,159.26,S00309,326,7/8/2023 10:31,eBook,Bangla,648,Young,0.32
+P00270,Leadership Essentials,Self Help,Leadership,Ferdous Uddin,Metro Logistics,553.98,446.28,S00413,509,12/15/2024 6:27,Paperback,Bangla,103,Elderly,0.485
+P00271,Python Essentials Edition,Programming,Python,Mohiuddin Khan,Green Books Ltd,1065.52,652.92,S00624,123,12/19/2020 10:00,Paperback,English,409,Young,0.394
+P00272,Coloring Books Workbook,Children,Coloring Books,Ferdous Rahman,Green Logistics,149.45,88.16,S00690,164,3/19/2020 5:45,eBook,English,210,Young,0.546
+P00273,Admission Test Complete Edition,Exam Prep,Admission Test,Mala Ahmed,Metro Distributors,296.62,237.09,S00767,368,2/19/2019 1:32,,Bangla,698,Professional,0.215
+P00274,University Admission Essentials Series,Exam Prep,University Admission,Sultana Rahman,Green Books Ltd,971.21,757.9,S00452,496,11/2/2022 4:53,eBook,Bangla,355,Young,0.571
+P00275,Story Books Simplified,Children,Story Books,Anika Uddin,Metro Distributors,386.39,276.14,S00948,85,3/20/2020 17:24,Paperback,English,820,Young,0.945
+P00276,Entrepreneurship Essentials,Business,Entrepreneurship,Mala Sarker,Prime Distributors,1141.18,647.84,S00198,149,2/17/2026 22:17,Paperback,Bangla,217,Professional,0.785
+P00277,Activity Books Workbook,children,Activity Books,Touhid Islam,Global Supply Co,255.22,145.07,S00536,120,1/3/2021 2:14,eBook,English,475,Professional,0.611
+P00278,Mystery Masterclass,Fiction,Mystery,Amin Sarker,Bright Logistics,302.07,184.3,S00029,274,11/23/2022 19:33,Hardcover,Bangla,668,Young,0.599
+P00279,Thriller Simplified,Fiction,Thriller,Mohiuddin Hossain,Metro Supply Co,668.76,402.78,S00738,362,6/29/2025 17:21,eBook,English,721,Kids,0.406
+P00280,Admission Test Simplified Edition,Exam Prep,Admission Test,Sultana Khan,Eastern Publishing House,1054.38,694.86,S00142,457,6/2/2019 4:13,Hardcover,Bangla,838,Young,0.468
+P00281,Entrepreneurship Workbook,Business,Entrepreneurship,Shahana Hossain,Green Trade Group,536.3,366.42,S00818,452,4/27/2021 18:02,Paperback,Bangla,801,Kids,0.465
+P00282,Mindfulness Simplified,Self Help,Mindfulness,Kamal Rahman,National Distributors,516.23,401.32,S00339,211,12/16/2022 7:13,Paperback,Bangla,709,Young,0.592
+P00283,Entrepreneurs Essentials,Biography,Entrepreneurs,Kamal Khan,Ocean Supply Co,301.63,225.58,S00236,273,1/17/2023 8:00,Hardcover,Bangla,751,Professional,0.205
+P00284,Chemistry Masterclass Series,Academic,Chemistry,Anika Islam,Metro Enterprises,480.64,357.26,S00788,61,12/22/2020 23:45,Hardcover,Bangla,537,Professional,0.674
+P00285,Coloring Books Handbook,Children,Coloring Books,Sabbir Sarker,Bright Trade Group,436.56,278.45,S00030,573,4/6/2024 19:15,eBook,Bangla,305,Young,0.777
+P00286,Short Stories Complete,Fiction,Short Stories,Kamal Hossain,Green Logistics,954.83,726.27,S00298,424,4/22/2021 23:24,Paperback,Bangla,698,Professional,0.685
+P00287,University Admission Simplified Practice,Exam Prep,University Admission,Riaz Uddin,National Publishing House,955.41,549.66,S00918,57,7/21/2025 17:20,Paperback,Bangla,755,Young,0.598
+P00288,Bank Jobs Guide Practice,Exam Prep,Bank Jobs,Mala Hossain,Eastern Logistics,1085.15,755.37,S00633,328,3/16/2026 21:58,Hardcover,English,398,Professional,0.376
+P00289,Chemistry Simplified Practice,Academic,Chemistry,Riaz Rahman,Royal Books Ltd,,470.24,S00956,177,3/6/2024 1:40,Hardcover,Bangla,122,Young,0.329
+P00290,Bank Jobs Simplified Edition,exam prep,Bank Jobs,Riaz Rahman,Metro Trade Group,1065.93,682.23,S00273,285,4/11/2023 14:46,eBook,Bangla,170,Professional,0.848
+P00291,Rhymes Complete,Children,Rhymes,Anika Uddin,National Books Ltd,446.05,263.93,S00911,590,5/16/2026 20:36,eBook,Bangla,590,Professional,0.35
+P00292,Romance Simplified,Fiction,Romance,Mala Hossain,Metro Trade Group,776.56,602.22,S00927,211,9/22/2024 11:30,eBook,Bangla,417,Professional,0.506
+P00293,Picture Books Simplified,Children,Picture Books,Jalal Khan,Bright Enterprises,408.95,231.16,S00948,372,5/21/2026 13:52,Hardcover,Bangla,782,Young,0.238
+P00294,Marketing Simplified,Business,Marketing,Mohiuddin Ahmed,Ocean Distributors,866.79,706.57,S00740,504,4/1/2020 3:20,Hardcover,English,746,Young,0.725
+P00295,Admission Test Essentials Series,Exam Prep,Admission Test,Rashid Ahmed,Royal Publishing House,1188.61,842.16,S00742,475,5/25/2021 21:28,eBook,Bangla,503,Elderly,0.846
+P00296,Mindfulness Essentials,Self Help,Mindfulness,Shahana Ahmed,Global Distributors,888.67,515.04,S00400,186,3/25/2025 3:37,Paperback,Bangla,434,Professional,0.405
+P00297,Marketing Essentials,Business,Marketing,Naila Chowdhury,Delta Trade Group,330.39,251.37,S00889,410,3/4/2020 19:42,Paperback,English,524,Professional,0.613
+P00298,Chemistry Essentials Pro,Academic,Chemistry,Kamal Chowdhury,Bright Logistics,1133.08,878.29,S00227,638,5/16/2020 5:50,eBook,Bangla,665,Young,0.853
+P00299,Mystery Handbook,Fiction,Mystery,Rumana Hossain,Metro Distributors,359.03,272.42,S00905,565,1/13/2019 8:19,Paperback,Bangla,160,Kids,0.935
+P00300,Activity Books Complete,Children,Activity Books,Riaz Hossain,Prime Logistics,366.6,214.25,S00708,73,10/29/2025 12:39,eBook,English,561,Young,0.404
+P00301,Data Science Essentials Practice,Programming,Data Science,Anika Uddin,Ocean Publishing House,801.28,478.45,S00212,552,3/17/2023 21:12,Paperback,English,784,Professional,0.334
+P00302,Rhymes Masterclass,Children,Rhymes,Jalal Islam,Bright Trade Group,361.19,249.6,S00477,132,2/23/2024 3:08,Hardcover,Bangla,673,Young,0.284
+P00303,Classic Masterclass,Fiction,Classic,Jalal Khan,Global Trade Group,903.73,731.77,S00864,461,12/13/2020 14:09,Hardcover,Bangla,488,Professional,0.815
+P00304,BCS Guide Edition,Exam Prep,BCS,Rumana Sarker,Green Books Ltd,1150.83,775.16,S00842,513,9/15/2024 18:39,Hardcover,Bangla,440,Professional,0.811
+P00305,Databases Essentials Pro,Programming,Databases,Mohiuddin Hossain,Global Publishing House,859.67,547.36,S00438,186,6/28/2021 15:44,Paperback,Bangla,338,Young,0.232
+P00306,Quran Studies Workbook,Religious,Quran Studies,Sabbir Rahman,Prime Supply Co,238.67,143.89,S00951,402,3/26/2023 8:57,Paperback,Bangla,353,Kids,0.29
+P00307,Hadith Complete,Religious,Hadith,Mala Ahmed,Prime Supply Co,289.87,208.63,S00087,625,12/29/2023 1:05,eBook,Bangla,537,Young,0.859
+P00308,English Grammar Workbook Pro,Academic,English Grammar,Riaz Islam,National Trade Group,820.07,602.99,S00235,570,4/18/2025 17:14,Hardcover,Bangla,129,Professional,0.407
+P00309,Islamic History Complete,Religious,Islamic History,Sultana Ahmed,Prime Logistics,712.22,512.42,S00936,298,1/14/2020 22:18,eBook,English,346,Young,0.269
+P00310,Thriller Handbook,Fiction,Thriller,Kamal Islam,Metro Trade Group,891.41,619.95,S00700,267,1/13/2026 5:05,Paperback,Bangla,400,Kids,0.477
+P00311,Web Development Masterclass Series,Programming,Web Development,Touhid Hossain,National Enterprises,1090.79,707.1,S00838,184,8/31/2021 15:46,Hardcover,English,390,Young,0.673
+P00312,Communication Handbook,Self Help,Communication,Sultana Khan,National Enterprises,234.34,141.37,S00202,309,5/18/2022 7:02,Paperback,Bangla,262,Young,0.58
+P00313,Algorithms Workbook Edition,Programming,Algorithms,Rashid Khan,Ocean Books Ltd,336.73,270.19,S00706,273,4/23/2024 9:26,Hardcover,English,722,Professional,0.294
+P00314,Biology Handbook Edition,Academic,Biology,Rashid Ahmed,Ocean Logistics,821.8,518.5,S00121,581,7/8/2024 19:58,Paperback,Bangla,756,Professional,0.818
+P00315,Thriller Masterclass, Fiction ,Thriller,Riaz Sarker,Metro Logistics,270.16,184.14,S00041,533,7/21/2022 6:01,Hardcover,English,746,Young,0.595
+P00316,Coloring Books Simplified,Children,Coloring Books,Amin Hossain,Bright Enterprises,211.35,123.33,S00649,400,2/26/2025 22:25,Hardcover,English,408,Young,0.677
+P00317,Machine Learning Guide Practice,Programming,Machine Learning,Shahana Hossain,Royal Supply Co,934.84,565.83,S00184,241,4/23/2019 14:24,Hardcover,Bangla,701,Young,0.456
+P00318,BCS Complete Pro,Exam Prep,BCS,Naila Islam,National Distributors,333.42,227.76,S00781,157,8/14/2022 22:14,Paperback,Bangla,729,Kids,0.976
+P00319,Quran Studies Simplified,RELIGIOUS,Quran Studies,Touhid Hossain,Eastern Logistics,518.62,306.09,S00778,182,5/26/2025 2:20,Paperback,English,430,Elderly,0.398
+P00320,Rhymes Masterclass,Children,Rhymes,Riaz Khan,National Books Ltd,173.15,130.83,S00558,552,5/29/2020 17:34,Hardcover,Bangla,227,Young,0.882
+P00321,Rhymes Simplified,Children,Rhymes,Riaz Islam,Delta Enterprises,388.92,274.99,S00824,343,7/28/2022 23:19,eBook,Bangla,211,Professional,0.566
+P00322,Entrepreneurship Complete,Business,Entrepreneurship,Ferdous Ahmed,Eastern Publishing House,641.77,519.73,S00015,195,4/29/2025 15:55,Paperback,Bangla,812,Young,0.526
+P00323,Marketing Simplified,Business,Marketing,Sabbir Khan,Green Logistics,423.03,331.81,S00031,410,10/22/2019 23:20,,English,67,Professional,0.541
+P00324,Prayer Guides Essentials,Religious,Prayer Guides,Kamal Khan,Prime Trade Group,527.07,421.33,S00764,,9/8/2023 12:28,Paperback,English,456,Professional,0.596
+P00325,Communication Essentials,Self Help,Communication,Sabbir Hossain,National Publishing House,929.33,736.78,S00471,443,1/12/2025 18:51,Paperback,,304,Professional,0.401
+P00326,Chemistry Simplified Practice,Academic,Chemistry,Ferdous Sarker,Ocean Supply Co,554.86,452.06,S00368,644,6/11/2022 16:45,Hardcover,Bangla,759,Young,0.544
+P00327,Physics Simplified Edition,Academic,Physics,Shahana Khan,Royal Supply Co,958.72,640.43,S00495,430,12/3/2022 9:08,eBook,English,665,Young,0.87
+P00328,Activity Books Handbook,Children,Activity Books,Anika Hossain,National Logistics,,300.11,S00824,365,5/20/2026 10:00,Paperback,Bangla,379,Professional,0.867
+P00329,Quran Studies Guide, Religious ,Quran Studies,Jalal Sarker,Global Enterprises,578.32,432.29,S00135,314,8/12/2020 8:16,eBook,Bangla,640,Young,0.599
+P00330,Management Workbook,Business,Management,Rashid Chowdhury,Royal Supply Co,366.5,278.51,S00454,392,6/29/2025 23:33,Paperback,English,195,Professional,0.35
+P00331,Leaders Essentials,Biography,Leaders,Mohiuddin Ahmed,Green Distributors,334.41,220.76,S00193,442,6/15/2019 19:20,Paperback,English,36,Young,0.563
+P00332,Mathematics Complete Series,Academic,Mathematics,Mala Khan,Ocean Supply Co,666.76,454.8,S00597,559,10/26/2020 8:29,Hardcover,English,821,Professional,0.991
+P00333,Algorithms Handbook Practice,Programming,Algorithms,Riaz Ahmed,Green Books Ltd,967.01,538.23,S00327,242,1/8/2021 4:38,eBook,English,772,Professional,0.315
+P00334,Romance Guide,Fiction,Romance,Amin Hossain,Metro Publishing House,934.24,555.27,S00927,591,11/22/2023 15:01,Paperback,Bangla,741,Professional,0.368
+P00335,Prayer Guides Essentials,Religious,Prayer Guides,Sultana Hossain,Bright Supply Co,723.48,457.47,S00766,88,12/17/2025 0:30,eBook,English,318,Professional,0.356
+P00336,Leadership Masterclass,Self Help,Leadership,Ferdous Chowdhury,Royal Logistics,791.86,590.33,S00370,20,7/4/2024 12:24,eBook,Bangla,707,Young,0.366
+P00337,Teacher Recruitment Masterclass Pro,exam prep,Teacher Recruitment,Rumana Rahman,Eastern Logistics,379.21,291.56,S00423,42,12/11/2023 13:07,eBook,English,96,Young,0.939
+P00338,Habit Building Complete,Self Help,Habit Building,Sabbir Rahman,Bright Trade Group,349.11,263.09,S00341,151,10/8/2021 0:44,Hardcover,Bangla,185,Young,0.714
+P00339,Chemistry Essentials Practice,Academic,Chemistry,Jalal Ahmed,Eastern Distributors,682.26,540.19,S00047,287,9/10/2022 3:57,Hardcover,Bangla,467,Professional,0.969
+P00340,Picture Books Guide,Children,Picture Books,Touhid Rahman,Metro Logistics,424.53,294.95,S00384,,8/31/2020 21:25,eBook,Bangla,449,Professional,0.514
+P00341,Accounting Simplified,Business,Accounting,Shahana Rahman,Green Publishing House,535.16,410.75,S00119,424,2/3/2019 14:21,Hardcover,Bangla,485,Young,0.625
+P00342,Classic Handbook,Fiction,Classic,Anika Khan,Royal Publishing House,860.99,701.54,S00346,116,11/22/2024 20:34,eBook,Bangla,188,Young,0.952
+P00343,Picture Books Essentials,Children,Picture Books,Riaz Ahmed,Global Publishing House,,223.22,S00755,592,10/20/2020 18:17,Hardcover,Bangla,807,Young,0.214
+P00344,Python Guide Series,Programming,Python,Mala Sarker,Royal Books Ltd,656.68,393,S00042,101,5/31/2025 18:03,Hardcover,Bangla,692,Professional,0.783
+P00345,Coloring Books Simplified, Children ,Coloring Books,Jalal Sarker,Green Books Ltd,194.8,132.4,S00553,631,9/15/2022 16:03,eBook,Bangla,239,Kids,0.221
+P00346,Mathematics Guide Practice,Academic,Mathematics,Jalal Chowdhury,Prime Logistics,306.87,178.57,S00011,447,3/21/2026 9:55,Hardcover,Bangla,342,Kids,0.58
+P00347,Entrepreneurship Workbook,Business,Entrepreneurship,Ferdous Rahman,Bright Supply Co,707.68,450.75,S00734,630,8/6/2023 8:42,eBook,English,578,Young,0.578
+P00348,Admission Test Handbook Practice,Exam Prep,Admission Test,Riaz Hossain,Royal Logistics,455.11,277.02,S00279,58,7/20/2023 20:49,Paperback,English,381,Young,0.221
+P00349,Chemistry Essentials Pro,Academic,Chemistry,Jalal Islam,Delta Enterprises,859.05,515.37,S00289,126,11/4/2024 20:09,Hardcover,English,470,Elderly,0.488
+P00350,BCS Handbook Pro,Exam Prep,BCS,Kamal Hossain,Green Books Ltd,,642.8,S00589,605,6/27/2025 15:19,Hardcover,Bangla,245,Young,0.217
+P00351,Bank Jobs Handbook Edition,Exam Prep,Bank Jobs,Rashid Uddin,Prime Books Ltd,,366.43,S00768,67,5/20/2021 1:48,Hardcover,Bangla,403,Young,0.939
+P00352,Physics Complete Pro,Academic,Physics,Naila Chowdhury,Ocean Supply Co,985.29,632.19,S00713,257,8/18/2022 10:01,Paperback,English,117,Professional,0.909
+P00353,Admission Test Handbook Edition,Exam Prep,Admission Test,Sabbir Chowdhury,Eastern Logistics,640.11,372.6,S00696,641,5/15/2024 8:26,eBook,English,415,Young,0.685
+P00354,Entrepreneurs Simplified,Biography,Entrepreneurs,Sabbir Islam,Global Books Ltd,298.64,231.39,S00325,225,6/12/2022 5:53,eBook,Bangla,301,Professional,0.359
+P00355,BCS Masterclass Practice,Exam Prep,BCS,Sabbir Rahman,Green Logistics,632.11,481.84,S00452,196,5/25/2022 3:01,eBook,English,604,Elderly,0.872
+P00356,Mathematics Guide Pro,Academic,Mathematics,Mohiuddin Khan,Global Supply Co,408.25,314.62,S00047,593,12/10/2024 22:10,eBook,Bangla,676,Professional,0.785
+P00357,Bangla Literature Workbook Series,Academic,Bangla Literature,Mala Uddin,National Trade Group,677.89,543.41,S00546,369,12/26/2019 8:51,Hardcover,English,67,Professional,0.271
+P00358,Accounting Workbook,Business,Accounting,Rashid Uddin,Delta Enterprises,,465.29,S00437,594,2/25/2023 15:48,Hardcover,Bangla,63,Kids,0.356
+P00359,Mathematics Masterclass Pro,Academic,Mathematics,Sabbir Khan,Eastern Publishing House,968.81,615.97,S00946,434,12/20/2025 10:32,Paperback,English,226,Young,0.402
+P00360,Teacher Recruitment Essentials Edition,Exam Prep,Teacher Recruitment,Naila Islam,Prime Books Ltd,1046.99,813.62,S00303,,11/1/2023 0:08,Paperback,Bangla,248,Young,0.389
+P00361,Mathematics Essentials Practice,Academic,Mathematics,Ferdous Chowdhury,Royal Books Ltd,806.11,470.89,S00274,137,4/19/2021 8:17,Paperback,English,555,Young,0.993
+P00362,Romance Complete,Fiction,Romance,Sabbir Rahman,Metro Supply Co,925.17,515.8,S00058,292,12/27/2024 3:28,Paperback,Bangla,143,Young,0.668
+P00363,Productivity Handbook,SELF HELP,Productivity,Mala Rahman,Ocean Distributors,350.19,279.04,S00336,119,5/18/2022 16:13,eBook,Bangla,215,Professional,0.743
+P00364,Story Books Essentials,Children,Story Books,Amin Khan,Ocean Books Ltd,120.14,95.45,S00124,205,9/9/2019 13:01,Paperback,English,700,Kids,0.942
+P00365,Chemistry Handbook Edition,Academic,Chemistry,Touhid Sarker,Royal Supply Co,641.86,473.61,S00047,508,7/31/2025 2:35,Paperback,English,122,Young,0.832
+P00366,Physics Guide Practice,Academic,Physics,Shahana Islam,Metro Publishing House,616.92,380,S00280,372,9/18/2023 7:23,Paperback,Bangla,66,Professional,0.43
+P00367,Mystery Guide,Fiction,Mystery,Sabbir Sarker,Metro Supply Co,219.01,175.11,S00430,33,5/24/2025 10:37,Paperback,Bangla,536,Professional,0.45
+P00368,Machine Learning Essentials Practice,Programming,Machine Learning,Jalal Chowdhury,Prime Books Ltd,672.89,482.05,S00694,156,6/12/2023 19:00,eBook,Bangla,307,Young,0.465
+P00369,Productivity Handbook,Self Help,Productivity,Naila Uddin,Green Distributors,872.34,635.28,S00763,432,1/15/2026 10:40,eBook,Bangla,381,Young,0.233
+P00370,Physics Guide Practice,Academic,Physics,Sultana Chowdhury,Global Supply Co,971.49,737.72,S00958,,6/22/2024 17:08,Paperback,Bangla,241,Elderly,0.523
+P00371,Rhymes Guide,Children,Rhymes,Rumana Uddin,Royal Trade Group,177.3,107.92,S00383,430,2/28/2025 0:25,Paperback,English,82,Young,0.812
+P00372,Communication Handbook,self help,Communication,Mala Sarker,Green Supply Co,488.66,325.76,S00083,120,4/10/2019 9:11,Hardcover,Bangla,747,Professional,0.777
+P00373,Activity Books Workbook,Children,Activity Books,Naila Uddin,Royal Trade Group,281.81,217.9,S00229,290,7/7/2021 1:35,eBook,Bangla,716,Young,0.294
+P00374,Management Simplified,Business,Management,Mohiuddin Uddin,Royal Distributors,-100,311,S00707,160,1/29/2024 0:31,Hardcover,Bangla,795,Young,0.831
+P00375,Entrepreneurship Guide,Business,Entrepreneurship,Riaz Khan,Green Enterprises,1121.26,704.36,S00859,491,1/5/2021 1:38,Paperback,Bangla,659,Professional,0.7
+P00376,Scientists Complete,Biography,Scientists,Jalal Chowdhury,Green Logistics,744.29,502.04,S00269,314,2/11/2023 23:27,eBook,Bangla,472,Professional,0.53
+P00377,Romance Workbook,Fiction,Romance,Mala Uddin,Metro Enterprises,550.84,320.47,S00058,588,3/26/2025 22:35,Paperback,English,227,Young,0.776
+P00378,Mindfulness Complete,Self Help,Mindfulness,Shahana Islam,Ocean Distributors,321.34,224.37,S00884,398,6/29/2025 14:08,eBook,Bangla,287,Professional,0.471
+P00379,Islamic History Masterclass,Religious,Islamic History,Sabbir Sarker,Metro Books Ltd,812.45,500.82,S00660,66,2/3/2021 18:24,Paperback,Bangla,375,Young,0.678
+P00380,Bank Jobs Essentials Edition,Exam Prep,Bank Jobs,Kamal Uddin,Green Supply Co,517.17,323.11,S00205,275,7/26/2019 9:26,eBook,Bangla,586,Young,0.518
+P00381,Activity Books Simplified,Children,Activity Books,Kamal Hossain,Ocean Enterprises,434.43,243.88,S00853,418,12/28/2025 20:48,Paperback,English,441,Professional,0.9
+P00382,Data Science Simplified Edition,Programming,Data Science,Mohiuddin Sarker,Bright Publishing House,399.37,297.33,S00607,480,1/7/2021 2:24,Paperback,Bangla,388,Professional,0.733
+P00383,Python Workbook Pro,Programming,Python,Touhid Islam,Eastern Logistics,911.51,568.31,S00426,289,1/27/2019 22:52,eBook,English,77,Professional,0.385
+P00384,Prayer Guides Simplified,Religious,Prayer Guides,Rumana Chowdhury,Delta Trade Group,208.75,,S00027,282,10/28/2019 9:37,Paperback,Bangla,96,Young,0.885
+P00385,Islamic History Complete,Religious,Islamic History,Rumana Hossain,Eastern Trade Group,782.69,518.64,S00260,583,9/11/2022 13:53,eBook,Bangla,279,Young,0.46
+P00386,Physics Guide Edition,Academic,Physics,Sultana Chowdhury,Eastern Trade Group,290.54,228.88,S00940,469,4/23/2022 8:51,eBook,,213,Young,0.884
+P00387,English Grammar Masterclass Edition,Academic,English Grammar,Ferdous Uddin,Eastern Enterprises,252.89,171.8,S00227,560,4/17/2019 15:17,Paperback,Bangla,282,Young,0.994
+P00388,Python Masterclass Practice,Programming,Python,Jalal Sarker,Prime Logistics,1074.65,632.89,S00799,638,4/9/2019 5:35,eBook,Bangla,138,Young,0.272
+P00389,Classic Workbook,Fiction,Classic,Sabbir Chowdhury,Delta Distributors,763.32,521.86,S00468,332,1/26/2022 13:04,Hardcover,English,433,Young,0.517
+P00390,Data Science Simplified Pro,Programming,Data Science,Mala Khan,Delta Trade Group,365.86,259.59,S00424,503,3/11/2019 13:57,eBook,Bangla,599,Professional,0.684
+P00391,Entrepreneurs Complete,Biography,Entrepreneurs,Touhid Chowdhury,Eastern Publishing House,740.92,530.72,S00792,353,12/15/2024 9:33,Paperback,Bangla,583,Young,0.507
+P00392,Islamic History Workbook,Religious,Islamic History,Kamal Sarker,Prime Supply Co,712.52,538.89,S00150,625,1/7/2019 10:15,Hardcover,English,592,Professional,0.388
+P00393,Web Development Workbook Series,Programming,Web Development,Mohiuddin Uddin,Global Publishing House,613.41,363.86,S00669,392,4/16/2020 20:50,eBook,Bangla,656,Young,0.778
+P00394,Algorithms Essentials Series,Programming,Algorithms,Touhid Sarker,Green Trade Group,966.63,728.4,S00345,526,7/19/2021 5:17,,Bangla,106,Young,0.816
+P00395,Scientists Handbook,Biography,Scientists,Mala Khan,Prime Publishing House,683.96,426.61,S00987,479,2/6/2025 11:15,Paperback,Bangla,734,Professional,0.671
+P00396,Prayer Guides Handbook,Religious,Prayer Guides,Riaz Sarker,Green Books Ltd,734.39,410.29,S00485,413,8/29/2022 3:26,eBook,Bangla,186,Young,0.804
+P00397,Accounting Guide,Business,Accounting,Anika Ahmed,Ocean Supply Co,1038.23,585.7,S00896,165,3/28/2026 6:39,eBook,Bangla,242,Young,0.5
+P00398,Chemistry Handbook Series,Academic,Chemistry,Anika Sarker,Delta Logistics,,561.3,S00001,137,2/25/2025 12:39,Paperback,English,78,Professional,0.958
+P00399,University Admission Essentials Series,Exam Prep,University Admission,Sabbir Ahmed,Global Books Ltd,767.77,496.89,S00244,66,4/11/2020 11:31,Hardcover,Bangla,259,Young,0.512
+P00400,Activity Books Simplified,Children,Activity Books,Amin Chowdhury,Global Logistics,303.59,220,S00262,412,11/2/2024 18:24,Hardcover,Bangla,500,Elderly,0.649
+P00401,Story Books Masterclass,Children,Story Books,Rumana Ahmed,National Trade Group,197.17,142.49,S00827,290,5/9/2025 4:20,eBook,English,304,Young,0.576
+P00402,Management Handbook,Business,Management,Amin Chowdhury,Prime Supply Co,992.41,547.24,S00814,22,11/30/2025 14:40,Paperback,Bangla,399,Young,0.581
+P00403,Thriller Workbook,Fiction,Thriller,Rashid Uddin,National Enterprises,851.28,535.14,S00086,359,3/13/2026 11:11,Paperback,Bangla,345,Young,0.509
+P00404,Admission Test Guide Pro,Exam Prep,Admission Test,Naila Khan,Royal Logistics,675.4,545.97,S01000,644,9/5/2024 1:27,Paperback,Bangla,246,Young,0.327
+P00405,Admission Test Workbook Practice,Exam Prep,Admission Test,Shahana Islam,Metro Enterprises,1034.7,778.84,S00404,229,6/29/2021 16:54,Hardcover,English,583,Professional,0.64
+P00406,University Admission Complete Series,EXAM PREP,University Admission,Mala Sarker,Global Enterprises,1077.01,745.49,S00352,529,5/20/2023 6:33,Hardcover,Bangla,301,Kids,0.318
+P00407,Prayer Guides Guide,Religious,Prayer Guides,Sultana Khan,Prime Books Ltd,435.02,,S00660,517,1/12/2024 4:47,eBook,,377,Young,0.312
+P00408,Entrepreneurship Complete,Business,Entrepreneurship,Jalal Chowdhury,Green Enterprises,1425.62,844.05,S00752,,1/28/2024 1:51,Paperback,Bangla,573,Young,0.794
+P00409,Management Handbook,Business,Management,Anika Islam,Ocean Distributors,526.06,418.73,S00382,160,5/29/2020 10:39,Paperback,,548,Kids,0.937
+P00410,Databases Guide Series, Programming ,Databases,Mala Ahmed,National Trade Group,837.45,680.85,S00515,261,11/24/2023 16:21,eBook,Bangla,667,Kids,0.571
+P00411,Adventure Complete,Fiction,Adventure,Kamal Rahman,Metro Logistics,767.44,457.65,S00906,624,3/3/2023 0:55,Hardcover,Bangla,371,Young,0.395
+P00412,Prayer Guides Complete,Religious,Prayer Guides,Jalal Hossain,National Books Ltd,310.01,203.5,S00964,382,7/24/2019 16:58,Paperback,Bangla,343,Professional,0.42
+P00413,Marketing Complete,Business,Marketing,Kamal Chowdhury,Delta Publishing House,1216.91,973.14,S00358,298,10/22/2024 18:10,Hardcover,Bangla,779,Elderly,0.869
+P00414,Hadith Simplified,Religious,Hadith,Sultana Ahmed,Prime Supply Co,342.32,240.3,S00674,570,1/20/2024 22:42,Hardcover,Bangla,252,Young,0.924
+P00415,University Admission Essentials Series,Exam Prep,University Admission,Mala Uddin,Delta Publishing House,879.02,677.33,S00403,22,12/22/2023 22:40,eBook,Bangla,270,Young,0.402
+P00416,Bangla Literature Handbook Edition,Academic,Bangla Literature,Naila Chowdhury,National Publishing House,834.55,496.83,S00171,133,5/23/2025 8:55,Paperback,English,478,Young,0.473
+P00417,Python Workbook Series,Programming,Python,Touhid Khan,National Publishing House,936.59,667.4,S00861,638,10/21/2019 23:03,Paperback,Bangla,415,Young,0.229
+P00418,Writers Simplified,Biography,Writers,Touhid Chowdhury,Green Distributors,521.95,318.93,S00275,604,11/6/2025 2:33,Hardcover,Bangla,200,Young,0.945
+P00419,BCS Workbook Edition,Exam Prep,BCS,Rumana Chowdhury,National Publishing House,887.1,640.54,S00679,599,6/18/2020 11:03,Hardcover,Bangla,808,Young,0.783
+P00420,Entrepreneurship Guide,Business,Entrepreneurship,Sultana Sarker,Metro Books Ltd,840.28,680.59,S00301,470,9/14/2023 5:18,Hardcover,Bangla,551,Professional,0.223
+P00421,Admission Test Complete Practice,Exam Prep,Admission Test,Mala Islam,Bright Distributors,724.71,586.74,S00852,247,2/15/2020 19:42,Paperback,Bangla,35,Kids,0.391
+P00422,Bank Jobs Masterclass Edition,Exam Prep,Bank Jobs,Naila Uddin,Royal Supply Co,895.01,672.8,S00402,544,3/4/2024 1:53,Hardcover,Bangla,533,Professional,0.552
+P00423,Thriller Masterclass,Fiction,Thriller,Anika Ahmed,Green Books Ltd,288.91,223.69,S00625,229,4/25/2020 9:39,eBook,English,561,Young,0.223
+P00424,Short Stories Handbook,Fiction,Short Stories,Anika Islam,Metro Supply Co,707.85,518.97,S00240,617,1/9/2025 13:42,Hardcover,English,484,Professional,0.47
+P00425,Teacher Recruitment Handbook Edition,Exam Prep,Teacher Recruitment,Amin Hossain,Eastern Publishing House,1192.76,794.08,S00950,626,9/10/2021 20:13,Paperback,Bangla,224,Young,0.618
+P00426,Activity Books Essentials,CHILDREN,Activity Books,Kamal Rahman,Global Publishing House,228.44,161.38,S00548,404,9/14/2023 23:21,Hardcover,Bangla,398,Professional,0.449
+P00427,Physics Essentials Edition,Academic,Physics,Rashid Hossain,Delta Publishing House,462.28,274.83,S00084,300,7/6/2022 22:51,Hardcover,Bangla,339,Young,0.439
+P00428,Thriller Essentials,Fiction,Thriller,Shahana Islam,Delta Supply Co,309.29,246.41,S00431,57,3/27/2025 17:45,eBook,Bangla,793,Young,0.339
+P00429,Productivity Guide,Self Help,Productivity,Mala Ahmed,Green Distributors,714.43,492.9,S00497,74,1/2/2022 22:54,eBook,Bangla,719,Professional,0.241
+P00430,Admission Test Simplified Practice,exam prep,Admission Test,Touhid Islam,Global Logistics,721.49,462.47,S00102,,2/11/2024 4:10,Paperback,Bangla,66,Young,0.225
+P00431,Rhymes Handbook,Children,Rhymes,Sultana Khan,National Logistics,258.84,170.92,S00612,35,4/16/2025 13:09,eBook,English,701,Professional,0.875
+P00432,BCS Handbook Pro,Exam Prep,BCS,Naila Islam,Metro Distributors,439.06,284.21,S00117,346,4/27/2021 2:07,Paperback,Bangla,402,Young,0.485
+P00433,Marketing Handbook,Business,Marketing,Kamal Islam,Ocean Publishing House,322.01,215.8,S00314,272,3/24/2025 21:06,Hardcover,Bangla,255,Young,0.704
+P00434,Coloring Books Complete,Children,Coloring Books,Ferdous Chowdhury,Ocean Enterprises,127.28,,S00362,510,12/8/2025 0:19,Hardcover,English,33,Kids,0.247
+P00435,Coloring Books Simplified,CHILDREN,Coloring Books,Ferdous Khan,National Enterprises,293.44,182.51,S00721,19,7/9/2023 14:57,eBook,Bangla,558,Young,0.878
+P00436,Marketing Essentials,Business,Marketing,Naila Rahman,Prime Distributors,341.18,211.8,S00552,77,4/16/2019 2:11,eBook,English,233,Professional,0.75
+P00437,Habit Building Masterclass,Self Help,Habit Building,Mala Uddin,Global Supply Co,859.29,640.28,S00957,325,4/6/2022 12:28,Paperback,Bangla,54,Kids,0.421
+P00438,University Admission Essentials Series,Exam Prep,University Admission,Shahana Islam,Green Books Ltd,857.82,576.2,S00225,599,7/21/2024 5:19,eBook,Bangla,556,Professional,0.974
+P00439,University Admission Essentials Edition,Exam Prep,University Admission,Shahana Rahman,Green Supply Co,347.26,281.41,S00525,57,2/11/2020 16:01,Hardcover,Bangla,386,Young,0.398
+P00440,Admission Test Masterclass Practice,Exam Prep,Admission Test,Anika Sarker,Global Books Ltd,438.06,286.52,S00350,523,10/27/2021 17:47,eBook,English,838,Elderly,0.889
+P00441,Romance Masterclass,Fiction,Romance,Riaz Sarker,Bright Logistics,560.23,327.44,S00367,73,5/1/2023 23:31,Hardcover,English,732,Young,0.359
+P00442,Python Handbook Series,Programming,Python,Amin Islam,Ocean Distributors,848.3,645.18,S00514,240,4/22/2025 14:49,Hardcover,Bangla,302,Young,0.88
+P00443,Mindfulness Workbook,Self Help,Mindfulness,Kamal Sarker,Royal Supply Co,658.55,428.36,S00261,67,7/2/2025 7:08,Paperback,Bangla,32,Young,0.778
+P00444,Prayer Guides Essentials,Religious,Prayer Guides,Mala Khan,Global Distributors,472.55,267.48,S00512,98,9/22/2025 4:04,eBook,English,574,Professional,0.69
+P00445,Romance Complete,Fiction,Romance,Rashid Islam,Royal Publishing House,808.09,613.48,S00559,340,3/22/2023 20:10,,Bangla,689,Professional,0.246
+P00446,Mystery Essentials,Fiction,Mystery,Ferdous Hossain,Royal Supply Co,463.9,272.73,S00529,570,10/22/2024 3:10,,Bangla,800,Professional,0.967
+P00447,Romance Simplified,Fiction,Romance,Jalal Khan,Bright Logistics,769.37,473.22,S00922,278,7/27/2024 19:33,Paperback,Bangla,446,Professional,0.801
+P00448,Prayer Guides Workbook, Religious ,Prayer Guides,Naila Rahman,Delta Distributors,432.66,322.14,S00251,104,7/31/2024 8:54,Paperback,English,513,Young,0.56
+P00449,Entrepreneurship Masterclass,Business,Entrepreneurship,Sabbir Khan,Prime Supply Co,759.89,573.9,S00752,291,10/19/2022 10:48,Paperback,English,746,Young,0.902
+P00450,Admission Test Workbook Pro,Exam Prep,Admission Test,Jalal Islam,Green Supply Co,703.52,436.22,S00264,309,11/24/2021 13:03,eBook,Bangla,366,Kids,0.44
+P00451,Mystery Workbook,Fiction,Mystery,Rashid Islam,Prime Enterprises,200.14,150.44,S00561,230,9/1/2024 13:53,Hardcover,Bangla,448,Professional,0.936
+P00452,Chemistry Workbook Series,Academic,Chemistry,Sabbir Ahmed,Green Supply Co,835.99,511.55,S00502,559,8/18/2024 10:18,eBook,Bangla,273,Elderly,0.825
+P00453,Python Workbook Pro,Programming,Python,Sabbir Hossain,Ocean Trade Group,581.58,365.53,S00426,307,7/19/2019 0:07,eBook,Bangla,285,Young,0.852
+P00454,Rhymes Handbook,Children,Rhymes,Rumana Sarker,Delta Logistics,169.24,117.36,S00598,,8/4/2022 14:36,Paperback,English,717,Professional,0.857
+P00455,Mystery Masterclass,Fiction,Mystery,Ferdous Sarker,Bright Books Ltd,442.65,295.49,S00298,165,8/15/2025 16:56,Paperback,Bangla,842,Young,0.298
+P00456,Habit Building Guide,Self Help,Habit Building,Touhid Islam,National Distributors,231.29,141.92,S00339,581,11/4/2025 14:05,eBook,Bangla,173,Professional,0.753
+P00457,Habit Building Workbook,Self Help,Habit Building,Ferdous Chowdhury,National Books Ltd,224.83,173.68,S00886,327,9/30/2023 5:43,Paperback,Bangla,801,Professional,0.786
+P00458,Quran Studies Guide,Religious,Quran Studies,Mala Islam,Ocean Logistics,741.01,580.89,S00802,278,5/6/2021 10:06,eBook,Bangla,820,Elderly,0.695
+P00459,Bangla Literature Simplified Series,ACADEMIC,Bangla Literature,Rumana Hossain,Bright Enterprises,1079.07,700.73,S00554,447,12/1/2019 1:21,Hardcover,Bangla,725,Young,0.251
+P00460,Finance Guide,Business,Finance,Shahana Chowdhury,Bright Distributors,1440.72,797.72,S00942,523,8/13/2019 21:20,eBook,Bangla,47,Young,0.89
+P00461,Quran Studies Guide,Religious,Quran Studies,Sabbir Khan,Bright Books Ltd,579.15,383.58,S00482,492,2/10/2021 16:19,Paperback,,60,Young,0.326
+P00462,Picture Books Masterclass,Children,Picture Books,Jalal Hossain,National Supply Co,342.8,261.94,S00380,68,7/7/2021 12:04,eBook,,86,Young,0.577
+P00463,Scientists Masterclass,Biography,Scientists,Ferdous Khan,Royal Enterprises,402.54,232.87,S00837,506,5/13/2019 5:49,Hardcover,Bangla,476,Elderly,0.604
+P00464,Bangla Literature Guide Practice,Academic,Bangla Literature,Kamal Hossain,Royal Publishing House,802.46,626.47,S00290,255,4/14/2023 21:52,Paperback,Bangla,134,Young,0.603
+P00465,Picture Books Essentials,Children,Picture Books,Riaz Uddin,National Supply Co,252.41,165.45,S00109,153,2/24/2020 4:53,eBook,Bangla,748,Young,0.934
+P00466,Islamic History Handbook,Religious,Islamic History,Jalal Rahman,Green Supply Co,438.82,339.21,S00736,371,2/28/2025 20:15,eBook,Bangla,608,Young,0.794
+P00467,Hadith Essentials,Religious,Hadith,Sultana Rahman,Royal Logistics,275.18,,S00192,38,2/20/2024 18:26,Hardcover,Bangla,142,Professional,0.209
+P00468,Bank Jobs Essentials Pro, Exam Prep ,Bank Jobs,Shahana Hossain,Prime Books Ltd,735.68,479.14,S00782,622,7/24/2022 4:27,eBook,English,606,Professional,0.863
+P00469,Entrepreneurs Masterclass,Biography,Entrepreneurs,Anika Ahmed,Bright Trade Group,234.46,135.78,S00246,303,5/2/2022 18:37,Hardcover,Bangla,275,Elderly,0.896
+P00470,Adventure Workbook, Fiction ,Adventure,Sultana Khan,Ocean Books Ltd,718.78,556.38,S00656,19,8/26/2022 2:29,eBook,Bangla,513,Professional,0.457
+P00471,Classic Complete,Fiction,Classic,Sabbir Sarker,Global Trade Group,315.5,237.79,S00461,189,10/24/2025 0:41,Hardcover,Bangla,123,Young,0.505
+P00472,Adventure Masterclass,fiction,Adventure,Ferdous Chowdhury,Ocean Trade Group,213.84,171.86,S00559,246,10/6/2024 5:13,eBook,Bangla,171,Professional,0.923
+P00473,University Admission Simplified Practice,Exam Prep,University Admission,Rashid Ahmed,Delta Publishing House,622.81,473.04,S00069,618,1/10/2023 6:03,eBook,English,206,Professional,0.281
+P00474,Bangla Literature Masterclass Practice,Academic,Bangla Literature,Mohiuddin Ahmed,Green Distributors,485.11,282.95,S00047,297,11/30/2023 14:09,Paperback,English,573,Young,0.937
+P00475,Marketing Handbook,Business,Marketing,Naila Uddin,Green Enterprises,407.41,262.98,S00772,380,2/2/2026 20:25,Paperback,Bangla,221,Young,0.418
+P00476,Bangla Literature Simplified Series,Academic,Bangla Literature,Mohiuddin Khan,Global Supply Co,650.65,467.43,S00788,,3/2/2020 0:38,eBook,English,67,Young,0.374
+P00477,Short Stories Handbook,Fiction,Short Stories,Jalal Islam,Green Trade Group,330.87,262.59,S00935,588,2/15/2021 0:52,eBook,Bangla,625,Professional,0.869
+P00478,Finance Complete,Business,Finance,Riaz Islam,Bright Trade Group,1003.23,619.49,S00996,67,11/21/2025 3:07,Paperback,Bangla,143,Professional,0.285
+P00479,Rhymes Workbook,Children,Rhymes,Kamal Uddin,Ocean Trade Group,151.41,119.34,S00291,517,5/25/2022 11:59,Hardcover,Bangla,464,Professional,0.785
+P00480,Python Essentials Practice,Programming,Python,Sultana Chowdhury,Green Enterprises,398.43,324.76,S00268,52,12/28/2021 23:29,Paperback,Bangla,58,Professional,0.748
+P00481,Thriller Handbook,Fiction,Thriller,Shahana Ahmed,Metro Supply Co,507.92,408.95,S00240,485,3/10/2020 19:13,Paperback,Bangla,54,Kids,0.904
+P00482,Prayer Guides Masterclass,Religious,Prayer Guides,Anika Chowdhury,Prime Supply Co,265.93,146.28,S00508,29,8/18/2020 5:32,Hardcover,Bangla,243,Kids,0.644
+P00483,Rhymes Guide,children,Rhymes,Kamal Islam,Global Publishing House,266.72,209.67,S00433,410,3/16/2024 15:41,Hardcover,Bangla,255,Elderly,0.553
+P00484,Prayer Guides Masterclass,Religious,Prayer Guides,Rumana Uddin,Delta Distributors,197.68,108.73,S00581,478,2/21/2022 5:26,eBook,Bangla,602,Professional,0.841
+P00485,University Admission Guide Practice,Exam Prep,University Admission,Mohiuddin Islam,Global Books Ltd,896.9,639.68,S00225,343,8/3/2025 14:04,Hardcover,Bangla,146,Young,0.698
+P00486,Artists Masterclass,Biography,Artists,Mohiuddin Islam,Metro Logistics,248.53,158.01,S00812,545,10/20/2021 22:24,Paperback,English,110,Young,0.214
+P00487,Chemistry Handbook Series,Academic,Chemistry,Rashid Rahman,Delta Enterprises,1186.02,922.7,S00944,440,10/27/2024 9:51,Paperback,English,219,Kids,0.279
+P00488,Thriller Essentials,Fiction,Thriller,Kamal Hossain,Prime Trade Group,401.94,257.52,S00122,16,4/19/2022 23:53,,Bangla,98,Kids,0.391
+P00489,Adventure Handbook,Fiction,Adventure,Riaz Islam,Green Books Ltd,224.48,155.89,S00717,146,2/24/2026 22:57,Hardcover,Bangla,183,Professional,0.551
+P00490,Mindfulness Workbook,Self Help,Mindfulness,Riaz Ahmed,Ocean Supply Co,433.54,308.27,S00199,279,8/4/2020 19:21,Paperback,Bangla,803,Young,0.943
+P00491,Activity Books Guide,Children,Activity Books,Rumana Khan,Royal Distributors,404.6,303.42,S00805,572,8/1/2025 15:45,Hardcover,English,237,Professional,0.326
+P00492,Romance Workbook,Fiction,Romance,Kamal Sarker,Metro Publishing House,910.09,503.75,S00689,221,4/1/2020 1:32,Paperback,English,363,Young,0.995
+P00493,Picture Books Guide,Children,Picture Books,Mohiuddin Khan,Delta Logistics,209.78,155.24,S00863,607,4/1/2019 15:25,Hardcover,English,833,Professional,0.218
+P00494,Management Workbook,Business,Management,Rashid Islam,Eastern Books Ltd,1473.39,879.82,S00008,462,4/27/2023 15:02,Hardcover,Bangla,735,Young,0.721
+P00495,Mathematics Simplified Practice,Academic,Mathematics,Kamal Chowdhury,Royal Trade Group,805.76,655.36,S00779,449,10/3/2024 3:01,Hardcover,Bangla,576,Young,0.729
+P00496,Fiqh Handbook,Religious,Fiqh,Riaz Ahmed,Eastern Logistics,,194.78,S00038,631,3/26/2019 1:48,Hardcover,Bangla,548,Young,0.329
+P00497,Activity Books Guide,Children,Activity Books,Mala Sarker,Royal Logistics,125.14,87.11,S00493,433,4/8/2024 1:06,Paperback,English,82,Elderly,0.941
+P00498,Data Science Handbook Series,Programming,Data Science,Mohiuddin Chowdhury,Metro Enterprises,775.41,455.49,S00607,381,3/18/2023 23:43,Hardcover,Bangla,635,Professional,0.493
+P00499,Adventure Guide,fiction,Adventure,Kamal Sarker,Royal Publishing House,439.91,256.25,S00232,545,3/24/2020 7:12,Hardcover,English,726,Young,0.813
+P00500,Adventure Masterclass,Fiction,Adventure,Anika Ahmed,Prime Logistics,426.16,242.32,S00894,541,2/4/2021 11:35,eBook,Bangla,432,Elderly,0.968
+P00501,Romance Handbook,Fiction,Romance,Mohiuddin Rahman,National Books Ltd,361.08,256.88,S00259,591,7/8/2019 4:41,eBook,Bangla,300,Elderly,0.839
+P00502,Accounting Workbook,Business,Accounting,Sultana Rahman,National Books Ltd,1436.64,907.12,S00085,618,5/19/2025 18:25,Hardcover,,723,Professional,0.318
+P00503,Finance Masterclass,Business,Finance,Amin Chowdhury,National Publishing House,399.02,,S00989,89,5/31/2020 20:31,Hardcover,Bangla,779,Young,0.731
+P00504,Teacher Recruitment Handbook Practice,Exam Prep,Teacher Recruitment,Mala Sarker,Metro Trade Group,1012.76,708.2,S00768,385,3/24/2023 8:02,Paperback,Bangla,537,Kids,0.52
+P00505,Classic Essentials,Fiction,Classic,Anika Uddin,Ocean Trade Group,344.63,206.78,S00873,53,2/28/2023 12:01,Paperback,Bangla,158,Elderly,0.712
+P00506,Picture Books Guide,Children,Picture Books,Ferdous Hossain,Prime Logistics,130.5,79.14,S00186,394,8/5/2022 6:10,Hardcover,Bangla,256,Professional,0.315
+P00507,Bangla Literature Workbook Pro,Academic,Bangla Literature,Mala Islam,Eastern Distributors,783.48,431.21,S00730,532,1/28/2023 4:19,Hardcover,Bangla,489,Kids,0.436
+P00508,Quran Studies Essentials,Religious,Quran Studies,Ferdous Islam,Delta Books Ltd,552.29,355.05,S00766,465,11/4/2021 15:35,Paperback,English,95,Young,0.304
+P00509,Bank Jobs Essentials Series,exam prep,Bank Jobs,Kamal Chowdhury,National Distributors,278.29,208.22,S00918,358,12/6/2024 21:58,eBook,Bangla,516,Young,0.469
+P00510,Chemistry Handbook Pro,Academic,Chemistry,Sabbir Islam,Royal Books Ltd,849.96,568.57,S00037,68,4/4/2020 11:43,Paperback,Bangla,378,Young,0.236
+P00511,Marketing Handbook,Business,Marketing,Touhid Rahman,Royal Books Ltd,1241.08,883.49,S00773,192,8/5/2022 3:44,eBook,English,453,Young,0.287
+P00512,Algorithms Guide Practice,Programming,Algorithms,Anika Sarker,Global Enterprises,519.43,285.9,S00572,212,12/1/2021 4:20,Hardcover,Bangla,358,Kids,0.576
+P00513,Entrepreneurship Workbook,Business,Entrepreneurship,Naila Rahman,National Publishing House,333.43,219.04,S00695,412,9/27/2023 8:13,eBook,English,645,Elderly,0.261
+P00514,Classic Complete,Fiction,Classic,Shahana Sarker,Ocean Distributors,810.07,662.87,S00590,287,10/21/2021 4:14,eBook,English,552,Young,0.696
+P00515,Artists Masterclass,biography,Artists,Ferdous Chowdhury,Global Distributors,306.05,204.33,S00928,302,5/23/2019 2:36,Hardcover,Bangla,113,Kids,0.323
+P00516,Management Guide,Business,Management,Rashid Hossain,Delta Publishing House,816.59,582.42,S00106,634,3/31/2021 21:15,eBook,Bangla,429,Young,0.252
+P00517,Picture Books Essentials,Children,Picture Books,Mala Sarker,Global Publishing House,425.2,260.32,S00258,545,10/23/2021 10:49,Hardcover,English,744,Professional,0.974
+P00518,Fiqh Workbook,Religious,Fiqh,Naila Hossain,Ocean Trade Group,894.87,100000,S00216,344,9/10/2022 22:43,eBook,English,120,Young,0.604
+P00519,Short Stories Workbook,Fiction,Short Stories,Naila Sarker,Bright Supply Co,823.91,653.93,S00453,227,3/17/2025 14:59,Paperback,Bangla,463,Young,0.74
+P00520,Mystery Handbook,Fiction,Mystery,Riaz Islam,Metro Enterprises,446.34,335.5,S00571,516,3/27/2025 11:54,eBook,Bangla,49,Professional,0.649
+P00521,Physics Guide Practice,Academic,Physics,Amin Islam,Delta Enterprises,829.53,463.89,S00521,262,4/18/2020 1:53,eBook,Bangla,657,Professional,0.529
+P00522,Data Science Masterclass Practice,Programming,Data Science,Kamal Chowdhury,Eastern Enterprises,,299.09,S00804,368,5/31/2023 19:27,eBook,Bangla,597,Young,0.653
+P00523,Web Development Guide Practice,Programming,Web Development,Ferdous Rahman,Eastern Enterprises,824.45,578.32,S00638,87,6/21/2022 0:46,eBook,Bangla,251,Elderly,0.89
+P00524,Picture Books Workbook,Children,Picture Books,Riaz Uddin,Eastern Supply Co,428.31,326.01,S00827,531,8/19/2020 7:23,Paperback,,654,Young,0.763
+P00525,Algorithms Handbook Pro,Programming,Algorithms,Kamal Islam,Green Books Ltd,1131.93,666.82,S00780,335,4/17/2021 14:28,Hardcover,English,393,Young,0.631
+P00526,Rhymes Guide,Children,Rhymes,Anika Sarker,Ocean Enterprises,219.99,129.11,S00291,632,12/21/2024 7:23,Hardcover,Bangla,828,Young,0.976
+P00527,Story Books Masterclass,Children,Story Books,Rumana Islam,Royal Logistics,386.76,236.7,S00267,506,1/7/2026 23:55,Hardcover,Bangla,231,Elderly,0.48
+P00528,Short Stories Workbook,Fiction,Short Stories,Rashid Hossain,Bright Enterprises,679.94,452.08,S00505,297,8/26/2021 10:47,Hardcover,Bangla,648,Young,0.607
+P00529,Picture Books Essentials, Children ,Picture Books,Anika Islam,Global Publishing House,402.31,247.48,S00384,232,2/4/2024 8:57,Hardcover,English,183,Professional,0.249
+P00530,Leaders Essentials,Biography,Leaders,Ferdous Uddin,Metro Books Ltd,400.55,248.38,S00361,404,11/21/2019 22:46,Paperback,Bangla,835,Young,0.258
+P00531,Biology Handbook Series,Academic,Biology,Amin Ahmed,Delta Enterprises,938.92,,S00469,461,10/2/2023 0:37,eBook,Bangla,656,Elderly,0.205
+P00532,Hadith Masterclass,Religious,Hadith,Shahana Sarker,Ocean Supply Co,,252.24,S00466,423,8/10/2023 19:22,eBook,Bangla,708,Young,0.616
+P00533,Web Development Complete Pro,Programming,Web Development,Anika Chowdhury,Bright Publishing House,313.95,201.91,S00427,42,9/19/2024 0:42,Hardcover,Bangla,185,Young,0.385
+P00534,University Admission Masterclass Edition,Exam Prep,University Admission,Sultana Sarker,Delta Enterprises,1122.66,886.87,S00652,492,1/12/2020 4:37,eBook,Bangla,418,Young,0.637
+P00535,Romance Guide,Fiction,Romance,Touhid Uddin,Eastern Logistics,369.48,238.77,S00656,48,1/30/2019 14:04,Hardcover,Bangla,658,Young,0.294
+P00536,English Grammar Simplified Pro,Academic,English Grammar,Rashid Sarker,Royal Distributors,900.05,587.34,S00188,112,8/18/2019 12:43,Hardcover,English,217,Kids,0.863
+P00537,Adventure Guide,Fiction,Adventure,Rumana Uddin,Eastern Enterprises,376.96,228.2,S00023,174,7/21/2025 1:16,Hardcover,English,63,Young,0.541
+P00538,Physics Simplified Pro,Academic,Physics,Rumana Chowdhury,Eastern Supply Co,964.64,786.26,S00415,168,4/9/2023 5:45,Hardcover,Bangla,530,Young,0.637
+P00539,Story Books Guide,Children,Story Books,Riaz Islam,Royal Supply Co,138.21,112.13,S00612,207,3/22/2023 1:10,Paperback,English,727,Young,0.684
+P00540,Bank Jobs Complete Series,Exam Prep,Bank Jobs,Amin Khan,Metro Publishing House,308.53,196.34,S00175,577,2/4/2026 10:22,eBook,Bangla,622,Young,0.624
+P00541,Romance Workbook,Fiction,Romance,Ferdous Ahmed,Royal Supply Co,286.52,174.24,S00178,93,11/17/2023 12:52,Hardcover,Bangla,846,Young,0.988
+P00542,Algorithms Guide Series,Programming,Algorithms,Jalal Khan,Royal Trade Group,347.31,279.88,S00861,604,2/13/2026 18:27,Paperback,English,53,Professional,0.475
+P00543,Habit Building Handbook,Self Help,Habit Building,Anika Sarker,Delta Books Ltd,909.82,714.33,S00754,115,8/13/2022 8:04,eBook,Bangla,667,Professional,0.252
+P00544,Chemistry Essentials Pro,Academic,Chemistry,Touhid Ahmed,Prime Trade Group,997.1,607.63,S00641,192,7/9/2025 21:56,eBook,Bangla,266,Young,0.641
+P00545,English Grammar Workbook Pro,Academic,English Grammar,Amin Chowdhury,Bright Logistics,856.1,,S00641,524,3/30/2025 9:05,eBook,Bangla,76,Young,0.446
+P00546,Adventure Complete,Fiction,Adventure,Jalal Khan,Ocean Enterprises,219.75,,S00298,427,7/29/2023 5:01,Hardcover,Bangla,639,Professional,0.939
+P00547,Fiqh Essentials,RELIGIOUS,Fiqh,Mala Islam,Metro Distributors,219.65,136.96,S00664,298,8/20/2020 0:04,Hardcover,Bangla,574,Professional,0.654
+P00548,Coloring Books Masterclass,Children,Coloring Books,Shahana Islam,Ocean Enterprises,285.97,191.41,S00603,363,5/1/2023 16:16,Paperback,English,359,Professional,0.226
+P00549,Hadith Workbook,Religious,Hadith,Sabbir Sarker,Green Books Ltd,517.64,421,S00422,272,6/24/2024 12:39,Hardcover,Bangla,356,Professional,0.973
+P00550,Rhymes Masterclass,Children,Rhymes,Rashid Sarker,Royal Enterprises,286.32,212.61,S00534,452,11/10/2024 10:24,eBook,Bangla,310,Young,0.445
+P00551,Bank Jobs Workbook Edition,Exam Prep,Bank Jobs,Anika Chowdhury,Bright Books Ltd,641.15,407.6,S00842,209,1/13/2020 0:26,Paperback,Bangla,478,Young,0.377
+P00552,Short Stories Masterclass,Fiction,Short Stories,Ferdous Ahmed,Bright Logistics,714.45,550.92,S00668,162,12/19/2023 15:07,Paperback,Bangla,95,Young,0.222
+P00553,Physics Guide Series,Academic,Physics,Rumana Chowdhury,Green Trade Group,1099.1,775.99,S00976,649,9/25/2019 13:02,Hardcover,Bangla,842,Young,0.936
+P00554,University Admission Masterclass Edition,Exam Prep,University Admission,Riaz Khan,Bright Supply Co,489.34,302.82,S00640,197,3/8/2020 22:34,eBook,English,287,Professional,0.322
+P00555,Admission Test Handbook Practice,EXAM PREP,Admission Test,Jalal Hossain,Royal Supply Co,1156.78,919.68,S00525,436,8/9/2021 2:55,eBook,Bangla,539,Young,0.88
+P00556,Entrepreneurship Handbook,Business,Entrepreneurship,Rumana Chowdhury,Delta Distributors,1403.05,1141.87,S00699,288,6/28/2021 5:26,Hardcover,English,372,Kids,0.467
+P00557,BCS Essentials Series,Exam Prep,BCS,Jalal Ahmed,Bright Books Ltd,782.01,635.58,S00918,582,3/14/2023 22:13,eBook,Bangla,771,Young,0.713
+P00558,Bank Jobs Simplified Series,Exam Prep,Bank Jobs,Anika Uddin,National Books Ltd,359.58,212.61,S00328,622,9/3/2021 11:40,,Bangla,319,Kids,0.503
+P00559,Physics Simplified Pro,Academic,Physics,Touhid Ahmed,Prime Logistics,,278.29,S00421,473,11/2/2022 16:00,Hardcover,Bangla,95,Young,0.584
+P00560,Data Science Guide Pro,Programming,Data Science,Riaz Ahmed,Global Logistics,283.82,164.97,S00688,82,3/16/2020 12:19,Paperback,English,274,Young,0.627
+P00561,Rhymes Masterclass,Children,Rhymes,Amin Sarker,Delta Logistics,358.84,291.59,S00097,102,5/1/2023 16:38,eBook,Bangla,194,Professional,0.441
+P00562,Mathematics Workbook Pro,Academic,Mathematics,Mohiuddin Sarker,Delta Trade Group,855.05,559.3,S00713,434,11/23/2024 9:34,Hardcover,English,448,Professional,0.432
+P00563,Algorithms Simplified Practice,Programming,Algorithms,Mohiuddin Islam,Global Logistics,625.26,461.96,S00879,427,9/23/2023 17:08,Paperback,Bangla,538,Professional,0.849
+P00564,Accounting Complete,Business,Accounting,Rashid Islam,Royal Books Ltd,466.41,265.16,S00695,327,6/19/2021 1:05,Paperback,English,254,Young,0.517
+P00565,Picture Books Guide,Children,Picture Books,Rashid Ahmed,Metro Trade Group,357.5,243.65,S00981,597,11/6/2025 14:03,eBook,English,308,Young,0.866
+P00566,Short Stories Masterclass,Fiction,Short Stories,Rashid Sarker,Global Supply Co,876.42,676.81,S00582,541,5/1/2025 8:55,eBook,Bangla,195,Professional,0.568
+P00567,Mathematics Essentials Edition, Academic ,Mathematics,Jalal Hossain,Prime Publishing House,295.11,235.08,S00788,132,2/6/2020 20:31,Hardcover,Bangla,725,Young,0.647
+P00568,Data Science Handbook Pro,Programming,Data Science,Touhid Khan,Ocean Books Ltd,1016.15,642.88,S00840,239,8/6/2022 13:19,Paperback,Bangla,112,Young,0.454
+P00569,Bank Jobs Complete Practice,Exam Prep,Bank Jobs,Riaz Rahman,Global Books Ltd,329.76,236.03,S00404,532,11/6/2021 15:45,Hardcover,English,588,Elderly,0.39
+P00570,Picture Books Workbook,Children,Picture Books,Shahana Sarker,Delta Logistics,343.29,236.79,S00986,317,10/25/2021 1:48,Hardcover,,777,Young,0.319
+P00571,BCS Handbook Series,exam prep,BCS,Naila Chowdhury,Prime Publishing House,1091.67,824.77,S00412,218,11/7/2022 1:36,eBook,Bangla,213,Professional,0.887
+P00572,English Grammar Complete Series,Academic,English Grammar,Shahana Hossain,Ocean Supply Co,1125.88,849.08,S00235,,11/28/2022 13:11,Paperback,English,355,Professional,0.654
+P00573,Romance Handbook,Fiction,Romance,Anika Khan,Bright Enterprises,690.61,422.53,S00463,92,4/23/2021 23:44,Paperback,Bangla,633,Elderly,0.594
+P00574,Entrepreneurship Handbook,Business,Entrepreneurship,Anika Islam,Metro Trade Group,1119.96,659.22,S00789,393,10/4/2025 3:49,Hardcover,Bangla,66,Young,0.947
+P00575,Bangla Literature Complete Edition,Academic,Bangla Literature,Jalal Uddin,Eastern Trade Group,347.4,282.74,S00601,357,12/15/2020 6:49,,Bangla,689,Professional,0.726
+P00576,Bangla Literature Simplified Practice,Academic,Bangla Literature,Riaz Chowdhury,Eastern Enterprises,440.85,333.18,S00010,439,1/28/2026 13:25,Hardcover,Bangla,395,Professional,0.269
+P00577,Classic Workbook,Fiction,Classic,Shahana Ahmed,Ocean Distributors,834.56,604.55,S00661,328,5/21/2024 3:32,Paperback,English,451,Young,0.427
+P00578,Biology Essentials Edition,Academic,Biology,Kamal Chowdhury,National Enterprises,324.32,227.92,S00794,521,10/29/2023 2:29,eBook,Bangla,441,Young,0.595
+P00579,Classic Essentials,Fiction,Classic,Sultana Uddin,Ocean Enterprises,649.73,440.24,S00559,185,1/11/2023 7:34,eBook,Bangla,574,Kids,0.329
+P00580,Rhymes Essentials,Children,Rhymes,Touhid Khan,Prime Supply Co,214.06,174.42,S00535,399,10/7/2025 16:35,,Bangla,546,Kids,0.521
+P00581,Story Books Essentials,Children,Story Books,Mala Khan,Bright Enterprises,155.8,91.12,S00127,300,5/20/2019 21:50,Hardcover,Bangla,102,Young,0.88
+P00582,Management Simplified,Business,Management,Sabbir Sarker,Prime Publishing House,394.71,257.33,S00566,564,7/17/2022 5:05,Hardcover,Bangla,348,Young,0.401
+P00583,Databases Simplified Series,Programming,Databases,Amin Khan,Metro Supply Co,430.14,320.65,S00993,476,5/26/2026 20:08,Paperback,Bangla,680,Elderly,0.575
+P00584,Bank Jobs Masterclass Series,Exam Prep,Bank Jobs,Touhid Khan,Metro Trade Group,547.31,329.85,S00352,456,10/27/2024 1:47,Hardcover,Bangla,221,Professional,0.236
+P00585,Classic Workbook,Fiction,Classic,Anika Islam,Metro Distributors,311.27,234.04,S00716,458,5/15/2024 9:45,eBook,Bangla,625,Young,0.254
+P00586,Quran Studies Workbook,Religious,Quran Studies,Rashid Chowdhury,Delta Logistics,610.81,468.56,S00919,481,2/16/2020 12:07,Hardcover,Bangla,111,Elderly,0.391
+P00587,University Admission Masterclass Practice,Exam Prep,University Admission,Anika Rahman,Green Trade Group,476.25,273.53,S00588,567,2/12/2020 20:33,eBook,English,849,Professional,0.223
+P00588,Fiqh Guide,Religious,Fiqh,Sabbir Uddin,National Books Ltd,353.02,273.32,S00027,503,1/4/2021 5:36,Hardcover,Bangla,397,Young,0.27
+P00589,University Admission Complete Practice,Exam Prep,University Admission,Sabbir Sarker,Royal Books Ltd,892.54,,S00403,315,7/25/2025 21:55,Hardcover,Bangla,613,Young,0.327
+P00590,Activity Books Essentials,Children,Activity Books,Kamal Khan,Delta Books Ltd,199.06,119.8,S00856,390,7/17/2020 11:13,Hardcover,English,339,Young,0.289
+P00591,Algorithms Masterclass Series,Programming,Algorithms,Mala Khan,Eastern Books Ltd,932.1,514.8,S00407,578,12/22/2022 23:24,Hardcover,English,120,Young,0.635
+P00592,Picture Books Simplified,Children,Picture Books,Mohiuddin Rahman,Ocean Books Ltd,,216.36,S00262,,7/29/2019 17:52,Paperback,English,630,Kids,0.271
+P00593,Chemistry Complete Pro,Academic,Chemistry,Sultana Sarker,Metro Logistics,900.07,509.8,S00992,29,12/11/2022 11:31,eBook,Bangla,432,Young,0.502
+P00594,Leaders Essentials,Biography,Leaders,Kamal Ahmed,Delta Supply Co,953.23,561.23,S00841,43,2/3/2021 4:48,eBook,Bangla,325,Kids,0.955
+P00595,Data Science Guide Series, Programming ,Data Science,Touhid Islam,Delta Enterprises,480.94,328.7,S00639,296,8/25/2024 4:49,Paperback,Bangla,315,Young,0.485
+P00596,Fiqh Simplified,Religious,Fiqh,Rashid Uddin,Ocean Books Ltd,881.69,681.27,S00620,239,9/15/2020 14:21,Paperback,Bangla,528,Professional,0.268
+P00597,Romance Workbook,Fiction,Romance,Naila Uddin,Green Publishing House,490.46,270.17,S00571,153,7/27/2020 1:13,eBook,Bangla,236,Professional,0.925
+P00598,Picture Books Complete,Children,Picture Books,Kamal Hossain,Ocean Enterprises,383.75,212.15,S00433,223,6/28/2021 17:43,eBook,English,843,Young,0.405
+P00599,Hadith Essentials,Religious,Hadith,Jalal Islam,Global Enterprises,487,292.92,S00132,37,12/5/2025 4:29,eBook,Bangla,280,Elderly,0.85
+P00600,Story Books Essentials,Children,Story Books,Rumana Khan,Delta Enterprises,122.44,94.86,S00262,566,7/11/2022 16:50,eBook,Bangla,245,Professional,0.657
+P00601,Bank Jobs Handbook Edition,Exam Prep,Bank Jobs,Jalal Ahmed,Prime Trade Group,1125.28,675.27,S00589,329,11/26/2025 13:51,Paperback,Bangla,221,Professional,0.868
+P00602,Prayer Guides Workbook,Religious,Prayer Guides,Ferdous Chowdhury,Global Supply Co,347.13,251.64,S00025,541,6/11/2023 5:50,eBook,Bangla,236,Young,0.46
+P00603,Biology Masterclass Edition,Academic,Biology,Touhid Chowdhury,Ocean Distributors,465.29,341.13,S00502,221,5/9/2026 19:28,eBook,Bangla,760,Young,0.568
+P00604,Communication Guide,Self Help,Communication,Sultana Sarker,Bright Supply Co,957.56,727.3,S00883,576,4/10/2020 10:14,Paperback,English,603,Young,0.381
+P00605,Chemistry Guide Edition,Academic,Chemistry,Naila Hossain,Green Logistics,,697.32,S00687,32,4/16/2026 11:02,eBook,Bangla,169,Professional,0.427
+P00606,English Grammar Simplified Edition,Academic,English Grammar,Jalal Islam,Metro Publishing House,394.35,304.63,S00601,343,12/13/2020 3:37,Hardcover,Bangla,71,Professional,0.494
+P00607,Romance Masterclass,Fiction,Romance,Touhid Rahman,Metro Logistics,651.04,473.7,S00320,25,9/2/2019 13:36,Paperback,Bangla,35,Young,0.674
+P00608,Mathematics Complete Edition,Academic,Mathematics,Amin Ahmed,National Publishing House,794.58,439.22,S00994,642,2/13/2019 2:32,Hardcover,Bangla,576,Professional,0.934
+P00609,Accounting Complete,Business,Accounting,Naila Khan,Royal Supply Co,1181.61,807.66,S00106,349,9/26/2024 4:25,Paperback,Bangla,286,Professional,0.266
+P00610,Chemistry Simplified Series,Academic,Chemistry,Riaz Sarker,Delta Logistics,350.24,218.52,S00415,489,8/25/2024 4:29,Paperback,,474,Elderly,0.329
+P00611,Short Stories Masterclass,Fiction,Short Stories,Sabbir Chowdhury,Prime Trade Group,350.66,229.46,S00505,463,5/8/2024 5:35,Hardcover,Bangla,626,Kids,0.921
+P00612,Admission Test Guide Edition,Exam Prep,Admission Test,Sultana Sarker,Eastern Publishing House,1111.31,726.09,S00767,594,4/26/2022 19:11,Hardcover,Bangla,232,Young,0.836
+P00613,Adventure Simplified,Fiction,Adventure,Kamal Rahman,Ocean Enterprises,,498.69,S00700,423,8/8/2022 22:57,eBook,Bangla,253,Professional,0.978
+P00614,Quran Studies Complete,religious,Quran Studies,Ferdous Sarker,Global Distributors,299.81,165.68,S00192,367,5/14/2026 22:07,Paperback,,106,Kids,0.992
+P00615,Teacher Recruitment Workbook Series,Exam Prep,Teacher Recruitment,Touhid Sarker,Prime Books Ltd,728.14,431.08,S00616,323,10/1/2023 13:07,Paperback,Bangla,210,Young,0.898
+P00616,Rhymes Essentials,Children,Rhymes,Naila Ahmed,Delta Logistics,352.43,205.22,S00831,462,12/2/2025 13:00,Hardcover,English,420,Professional,0.456
+P00617,Prayer Guides Handbook,Religious,Prayer Guides,Rashid Ahmed,Bright Enterprises,,462.92,S00770,634,3/31/2019 3:54,Paperback,Bangla,586,Professional,0.26
+P00618,Prayer Guides Handbook,Religious,Prayer Guides,Sultana Ahmed,Bright Books Ltd,330.21,181.82,S00217,233,11/9/2023 10:51,Paperback,Bangla,327,Professional,0.985
+P00619,Chemistry Workbook Series,Academic,Chemistry,Riaz Sarker,Prime Trade Group,553.81,449.69,S00597,20,7/9/2020 8:19,Paperback,English,162,Professional,0.85
+P00620,Physics Masterclass Edition,Academic,Physics,Mala Ahmed,Global Trade Group,1194.39,673.66,S00807,251,12/10/2022 17:14,Hardcover,Bangla,362,Professional,0.956
+P00621,Rhymes Guide,children,Rhymes,Shahana Islam,Global Publishing House,165.73,115.15,S00617,127,9/27/2021 4:56,Hardcover,English,125,Young,0.608
+P00622,Classic Essentials,Fiction,Classic,Riaz Sarker,Ocean Distributors,826,599.28,S00146,383,3/27/2026 1:26,eBook,Bangla,203,Young,0.61
+P00623,Biology Handbook Practice,academic,Biology,Touhid Ahmed,Eastern Publishing House,969.87,694.67,S00909,211,11/30/2023 18:22,eBook,Bangla,183,Young,0.291
+P00624,Rhymes Workbook,Children,Rhymes,Ferdous Uddin,Green Logistics,398.94,326.36,S00824,302,7/7/2025 12:50,eBook,Bangla,752,Professional,0.742
+P00625,Rhymes Complete,Children,Rhymes,Sultana Uddin,Global Trade Group,310.64,193.53,S00234,109,7/16/2023 13:05,eBook,English,754,Young,0.857
+P00626,Bangla Literature Essentials Edition,Academic,Bangla Literature,Sabbir Ahmed,Delta Enterprises,745.36,557.43,S00967,631,4/22/2021 16:46,Hardcover,English,503,Young,0.619
+P00627,Fiqh Simplified,Religious,Fiqh,Ferdous Islam,Delta Trade Group,763.95,501.12,S00770,,1/30/2022 5:22,Hardcover,,355,Professional,0.566
+P00628,Scientists Complete,Biography,Scientists,Sultana Islam,Metro Trade Group,304.63,207.12,S00885,451,2/20/2020 22:17,Paperback,Bangla,635,Young,0.233
+P00629,BCS Handbook Pro,Exam Prep,BCS,Jalal Uddin,Green Publishing House,1071.91,614.61,S00404,497,9/20/2024 22:37,Paperback,Bangla,534,Professional,0.412
+P00630,Biology Workbook Pro,Academic,Biology,Mohiuddin Sarker,National Publishing House,285.43,202.47,S00670,29,9/4/2024 14:08,Paperback,Bangla,88,Young,0.387
+P00631,Chemistry Complete Series,Academic,Chemistry,Rumana Chowdhury,Royal Supply Co,,609.26,S00967,23,4/12/2020 23:03,eBook,Bangla,135,Professional,0.338
+P00632,Bank Jobs Simplified Practice,Exam Prep,Bank Jobs,Ferdous Chowdhury,Prime Books Ltd,1016.44,612.56,S00412,71,2/4/2023 10:51,eBook,English,503,Young,0.782
+P00633,Biology Masterclass Series,Academic,Biology,Amin Rahman,Delta Publishing House,1120.93,771.8,S00991,180,12/10/2021 1:58,,Bangla,291,Professional,0.21
+P00634,Python Masterclass Edition,Programming,Python,Rashid Chowdhury,Royal Publishing House,751.61,501.74,S00120,153,7/27/2022 0:02,eBook,English,553,Young,0.759
+P00635,Bank Jobs Masterclass Edition,Exam Prep,Bank Jobs,Rumana Khan,Global Enterprises,724.19,507.17,S00248,415,10/27/2024 21:56,Hardcover,Bangla,630,Elderly,0.65
+P00636,Productivity Complete,Self Help,Productivity,Amin Ahmed,Royal Logistics,358.95,231.07,S00845,437,10/18/2024 4:56,Hardcover,Bangla,776,Professional,0.972
+P00637,Writers Masterclass,Biography,Writers,Jalal Ahmed,Delta Distributors,550.75,349.52,S00034,314,4/25/2019 4:34,Paperback,Bangla,597,Professional,0.243
+P00638,Mathematics Masterclass Series,Academic,Mathematics,Anika Khan,Royal Books Ltd,988.77,803.74,S00982,474,5/26/2023 16:42,Hardcover,English,604,Elderly,0.826
+P00639,Romance Complete,Fiction,Romance,Rashid Chowdhury,Global Trade Group,863.52,676.28,S00315,488,9/8/2019 9:07,Hardcover,English,387,Professional,0.262
+P00640,Romance Masterclass,Fiction,Romance,Shahana Khan,Eastern Enterprises,852.34,474.94,S00678,396,4/30/2020 9:35,eBook,Bangla,648,Professional,0.813
+P00641,Management Simplified,Business,Management,Rashid Hossain,Bright Logistics,433.68,296.47,S00335,377,1/10/2019 14:19,eBook,Bangla,96,Kids,0.809
+P00642,BCS Masterclass Practice,EXAM PREP,BCS,Anika Chowdhury,Eastern Publishing House,1165.27,937.97,S00303,562,2/8/2019 8:45,Paperback,Bangla,547,Professional,0.318
+P00643,Rhymes Complete,Children,Rhymes,Touhid Chowdhury,Eastern Supply Co,379.87,301.45,S00078,475,4/18/2025 20:58,eBook,Bangla,565,Kids,0.704
+P00644,Mathematics Masterclass Series,Academic,Mathematics,Kamal Chowdhury,Bright Publishing House,1154.5,771.54,S00902,506,10/15/2019 0:13,Paperback,English,541,Elderly,0.481
+P00645,Teacher Recruitment Masterclass Edition,Exam Prep,Teacher Recruitment,Mala Rahman,Metro Books Ltd,447.54,304.63,S00175,300,1/28/2026 5:46,eBook,English,434,Kids,0.365
+P00646,Biology Simplified Series,Academic,Biology,Anika Rahman,Prime Distributors,1192.52,757.8,S00943,418,5/24/2021 23:59,Paperback,English,579,Young,0.34
+P00647,Thriller Simplified,Fiction,Thriller,Anika Uddin,Metro Trade Group,949.71,718.52,S00253,630,11/6/2024 20:44,eBook,Bangla,804,Professional,0.374
+P00648,Mathematics Essentials Series,Academic,Mathematics,Rashid Ahmed,Global Supply Co,1174.28,795.74,S00982,126,10/29/2022 5:52,Hardcover,Bangla,89,Young,0.74
+P00649,Finance Masterclass,Business,Finance,Kamal Chowdhury,Delta Logistics,1117.66,874.77,S00734,608,1/2/2020 5:54,eBook,Bangla,425,Professional,0.633
+P00650,Thriller Masterclass,Fiction,Thriller,Jalal Uddin,Delta Publishing House,646.09,424.23,S00346,202,6/10/2024 9:43,Paperback,Bangla,533,Young,0.846
+P00651,Mindfulness Simplified,Self Help,Mindfulness,Mala Uddin,Eastern Distributors,549.05,,S00763,194,3/20/2025 21:51,eBook,Bangla,628,Elderly,0.642
+P00652,Mystery Masterclass,Fiction,Mystery,Shahana Islam,Green Books Ltd,791.73,543.43,S00146,285,11/25/2020 18:35,eBook,Bangla,554,Young,0.227
+P00653,Classic Workbook,Fiction,Classic,Kamal Chowdhury,Ocean Publishing House,429.05,317.64,S00927,165,11/18/2019 1:58,Paperback,Bangla,285,Young,0.691
+P00654,Mathematics Guide Edition,Academic,Mathematics,Ferdous Sarker,Ocean Books Ltd,767.16,554.55,S00980,264,6/11/2021 7:29,Paperback,Bangla,525,Young,0.234
+P00655,Marketing Workbook,Business,Marketing,Mala Uddin,Bright Enterprises,1115.24,859.14,S00868,373,12/2/2019 18:49,eBook,Bangla,760,Kids,0.33
+P00656,Leadership Guide,Self Help,Leadership,Amin Ahmed,Ocean Books Ltd,981.15,717.31,S00112,517,8/23/2020 10:50,eBook,Bangla,792,Young,0.407
+P00657,Productivity Masterclass,Self Help,Productivity,Rashid Islam,National Enterprises,316.43,183.06,S00159,266,12/29/2020 3:43,,Bangla,643,Young,0.22
+P00658,Picture Books Workbook, Children ,Picture Books,Touhid Islam,National Supply Co,220.48,154.89,S00262,445,10/1/2019 20:13,eBook,Bangla,222,Kids,0.231
+P00659,Mathematics Workbook Pro,Academic,Mathematics,Riaz Sarker,Royal Trade Group,1009.4,823.64,S00415,483,7/9/2025 12:31,Paperback,,385,Young,0.639
+P00660,Habit Building Simplified, Self Help ,Habit Building,Touhid Chowdhury,Global Supply Co,883.89,596.92,S00365,86,12/5/2022 19:01,Paperback,English,183,Young,0.411
+P00661,Coloring Books Handbook,Children,Coloring Books,Jalal Islam,Global Enterprises,294.24,206.01,S00592,66,2/16/2024 23:32,eBook,Bangla,820,Professional,0.366
+P00662,Story Books Handbook,Children,Story Books,Amin Ahmed,Global Publishing House,357.6,222.15,S00808,356,6/28/2020 7:40,Paperback,Bangla,407,Kids,0.395
+P00663,Teacher Recruitment Complete Series,exam prep,Teacher Recruitment,Anika Hossain,Prime Distributors,319.03,234.4,S00731,593,12/27/2019 17:35,Paperback,Bangla,524,Young,0.387
+P00664,Data Science Essentials Series,Programming,Data Science,Shahana Khan,Delta Distributors,941.21,696.99,S00639,62,4/28/2024 4:25,Hardcover,Bangla,363,Young,0.474
+P00665,Romance Essentials,Fiction,Romance,Kamal Hossain,Prime Enterprises,438.4,272.41,S00873,515,11/14/2020 6:42,Paperback,English,153,Kids,0.506
+P00666,Rhymes Simplified,Children,Rhymes,Naila Chowdhury,Green Supply Co,431.95,339.95,S00151,99,8/6/2022 18:28,Hardcover,Bangla,127,Professional,0.933
+P00667,English Grammar Complete Series,Academic,English Grammar,Rashid Sarker,Prime Supply Co,1063.07,738.79,S00956,332,5/4/2026 6:32,Paperback,Bangla,696,Young,0.904
+P00668,Islamic History Simplified,Religious,Islamic History,Sabbir Uddin,Royal Logistics,203.07,153.96,S00389,237,1/21/2021 17:42,Hardcover,English,646,Professional,0.99
+P00669,Accounting Simplified,Business,Accounting,Touhid Ahmed,Delta Books Ltd,1339.15,971.45,S00254,648,4/29/2024 4:38,Paperback,English,516,Young,0.39
+P00670,English Grammar Workbook Practice,Academic,English Grammar,Sultana Rahman,Royal Books Ltd,469.81,328.44,S00421,127,12/13/2024 11:54,Paperback,Bangla,52,Young,0.327
+P00671,University Admission Workbook Edition,Exam Prep,University Admission,Naila Hossain,Eastern Logistics,1083.94,747.43,S00351,38,5/21/2025 14:06,Hardcover,Bangla,463,Professional,0.305
+P00672,Management Guide,Business,Management,Anika Rahman,Green Trade Group,1092.66,707.59,S00673,265,6/18/2023 12:05,eBook,,149,Young,0.408
+P00673,Hadith Workbook,Religious,Hadith,Touhid Islam,Ocean Books Ltd,487.75,308.79,S00854,106,7/30/2023 13:43,eBook,Bangla,833,Kids,0.992
+P00674,Accounting Workbook,Business,Accounting,Naila Ahmed,National Books Ltd,1313.49,906.17,S00026,636,1/6/2020 11:58,Paperback,English,97,Professional,0.594
+P00675,Habit Building Workbook,Self Help,Habit Building,Naila Islam,Green Enterprises,460.71,289.76,S00371,387,10/6/2023 19:34,Hardcover,Bangla,771,Young,0.953
+P00676,Bank Jobs Workbook Series,Exam Prep,Bank Jobs,Anika Hossain,Delta Supply Co,689.01,443.91,S00835,101,12/29/2020 0:36,Paperback,English,212,Elderly,0.787
+P00677,Islamic History Simplified,Religious,Islamic History,Ferdous Ahmed,Royal Enterprises,245.7,185.13,S00091,471,4/26/2026 18:50,Hardcover,Bangla,52,Professional,0.448
+P00678,Admission Test Complete Pro,Exam Prep,Admission Test,Ferdous Khan,National Enterprises,947.59,686.33,S00266,224,4/22/2021 0:39,Hardcover,Bangla,537,Kids,0.42
+P00679,University Admission Complete Practice,Exam Prep,University Admission,Ferdous Islam,Ocean Distributors,978.99,558.3,S00439,598,10/14/2024 2:06,Paperback,Bangla,726,Professional,0.835
+P00680,Rhymes Essentials,Children,Rhymes,Sabbir Hossain,Delta Enterprises,418.04,291.33,S00801,454,1/28/2019 10:37,eBook,Bangla,127,Young,0.297
+P00681,Management Guide,BUSINESS,Management,Shahana Ahmed,National Books Ltd,1306.85,1045.13,S00447,398,5/13/2019 9:49,Hardcover,Bangla,226,Professional,0.538
+P00682,Hadith Simplified, Religious ,Hadith,Rumana Uddin,Bright Logistics,855.8,480.49,S00626,494,4/28/2019 17:35,eBook,Bangla,352,Kids,0.839
+P00683,Coloring Books Simplified,Children,Coloring Books,Rumana Chowdhury,Prime Enterprises,446.42,278.12,S00843,621,8/11/2020 13:16,Paperback,Bangla,92,Young,0.742
+P00684,Admission Test Guide Pro, Exam Prep ,Admission Test,Rumana Chowdhury,Global Supply Co,990.23,546.66,S00564,648,3/11/2019 15:18,eBook,Bangla,595,Professional,0.232
+P00685,Prayer Guides Guide, Religious ,Prayer Guides,Riaz Ahmed,Ocean Supply Co,740.09,503.95,S00216,592,6/14/2023 23:57,eBook,Bangla,425,Professional,0.449
+P00686,Short Stories Complete,Fiction,Short Stories,Mohiuddin Sarker,Delta Supply Co,903.36,713.38,S00232,184,3/18/2022 10:41,eBook,Bangla,220,Professional,0.633
+P00687,Biology Handbook Edition,Academic,Biology,Anika Ahmed,Royal Supply Co,1004.72,676.58,S00415,295,9/20/2024 1:43,eBook,,119,Young,0.762
+P00688,Thriller Masterclass,Fiction,Thriller,Shahana Rahman,Royal Books Ltd,370.25,217.14,S00665,251,9/14/2025 13:02,Hardcover,English,596,Professional,0.766
+P00689,Thriller Guide,Fiction,Thriller,Mohiuddin Khan,Eastern Publishing House,740.65,512.11,S00431,35,8/9/2021 10:26,eBook,English,549,Professional,0.851
+P00690,Adventure Complete,Fiction,Adventure,Mohiuddin Uddin,Ocean Trade Group,443.9,340.75,S00914,66,10/30/2019 0:35,Paperback,English,266,Young,0.845
+P00691,Marketing Essentials,Business,Marketing,Ferdous Chowdhury,Green Trade Group,337.38,211.19,S00106,649,4/21/2024 6:13,Hardcover,Bangla,539,Young,0.498
+P00692,Productivity Handbook,Self Help,Productivity,Sabbir Uddin,Royal Publishing House,529.95,376.56,S00158,183,12/15/2020 12:00,Paperback,Bangla,781,Professional,0.418
+P00693,Entrepreneurs Essentials,Biography,Entrepreneurs,Riaz Hossain,Delta Publishing House,830.46,633.16,S00036,598,4/5/2025 18:03,Paperback,,688,Young,0.472
+P00694,Entrepreneurship Essentials,Business,Entrepreneurship,Rashid Uddin,Delta Distributors,1406.52,890.63,S00818,137,6/1/2024 22:58,Hardcover,Bangla,824,Professional,0.933
+P00695,Biology Handbook Pro,ACADEMIC,Biology,Jalal Chowdhury,Green Trade Group,950.49,644.72,S00368,384,12/25/2024 3:50,Paperback,Bangla,110,Young,0.962
+P00696,BCS Guide Practice,Exam Prep,BCS,Jalal Rahman,Prime Books Ltd,867.48,538.56,S00459,53,12/16/2020 5:06,Hardcover,Bangla,746,Professional,0.658
+P00697,Short Stories Simplified,Fiction,Short Stories,Kamal Chowdhury,Prime Trade Group,529.26,297.43,S00122,36,10/12/2019 3:21,eBook,Bangla,572,Elderly,0.303
+P00698,Adventure Handbook,Fiction,Adventure,Anika Chowdhury,Prime Trade Group,420.91,277.07,S00729,183,8/7/2021 6:11,Paperback,Bangla,547,Elderly,0.443
+P00699,Physics Masterclass Series,Academic,Physics,Sultana Rahman,Delta Books Ltd,793.74,471.02,S00208,298,7/24/2024 22:54,eBook,English,567,Young,0.442
+P00700,Scientists Complete,Biography,Scientists,Riaz Khan,Prime Publishing House,244.1,141.17,S00270,549,7/8/2020 21:01,eBook,Bangla,147,Professional,0.899
+P00701,University Admission Guide Series,Exam Prep,University Admission,Sultana Islam,Global Books Ltd,1158.47,723.67,S00225,199,12/18/2022 23:08,eBook,Bangla,117,Young,0.955
+P00702,Marketing Complete,Business,Marketing,Naila Uddin,Ocean Trade Group,1250.76,893.26,S00506,393,7/17/2020 9:07,Hardcover,Bangla,788,Elderly,0.926
+P00703,Mystery Workbook,Fiction,Mystery,Sultana Uddin,Metro Distributors,707.56,473.16,S00517,22,2/4/2019 18:41,Paperback,Bangla,598,Professional,0.585
+P00704,Story Books Guide,Children,Story Books,Amin Chowdhury,National Books Ltd,157.45,118.81,S00186,516,12/18/2025 4:24,Hardcover,Bangla,195,Elderly,0.832
+P00705,Islamic History Workbook,Religious,Islamic History,Riaz Chowdhury,Royal Supply Co,872.71,591.68,S00392,256,8/20/2021 18:01,Paperback,Bangla,415,Professional,0.752
+P00706,Activity Books Essentials,Children,Activity Books,Mala Khan,Metro Distributors,145.22,101.92,S00124,620,10/30/2020 20:46,Hardcover,Bangla,50,Young,0.434
+P00707,Hadith Masterclass,Religious,Hadith,Sabbir Islam,Royal Logistics,195.64,124.51,S00333,400,2/5/2026 9:54,eBook,Bangla,164,Young,0.866
+P00708,Mindfulness Handbook,Self Help,Mindfulness,Mohiuddin Khan,Delta Publishing House,242.29,186.12,S00472,408,4/2/2021 16:52,eBook,English,393,Young,0.265
+P00709,Finance Essentials,Business,Finance,Ferdous Hossain,Bright Distributors,553.22,439.21,S00432,549,9/6/2021 19:07,Hardcover,Bangla,453,Professional,0.488
+P00710,Coloring Books Workbook,Children,Coloring Books,Sultana Sarker,National Supply Co,201.08,155.18,S00708,354,3/25/2019 10:18,eBook,English,490,Professional,0.493
+P00711,Mystery Workbook,Fiction,Mystery,Amin Chowdhury,Ocean Distributors,256.14,157.31,S00468,643,11/3/2020 12:30,Paperback,Bangla,793,Young,0.303
+P00712,Coloring Books Workbook,Children,Coloring Books,Shahana Uddin,Bright Trade Group,141.89,110.79,S00362,234,10/9/2024 1:47,Paperback,English,521,Young,0.422
+P00713,Algorithms Essentials Pro,Programming,Algorithms,Rumana Chowdhury,Delta Supply Co,529.82,355.12,S00544,571,5/31/2020 2:17,Hardcover,Bangla,355,Kids,0.364
+P00714,Adventure Workbook,Fiction,Adventure,Naila Uddin,National Enterprises,803.85,469.06,S00436,520,11/25/2022 17:38,Paperback,English,180,Elderly,0.908
+P00715,Thriller Guide,Fiction,Thriller,Mohiuddin Rahman,Delta Distributors,780.99,470.7,S00096,211,1/27/2024 14:49,Paperback,Bangla,743,Young,0.967
+P00716,BCS Masterclass Practice,Exam Prep,BCS,Naila Ahmed,Global Logistics,496.15,316.33,S00459,119,1/14/2025 20:39,eBook,Bangla,183,Young,0.3
+P00717,Entrepreneurship Essentials,Business,Entrepreneurship,Mala Chowdhury,Royal Trade Group,433.39,250.97,S00996,40,6/12/2020 19:05,Hardcover,Bangla,218,Young,0.828
+P00718,Entrepreneurship Handbook,Business,Entrepreneurship,Mohiuddin Ahmed,Green Enterprises,1424.85,797.08,S00358,186,8/19/2022 22:56,eBook,English,123,Young,0.742
+P00719,Leadership Complete,Self Help,Leadership,Riaz Islam,Royal Books Ltd,882.41,660.86,S00644,488,2/3/2026 12:29,Paperback,,656,Young,0.377
+P00720,Bank Jobs Workbook Pro,Exam Prep,Bank Jobs,Naila Ahmed,Global Trade Group,739.48,439.77,S00835,171,1/5/2026 21:07,Paperback,Bangla,68,Professional,0.294
+P00721,Adventure Workbook,Fiction,Adventure,Rumana Islam,Prime Trade Group,915.6,625.39,S00107,496,6/26/2024 16:12,Hardcover,English,539,Young,0.858
+P00722,Finance Handbook,Business,Finance,Sabbir Uddin,Bright Trade Group,1060.4,615.63,S00752,164,7/15/2020 2:59,Hardcover,Bangla,646,Young,0.823
+P00723,Fiqh Guide,Religious,Fiqh,Jalal Chowdhury,Eastern Enterprises,484.91,344.96,S00485,283,12/6/2020 21:33,eBook,English,31,Professional,0.76
+P00724,Bangla Literature Guide Series,Academic,Bangla Literature,Touhid Uddin,Royal Publishing House,912.73,541.77,S00197,286,5/24/2019 7:53,Paperback,Bangla,721,Young,0.219
+P00725,Finance Complete,Business,Finance,Riaz Khan,National Publishing House,790.47,485.38,S00324,203,5/27/2023 22:01,Hardcover,English,421,Young,0.736
+P00726,Hadith Handbook,religious,Hadith,Mohiuddin Ahmed,Green Enterprises,406.05,278.58,S00091,364,10/9/2021 11:03,eBook,Bangla,136,Young,0.628
+P00727,Bank Jobs Guide Pro,EXAM PREP,Bank Jobs,Amin Hossain,Global Logistics,1197.17,825.54,S00588,428,7/14/2022 16:09,Hardcover,Bangla,131,Professional,0.982
+P00728,Bank Jobs Simplified Practice,Exam Prep,Bank Jobs,Touhid Hossain,Metro Distributors,391.63,271.38,S00305,308,11/2/2025 5:43,Paperback,English,712,Professional,0.708
+P00729,Adventure Simplified,Fiction,Adventure,Jalal Sarker,Delta Publishing House,882.46,492.21,S00661,581,8/29/2019 12:34,Hardcover,Bangla,150,Kids,0.44
+P00730,University Admission Guide Edition,Exam Prep,University Admission,Mala Chowdhury,Ocean Books Ltd,370.82,229.96,S00748,469,9/1/2019 11:37,eBook,Bangla,708,Young,0.221
+P00731,Finance Handbook,Business,Finance,Amin Khan,Delta Distributors,1025.65,609.75,S00899,379,11/22/2025 11:10,eBook,Bangla,121,Kids,0.493
+P00732,English Grammar Masterclass Series,Academic,English Grammar,Kamal Sarker,Ocean Supply Co,689.34,516.93,S00215,357,10/15/2019 5:50,eBook,English,182,Kids,0.45
+P00733,Thriller Essentials,Fiction,Thriller,Rumana Hossain,Delta Publishing House,558.79,320.52,S00663,,7/10/2022 4:33,Paperback,English,824,Professional,0.612
+P00734,Productivity Simplified,Self Help,Productivity,Naila Khan,National Trade Group,817.13,561.03,S00509,339,12/25/2024 4:50,eBook,Bangla,783,Young,0.714
+P00735,Web Development Complete Practice,Programming,Web Development,Rashid Rahman,Bright Books Ltd,442.93,249.74,S00020,206,2/25/2026 9:29,Paperback,English,693,Young,0.495
+P00736,Hadith Essentials,Religious,Hadith,Sultana Khan,Green Supply Co,772.14,499.77,S00647,219,6/15/2021 3:10,Hardcover,Bangla,815,Professional,0.571
+P00737,Finance Handbook,Business,Finance,Amin Khan,Prime Distributors,949.65,522.99,S00408,589,6/17/2020 15:01,eBook,Bangla,266,Young,0.721
+P00738,Fiqh Handbook,Religious,Fiqh,Mohiuddin Sarker,Metro Distributors,359.67,232.99,S00810,416,5/6/2024 2:34,eBook,English,778,Young,0.601
+P00739,Mindfulness Simplified,Self Help,Mindfulness,Rumana Chowdhury,Delta Publishing House,951.27,658.18,S00231,367,12/13/2022 11:14,eBook,English,535,Professional,0.543
+P00740,University Admission Simplified Pro,Exam Prep,University Admission,Jalal Sarker,Prime Trade Group,681.92,532.15,S00409,439,4/26/2023 15:56,eBook,Bangla,592,Professional,0.449
+P00741,Short Stories Complete,Fiction,Short Stories,Rumana Hossain,Bright Books Ltd,521.65,415.55,S00178,540,6/15/2024 16:50,eBook,Bangla,67,Elderly,0.953
+P00742,Accounting Guide,Business,Accounting,Amin Islam,Green Trade Group,993.81,718.03,S00358,,2/3/2023 19:20,eBook,English,543,Young,0.514
+P00743,BCS Complete Edition,exam prep,BCS,Amin Khan,Metro Supply Co,824.15,654.36,S00790,140,1/4/2024 14:25,eBook,English,838,Young,0.491
+P00744,Picture Books Guide,Children,Picture Books,Mohiuddin Hossain,Ocean Enterprises,5000,216.81,S00937,593,9/17/2020 2:40,Paperback,Bangla,599,Professional,0.363
+P00745,Admission Test Masterclass Practice,EXAM PREP,Admission Test,Sultana Khan,Global Supply Co,984.9,681.81,S00205,552,5/29/2026 23:45,eBook,English,570,Young,0.808
+P00746,Entrepreneurship Essentials,Business,Entrepreneurship,Sabbir Ahmed,Bright Logistics,420.89,340.75,S00348,29,2/8/2023 16:33,Hardcover,Bangla,442,Professional,0.827
+P00747,Prayer Guides Complete,Religious,Prayer Guides,Riaz Islam,Green Books Ltd,564.6,443.78,S00196,133,1/25/2019 19:21,eBook,Bangla,635,Young,0.421
+P00748,English Grammar Essentials Practice,Academic,English Grammar,Rashid Hossain,Delta Books Ltd,1003.73,809.52,S00093,555,7/28/2022 9:31,eBook,English,151,Young,0.848
+P00749,Machine Learning Guide Series,Programming,Machine Learning,Naila Chowdhury,Global Enterprises,860.83,682.06,S00473,240,8/5/2023 8:23,eBook,English,696,Kids,0.593
+P00750,Short Stories Workbook,Fiction,Short Stories,Anika Ahmed,Ocean Distributors,335.88,263,S00935,343,5/4/2022 1:03,Hardcover,English,631,Elderly,0.818
+P00751,Teacher Recruitment Essentials Pro,Exam Prep,Teacher Recruitment,Mala Islam,Prime Books Ltd,913.66,671.08,S01000,518,9/6/2024 14:00,Paperback,Bangla,524,Young,0.796
+P00752,Chemistry Essentials Pro,Academic,Chemistry,Ferdous Sarker,Royal Publishing House,807.27,495.73,S00946,144,9/25/2022 16:55,Hardcover,Bangla,269,Professional,0.533
+P00753,Adventure Masterclass,Fiction,Adventure,Mohiuddin Chowdhury,Bright Supply Co,856.97,578.62,S00922,387,4/27/2022 19:40,eBook,Bangla,169,Young,0.597
+P00754,Teacher Recruitment Complete Series,exam prep,Teacher Recruitment,Mohiuddin Khan,Ocean Trade Group,505.73,310.81,S00273,441,12/1/2024 5:27,Paperback,Bangla,112,Professional,0.452
+P00755,Coloring Books Essentials, Children ,Coloring Books,Ferdous Chowdhury,Eastern Supply Co,131.8,83.36,S00543,529,1/28/2020 15:30,Hardcover,English,469,Young,0.831
+P00756,Leadership Essentials,Self Help,Leadership,Kamal Chowdhury,Bright Distributors,230.93,138.67,S00833,379,10/5/2025 23:21,Paperback,Bangla,619,Kids,0.616
+P00757,Coloring Books Masterclass,Children,Coloring Books,Rumana Rahman,Ocean Enterprises,277.66,187.58,S00364,229,1/9/2019 4:28,eBook,English,456,Professional,0.75
+P00758,Entrepreneurs Workbook,Biography,Entrepreneurs,Amin Ahmed,Global Distributors,828.02,502.22,S00499,334,10/30/2022 6:35,Paperback,Bangla,716,Kids,0.337
+P00759,English Grammar Simplified Series,Academic,English Grammar,Touhid Chowdhury,Royal Distributors,859.44,702.88,S00691,468,12/9/2021 0:31,eBook,English,840,Kids,0.856
+P00760,Activity Books Essentials,Children,Activity Books,Sabbir Uddin,Prime Books Ltd,205.37,117.48,S00173,199,9/8/2020 3:38,Hardcover,English,758,Young,0.377
+P00761,Mystery Simplified,Fiction,Mystery,Kamal Chowdhury,Metro Logistics,719.74,481.86,S00700,29,11/3/2019 7:28,eBook,English,386,Elderly,0.764
+P00762,Physics Simplified Series,Academic,Physics,Mala Khan,Royal Publishing House,576.8,366.2,S00495,131,7/22/2023 1:10,eBook,Bangla,578,Professional,0.985
+P00763,Artists Handbook, Biography ,Artists,Sabbir Khan,Delta Publishing House,417.02,265.33,S00839,232,11/11/2024 5:05,Hardcover,,92,Young,0.289
+P00764,Classic Guide,Fiction,Classic,Shahana Rahman,Delta Publishing House,914.5,665.61,S00678,207,3/17/2020 6:15,Paperback,English,805,Young,0.867
+P00765,Productivity Essentials,Self Help,Productivity,Sultana Sarker,Prime Books Ltd,,346.82,S00815,425,1/10/2024 4:33,eBook,Bangla,626,Professional,0.468
+P00766,Activity Books Essentials,children,Activity Books,Riaz Rahman,Global Books Ltd,356.74,287,S00340,358,4/15/2024 7:39,Paperback,English,219,Professional,0.341
+P00767,BCS Guide Series,Exam Prep,BCS,Riaz Khan,Green Enterprises,1198.58,808.03,S00978,391,7/22/2024 10:39,Hardcover,English,191,Professional,0.613
+P00768,Bank Jobs Masterclass Edition,Exam Prep,Bank Jobs,Sabbir Chowdhury,Royal Books Ltd,251.93,198.97,S00225,631,11/16/2019 21:57,Paperback,,268,Young,0.499
+P00769,Romance Guide,Fiction,Romance,Shahana Chowdhury,Delta Publishing House,972.46,607.79,S00154,,9/10/2019 1:11,Paperback,English,842,Young,0.77
+P00770,Islamic History Simplified,RELIGIOUS,Islamic History,Sabbir Hossain,Delta Publishing House,219.84,150.42,S00654,15,5/23/2022 23:49,Hardcover,Bangla,177,Elderly,0.521
+P00771,BCS Essentials Edition,Exam Prep,BCS,Naila Khan,Bright Logistics,1027.17,789.37,S00378,569,10/15/2019 6:24,eBook,Bangla,695,Young,0.931
+P00772,University Admission Essentials Pro,Exam Prep,University Admission,Rumana Khan,Global Supply Co,1085.21,776.58,S00451,446,2/2/2022 22:17,Hardcover,Bangla,356,Professional,0.92
+P00773,Finance Complete,Business,Finance,Sultana Islam,Metro Books Ltd,637.22,429.8,S00773,343,6/16/2020 9:02,Paperback,Bangla,353,Young,0.486
+P00774,Mystery Simplified,Fiction,Mystery,Anika Chowdhury,Green Publishing House,586.69,432.46,S00259,292,12/31/2022 1:17,Paperback,Bangla,396,Professional,0.837
+P00775,Machine Learning Complete Series,Programming,Machine Learning,Mohiuddin Rahman,Metro Publishing House,1159.57,699.84,S00160,36,6/5/2026 5:11,Paperback,Bangla,773,Young,0.203
+P00776,Hadith Workbook,Religious,Hadith,Naila Islam,National Books Ltd,508.76,338.08,S00629,610,5/28/2024 0:47,Paperback,Bangla,488,Kids,0.218
+P00777,Bank Jobs Guide Pro,Exam Prep,Bank Jobs,Jalal Uddin,National Enterprises,467.84,318.62,S00318,433,12/27/2023 20:55,Hardcover,English,768,Young,0.403
+P00778,University Admission Complete Pro,Exam Prep,University Admission,Amin Chowdhury,Eastern Logistics,886.18,638.33,S00053,558,3/18/2019 11:22,Paperback,Bangla,271,Young,0.493
+P00779,Bank Jobs Workbook Pro,Exam Prep,Bank Jobs,Sultana Uddin,Prime Trade Group,650.52,497.86,S00751,282,3/13/2024 21:40,Hardcover,Bangla,145,Young,0.449
+P00780,Short Stories Simplified, Fiction ,Short Stories,Anika Hossain,Green Enterprises,462.83,370.85,S00463,167,7/14/2022 19:51,Paperback,Bangla,411,Kids,0.767
+P00781,Mindfulness Complete,Self Help,Mindfulness,Sabbir Ahmed,Green Trade Group,647.85,445.37,S00876,,2/6/2023 23:11,,Bangla,216,Professional,0.325
+P00782,Algorithms Handbook Practice,Programming,Algorithms,Riaz Sarker,Prime Publishing House,735.28,553.35,S00427,544,8/11/2021 16:43,Hardcover,Bangla,43,Young,0.41
+P00783,Islamic History Simplified,Religious,Islamic History,Kamal Sarker,Prime Trade Group,806.22,525.2,S00485,,4/21/2024 13:27,Paperback,Bangla,322,Young,0.403
+P00784,Islamic History Complete,Religious,Islamic History,Sabbir Sarker,Green Logistics,733.65,406.31,S00791,,1/26/2022 23:58,Paperback,Bangla,434,Professional,0.34
+P00785,Physics Simplified Edition,Academic,Physics,Jalal Sarker,Delta Supply Co,1125.52,874.16,S00507,636,1/13/2024 19:03,eBook,Bangla,546,Professional,0.554
+P00786,Bangla Literature Guide Edition,Academic,Bangla Literature,Kamal Khan,National Logistics,1188.18,796.35,S00289,451,4/17/2025 19:10,Hardcover,Bangla,124,Professional,0.669
+P00787,Chemistry Complete Series,Academic,Chemistry,Kamal Ahmed,Delta Enterprises,939.36,731.9,S00503,68,6/14/2021 2:17,eBook,Bangla,104,Elderly,0.658
+P00788,Islamic History Workbook,Religious,Islamic History,Rashid Khan,Ocean Books Ltd,350.66,232.3,S00680,542,1/22/2025 2:00,Hardcover,Bangla,423,Young,0.581
+P00789,Habit Building Simplified,Self Help,Habit Building,Sultana Ahmed,Metro Publishing House,233.76,150.36,S00797,507,1/15/2021 17:33,Hardcover,English,185,Professional,0.694
+P00790,Classic Guide,Fiction,Classic,Ferdous Islam,Metro Supply Co,725.24,476.15,S00347,127,3/8/2026 11:57,Paperback,Bangla,606,Young,0.813
+P00791,Artists Essentials,Biography,Artists,Naila Islam,Eastern Supply Co,741.88,573.98,S00193,,1/5/2022 19:07,Hardcover,Bangla,55,Young,0.326
+P00792,Romance Workbook,FICTION,Romance,Rumana Islam,Bright Supply Co,256.79,195.1,S00002,352,6/7/2024 21:43,Hardcover,Bangla,782,Young,0.865
+P00793,Activity Books Simplified,Children,Activity Books,Rumana Ahmed,Global Enterprises,363.64,208.54,S00573,350,12/31/2021 13:49,Hardcover,Bangla,90,Professional,0.33
+P00794,Physics Simplified Series,academic,Physics,Mohiuddin Khan,Royal Trade Group,883.42,660.8,S00093,362,3/19/2022 9:08,Hardcover,English,577,Young,0.46
+P00795,Communication Simplified,Self Help,Communication,Riaz Uddin,Royal Distributors,733.24,485.2,S00890,248,3/2/2025 14:59,Paperback,English,760,Professional,0.797
+P00796,Story Books Handbook,Children,Story Books,Rashid Khan,Ocean Enterprises,375.21,256.53,S00997,261,5/14/2022 13:06,Hardcover,English,136,Young,0.49
+P00797,Coloring Books Masterclass,Children,Coloring Books,Sabbir Hossain,Global Supply Co,223.23,145.21,S00724,495,12/12/2021 14:02,eBook,English,378,Elderly,0.988
+P00798,Mystery Masterclass,fiction,Mystery,Rumana Islam,Green Logistics,369.7,0,S00096,360,3/9/2019 17:03,eBook,English,57,Professional,0.74
+P00799,Admission Test Simplified Edition,Exam Prep,Admission Test,Rumana Rahman,Prime Books Ltd,1084.05,698.19,S00790,535,3/2/2021 16:47,Hardcover,,30,Young,0.991
+P00800,Hadith Complete,Religious,Hadith,Touhid Rahman,Ocean Publishing House,325.99,264.53,S00396,487,2/18/2026 12:28,Paperback,Bangla,616,Elderly,0.478
+P00801,Chemistry Workbook Series,Academic,Chemistry,Naila Rahman,Prime Logistics,1106.87,621.23,S00687,217,3/17/2024 9:56,eBook,English,528,Professional,0.383
+P00802,Marketing Complete,Business,Marketing,Shahana Islam,Delta Distributors,992.55,795.89,S00134,,12/18/2019 9:05,Paperback,English,703,Young,0.387
+P00803,Marketing Masterclass,Business,Marketing,Jalal Sarker,Prime Supply Co,1318.57,874.34,S00773,43,3/12/2021 23:32,Paperback,English,617,Young,0.449
+P00804,Picture Books Simplified,Children,Picture Books,Jalal Chowdhury,Royal Supply Co,364.06,,S00749,313,6/25/2021 4:11,Hardcover,Bangla,251,Professional,0.791
+P00805,Picture Books Complete,Children,Picture Books,Naila Chowdhury,Metro Logistics,397.08,,S00591,355,12/4/2023 12:10,Hardcover,Bangla,828,Young,0.319
+P00806,Physics Handbook Edition,Academic,Physics,Amin Rahman,Metro Logistics,990.44,660.55,S00274,258,1/31/2022 6:10,eBook,Bangla,443,Professional,0.706
+P00807,Short Stories Masterclass,Fiction,Short Stories,Sabbir Chowdhury,Bright Supply Co,447.05,303.61,S00728,480,9/18/2024 19:45,Paperback,English,473,Young,0.266
+P00808,Chemistry Handbook Edition,Academic,Chemistry,Anika Islam,Ocean Distributors,494.69,,S00944,64,9/6/2023 12:16,Paperback,English,428,Professional,0.261
+P00809,BCS Guide Practice,Exam Prep,BCS,Ferdous Chowdhury,National Enterprises,305.52,181.82,S00136,272,3/28/2024 20:36,Paperback,Bangla,493,Kids,0.922
+P00810,English Grammar Masterclass Pro,Academic,English Grammar,Sabbir Hossain,Ocean Supply Co,785.44,487.51,S00200,556,5/5/2024 9:51,eBook,Bangla,606,Professional,0.402
+P00811,Leadership Handbook,Self Help,Leadership,Rashid Chowdhury,Metro Enterprises,966.9,585.84,S00795,108,5/18/2021 13:21,Paperback,English,283,Young,0.28
+P00812,Mathematics Workbook Series,Academic,Mathematics,Anika Uddin,Prime Supply Co,507.04,336.41,S00941,476,10/12/2022 9:47,eBook,Bangla,258,Professional,0.761
+P00813,Islamic History Essentials,Religious,Islamic History,Shahana Islam,Delta Trade Group,652.22,466.55,S00196,193,7/13/2019 3:11,Paperback,Bangla,619,Kids,0.339
+P00814,Story Books Workbook,Children,Story Books,Jalal Sarker,National Supply Co,449.3,309.15,S00124,472,11/2/2023 12:23,Hardcover,Bangla,486,Young,0.443
+P00815,Machine Learning Masterclass Edition,Programming,Machine Learning,Anika Chowdhury,Delta Books Ltd,433.96,273.69,S00327,203,2/8/2022 4:42,Hardcover,Bangla,89,Young,0.631
+P00816,University Admission Handbook Pro,Exam Prep,University Admission,Mala Khan,Global Books Ltd,955,636.73,S00618,479,9/7/2025 17:00,eBook,English,663,Elderly,0.608
+P00817,Story Books Workbook,Children,Story Books,Riaz Rahman,Eastern Supply Co,195.28,108.52,S00984,65,1/22/2020 23:13,Paperback,Bangla,835,Young,0.356
+P00818,Fiqh Masterclass, Religious ,Fiqh,Mala Hossain,Bright Books Ltd,336.16,211.9,S00027,148,5/12/2026 21:14,eBook,Bangla,733,Young,0.392
+P00819,Marketing Handbook,Business,Marketing,Ferdous Hossain,Metro Trade Group,1275.1,717.08,S00938,278,11/2/2020 2:57,Paperback,Bangla,246,Young,0.668
+P00820,Machine Learning Complete Edition,Programming,Machine Learning,Riaz Chowdhury,Bright Logistics,969.73,652.49,S00623,119,6/17/2022 13:41,Hardcover,Bangla,94,Young,0.628
+P00821,Bangla Literature Guide Series,Academic,Bangla Literature,Shahana Ahmed,Metro Logistics,264.39,205.55,S00800,634,9/22/2025 0:15,Paperback,Bangla,241,Kids,0.75
+P00822,Short Stories Complete,Fiction,Short Stories,Sabbir Khan,National Books Ltd,783.99,636.4,S00717,335,12/16/2024 5:54,Paperback,Bangla,434,Young,0.658
+P00823,Adventure Handbook,Fiction,Adventure,Shahana Hossain,Metro Supply Co,955.75,741.81,S00284,377,8/3/2023 14:56,Hardcover,Bangla,703,Young,0.77
+P00824,Quran Studies Masterclass,Religious,Quran Studies,Kamal Uddin,Metro Distributors,888.42,683.63,S00538,324,5/7/2023 2:11,eBook,English,824,Elderly,0.321
+P00825,Biology Essentials Series,Academic,Biology,Rumana Sarker,Prime Distributors,726.32,556.33,S00200,122,12/27/2019 23:40,,Bangla,608,Professional,0.945
+P00826,BCS Handbook Edition,Exam Prep,BCS,Sabbir Chowdhury,Global Enterprises,1077.8,754.87,S00350,345,6/1/2021 2:22,Paperback,Bangla,335,Young,0.988
+P00827,English Grammar Handbook Series, Academic ,English Grammar,Riaz Ahmed,Delta Distributors,1087.39,808.25,S00943,246,12/12/2023 1:51,Hardcover,English,764,Young,0.303
+P00828,Leaders Handbook,Biography,Leaders,Amin Islam,Green Logistics,349.61,267.17,S00036,125,5/26/2026 19:06,,Bangla,278,Elderly,0.888
+P00829,Short Stories Masterclass,Fiction,Short Stories,Anika Chowdhury,Metro Trade Group,584.57,332.1,S00663,271,6/12/2020 1:15,Paperback,Bangla,477,Elderly,0.24
+P00830,Romance Complete,fiction,Romance,Jalal Hossain,Eastern Enterprises,378.45,304.29,S00914,617,7/21/2025 8:34,eBook,Bangla,415,Young,0.31
+P00831,Activity Books Guide, Children ,Activity Books,Sultana Islam,Delta Enterprises,242.8,186.01,S00486,59,11/30/2019 15:23,Hardcover,English,252,Young,0.766
+P00832,Thriller Masterclass,fiction,Thriller,Rashid Chowdhury,Global Trade Group,916.18,601.53,S00240,280,3/26/2022 7:26,Paperback,Bangla,464,Young,0.67
+P00833,Web Development Guide Series,Programming,Web Development,Jalal Sarker,Prime Supply Co,1100.54,751.35,S00467,86,1/21/2023 9:43,eBook,English,575,Elderly,0.536
+P00834,Activity Books Essentials,Children,Activity Books,Touhid Hossain,Metro Distributors,249.32,193.75,S00097,349,4/15/2022 0:12,Hardcover,Bangla,71,Professional,0.781
+P00835,Leaders Essentials,Biography,Leaders,Kamal Sarker,Global Books Ltd,254.46,172.06,S00269,,3/6/2020 11:16,Paperback,English,320,Kids,0.551
+P00836,Quran Studies Workbook,Religious,Quran Studies,Jalal Chowdhury,National Trade Group,260.25,167.56,S00082,450,3/14/2025 22:36,Paperback,Bangla,56,Young,0.916
+P00837,Hadith Essentials,Religious,Hadith,Riaz Hossain,Metro Publishing House,848.79,652.04,S00485,271,4/26/2026 12:42,Hardcover,Bangla,334,Young,0.368
+P00838,Web Development Essentials Practice,Programming,Web Development,Riaz Hossain,Delta Supply Co,712.32,401.52,S00798,111,5/28/2023 5:46,eBook,English,784,Young,0.822
+P00839,Entrepreneurship Guide,Business,Entrepreneurship,Amin Khan,Green Publishing House,1091.04,867.99,S00432,75,1/2/2020 8:32,Hardcover,Bangla,356,Elderly,0.945
+P00840,Teacher Recruitment Handbook Practice,Exam Prep,Teacher Recruitment,Amin Sarker,National Enterprises,583.63,475.63,S00287,348,9/25/2022 8:15,eBook,Bangla,126,Young,0.76
+P00841,Bangla Literature Masterclass Practice,Academic,Bangla Literature,Touhid Ahmed,Royal Books Ltd,857.62,541.36,S00713,29,3/26/2022 3:45,Hardcover,English,82,Kids,0.413
+P00842,Machine Learning Masterclass Edition,Programming,Machine Learning,Mohiuddin Hossain,Global Publishing House,675.28,,S00123,397,6/10/2020 22:10,Paperback,Bangla,618,Kids,0.756
+P00843,Adventure Masterclass,Fiction,Adventure,Anika Uddin,Global Books Ltd,434.43,319.56,S00922,192,4/20/2021 4:57,Paperback,Bangla,83,Young,0.526
+P00844,Machine Learning Complete Practice,Programming,Machine Learning,Anika Sarker,Delta Distributors,572.11,352.4,S00391,517,5/12/2021 17:28,eBook,Bangla,470,Kids,0.849
+P00845,Classic Guide, Fiction ,Classic,Riaz Khan,Metro Enterprises,782.62,640.18,S00481,34,12/28/2019 19:29,eBook,Bangla,839,Young,0.332
+P00846,Finance Handbook,Business,Finance,Naila Ahmed,Eastern Enterprises,1178.98,855.46,S00996,217,1/23/2026 10:18,Paperback,Bangla,247,Young,0.916
+P00847,Classic Complete,fiction,Classic,Touhid Islam,Delta Supply Co,779.22,554.7,S00663,392,3/7/2019 19:52,Hardcover,Bangla,219,Young,0.294
+P00848,English Grammar Workbook Edition,Academic,English Grammar,Jalal Hossain,Royal Books Ltd,399.45,308.81,S00992,475,5/13/2020 3:32,Paperback,Bangla,533,Young,0.505
+P00849,Entrepreneurship Complete,Business,Entrepreneurship,Naila Rahman,Delta Trade Group,533.29,411.68,S00566,522,4/5/2026 5:09,Hardcover,Bangla,366,Young,0.497
+P00850,Data Science Simplified Pro,Programming,Data Science,Touhid Rahman,Ocean Logistics,1144.77,693.03,S00584,563,4/9/2026 1:14,eBook,English,427,Young,0.578
+P00851,BCS Simplified Edition,Exam Prep,BCS,Riaz Chowdhury,Green Supply Co,742.24,599.97,S00355,229,11/9/2023 12:22,eBook,Bangla,298,Professional,0.746
+P00852,Adventure Workbook,Fiction,Adventure,Anika Sarker,Green Books Ltd,884.02,645.08,S00738,216,10/2/2019 5:37,eBook,Bangla,728,Young,0.969
+P00853,Web Development Guide Pro,Programming,Web Development,Ferdous Sarker,Eastern Books Ltd,484.15,317.36,S00550,27,4/11/2024 17:10,eBook,Bangla,166,Professional,0.872
+P00854,Productivity Workbook, Self Help ,Productivity,Jalal Sarker,Delta Publishing House,218.74,127.83,S00460,375,3/3/2021 22:03,Hardcover,English,666,Young,0.49
+P00855,Habit Building Handbook,Self Help,Habit Building,Mohiuddin Uddin,Metro Trade Group,919.8,543.87,S00606,69,10/24/2025 19:54,Paperback,,176,Young,0.899
+P00856,Admission Test Complete Series,Exam Prep,Admission Test,Riaz Sarker,Green Supply Co,620.12,394.77,S00263,469,11/30/2023 13:36,Hardcover,Bangla,179,Young,0.982
+P00857,Classic Handbook,Fiction,Classic,Sabbir Islam,Eastern Trade Group,20000,302.41,S00700,484,10/1/2024 12:48,Paperback,Bangla,182,Professional,0.695
+P00858,English Grammar Workbook Edition,Academic,English Grammar,Sultana Hossain,Eastern Enterprises,713.65,577.1,S00916,91,4/7/2019 12:06,,English,719,Professional,0.49
+P00859,Classic Complete,Fiction,Classic,Mohiuddin Uddin,Prime Enterprises,678.36,,S00668,209,10/31/2023 14:32,Hardcover,Bangla,273,Professional,0.873
+P00860,Classic Guide,Fiction,Classic,Sultana Hossain,Prime Enterprises,338.77,273.02,S00440,290,11/26/2023 8:03,Paperback,Bangla,193,Young,0.362
+P00861,Classic Essentials,Fiction,Classic,Mohiuddin Rahman,Global Books Ltd,846.68,489.42,S00302,583,10/13/2022 20:53,eBook,English,814,Young,0.415
+P00862,Machine Learning Complete Edition,Programming,Machine Learning,Riaz Ahmed,Delta Supply Co,742.35,408.69,S00184,113,7/28/2021 10:46,eBook,English,733,Young,0.332
+P00863,Coloring Books Simplified,Children,Coloring Books,Riaz Chowdhury,Eastern Supply Co,364.63,208.96,S00276,39,7/31/2024 1:22,eBook,Bangla,455,Young,0.522
+P00864,Management Complete,Business,Management,Sultana Ahmed,Bright Trade Group,481.49,337,S00896,279,3/17/2025 19:57,eBook,Bangla,135,Young,0.757
+P00865,Activity Books Masterclass,Children,Activity Books,Sultana Khan,Global Books Ltd,279.09,195.04,S00749,408,5/15/2022 3:37,Hardcover,Bangla,622,Young,0.73
+P00866,Short Stories Handbook,Fiction,Short Stories,Amin Khan,Eastern Publishing House,441.76,250.4,S00016,446,11/25/2021 22:45,Paperback,Bangla,333,Young,0.99
+P00867,BCS Complete Edition,Exam Prep,BCS,Jalal Ahmed,Delta Logistics,517.85,326.34,S00155,552,3/15/2019 9:13,eBook,Bangla,241,Elderly,0.771
+P00868,Accounting Handbook,Business,Accounting,Rashid Rahman,Prime Supply Co,1130.73,730.03,S00899,522,9/16/2019 0:18,eBook,Bangla,400,Elderly,0.509
+P00869,Mindfulness Complete,Self Help,Mindfulness,Riaz Sarker,Bright Supply Co,933.66,723.04,S00817,565,9/12/2022 6:10,Hardcover,Bangla,473,Professional,0.6
+P00870,Management Complete,Business,Management,Anika Ahmed,Metro Books Ltd,516.26,389.39,S00695,413,10/23/2020 18:29,Hardcover,Bangla,393,Kids,0.507
+P00871,Bank Jobs Guide Pro,Exam Prep,Bank Jobs,Shahana Hossain,Delta Enterprises,293.84,209.29,S00417,354,4/16/2022 15:55,Paperback,Bangla,566,Young,0.914
+P00872,Romance Workbook,Fiction,Romance,Kamal Ahmed,Eastern Distributors,486.51,278.49,S00663,418,3/9/2023 23:06,eBook,Bangla,468,Elderly,0.331
+P00873,Thriller Handbook,Fiction,Thriller,Mohiuddin Chowdhury,Delta Publishing House,602.2,450.48,S00590,356,2/25/2023 14:24,Hardcover,Bangla,194,Young,0.327
+P00874,Fiqh Handbook,Religious,Fiqh,Ferdous Rahman,Royal Books Ltd,801.21,521.38,S00854,506,9/19/2021 9:22,Paperback,Bangla,363,Young,0.536
+P00875,Marketing Simplified,Business,Marketing,Touhid Sarker,Prime Distributors,915.94,692.67,S00050,237,5/30/2023 6:29,,Bangla,65,Professional,0.81
+P00876,Teacher Recruitment Complete Edition,Exam Prep,Teacher Recruitment,Jalal Islam,Bright Books Ltd,370.45,228.18,S00312,349,2/16/2026 0:36,Hardcover,Bangla,123,Young,0.338
+P00877,Quran Studies Simplified,Religious,Quran Studies,Sultana Islam,Eastern Books Ltd,490.59,302.61,S00697,538,6/24/2022 1:23,Hardcover,Bangla,86,Young,0.227
+P00878,Habit Building Guide,Self Help,Habit Building,Naila Chowdhury,Bright Books Ltd,648.69,401.28,S00457,218,6/3/2026 12:10,eBook,English,780,Young,0.81
+P00879,Physics Masterclass Edition,Academic,Physics,Mala Uddin,Bright Logistics,476.33,291.07,S00299,424,8/23/2021 20:06,Paperback,Bangla,111,Kids,0.376
+P00880,Biology Workbook Edition,Academic,Biology,Rashid Sarker,Royal Enterprises,865.16,695.91,S00794,463,4/4/2024 3:12,Hardcover,Bangla,537,Young,0.607
+P00881,Leadership Complete,Self Help,Leadership,Rashid Chowdhury,Metro Books Ltd,722.43,574.58,S00609,635,10/27/2023 5:15,Hardcover,Bangla,147,Young,0.787
+P00882,Accounting Essentials,Business,Accounting,Touhid Ahmed,Royal Trade Group,1419.32,1096.07,S00868,58,2/10/2021 11:02,Paperback,Bangla,310,Kids,0.738
+P00883,Bank Jobs Masterclass Practice,Exam Prep,Bank Jobs,Sultana Chowdhury,Green Publishing House,1170.77,,S00352,560,2/3/2024 7:50,Hardcover,Bangla,364,Young,0.695
+P00884,Prayer Guides Workbook,Religious,Prayer Guides,Jalal Rahman,Metro Trade Group,795.07,562.41,S00013,499,10/6/2023 20:25,Hardcover,Bangla,697,Elderly,0.219
+P00885,Mathematics Guide Pro,Academic,Mathematics,Kamal Hossain,Bright Distributors,347.1,237.92,S00290,293,11/22/2025 21:47,Paperback,Bangla,604,Professional,0.293
+P00886,Bangla Literature Simplified Practice,Academic,Bangla Literature,Rashid Ahmed,Green Enterprises,1100.78,817.27,S00944,574,10/13/2023 9:24,eBook,Bangla,434,Young,0.72
+P00887,Leadership Essentials,Self Help,Leadership,Naila Rahman,Delta Supply Co,948.53,619.76,S00116,588,2/22/2024 4:14,Hardcover,Bangla,604,Young,0.375
+P00888,Data Science Masterclass Practice,Programming,Data Science,Anika Rahman,Prime Supply Co,783.93,441.68,S00327,598,10/30/2024 8:43,,Bangla,360,Young,0.706
+P00889,Artists Masterclass,Biography,Artists,Mohiuddin Hossain,Metro Distributors,574.27,337.91,S00149,267,9/12/2019 13:54,Hardcover,Bangla,450,Young,0.974
+P00890,Coloring Books Complete, Children ,Coloring Books,Riaz Hossain,National Publishing House,302.96,243.15,S00843,186,7/10/2019 3:36,Hardcover,Bangla,609,Professional,0.83
+P00891,Data Science Workbook Series,PROGRAMMING,Data Science,Ferdous Khan,Bright Supply Co,603.12,404.65,S00427,51,2/2/2025 13:38,Paperback,Bangla,791,Young,0.769
+P00892,Productivity Guide,Self Help,Productivity,Mala Islam,Prime Trade Group,258.09,172.76,S00580,563,5/11/2022 10:56,eBook,Bangla,185,Young,0.223
+P00893,Finance Guide,Business,Finance,Mala Ahmed,Global Publishing House,379.03,281.58,S00707,38,1/26/2025 8:49,Hardcover,Bangla,439,Kids,0.692
+P00894,Mathematics Simplified Pro,Academic,Mathematics,Anika Islam,Ocean Supply Co,505.64,374.97,S00601,107,11/30/2022 8:29,eBook,Bangla,225,Professional,0.864
+P00895,Short Stories Masterclass,Fiction,Short Stories,Mala Sarker,National Enterprises,843.59,493.73,S00636,433,8/14/2019 20:59,Paperback,Bangla,302,Young,0.618
+P00896,Algorithms Masterclass Edition,Programming,Algorithms,Jalal Uddin,Ocean Publishing House,767.76,508.04,S00020,190,2/2/2022 4:32,Paperback,Bangla,733,Young,0.948
+P00897,Classic Guide,FICTION,Classic,Shahana Uddin,Global Trade Group,461.66,368.55,S00559,297,11/18/2019 8:37,Hardcover,Bangla,404,Kids,0.385
+P00898,Biology Workbook Pro,Academic,Biology,Naila Chowdhury,Green Distributors,624.52,345.7,S00982,451,6/19/2022 21:02,Hardcover,Bangla,641,Young,0.73
+P00899,Bangla Literature Complete Series,academic,Bangla Literature,Naila Khan,Delta Enterprises,637.36,391.29,S00201,197,11/22/2024 16:16,Hardcover,English,681,Elderly,0.694
+P00900,Prayer Guides Workbook,Religious,Prayer Guides,Kamal Uddin,Royal Distributors,283.8,175.59,S00963,485,10/12/2022 5:17,Hardcover,Bangla,439,Professional,0.728
+P00901,Mathematics Workbook Pro,Academic,Mathematics,Rumana Uddin,Delta Publishing House,1170.03,951.21,S00197,199,11/9/2023 16:25,Paperback,Bangla,47,Young,0.724
+P00902,Romance Masterclass,Fiction,Romance,Rumana Rahman,Royal Distributors,502.4,379.29,S00689,177,7/4/2019 2:12,eBook,,751,Young,0.574
+P00903,Productivity Masterclass,Self Help,Productivity,Mala Khan,Prime Publishing House,420.76,292.41,S00168,211,5/12/2020 15:42,eBook,English,225,Young,0.818
+P00904,Scientists Simplified,Biography,Scientists,Mohiuddin Sarker,Ocean Supply Co,321.39,187.12,S00211,396,6/24/2022 20:44,Hardcover,Bangla,529,Young,0.344
+P00905,Leadership Simplified,Self Help,Leadership,Amin Khan,Ocean Logistics,851.84,510.77,S00655,634,9/16/2023 8:15,eBook,English,800,Young,0.404
+P00906,Picture Books Essentials,Children,Picture Books,Rashid Chowdhury,Royal Publishing House,174.79,131.37,S00125,360,3/22/2026 0:48,Paperback,Bangla,436,Elderly,0.94
+P00907,Data Science Workbook Practice,Programming,Data Science,Rashid Hossain,Metro Enterprises,937.44,688.1,S00701,345,6/15/2025 17:47,Paperback,English,817,Young,0.591
+P00908,Physics Guide Pro,Academic,Physics,Sultana Uddin,National Publishing House,592.48,432.83,S00317,427,3/22/2019 23:43,eBook,Bangla,171,Young,0.732
+P00909,Marketing Handbook,Business,Marketing,Kamal Ahmed,Delta Books Ltd,490.65,345.85,S00348,298,3/14/2026 15:26,Hardcover,,702,Professional,0.233
+P00910,Web Development Handbook Practice,PROGRAMMING,Web Development,Sultana Sarker,Bright Books Ltd,856.49,471.76,S00427,118,4/13/2025 6:48,Paperback,,772,Elderly,0.263
+P00911,Accounting Handbook, Business ,Accounting,Shahana Rahman,Bright Supply Co,710.01,520.13,S00765,34,12/2/2024 14:48,eBook,Bangla,431,Young,0.969
+P00912,Habit Building Essentials,Self Help,Habit Building,Mohiuddin Sarker,National Logistics,388.13,231.69,S00947,580,12/26/2019 18:10,eBook,Bangla,487,Young,0.763
+P00913,Chemistry Complete Practice,Academic,Chemistry,Amin Chowdhury,Royal Trade Group,966.07,649,S00075,520,9/26/2020 6:34,Paperback,Bangla,148,Professional,0.475
+P00914,Classic Handbook,Fiction,Classic,Riaz Ahmed,Royal Distributors,592.38,446.18,S00320,148,1/1/2019 8:48,Paperback,Bangla,53,Young,0.901
+P00915,Adventure Workbook,Fiction,Adventure,Ferdous Khan,Royal Distributors,314.24,247.84,S00661,271,7/25/2025 20:42,Paperback,Bangla,512,Young,0.771
+P00916,Hadith Workbook,Religious,Hadith,Riaz Chowdhury,Green Supply Co,528.88,338.44,S00196,275,6/9/2021 9:26,Paperback,Bangla,362,Young,0.882
+P00917,Machine Learning Simplified Pro, Programming ,Machine Learning,Shahana Hossain,Prime Distributors,348.66,235.37,S00706,129,3/16/2021 20:33,eBook,Bangla,827,Young,0.576
+P00918,Islamic History Simplified,Religious,Islamic History,Shahana Chowdhury,Metro Books Ltd,845.79,615.92,S00995,444,3/13/2026 11:15,Paperback,English,783,Young,0.844
+P00919,Thriller Workbook,fiction,Thriller,Touhid Ahmed,Eastern Publishing House,984.66,748.06,S00436,345,1/5/2025 1:05,Paperback,Bangla,369,Elderly,0.252
+P00920,Fiqh Masterclass,Religious,Fiqh,Rashid Khan,Bright Enterprises,520.3,409.09,S00045,123,2/2/2021 0:27,Hardcover,Bangla,707,Young,0.691
+P00921,Productivity Complete,Self Help,Productivity,Touhid Uddin,Delta Supply Co,390.72,273.72,S00883,636,12/6/2023 12:19,Paperback,Bangla,478,Young,0.289
+P00922,Artists Guide,Biography,Artists,Anika Islam,Ocean Trade Group,540.22,419.8,S00024,120,11/20/2019 1:37,eBook,Bangla,676,Professional,0.642
+P00923,Data Science Complete Series,Programming,Data Science,Riaz Ahmed,Bright Logistics,413.07,253.92,S00366,108,2/11/2025 1:24,Hardcover,English,265,Young,0.396
+P00924,Management Guide,Business,Management,Mohiuddin Islam,Bright Distributors,1050.65,673.67,S00397,294,10/15/2024 17:28,Hardcover,Bangla,357,Kids,0.423
+P00925,Web Development Complete Practice,Programming,Web Development,Sultana Rahman,Green Enterprises,711.31,572.64,S00007,519,9/13/2020 14:41,eBook,Bangla,525,Young,0.66
+P00926,Activity Books Masterclass,Children,Activity Books,Sultana Islam,Green Enterprises,226.6,170.29,S00805,535,7/31/2019 11:43,Hardcover,Bangla,691,Young,0.836
+P00927,Mathematics Guide Series,Academic,Mathematics,Amin Khan,Green Trade Group,975.96,554.83,S00169,211,6/17/2025 13:46,eBook,English,273,Professional,0.648
+P00928,Picture Books Complete,Children,Picture Books,Kamal Ahmed,National Supply Co,149.86,106.46,S00311,338,9/10/2019 4:36,Hardcover,Bangla,599,Elderly,0.979
+P00929,University Admission Masterclass Pro,Exam Prep,University Admission,Anika Rahman,Ocean Distributors,1193.57,754.81,S00387,259,10/31/2020 9:49,Paperback,Bangla,654,Young,0.638
+P00930,Adventure Guide,Fiction,Adventure,Shahana Chowdhury,Ocean Enterprises,612.4,390.63,S00738,80,4/17/2022 0:53,eBook,English,179,Professional,0.487
+P00931,Activity Books Essentials,Children,Activity Books,Rumana Khan,Global Supply Co,431.2,347.37,S00732,348,3/13/2025 22:51,Paperback,Bangla,487,Young,0.974
+P00932,Coloring Books Essentials,Children,Coloring Books,Amin Islam,National Enterprises,352.1,211.33,S00724,273,9/6/2022 4:18,Hardcover,English,762,Professional,0.59
+P00933,Python Masterclass Series,Programming,Python,Anika Khan,Global Supply Co,667.89,529.16,S00804,51,11/18/2021 2:46,eBook,Bangla,367,Kids,0.505
+P00934,BCS Essentials Series,Exam Prep,BCS,Jalal Hossain,Ocean Enterprises,787.38,558.46,S00411,639,9/20/2025 7:01,Paperback,Bangla,369,Professional,0.536
+P00935,Quran Studies Handbook,Religious,Quran Studies,Rumana Sarker,Green Logistics,352.64,249.44,S00528,248,9/28/2023 12:16,Hardcover,English,586,Professional,0.48
+P00936,Databases Workbook Edition,Programming,Databases,Kamal Chowdhury,Eastern Books Ltd,637.42,355.03,S00179,386,9/27/2022 6:00,Paperback,Bangla,704,Young,0.614
+P00937,Islamic History Workbook,Religious,Islamic History,Kamal Rahman,Green Books Ltd,235.77,168.71,S00309,209,2/6/2026 7:17,eBook,English,762,Professional,0.246
+P00938,BCS Essentials Edition,Exam Prep,BCS,Shahana Rahman,Global Books Ltd,513.45,339.47,S00451,638,5/28/2020 4:09,Paperback,English,383,Elderly,0.402
+P00939,Databases Guide Pro,Programming,Databases,Sultana Khan,Global Supply Co,897.49,680.36,S00638,598,5/26/2025 10:17,Paperback,Bangla,261,Young,0.776
+P00940,Picture Books Workbook,Children,Picture Books,Sabbir Rahman,Eastern Enterprises,168.83,105.77,S00537,288,3/3/2019 7:58,Hardcover,Bangla,681,Elderly,0.745
+P00941,Bangla Literature Workbook Edition,academic,Bangla Literature,Jalal Khan,Eastern Trade Group,265.06,208.79,S00967,364,9/29/2024 16:16,Hardcover,English,763,Professional,0.661
+P00942,Coloring Books Simplified,Children,Coloring Books,Touhid Ahmed,Ocean Logistics,270.04,189.25,S00449,538,12/4/2019 16:38,eBook,Bangla,366,Young,0.886
+P00943,Accounting Complete,Business,Accounting,Mohiuddin Islam,Global Distributors,358.79,255.18,S00878,104,9/5/2022 9:33,Paperback,Bangla,94,Elderly,0.739
+P00944,Mathematics Workbook Edition,Academic,Mathematics,Amin Islam,Royal Trade Group,911.39,667.48,S00756,86,12/8/2021 1:14,Paperback,English,727,Professional,0.501
+P00945,University Admission Handbook Edition,Exam Prep,University Admission,Riaz Hossain,Green Logistics,437.68,,S00574,352,9/24/2020 0:49,Hardcover,English,667,Young,0.531
+P00946,Activity Books Masterclass,Children,Activity Books,Jalal Khan,Global Books Ltd,168.94,121.01,S00831,445,3/5/2021 18:56,eBook,Bangla,214,Young,0.761
+P00947,Romance Handbook,Fiction,Romance,Amin Rahman,Prime Trade Group,575.54,465.93,S00559,239,2/20/2019 0:06,Hardcover,English,296,Young,0.654
+P00948,English Grammar Handbook Series, Academic ,English Grammar,Ferdous Chowdhury,Green Trade Group,980.51,607.65,S00881,332,7/30/2024 17:56,eBook,Bangla,629,Kids,0.225
+P00949,Biology Handbook Edition,Academic,Biology,Mala Hossain,National Distributors,289.05,232.73,S00940,195,8/26/2020 6:43,Hardcover,English,307,Professional,0.503
+P00950,Entrepreneurship Simplified,Business,Entrepreneurship,Naila Khan,Bright Books Ltd,1303.05,747.11,S00570,82,7/9/2023 16:49,Hardcover,English,512,Professional,0.875
+P00951,Coloring Books Essentials,Children,Coloring Books,Rumana Hossain,Eastern Publishing House,172.28,125.27,S00384,597,10/10/2025 3:45,Paperback,Bangla,768,Kids,0.567
+P00952,Thriller Handbook,fiction,Thriller,Mohiuddin Hossain,Green Books Ltd,205.56,155.16,S00240,419,12/17/2023 13:34,Paperback,Bangla,397,Young,0.385
+P00953,Chemistry Handbook Edition,Academic,Chemistry,Amin Islam,Green Enterprises,1021.79,784.98,S00955,547,5/19/2022 3:24,Hardcover,Bangla,464,Young,0.45
+P00954,Entrepreneurship Complete,Business,Entrepreneurship,Mohiuddin Hossain,Green Trade Group,559.07,326.89,S00938,24,9/28/2023 2:54,eBook,Bangla,349,Young,0.435
+P00955,Activity Books Complete,Children,Activity Books,Rashid Hossain,Bright Trade Group,141.86,83.96,S00746,376,3/8/2022 1:58,,Bangla,581,Young,0.984
+P00956,Classic Guide,Fiction,Classic,Ferdous Uddin,Prime Books Ltd,953.72,763.24,S00096,407,10/14/2025 1:42,eBook,Bangla,344,Elderly,0.988
+P00957,Bank Jobs Essentials Edition,Exam Prep,Bank Jobs,Amin Chowdhury,Royal Enterprises,1088.01,686.85,S00136,316,4/8/2020 16:20,eBook,English,642,Kids,0.602
+P00958,Mathematics Guide Edition,Academic,Mathematics,Mohiuddin Islam,Bright Publishing House,648.19,522.36,S00994,301,3/20/2024 0:42,Paperback,English,190,Young,0.885
+P00959,Mystery Workbook,Fiction,Mystery,Sultana Sarker,Metro Logistics,0,357.38,S00346,178,1/31/2021 17:59,Hardcover,Bangla,332,Young,0.914
+P00960,Databases Essentials Pro,Programming,Databases,Naila Sarker,Delta Enterprises,333.57,187.76,S00455,442,5/28/2025 2:01,Paperback,Bangla,406,Young,0.623
+P00961,Data Science Handbook Edition,Programming,Data Science,Riaz Uddin,Metro Supply Co,596.5,443.87,S00897,547,5/24/2019 0:52,Paperback,Bangla,215,Professional,0.281
+P00962,Web Development Handbook Series,Programming,Web Development,Ferdous Ahmed,Global Distributors,,428.17,S00703,175,6/25/2022 13:20,Paperback,Bangla,412,Professional,0.442
+P00963,Data Science Complete Pro,programming,Data Science,Shahana Uddin,Ocean Publishing House,696.8,510.89,S00042,155,3/14/2025 2:33,eBook,Bangla,409,Young,0.26
+P00964,Mathematics Handbook Series,Academic,Mathematics,Amin Rahman,National Distributors,330.94,195.2,S00316,279,2/15/2025 5:40,Paperback,Bangla,484,Young,0.5
+P00965,Short Stories Guide,Fiction,Short Stories,Anika Chowdhury,Global Supply Co,469.4,320.75,S00478,50,7/21/2019 1:56,Hardcover,English,75,Young,0.756
+P00966,Data Science Complete Series,Programming,Data Science,Jalal Ahmed,National Trade Group,928.67,551.46,S00692,269,2/25/2019 0:18,Paperback,Bangla,486,Young,0.676
+P00967,Story Books Masterclass,children,Story Books,Jalal Islam,Metro Trade Group,385.38,293.54,S00746,285,12/19/2023 4:17,Hardcover,Bangla,378,Young,0.213
+P00968,BCS Workbook Series,Exam Prep,BCS,Shahana Hossain,Eastern Publishing House,752.71,466.49,S00616,268,2/13/2021 15:05,eBook,English,358,Kids,0.729
+P00969,Bank Jobs Guide Series,Exam Prep,Bank Jobs,Amin Ahmed,Global Trade Group,1143.2,827.5,S00263,89,1/23/2024 20:47,Paperback,Bangla,740,Professional,0.461
+P00970,Coloring Books Workbook,Children,Coloring Books,Anika Khan,Metro Books Ltd,285.93,197.27,S00553,623,2/15/2024 9:10,eBook,Bangla,117,Professional,0.861
+P00971,Marketing Workbook,Business,Marketing,Anika Khan,Ocean Distributors,1080.11,629.55,S00085,212,5/26/2025 4:03,Hardcover,English,491,Young,0.777
+P00972,BCS Workbook Practice,Exam Prep,BCS,Rumana Rahman,Green Books Ltd,1090.41,859.77,S00381,393,4/8/2021 23:57,Hardcover,English,309,Young,0.826
+P00973,BCS Simplified Practice,Exam Prep,BCS,Mala Ahmed,Bright Distributors,873.42,696.16,S00300,132,12/31/2023 14:12,Paperback,Bangla,713,Young,0.673
+P00974,Biology Handbook Edition,Academic,Biology,Ferdous Ahmed,Prime Distributors,611.96,395.66,S00893,272,2/15/2021 6:19,eBook,Bangla,114,Professional,0.554
+P00975,University Admission Simplified Edition,Exam Prep,University Admission,Touhid Chowdhury,Global Distributors,637.34,518.19,S00533,574,11/27/2021 7:40,Paperback,English,272,Young,0.542
+P00976,Islamic History Simplified,Religious,Islamic History,Naila Rahman,Green Enterprises,347.48,218.13,S00964,629,3/19/2025 10:06,Paperback,English,361,Professional,0.323
+P00977,English Grammar Essentials Pro,Academic,English Grammar,Rashid Hossain,Prime Logistics,314.72,188.86,S00317,330,8/6/2021 10:06,Paperback,English,126,Professional,0.433
+P00978,Mindfulness Simplified,Self Help,Mindfulness,Sabbir Khan,Ocean Trade Group,247.76,192.06,S00375,39,8/4/2025 16:12,eBook,Bangla,454,Professional,0.701
+P00979,Management Essentials,Business,Management,Amin Ahmed,Delta Distributors,477.08,369.27,S00329,59,6/18/2019 14:05,Hardcover,English,608,Professional,0.317
+P00980,Coloring Books Simplified,Children,Coloring Books,Rashid Rahman,Global Publishing House,173.05,98.19,S00362,628,4/23/2022 2:55,Paperback,English,306,Professional,0.697
+P00981,Python Workbook Pro,Programming,Python,Touhid Rahman,Metro Distributors,,240.48,S00353,368,3/26/2026 0:51,eBook,English,403,Professional,0.219
+P00982,Teacher Recruitment Complete Practice,Exam Prep,Teacher Recruitment,Jalal Ahmed,Green Trade Group,1082.22,858.16,S00821,612,12/1/2022 13:01,eBook,Bangla,445,Professional,0.469
+P00983,Finance Handbook,Business,Finance,Rumana Uddin,Green Distributors,510.81,356.96,S00119,301,11/8/2025 0:50,eBook,Bangla,631,Professional,0.479
+P00984,Bank Jobs Workbook Series,Exam Prep,Bank Jobs,Mohiuddin Chowdhury,Ocean Books Ltd,1174.25,917.64,S00287,469,9/6/2023 13:42,Hardcover,Bangla,556,Young,0.229
+P00985,Classic Handbook,Fiction,Classic,Kamal Islam,Delta Supply Co,782,452.89,S00517,101,5/11/2022 13:58,Hardcover,English,34,Elderly,0.923
+P00986,Productivity Workbook,Self Help,Productivity,Mala Rahman,National Trade Group,766.83,527.71,S00195,423,10/9/2020 18:08,eBook,Bangla,764,Professional,0.986
+P00987,Algorithms Essentials Edition,Programming,Algorithms,Jalal Hossain,Green Publishing House,1106.3,691.63,S00070,339,4/16/2022 20:46,eBook,Bangla,287,Young,0.794
+P00988,Mathematics Masterclass Practice,Academic,Mathematics,Rumana Rahman,Prime Supply Co,448.09,300.48,S00274,610,8/12/2023 0:23,Paperback,Bangla,263,Young,0.739
+P00989,Quran Studies Complete,Religious,Quran Studies,Naila Khan,Ocean Supply Co,537.35,354.64,S00764,242,7/16/2022 10:16,Paperback,,846,Professional,0.446
+P00990,BCS Guide Practice,Exam Prep,BCS,Ferdous Chowdhury,Delta Supply Co,900.8,,S00618,,4/27/2021 20:02,Hardcover,Bangla,342,Elderly,0.848
+P00991,BCS Essentials Pro,Exam Prep,BCS,Rumana Khan,Global Enterprises,342.43,280.55,S00696,549,11/29/2019 18:15,Hardcover,English,527,Professional,0.489
+P00992,Bank Jobs Handbook Practice,Exam Prep,Bank Jobs,Jalal Rahman,Global Logistics,862.17,633.1,S00136,479,5/7/2020 20:05,Hardcover,English,174,Young,0.516
+P00993,Accounting Essentials,Business,Accounting,Sultana Sarker,Metro Publishing House,312.32,,S00105,330,11/27/2024 3:21,Hardcover,English,317,Professional,0.24
+P00994,Romance Handbook,Fiction,Romance,Sabbir Chowdhury,Green Logistics,868.98,535.3,S00146,45,9/3/2023 10:33,eBook,Bangla,406,Professional,0.83
+P00995,BCS Handbook Practice,EXAM PREP,BCS,Sabbir Uddin,Royal Supply Co,980.61,618.69,S00819,70,8/9/2025 2:45,,English,731,Young,0.252
+P00996,Habit Building Guide,Self Help,Habit Building,Riaz Hossain,Delta Books Ltd,496.46,304.21,S00500,515,2/9/2020 5:13,Paperback,Bangla,324,Young,0.74
+P00997,Data Science Simplified Edition,Programming,Data Science,Naila Sarker,Eastern Logistics,479.18,328.51,S00042,62,12/12/2023 22:55,eBook,Bangla,170,Professional,0.225
+P00998,Prayer Guides Masterclass,Religious,Prayer Guides,Sultana Hossain,Royal Books Ltd,773.3,430.54,S00551,398,7/18/2021 7:56,Paperback,Bangla,256,Elderly,0.706
+P00999,Bangla Literature Masterclass Series,ACADEMIC,Bangla Literature,Anika Islam,Delta Enterprises,1014.92,566.07,S00215,26,4/20/2026 23:51,Paperback,English,94,Young,0.582
+P01000,Bank Jobs Guide Pro,Exam Prep,Bank Jobs,Mohiuddin Hossain,Eastern Publishing House,452.45,278.5,S00633,290,6/28/2024 9:20,eBook,English,45,Professional,0.343

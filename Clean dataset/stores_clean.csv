@@ -1,0 +1,1001 @@
+store_id,store_name,city,region,store_type,opening_date,manager_name,floor_area,monthly_rent,employee_count,store_rating
+ST00001,Readers Point Branch - Manikganj,Madaripur,Dhaka,Flagship,2025-12-19 23:07:00,Shaila Ahmed,2677.74,64043.41,20,4.92
+ST00002,Rokomari Branch - Rajbari,Tangail,Dhaka,Mini,2017-08-01 00:53:00,Mahin Nahar,1206.76,86635.24,38,4.52
+ST00003,Bookhub Branch - Chittagong,Munshiganj,Dhaka,Standard,2021-07-19 12:44:00,Tanjim Bhuiyan,3820.77,224329.55,9,3.57
+ST00004,Rokomari Branch - Brahmanbaria,Dhaka,Dhaka,Standard,2017-12-11 05:09:00,Raisa Uddin,3326.62,110611.43,47,3.39
+ST00005,Novel Nest Center - Dhaka,Gazipur,Dhaka,Mini,2021-06-08 10:49:00,Sifat Amin,5898.3,85921.55,4,4.1
+ST00006,Bookhub Center - Comilla,Madaripur,Dhaka,Flagship,2024-07-09 04:41:00,Muntasir Karim,4591.75,189177.48,42,4.97
+ST00007,Readers Point Store - Lakshmipur,Bandarban,Chattogram,Standard,2022-04-23 21:30:00,Sifat Ahmed,5922.59,23927.69,14,3.44
+ST00008,Book Valley Center - Cox'S Bazar,Khagrachari,Chattogram,Standard,2021-11-22 12:33:00,Rafi Bhuiyan,1443.57,143971.41,28,4.89
+ST00009,Bookhub Center - Noakhali,Narsingdi,Dhaka,Mini,2018-01-26 22:17:00,Nafis Nahar,4664.93,120794.65,6,3.53
+ST00010,Bookhub Branch - Narayanganj,Bandarban,Chattogram,Flagship,2025-07-11 02:49:00,Mim Sarker,3489.17,161841.68,33,4.35
+ST00011,Pages Cafe Store - Rajbari,Dhaka,Dhaka,Mall Outlet,2020-05-18 12:54:00,Ayesha Mollik,4390.05,186808.42,29,3.64
+ST00012,Book Valley Store - Cox'S Bazar,Noakhali,Chattogram,Mall Outlet,2021-11-03 20:51:00,Farhan Roy,3018.29,91372.27,40,2.99
+ST00013,Book Valley Store - Chittagong,Faridpur,Dhaka,Online Hub,2025-01-28 20:09:00,Mahin Hossain,1589.39,164558.04,22,4.86
+ST00014,Bookhub Center - Munshiganj,Gazipur,Dhaka,Standard,2022-08-28 22:41:00,Muntasir Mollik,656.13,138217.25,2,3.16
+ST00015,Pages Cafe Center - Munshiganj,Dhaka,Dhaka,Mini,2023-08-13 01:18:00,Rafi Sheikh,5094.41,46482.44,35,4.88
+ST00016,Rokomari Store - Bandarban,Dhaka,Dhaka,Flagship,2018-08-30 05:08:00,Arif Islam,4962.93,222205.66,42,3.03
+ST00017,Book Valley Store - Chandpur, Cumilla ,,Online Hub,2021-02-20 19:39:00,Shaila Amin,1310.22,192328.69,40,3.39
+ST00018,Literary World Store - Munshiganj,Dhaka,Dhaka,Standard,2021-11-12 08:22:00,Fahim Chowdhury,4013.01,231588.72,17,4.83
+ST00019,Story House Center - Kishoreganj,Dhaka,Dhaka,Flagship,2018-08-01 10:59:00,Karim Ahmed,4531.31,184295.08,43,4.25
+ST00020,Bookhub Store - Lakshmipur,Dhaka,Dhaka,Standard,2020-06-20 02:30:00,Tanvir Rahman,3522.7,72529.54,33,3.22
+ST00021,Novel Nest Branch - Lakshmipur,Rangamati,Chattogram,Online Hub,2024-06-25 04:19:00,Tanjim Mollik,2176.48,116173.66,45,4.1
+ST00022,Story House Store - Shariatpur,Chittagong,Chattogram,Online Hub,2025-05-19 16:43:00,Farhan Khan,5333.3,105914.08,8,3.2
+ST00023,Literary World Outlet - Dhaka,Lakshmipur,Chattogram,Standard,2024-05-29 13:09:00,Ayesha Khan,3997.67,23418.15,20,4.72
+ST00024,Literary World Branch - Kishoreganj,Feni,Chattogram,Standard,2025-05-27 20:45:00,Tanjim Nahar,4433.22,52860.2560817668,3,2.91
+ST00025,Rokomari Outlet - Faridpur,Khagrachari,Chattogram,Mini,2025-12-26 01:51:00,Karim Das,4051.84,96208.82,43,3.97
+ST00026,Story House Store - Feni,Manikganj,Dhaka,Online Hub,2018-10-15 06:23:00,Shaila Khan,4439.22,15922.09,2,2.94
+ST00027,Pages Cafe Branch - Tangail,Dhaka,Dhaka,Mini,2024-09-12 04:45:00,Karim Chowdhury,1212.38,214073.97,4,4.33
+ST00028,Book Valley Branch - Khagrachari,Faridpur,Dhaka,Standard,2022-07-31 18:00:00,Sadia Amin,5566.53,48810.49,11,4.86
+ST00029,Readers Point Store - Faridpur,Dhaka,Dhaka,Mini,2024-09-23 07:31:00,Tasnima Bhuiyan,2000.54,132723.76,20,4.63
+ST00030,Readers Point Outlet - Faridpur,Brahmanbaria,Chattogram,Online Hub,2022-09-29 01:05:00,Sami Amin,5084.69,199399.29,3,3.62
+ST00031,Book Valley Store - Tangail,Dhaka,Dhaka,Flagship,2018-02-15 13:55:00,Nafis Islam,5402.95,157053.12,38,3.32
+ST00032,Readers Point Center - Narayanganj,Dhaka,Dhaka,Standard,2022-01-23 11:45:00,Mahin Roy,4046.85,54797.54,9,4.311883755053946
+ST00033,Pages Cafe Store - Brahmanbaria,Bandarban,Chattogram,Flagship,2023-11-04 15:54:00,Hasan Amin,3750.48,160279.61,48,4.72
+ST00034,Pages Cafe Outlet - Khagrachari,Dhaka,Dhaka,Standard,2018-02-13 13:08:00,Fahim Rahman,1010.67,193035.27,34,2.98
+ST00035,Literary World Branch - Khagrachari,Dhaka,Dhaka,Mini,2021-07-16 20:02:00,Rahim Hossain,2842.84,215869.66,6,4.18
+ST00036,Book Valley Outlet - Rangamati,Dhaka,Dhaka,Flagship,2022-11-20 02:15:00,Ayesha Miah,3825.21,89883.63,25,3.61
+ST00037,Novel Nest Store - Narsingdi,Bandarban,Chattogram,Standard,2021-03-06 15:07:00,Rumana Sarker,858.47,22971.53,10,4.99
+ST00038,Novel Nest Store - Khagrachari,Dhaka,Dhaka,Flagship,2024-03-10 19:03:00,Mim Hossain,1024.19,157867.83,58,3.92
+ST00039,Literary World Outlet - Madaripur,Dhaka,Dhaka,Online Hub,2018-02-22 06:23:00,Mim Karim,5963.5,68055.6,36,4.01
+ST00040,Novel Nest Center - Noakhali,Dhaka,Dhaka,Online Hub,2020-02-09 09:54:00,Tanjim Roy,2260.51,198510.34,48,4.82
+ST00041,Literary World Center - Faridpur,Chandpur,Chattogram,Standard,2025-07-23 22:56:00,Sifat Bhuiyan,2358.5,174772.2,23,4.93
+ST00042,Readers Point Center - Gazipur,Dhaka,Dhaka,Mini,2021-08-18 19:36:00,Jannat Khan,1808.56,196698.91,10,4.08
+ST00043,Bookhub Center - Madaripur,Dhaka,Dhaka,Flagship,2018-08-18 17:42:00,Sifat Bhuiyan,4017.71,242369.83,15,4.55
+ST00044,Book Valley Outlet - Narsingdi,Khagrachari,Chattogram,Online Hub,2018-01-18 06:05:00,Karim Uddin,3049.22,152368.64,26,4.2
+ST00045,Rokomari Outlet - Bandarban,Feni,Chattogram,Mini,2022-05-04 03:14:00,Mahin Sheikh,4826.41,227513.68,46,3.74
+ST00046,Literary World Outlet - Dhaka,Dhaka,Dhaka,Flagship,2025-05-17 05:50:00,Tanvir Das,3269.97,165844.94,26,2.93
+ST00047,Novel Nest Store - Lakshmipur,Dhaka,Dhaka,Mall Outlet,2017-06-11 13:19:00,Mahin Amin,486.33,57709.92,55,4.38
+ST00048,Pages Cafe Center - Gopalganj,Dhaka,Dhaka,Flagship,2017-12-26 22:35:00,Hasan Sarker,3103.05,202837.42,23,4.34
+ST00049,Novel Nest Branch - Shariatpur,Brahmanbaria,Chattogram,Mini,2020-05-17 23:42:00,Sami Uddin,709.05,178019.18,15,3.06
+ST00050,Story House Center - Khagrachari,Dhaka,Dhaka,Flagship,2018-11-16 17:27:00,Farhan Sheikh,5030.0,244815.85,30,3.31
+ST00051,Readers Point Branch - Dhaka,Lakshmipur,Chattogram,Mini,2018-02-02 20:40:00,Jannat Bhuiyan,1036.49,72206.52,8,4.41
+ST00052,Bookhub Branch - Rajbari,Cox's Bazar,Chattogram,Flagship,2019-09-08 19:12:00,Karim Nahar,1614.94,93284.5,40,3.13
+ST00053,Rokomari Branch - Rajbari,Rajbari,Dhaka,Flagship,2022-10-14 05:55:00,Hasan Mollik,2975.81,208050.39,7,4.32
+ST00054,Book Valley Center - Faridpur,Dhaka,Dhaka,Standard,2024-06-06 13:07:00,Tanjim Sheikh,1493.03,29779.06,39,4.38
+ST00055,Novel Nest Center - Narayanganj,Khagrachari,Chattogram,Mall Outlet,2019-10-04 19:11:00,Mim Chowdhury,3419.63,163801.94,24,3.58
+ST00056,Readers Point Store - Shariatpur,Chandpur,Chattogram,Standard,2023-04-22 08:31:00,Sadia Hossain,2979.91,140836.87,22,3.37
+ST00057,Bookhub Outlet - Faridpur, Cumilla ,,Mini,2024-05-28 20:31:00,Tanjim Uddin,5734.13,54673.14,37,3.62
+ST00058,Bookhub Outlet - Madaripur,Dhaka,Dhaka,Standard,2017-01-24 01:11:00,Nafis Karim,894.89,53803.6,42,3.59
+ST00059,Pages Cafe Branch - Brahmanbaria,Brahmanbaria,Chattogram,Online Hub,2024-09-03 09:36:00,Tamim Roy,3629.7,205396.44,55,4.14
+ST00060,Rokomari Branch - Rangamati, Cumilla ,,Standard,2018-08-27 04:23:00,Raisa Sarker,4434.24,18629.61,18,4.44
+ST00061,Rokomari Outlet - Tangail,Noakhali,Chattogram,Standard,2023-03-02 02:07:00,Muntasir Talukder,1114.71,190507.74,49,4.7
+ST00062,Pages Cafe Outlet - Gopalganj,Rajbari,Dhaka,Mall Outlet,2023-10-01 23:55:00,Shuvo Islam,3964.19,187176.8,50,2.87
+ST00063,Readers Point Store - Brahmanbaria,Munshiganj,Dhaka,Standard,2024-08-09 15:23:00,Nusrat Hossain,5239.74,167674.79,59,4.4
+ST00064,Novel Nest Center - Cox'S Bazar,Madaripur,Dhaka,Standard,2020-08-20 00:00:00,Sakib Khan,4810.31,111236.65,57,3.49
+ST00065,Readers Point Center - Bandarban,Brahmanbaria,Chattogram,Online Hub,2022-12-08 04:05:00,Nusrat Ahmed,5636.96,21655.36,47,4.65
+ST00066,Story House Center - Narsingdi,Lakshmipur,Chattogram,Standard,2017-03-28 03:18:00,Nayeem Nahar,4435.28,203417.52,19,2.97
+ST00067,Rokomari Store - Rajbari,Rajbari,Dhaka,Standard,2021-01-08 13:43:00,Sadia Sarker,2606.33,44541.19,42,4.01
+ST00068,Story House Center - Dhaka,Dhaka,Dhaka,Standard,2025-09-03 10:20:00,Mahin Hossain,5554.53,80985.06,47,4.01
+ST00069,Book Valley Outlet - Madaripur,Dhaka,Dhaka,Online Hub,2018-06-05 22:17:00,Mahin Talukder,1662.0,237493.99,18,3.52
+ST00070,Pages Cafe Center - Gazipur,Shariatpur,Dhaka,Mall Outlet,2018-05-12 22:49:00,Adib Sarker,3668.73,85937.34,49,4.93
+ST00071,Literary World Store - Gazipur,Feni,Chattogram,Mini,2023-04-20 14:57:00,Tanjim Miah,4687.68,74957.7,42,3.04
+ST00072,Rokomari Branch - Comilla,Dhaka,Dhaka,Mini,2021-08-05 09:26:00,Nusrat Sarker,5284.77,243742.08,30,3.1
+ST00073,Story House Store - Dhaka,Kishoreganj,Dhaka,Standard,2021-02-03 22:48:00,Nafis Ahmed,5532.64,35194.07,51,4.22
+ST00074,Readers Point Branch - Narayanganj,Noakhali,Chattogram,Flagship,2019-03-27 23:12:00,Mim Jahan,875.86,52762.24,7,3.93
+ST00075,Pages Cafe Center - Lakshmipur,Munshiganj,Dhaka,Flagship,2018-07-17 19:06:00,Sadia Khan,4465.93,118004.62,27,3.38
+ST00076,Story House Branch - Madaripur,Dhaka,Dhaka,Flagship,2023-08-21 07:46:00,Hasan Chowdhury,1542.98,200103.19,47,3.47
+ST00077,Pages Cafe Outlet - Narayanganj,Gazipur,Dhaka,Flagship,2020-03-21 14:20:00,Mahin Hossain,4763.07,222824.35,4,3.15
+ST00078,Literary World Center - Noakhali,Kishoreganj,Dhaka,Mini,2023-12-28 07:43:00,Nusrat Sarker,4323.86,192574.39,25,4.71
+ST00079,Book Valley Outlet - Kishoreganj,Dhaka,Dhaka,Flagship,2020-12-27 19:29:00,Tanjim Hossain,1415.57,244401.13,31,4.05
+ST00080,Readers Point Store - Rangamati,Tangail,Dhaka,Flagship,2020-07-29 06:23:00,Nabil Sarker,5063.85,18958.84,14,3.34
+ST00081,Readers Point Branch - Dhaka,Rajbari,Dhaka,Standard,2019-01-27 04:20:00,Farhan Chowdhury,2986.02,160584.04,53,3.67
+ST00082,Rokomari Center - Brahmanbaria,Tangail,Dhaka,Standard,2022-12-04 15:58:00,Ayesha Islam,3445.59,42341.36,38,4.79
+ST00083,Book Valley Branch - Rajbari,Shariatpur,Dhaka,Flagship,2019-07-25 08:20:00,Karim Mollik,5839.86,228935.24,17,4.75
+ST00084,Bookhub Outlet - Brahmanbaria,Dhaka,Dhaka,Flagship,2025-03-07 05:10:00,Muntasir Sarker,4077.1,234797.19,27,2.95
+ST00085,Pages Cafe Center - Manikganj,Dhaka,Dhaka,Standard,2020-09-03 18:46:00,Mim Islam,3695.95,133516.32790113767,8,4.24
+ST00086,Literary World Outlet - Narsingdi,Dhaka,Dhaka,Standard,2024-05-01 11:06:00,Raisa Talukder,493.87,209511.51,7,3.14
+ST00087,Bookhub Center - Rangamati,Dhaka,Dhaka,Mini,2021-03-25 06:13:00,Rumana Khan,1515.6,163114.76,45,3.26
+ST00088,Book Valley Center - Feni,Chandpur,Chattogram,Online Hub,2020-09-25 08:29:00,Rahim Amin,548.77,38614.86,59,4.7
+ST00089,Rokomari Store - Madaripur,Dhaka,Dhaka,Mini,2021-01-29 04:38:00,Jannat Islam,2266.55,156650.52,18,4.77
+ST00090,Book Valley Store - Lakshmipur,Bandarban,Chattogram,Mini,2020-12-21 16:34:00,Hasan Roy,2329.25,244373.4,16,2.98
+ST00091,Readers Point Store - Brahmanbaria,Dhaka,Dhaka,Mall Outlet,2021-04-23 22:16:00,Sifat Sheikh,3369.85,87402.1,41,4.72
+ST00092,Bookhub Branch - Noakhali,Dhaka,Dhaka,Standard,2024-12-24 06:46:00,Hasan Hossain,4262.7,15268.08,31,4.4
+ST00093,Novel Nest Store - Narsingdi,Dhaka,Dhaka,Mini,2023-04-30 07:32:00,Sami Chowdhury,1404.33,244546.04,10,4.51
+ST00094,Pages Cafe Store - Dhaka,Munshiganj,Dhaka,Standard,2017-04-23 22:46:00,Arif Bhuiyan,3769.26,112286.1,40,4.54
+ST00095,Novel Nest Center - Chandpur,Tangail,Dhaka,Standard,2017-07-11 07:45:00,Nayeem Karim,5535.07,116269.2,14,3.92
+ST00096,Readers Point Store - Comilla, Cumilla ,,Standard,2017-03-16 23:00:00,Farhan Miah,1436.04,182463.85,8,4.88
+ST00097,Rokomari Center - Khagrachari,Dhaka,Dhaka,Flagship,2023-03-21 08:40:00,Tanvir Bhuiyan,4090.89,157030.57,28,3.24
+ST00098,Rokomari Center - Madaripur,Shariatpur,Dhaka,Mini,2018-11-08 05:50:00,Rafi Hossain,655.3,85966.85,44,3.91
+ST00099,Literary World Store - Shariatpur,Chittagong,Chattogram,Flagship,2020-06-20 00:58:00,Nusrat Bhuiyan,3374.43,38494.8,32,3.5
+ST00100,Rokomari Branch - Comilla,Faridpur,Dhaka,Mini,2024-06-12 13:33:00,Tasnima Rahman,4552.62,209430.19,39,4.61
+ST00101,Novel Nest Outlet - Noakhali,Dhaka,Dhaka,Online Hub,2018-03-10 01:28:00,Sakib Bhuiyan,590.63,128593.64,15,2.98
+ST00102,Readers Point Branch - Tangail,Dhaka,Dhaka,Standard,2018-05-19 11:00:00,Sadia Islam,2268.53,173031.46,30,3.75
+ST00103,Novel Nest Outlet - Rangamati,Dhaka,Dhaka,Flagship,2017-09-19 00:57:00,Nabil Talukder,5316.56,217218.6,43,4.5
+ST00104,Book Valley Outlet - Chittagong,Khagrachari,Chattogram,Standard,2019-07-27 10:15:00,Rahim Chowdhury,1662.69,19164.76,32,3.49
+ST00105,Readers Point Branch - Khagrachari,Gopalganj,Dhaka,Standard,2017-10-22 11:12:00,Tanvir Jahan,4448.1,216955.54,15,3.33
+ST00106,Pages Cafe Center - Comilla,Narayanganj,Dhaka,Mall Outlet,2022-08-30 02:52:00,Nabil Nahar,3828.53,191671.89,57,3.38
+ST00107,Rokomari Center - Narayanganj,Chittagong,Chattogram,Mini,2023-08-19 00:40:00,Ayesha Patwary,1316.65,237503.11,5,4.37
+ST00108,Literary World Outlet - Cox'S Bazar,Gopalganj,Dhaka,Mini,2018-08-29 10:07:00,Sakib Karim,4553.56,69893.84,54,3.43
+ST00109,Bookhub Branch - Narsingdi,Tangail,Dhaka,Standard,2021-09-19 22:18:00,Nafis Roy,3379.65,90769.25,44,3.69
+ST00110,Rokomari Branch - Chandpur,Dhaka,Dhaka,Mini,2019-09-24 00:58:00,Rumana Jahan,1027.34,170447.5,8,4.28590569051646
+ST00111,Story House Center - Munshiganj,Manikganj,Dhaka,Mini,2017-09-21 19:25:00,Rumana Ahmed,5716.48,232561.35,16,4.87
+ST00112,Story House Outlet - Kishoreganj,Dhaka,Dhaka,Flagship,2021-03-15 06:36:00,Ayesha Sheikh,3154.99,248277.3,23,4.55
+ST00113,Story House Center - Narayanganj,Dhaka,Dhaka,Standard,2023-04-11 06:10:00,Rumana Bhuiyan,4572.45,112933.35,57,3.21
+ST00114,Book Valley Center - Madaripur,Dhaka,Dhaka,Flagship,2019-01-20 13:36:00,Tanjim Das,1619.12,141718.97,31,4.74
+ST00115,Rokomari Center - Faridpur,Brahmanbaria,Chattogram,Standard,2024-02-03 16:52:00,Jannat Das,1168.23,178585.05063833922,16,4.66
+ST00116,Book Valley Outlet - Madaripur,Bandarban,Chattogram,Online Hub,2025-12-06 01:42:00,Raisa Amin,4551.32,178084.21,55,4.44
+ST00117,Literary World Outlet - Narsingdi,Chandpur,Chattogram,Mini,2017-07-04 23:39:00,Jannat Patwary,4173.42,211782.05,8,3.94
+ST00118,Bookhub Center - Lakshmipur,Dhaka,Dhaka,Standard,2018-06-22 02:00:00,Ayesha Patwary,1935.0,202682.59,49,2.95
+ST00119,Literary World Branch - Khagrachari,Rangamati,Chattogram,Mall Outlet,2019-08-09 23:52:00,Tamim Talukder,4579.19,96273.12,50,4.37
+ST00120,Rokomari Outlet - Dhaka,Dhaka,Dhaka,Flagship,2024-08-24 21:26:00,Jannat Miah,3227.96,241367.04,24,3.94
+ST00121,Story House Branch - Bandarban,Cox's Bazar,Chattogram,Flagship,2018-04-12 23:20:00,Nayeem Sheikh,2352.14,43281.45,4,3.48
+ST00122,Bookhub Branch - Brahmanbaria,Chandpur,Chattogram,Mall Outlet,2021-03-25 17:57:00,Rahim Bhuiyan,4806.59,131082.95,53,2.82
+ST00123,Story House Branch - Gopalganj,Rajbari,Dhaka,Mall Outlet,2021-11-01 20:33:00,Mahin Talukder,3853.98,145330.33,40,3.31
+ST00124,Pages Cafe Store - Faridpur,Madaripur,Dhaka,Mini,2018-03-01 07:12:00,Nabil Uddin,3240.7,141080.76,23,4.13
+ST00125,Bookhub Outlet - Munshiganj,Chandpur,Chattogram,Standard,2017-05-19 00:18:00,Farhan Bhuiyan,4729.4,193104.33,32,3.05
+ST00126,Rokomari Center - Brahmanbaria,Chandpur,Chattogram,Mall Outlet,2018-01-25 08:17:00,Tasnima Nahar,3451.04,158257.7,17,4.24
+ST00127,Bookhub Center - Faridpur,Dhaka,Dhaka,Mini,2017-07-04 16:41:00,Arif Uddin,5655.79,33125.42,9,4.6
+ST00128,Book Valley Outlet - Madaripur, Cumilla ,,Mini,2021-07-02 23:20:00,Rumana Mollik,4981.11,57265.14,37,3.5
+ST00129,Bookhub Store - Tangail,Dhaka,Dhaka,Standard,2025-06-05 13:41:00,Sakib Mollik,2405.85,140076.17,32,2.98
+ST00130,Book Valley Branch - Faridpur,Munshiganj,Dhaka,Standard,2020-03-07 16:00:00,Tamim Das,3003.55,178218.69,22,3.11
+ST00131,Rokomari Outlet - Munshiganj,Tangail,Dhaka,Online Hub,2019-04-24 13:48:00,Rumana Hossain,5761.07,135831.02,39,3.59
+ST00132,Story House Store - Munshiganj,Cox's Bazar,Chattogram,Online Hub,2019-02-10 21:40:00,Tamim Uddin,5413.14,98544.33,38,4.59
+ST00133,Readers Point Outlet - Chittagong,Manikganj,Dhaka,Standard,2025-10-30 17:10:00,Nafis Bhuiyan,1470.64,27016.62,2,4.2
+ST00134,Book Valley Center - Faridpur,Dhaka,Dhaka,Standard,2025-08-18 01:46:00,Farhan Talukder,1936.1,199682.01,25,4.71
+ST00135,Pages Cafe Store - Narayanganj,Munshiganj,Dhaka,Mini,2022-11-02 00:40:00,Hasan Mollik,2440.75,131840.65,52,4.99
+ST00136,Bookhub Branch - Dhaka,Dhaka,Dhaka,Standard,2021-03-03 15:58:00,Rumana Islam,5327.15,141615.45,48,3.25
+ST00137,Story House Branch - Brahmanbaria,Narayanganj,Dhaka,Standard,2018-06-10 03:27:00,Farhan Rahman,5593.54,125205.16,51,4.33
+ST00138,Readers Point Branch - Lakshmipur,Manikganj,Dhaka,Flagship,2025-05-11 01:44:00,Sadia Mollik,4893.11,77356.17,57,3.83
+ST00139,Book Valley Store - Noakhali,Chittagong,Chattogram,Flagship,2017-01-05 10:55:00,Arif Sheikh,1943.97,79947.76,5,3.89
+ST00140,Novel Nest Center - Tangail,Dhaka,Dhaka,Mini,2018-06-23 21:40:00,Jannat Das,5367.56,29922.69,17,3.52
+ST00141,Book Valley Outlet - Kishoreganj,Dhaka,Dhaka,Flagship,2023-02-09 00:17:00,Rumana Hossain,584.13,181285.77,28,3.55
+ST00142,Readers Point Outlet - Faridpur,Manikganj,Dhaka,Flagship,2018-08-26 20:52:00,Karim Das,2767.7,78890.13,31,4.29
+ST00143,Story House Store - Rajbari,Dhaka,Dhaka,Mall Outlet,2017-12-22 15:04:00,Raisa Roy,2514.72,85161.92,47,4.17
+ST00144,Readers Point Store - Rajbari,Dhaka,Dhaka,Mini,2022-05-13 13:07:00,Sakib Talukder,3397.34,248472.53,44,3.5
+ST00145,Book Valley Center - Manikganj,Gazipur,Dhaka,Flagship,2017-03-28 05:11:00,Sifat Rahman,3539.59,105665.95,42,3.06
+ST00146,Story House Branch - Madaripur,Munshiganj,Dhaka,Standard,2019-06-06 19:28:00,Imran Sarker,1662.27,135013.84,11,4.07
+ST00147,Book Valley Center - Noakhali,Dhaka,Dhaka,Mini,2022-10-14 00:33:00,Rafi Jahan,1545.51,105821.18,41,4.43
+ST00148,Book Valley Branch - Khagrachari,Narsingdi,Dhaka,Standard,2018-08-31 16:56:00,Jannat Bhuiyan,4899.97,83194.91,48,4.03
+ST00149,Readers Point Branch - Bandarban,Feni,Chattogram,Standard,2023-11-01 03:32:00,Rahim Jahan,826.7,16374.92,45,2.81
+ST00150,Bookhub Outlet - Shariatpur,Narayanganj,Dhaka,Standard,2017-11-08 03:16:00,Nusrat Miah,3162.4,215898.29,35,3.42
+ST00151,Rokomari Store - Tangail,Dhaka,Dhaka,Standard,2022-07-09 04:43:00,Nafis Sarker,1473.22,126191.11,7,4.51
+ST00152,Novel Nest Outlet - Brahmanbaria,Dhaka,Dhaka,Mini,2017-09-08 15:00:00,Tamim Miah,2189.58,184174.22,10,4.43
+ST00153,Story House Branch - Lakshmipur,Dhaka,Dhaka,Flagship,2023-08-02 15:51:00,Tasnima Karim,1952.85,240284.32,45,3.4398879136571536
+ST00154,Bookhub Store - Chandpur,Narsingdi,Dhaka,Standard,2023-10-11 21:52:00,Tasnima Miah,4367.72,15665.36,52,3.83
+ST00155,Literary World Branch - Bandarban,Bandarban,Chattogram,Flagship,2024-02-25 18:56:00,Tanjim Bhuiyan,2953.72,173634.31,49,3.76
+ST00156,Literary World Store - Khagrachari,Dhaka,Dhaka,Flagship,2019-07-17 04:30:00,Shuvo Talukder,2076.87,42880.57,26,4.24
+ST00157,Readers Point Outlet - Narsingdi,Dhaka,Dhaka,Flagship,2019-02-16 11:44:00,Sami Mollik,5055.57,122621.79,36,3.07
+ST00158,Readers Point Branch - Dhaka,Faridpur,Dhaka,Online Hub,2025-10-21 02:02:00,Sami Miah,880.45,213993.79,12,4.345240028385023
+ST00159,Story House Outlet - Narsingdi,Faridpur,Dhaka,Flagship,2023-07-26 02:21:00,Muntasir Das,4691.62,31801.52,36,4.88
+ST00160,Book Valley Center - Narayanganj,Noakhali,Chattogram,Standard,2018-08-25 17:39:00,Mim Patwary,1790.55,247559.17,13,3.62
+ST00161,Story House Branch - Shariatpur,Dhaka,Dhaka,Flagship,2017-04-06 21:35:00,Tanjim Hossain,5540.91,151496.42,48,3.54
+ST00162,Rokomari Center - Gazipur,Dhaka,Dhaka,Mini,2020-03-10 17:04:00,Tanjim Uddin,431.13,107823.46,47,2.86
+ST00163,Novel Nest Center - Madaripur,Gazipur,Dhaka,Standard,2022-12-26 14:52:00,Sakib Miah,3517.31,19584.91,4,2.93
+ST00164,Literary World Outlet - Tangail,Dhaka,Dhaka,Mall Outlet,2020-05-16 22:47:00,Muntasir Karim,3884.68,152903.42,56,4.85
+ST00165,Bookhub Center - Gazipur,Dhaka,Dhaka,Mini,2024-04-08 06:27:00,Farhan Nahar,3632.88,131299.26,48,4.95
+ST00166,Bookhub Center - Tangail,Kishoreganj,Dhaka,Standard,2021-07-02 12:02:00,Farhan Ahmed,4964.09,65599.5,23,2.81
+ST00167,Pages Cafe Branch - Rajbari,Faridpur,Dhaka,Mini,2025-12-02 09:23:00,Muntasir Patwary,1028.12,130255.17,28,4.78
+ST00168,Novel Nest Center - Faridpur,Dhaka,Dhaka,Flagship,2024-10-31 21:49:00,Farhan Nahar,2727.11,18005.48,6,3.18
+ST00169,Novel Nest Outlet - Bandarban,Rajbari,Dhaka,Mall Outlet,2021-03-29 11:41:00,Sami Uddin,5236.93,249877.24,56,4.03
+ST00170,Rokomari Outlet - Cox'S Bazar,Munshiganj,Dhaka,Mall Outlet,2024-07-06 01:19:00,Mim Chowdhury,5376.92,93046.89,7,4.29
+ST00171,Pages Cafe Branch - Gazipur,Dhaka,Dhaka,Standard,2021-01-12 15:24:00,Muntasir Khan,3190.73,127852.2,55,3.7838369806519774
+ST00172,Novel Nest Store - Faridpur,Feni,Chattogram,Mini,2017-02-02 17:11:00,Rafi Bhuiyan,3524.61,199422.87,39,3.96
+ST00173,Novel Nest Store - Narayanganj,Dhaka,Dhaka,Standard,2019-10-10 04:21:00,Tasnima Das,4677.89,182502.91,55,4.18
+ST00174,Book Valley Outlet - Madaripur,Noakhali,Chattogram,Standard,2020-09-06 19:29:00,Raisa Mollik,4765.82,223811.37,23,3.23
+ST00175,Book Valley Branch - Narayanganj,Lakshmipur,Chattogram,Mini,2025-10-14 14:34:00,Tamim Rahman,5373.26,236211.55,53,4.99
+ST00176,Pages Cafe Branch - Feni,Madaripur,Dhaka,Mall Outlet,2024-06-13 14:24:00,Rafi Bhuiyan,5125.6,59456.79,26,3.25
+ST00177,Book Valley Store - Tangail,Dhaka,Dhaka,Standard,2018-04-27 18:30:00,Rafi Chowdhury,2720.77,106743.96,22,2.82
+ST00178,Bookhub Outlet - Narayanganj,Cox's Bazar,Chattogram,Mini,2017-01-01 15:35:00,Mim Bhuiyan,4038.62,176401.99,21,4.88
+ST00179,Novel Nest Branch - Chittagong,Gazipur,Dhaka,Mini,2021-10-04 14:18:00,Muntasir Ahmed,3106.12,25580.7,57,3.74
+ST00180,Rokomari Store - Chandpur,Dhaka,Dhaka,Standard,2021-10-20 12:57:00,Rumana Miah,1060.58,183482.05,29,3.68
+ST00181,Readers Point Outlet - Narayanganj,Narsingdi,Dhaka,Mini,2023-08-14 11:12:00,Raisa Hossain,5001.41,16147.61,29,3.41
+ST00182,Bookhub Center - Khagrachari,Munshiganj,Dhaka,Mini,2019-05-03 15:17:00,Tanjim Bhuiyan,3769.88,229810.79,39,2.86
+ST00183,Bookhub Center - Bandarban,Feni,Chattogram,Mini,2024-04-22 20:22:00,Nusrat Sarker,724.83,183769.82,34,3.38
+ST00184,Story House Store - Dhaka,Chandpur,Chattogram,Mall Outlet,2020-09-18 08:34:00,Adib Amin,4190.46,147892.31,33,3.67
+ST00185,Rokomari Store - Gopalganj,Feni,Chattogram,Flagship,2020-01-05 09:58:00,Nayeem Khan,1985.37,115791.73,23,3.94
+ST00186,Literary World Store - Tangail,Chandpur,Chattogram,Standard,2020-10-13 02:54:00,Rahim Uddin,787.89,247185.82,11,3.81
+ST00187,Rokomari Branch - Chittagong,Tangail,Dhaka,Flagship,2025-07-01 14:41:00,Tamim Uddin,3796.9,188080.26,59,4.73
+ST00188,Novel Nest Outlet - Bandarban,Munshiganj,Dhaka,Flagship,2020-07-11 07:19:00,Imran Ahmed,4500.37,204713.85,30,4.8
+ST00189,Novel Nest Store - Tangail,Rangamati,Chattogram,Standard,2022-01-17 01:26:00,Sakib Ahmed,3296.79,208965.47,58,3.5
+ST00190,Book Valley Store - Feni,Noakhali,Chattogram,Online Hub,2025-01-09 22:45:00,Shaila Sarker,431.63,20140.61,28,4.91
+ST00191,Readers Point Center - Munshiganj,Feni,Chattogram,Standard,2017-03-02 01:54:00,Ayesha Bhuiyan,3630.54,27850.83,36,4.7
+ST00192,Novel Nest Branch - Madaripur,Chittagong,Chattogram,Mini,2021-10-29 19:39:00,Jannat Karim,437.01,61615.77,33,4.84
+ST00193,Pages Cafe Branch - Brahmanbaria,Rajbari,Dhaka,Standard,2023-05-17 14:24:00,Imran Islam,5587.89,168976.14,58,4.35
+ST00194,Book Valley Store - Tangail,Dhaka,Dhaka,Standard,2025-02-17 17:04:00,Adib Nahar,1896.91,161628.06,8,3.24
+ST00195,Literary World Center - Dhaka,Feni,Chattogram,Online Hub,2017-07-22 03:13:00,Tasnima Jahan,5277.64,91413.44,32,3.23
+ST00196,Book Valley Branch - Bandarban,Dhaka,Dhaka,Mini,2023-07-17 01:48:00,Nayeem Jahan,467.81,243654.71,10,4.8
+ST00197,Novel Nest Store - Tangail,Dhaka,Dhaka,Standard,2024-03-22 04:34:00,Rumana Talukder,944.41,36880.06,52,3.92
+ST00198,Pages Cafe Store - Khagrachari,Kishoreganj,Dhaka,Mall Outlet,2020-02-28 18:43:00,Rumana Karim,2927.89,197529.23,32,4.76
+ST00199,Pages Cafe Branch - Bandarban,Rajbari,Dhaka,Standard,2023-09-18 18:01:00,Sami Talukder,4648.2,128006.12,55,4.39
+ST00200,Book Valley Store - Lakshmipur,Narsingdi,Dhaka,Flagship,2021-06-10 20:24:00,Fahim Patwary,5678.35,113426.04,17,3.27
+ST00201,Bookhub Outlet - Rangamati,Dhaka,Dhaka,Standard,2022-12-03 11:57:00,Nafis Rahman,3318.13,21007.77,11,3.65
+ST00202,Pages Cafe Outlet - Munshiganj,Dhaka,Dhaka,Mini,2020-07-05 01:48:00,Rahim Patwary,2390.58,186032.92,38,4.93
+ST00203,Readers Point Center - Munshiganj,Dhaka,Dhaka,Standard,2018-08-06 05:40:00,Muntasir Karim,649.51,196320.25,10,2.84
+ST00204,Readers Point Outlet - Gazipur,Gazipur,Dhaka,Online Hub,2024-06-15 16:40:00,Karim Sheikh,3668.77,166947.46368543291,23,4.37
+ST00205,Story House Store - Shariatpur,Dhaka,Dhaka,Standard,2018-12-13 05:49:00,Tamim Sarker,2528.25,136486.27,20,4.95
+ST00206,Bookhub Center - Tangail,Bandarban,Chattogram,Standard,2018-09-09 10:42:00,Karim Patwary,5491.15,157513.9,14,3.03
+ST00207,Literary World Center - Comilla,Dhaka,Dhaka,Online Hub,2024-12-21 16:12:00,Nusrat Islam,3088.33,101396.63,9,3.4
+ST00208,Rokomari Branch - Gazipur,Gazipur,Dhaka,Standard,2025-06-05 01:13:00,Rumana Jahan,4686.5,159661.77,40,4.0
+ST00209,Bookhub Store - Comilla,Gazipur,Dhaka,Standard,2022-06-26 05:24:00,Nusrat Sarker,5149.98,117019.86,45,4.66
+ST00210,Book Valley Center - Dhaka,Munshiganj,Dhaka,Flagship,2022-03-23 06:35:00,Nabil Jahan,950.35,221346.42,24,3.91
+ST00211,Bookhub Store - Shariatpur,Feni,Chattogram,Standard,2020-03-31 13:40:00,Nayeem Das,2868.74,183850.61,18,2.93
+ST00212,Literary World Store - Faridpur,Dhaka,Dhaka,Standard,2022-07-04 05:40:00,Ayesha Ahmed,5404.82,40967.5,11,3.08
+ST00213,Story House Center - Narsingdi,Gazipur,Dhaka,Flagship,2022-06-25 21:45:00,Mahin Chowdhury,2776.95,202906.75,41,3.63
+ST00214,Readers Point Branch - Kishoreganj,Bandarban,Chattogram,Standard,2021-08-26 05:01:00,Tasnima Ahmed,3564.86,94313.82,48,3.51
+ST00215,Bookhub Store - Gazipur,Dhaka,Dhaka,Flagship,2022-11-23 18:38:00,Mahin Das,5289.38,234858.58,33,3.28
+ST00216,Pages Cafe Branch - Manikganj,Cox's Bazar,Chattogram,Standard,2021-12-28 01:48:00,Shuvo Patwary,1702.52,156792.25,27,4.65
+ST00217,Rokomari Outlet - Comilla,Noakhali,Chattogram,Standard,2023-01-03 23:33:00,Nayeem Nahar,5409.66,21480.82,39,2.86
+ST00218,Story House Outlet - Chittagong,Shariatpur,Dhaka,Standard,2020-06-19 19:10:00,Nayeem Amin,2623.36,129542.6643343751,55,4.62
+ST00219,Literary World Store - Feni,Noakhali,Chattogram,Mini,2022-11-23 10:42:00,Sifat Patwary,3720.99,45722.58,59,4.83
+ST00220,Bookhub Center - Cox'S Bazar,Kishoreganj,Dhaka,Mini,2019-01-27 02:47:00,Adib Miah,2237.02,221157.86,13,4.19
+ST00221,Pages Cafe Center - Narsingdi,Kishoreganj,Dhaka,Standard,2018-12-05 16:29:00,Nusrat Talukder,3351.87,237857.62,29,4.18
+ST00222,Pages Cafe Branch - Dhaka,Dhaka,Dhaka,Flagship,2024-06-09 23:17:00,Nusrat Talukder,676.0,178385.13,52,3.13
+ST00223,Book Valley Store - Chandpur,Dhaka,Dhaka,Standard,2022-03-29 21:33:00,Nafis Khan,765.46,140225.1,38,4.05
+ST00224,Bookhub Branch - Chandpur,Dhaka,Dhaka,Flagship,2017-06-26 14:30:00,Tasnima Uddin,2722.45,156484.81,49,3.63
+ST00225,Bookhub Center - Rangamati,Manikganj,Dhaka,Standard,2020-03-11 07:15:00,Karim Nahar,2275.73,177112.6225542429,59,3.3
+ST00226,Rokomari Center - Rangamati,Munshiganj,Dhaka,Mini,2025-11-09 05:24:00,Rahim Bhuiyan,3848.43,34641.95,8,4.08
+ST00227,Pages Cafe Store - Feni,Dhaka,Dhaka,Mini,2022-09-25 06:45:00,Farhan Nahar,612.3,233278.22,37,2.8
+ST00228,Readers Point Outlet - Chittagong,Shariatpur,Dhaka,Standard,2024-10-25 05:07:00,Jannat Khan,1338.94,92358.84,32,3.41
+ST00229,Literary World Outlet - Kishoreganj,Dhaka,Dhaka,Mall Outlet,2021-12-06 04:25:00,Jannat Amin,1573.71,88519.23,18,4.24
+ST00230,Book Valley Branch - Gopalganj,Faridpur,Dhaka,Flagship,2017-05-20 23:53:00,Sifat Chowdhury,2866.75,59961.32,39,3.8
+ST00231,Rokomari Outlet - Gazipur,Dhaka,Dhaka,Online Hub,2018-08-14 10:16:00,Nayeem Mollik,1782.27,248215.94,8,3.12
+ST00232,Pages Cafe Branch - Shariatpur,Bandarban,Chattogram,Online Hub,2017-10-30 17:00:00,Tanjim Chowdhury,1170.91,236502.64,30,2.8
+ST00233,Story House Outlet - Bandarban,Narayanganj,Dhaka,Standard,2023-08-12 08:03:00,Shuvo Roy,3746.41,97116.61,26,3.39
+ST00234,Bookhub Branch - Rangamati,Chandpur,Chattogram,Flagship,2023-10-23 06:26:00,Mim Roy,4565.68,76101.26,24,4.01
+ST00235,Literary World Branch - Bandarban,Dhaka,Dhaka,Flagship,2021-02-10 17:54:00,Raisa Rahman,4237.5,204261.84,37,3.98
+ST00236,Rokomari Branch - Narayanganj,Madaripur,Dhaka,Mall Outlet,2023-07-09 11:39:00,Adib Miah,1946.61,114313.36,56,3.09
+ST00237,Book Valley Center - Cox'S Bazar,Noakhali,Chattogram,Standard,2021-12-18 00:53:00,Farhan Hossain,5184.89,242430.19,56,4.15
+ST00238,Bookhub Branch - Tangail,Dhaka,Dhaka,Online Hub,2023-08-29 00:56:00,Rahim Uddin,3826.2,147454.79668577458,42,5.0
+ST00239,Story House Center - Chittagong,Kishoreganj,Dhaka,Standard,2023-01-20 07:18:00,Sadia Sheikh,3842.13,193471.07,21,4.643930842557711
+ST00240,Rokomari Store - Rangamati,Dhaka,Dhaka,Standard,2021-02-06 03:10:00,Sifat Sarker,1591.95,36132.21,58,3.96
+ST00241,Literary World Outlet - Chandpur,Dhaka,Dhaka,Mini,2022-11-16 08:04:00,Rafi Talukder,1756.39,180000.02,59,4.17
+ST00242,Book Valley Store - Gazipur,Manikganj,Dhaka,Standard,2019-11-13 22:48:00,Sakib Mollik,3058.6,247004.78,51,4.74
+ST00243,Literary World Center - Narayanganj,Dhaka,Dhaka,Standard,2023-09-27 23:31:00,Nusrat Roy,1731.8,102723.75,52,4.88
+ST00244,Story House Branch - Gazipur,Narayanganj,Dhaka,Mall Outlet,2025-03-22 06:35:00,Tanvir Patwary,4253.24,222168.72,49,2.89
+ST00245,Story House Branch - Rajbari,Lakshmipur,Chattogram,Standard,2018-11-11 09:16:00,Sadia Das,2127.91,102539.65338730771,46,3.25
+ST00246,Pages Cafe Center - Dhaka,Dhaka,Dhaka,Mall Outlet,2023-01-01 21:26:00,Arif Das,1250.73,243261.14,44,3.05
+ST00247,Pages Cafe Store - Narayanganj,Dhaka,Dhaka,Mall Outlet,2017-12-29 17:53:00,Tanvir Hossain,1249.04,168593.97,39,4.5
+ST00248,Literary World Store - Brahmanbaria,Cox's Bazar,Chattogram,Flagship,2020-05-25 11:06:00,Raisa Khan,1112.48,37677.61,39,2.9
+ST00249,Story House Store - Brahmanbaria,Manikganj,Dhaka,Standard,2023-01-08 22:10:00,Nayeem Bhuiyan,2862.6,127575.75,24,4.79
+ST00250,Story House Center - Feni,Khagrachari,Chattogram,Flagship,2019-07-01 13:35:00,Jannat Patwary,417.02,26686.26,53,2.85
+ST00251,Book Valley Outlet - Bandarban,Faridpur,Dhaka,Mini,2019-02-15 10:43:00,Tamim Khan,3437.28,107842.8,38,4.13
+ST00252,Pages Cafe Outlet - Munshiganj,Shariatpur,Dhaka,Mall Outlet,2020-06-15 10:40:00,Shuvo Sheikh,2070.5,230114.59,37,3.41
+ST00253,Readers Point Outlet - Chandpur,Lakshmipur,Chattogram,Online Hub,2018-01-12 14:11:00,Sakib Miah,3493.88,69567.52,45,3.84
+ST00254,Pages Cafe Outlet - Gopalganj,Dhaka,Dhaka,Mall Outlet,2022-08-18 04:54:00,Jannat Das,5638.38,238383.43,6,3.77
+ST00255,Readers Point Outlet - Rangamati, Cumilla ,,Standard,2018-03-08 05:54:00,Shaila Mollik,5266.67,38481.92,55,4.45
+ST00256,Readers Point Branch - Munshiganj,Shariatpur,Dhaka,Standard,2019-12-31 18:25:00,Nabil Mollik,3628.01,171230.71,35,3.89
+ST00257,Book Valley Branch - Gopalganj, Cumilla ,,Standard,2019-10-25 20:40:00,Nayeem Talukder,2741.19,241936.11,56,3.73
+ST00258,Pages Cafe Outlet - Shariatpur,Dhaka,Dhaka,Online Hub,2025-09-16 11:34:00,Nusrat Rahman,4310.83,168726.09,7,3.54525602204509
+ST00259,Rokomari Center - Madaripur,Madaripur,Dhaka,Flagship,2025-12-04 00:17:00,Mim Hossain,5569.58,226265.93,14,4.84
+ST00260,Book Valley Center - Kishoreganj,Dhaka,Dhaka,Flagship,2017-09-18 14:24:00,Sifat Rahman,3141.46,247892.16,57,4.55
+ST00261,Readers Point Branch - Chittagong,Noakhali,Chattogram,Flagship,2018-06-01 18:10:00,Sadia Amin,956.12,165833.21,42,4.42
+ST00262,Pages Cafe Outlet - Gopalganj,Dhaka,Dhaka,Flagship,2023-08-03 23:08:00,Ayesha Sarker,4690.09,198832.0,39,3.87
+ST00263,Pages Cafe Outlet - Madaripur,Dhaka,Dhaka,Flagship,2019-09-08 23:47:00,Tanvir Jahan,458.68,22516.52,25,4.78
+ST00264,Novel Nest Outlet - Kishoreganj,Khagrachari,Chattogram,Flagship,2022-10-18 12:23:00,Arif Hossain,4681.98,115417.94,34,3.87
+ST00265,Literary World Outlet - Rajbari,Dhaka,Dhaka,Online Hub,2025-04-14 12:46:00,Imran Roy,875.53,82742.36,33,4.85
+ST00266,Book Valley Branch - Tangail,Rajbari,Dhaka,Mini,2018-06-20 03:03:00,Tamim Miah,997.05,208683.55,13,4.57
+ST00267,Rokomari Branch - Gazipur,Dhaka,Dhaka,Standard,2025-09-01 10:19:00,Farhan Talukder,4777.56,174230.83,34,3.13
+ST00268,Bookhub Outlet - Noakhali,Tangail,Dhaka,Mini,2017-06-22 11:20:00,Rahim Uddin,4261.32,159387.34,31,2.9
+ST00269,Novel Nest Branch - Rangamati,Dhaka,Dhaka,Standard,2019-01-22 23:30:00,Mim Karim,3546.66,233916.29,20,4.43
+ST00270,Book Valley Center - Feni,Manikganj,Dhaka,Mini,2021-07-26 21:00:00,Farhan Mollik,4995.28,35883.93,21,4.31
+ST00271,Readers Point Outlet - Tangail,Narayanganj,Dhaka,Standard,2024-12-03 04:01:00,Nayeem Jahan,5167.66,239152.7,46,4.12
+ST00272,Book Valley Center - Kishoreganj,Gazipur,Dhaka,Standard,2021-12-26 01:40:00,Tasnima Hossain,2962.07,38679.71,41,4.95
+ST00273,Novel Nest Outlet - Feni,Dhaka,Dhaka,Standard,2018-04-02 11:37:00,Mim Sheikh,5979.27,96549.12,29,4.0
+ST00274,Pages Cafe Branch - Rangamati,Dhaka,Dhaka,Flagship,2019-03-29 22:49:00,Hasan Mollik,2402.45,163114.31,37,3.57
+ST00275,Literary World Branch - Dhaka,Brahmanbaria,Chattogram,Standard,2023-11-08 09:48:00,Imran Mollik,1360.44,95246.91,15,4.04
+ST00276,Bookhub Branch - Noakhali,Dhaka,Dhaka,Mini,2022-01-20 08:03:00,Raisa Roy,5137.47,175396.03,30,2.86
+ST00277,Bookhub Branch - Khagrachari,Dhaka,Dhaka,Mini,2017-02-12 17:52:00,Sakib Hossain,2727.19,197223.38,34,4.07
+ST00278,Novel Nest Branch - Chandpur,Gazipur,Dhaka,Standard,2021-07-07 03:44:00,Rafi Amin,5297.2,209698.87,16,4.79
+ST00279,Literary World Center - Munshiganj,Madaripur,Dhaka,Standard,2020-08-29 03:39:00,Fahim Miah,742.53,57145.77,11,2.81
+ST00280,Story House Store - Comilla,Brahmanbaria,Chattogram,Mini,2017-01-02 21:53:00,Fahim Sarker,1021.89,57788.02,32,4.66
+ST00281,Novel Nest Branch - Chandpur,Madaripur,Dhaka,Flagship,2019-03-24 17:50:00,Shuvo Miah,625.53,27293.8,56,4.56
+ST00282,Novel Nest Center - Noakhali,Feni,Chattogram,Flagship,2025-06-01 12:26:00,Fahim Uddin,3771.26,130350.18,28,3.03
+ST00283,Pages Cafe Store - Noakhali,Bandarban,Chattogram,Standard,2023-05-03 08:53:00,Nabil Sarker,5058.44,47320.4,54,4.66
+ST00284,Literary World Center - Tangail,Cox's Bazar,Chattogram,Standard,2017-08-21 15:27:00,Ayesha Jahan,2654.9,89870.29,51,4.48
+ST00285,Pages Cafe Center - Rangamati,Brahmanbaria,Chattogram,Standard,2017-02-22 18:15:00,Hasan Bhuiyan,907.89,212502.07,45,3.88
+ST00286,Rokomari Branch - Shariatpur,Dhaka,Dhaka,Flagship,2020-02-11 18:11:00,Hasan Talukder,2491.43,237934.85,53,3.34
+ST00287,Pages Cafe Center - Narayanganj,Rangamati,Chattogram,Standard,2021-03-08 16:00:00,Sifat Islam,2349.06,208187.85,25,3.43
+ST00288,Book Valley Branch - Munshiganj,Chittagong,Chattogram,Mini,2021-01-30 02:36:00,Ayesha Sheikh,4003.44,15152.37,46,4.15
+ST00289,Book Valley Outlet - Comilla,Narsingdi,Dhaka,Mini,2023-04-09 10:50:00,Nafis Das,4052.05,148485.7,10,3.34
+ST00290,Book Valley Outlet - Rajbari,Dhaka,Dhaka,Mini,2018-07-24 15:56:00,Hasan Das,976.93,54165.13,20,3.52
+ST00291,Novel Nest Store - Dhaka,Dhaka,Dhaka,Standard,2017-06-03 11:19:00,Mahin Roy,2752.99,103300.52,34,4.85
+ST00292,Book Valley Outlet - Dhaka,Shariatpur,Dhaka,Mall Outlet,2023-01-20 09:51:00,Sami Miah,3998.08,115560.95,4,4.4
+ST00293,Book Valley Branch - Munshiganj,Kishoreganj,Dhaka,Mini,2025-01-27 20:34:00,Jannat Jahan,1849.62,236591.08,46,4.42
+ST00294,Book Valley Store - Narsingdi,Bandarban,Chattogram,Standard,2018-07-06 04:23:00,Jannat Ahmed,2679.65,163928.6,55,4.9
+ST00295,Story House Store - Rajbari,Gopalganj,Dhaka,Standard,2020-04-01 21:28:00,Tanvir Mollik,3836.69,77898.94,8,2.81
+ST00296,Bookhub Center - Dhaka,Munshiganj,Dhaka,Mini,2022-08-22 04:27:00,Jannat Khan,2656.08,166056.79,59,3.34
+ST00297,Novel Nest Outlet - Cox'S Bazar,Dhaka,Dhaka,Standard,2018-06-28 01:31:00,Sifat Karim,572.82,238688.39,7,4.25
+ST00298,Book Valley Outlet - Rangamati,Dhaka,Dhaka,Mini,2019-01-11 21:01:00,Fahim Bhuiyan,1646.65,28902.39,9,3.76
+ST00299,Story House Store - Gazipur,Dhaka,Dhaka,Mini,2021-10-17 02:34:00,Sami Islam,4746.05,206757.1,46,3.05
+ST00300,Readers Point Store - Feni,Cox's Bazar,Chattogram,Mall Outlet,2020-01-19 15:28:00,Rafi Uddin,1791.62,65970.93,41,4.52
+ST00301,Readers Point Branch - Manikganj,Narsingdi,Dhaka,Mall Outlet,2023-01-03 02:59:00,Hasan Sarker,4979.18,50980.37,56,2.9
+ST00302,Literary World Center - Noakhali,Noakhali,Chattogram,Mini,2018-10-14 20:39:00,Rahim Karim,3014.68,226233.73,26,4.0
+ST00303,Rokomari Outlet - Manikganj,Chandpur,Chattogram,Mall Outlet,2017-11-19 18:42:00,Raisa Amin,3048.36,15434.62,35,4.04
+ST00304,Novel Nest Branch - Madaripur,Chittagong,Chattogram,Mall Outlet,2021-08-05 18:16:00,Shaila Talukder,4714.89,189155.15,10,4.2
+ST00305,Pages Cafe Branch - Chandpur,Munshiganj,Dhaka,Flagship,2024-10-14 02:59:00,Shaila Das,2546.44,35498.68,42,3.49
+ST00306,Literary World Center - Lakshmipur, Cumilla ,,Mini,2022-09-11 19:31:00,Tamim Karim,1735.49,160228.89,59,2.85
+ST00307,Readers Point Outlet - Narsingdi,Noakhali,Chattogram,Flagship,2023-10-19 21:31:00,Rumana Jahan,988.18,160910.77,36,4.76
+ST00308,Story House Center - Kishoreganj,Brahmanbaria,Chattogram,Standard,2020-11-25 06:01:00,Rahim Talukder,4162.7,217752.37,56,4.84
+ST00309,Book Valley Center - Madaripur,Dhaka,Dhaka,Standard,2018-04-06 10:27:00,Sifat Miah,3031.68,208312.53,24,3.86
+ST00310,Literary World Center - Kishoreganj,Tangail,Dhaka,Standard,2020-11-04 05:27:00,Hasan Sarker,4932.68,176013.62,58,2.85
+ST00311,Rokomari Center - Brahmanbaria,Dhaka,Dhaka,Flagship,2025-11-19 21:54:00,Tanvir Nahar,2962.98,104428.68,33,4.08
+ST00312,Book Valley Outlet - Tangail,Dhaka,Dhaka,Standard,2024-01-13 15:57:00,Tanjim Uddin,2722.94,54105.35,10,3.5
+ST00313,Novel Nest Branch - Chandpur,Bandarban,Chattogram,Flagship,2023-05-01 19:40:00,Mim Patwary,2073.57,81207.20035132485,23,3.2
+ST00314,Bookhub Branch - Noakhali,Cox's Bazar,Chattogram,Mini,2019-09-17 03:22:00,Sifat Uddin,1516.8,131787.9,30,3.17
+ST00315,Bookhub Center - Tangail,Dhaka,Dhaka,Online Hub,2022-05-25 11:38:00,Karim Uddin,5050.45,33316.43,5,3.19
+ST00316,Story House Center - Chittagong,Dhaka,Dhaka,Mall Outlet,2022-08-09 10:02:00,Nafis Roy,933.18,239557.04,53,3.53
+ST00317,Novel Nest Store - Comilla,Khagrachari,Chattogram,Standard,2022-11-20 16:37:00,Hasan Amin,5451.92,88888.59,15,3.42
+ST00318,Bookhub Branch - Shariatpur,Dhaka,Dhaka,Standard,2025-01-13 03:22:00,Shaila Das,550.69,15503.08,41,4.64
+ST00319,Book Valley Center - Cox'S Bazar,Dhaka,Dhaka,Online Hub,2023-02-18 15:51:00,Fahim Mollik,3324.61,226897.22,55,3.89
+ST00320,Rokomari Branch - Gopalganj,Brahmanbaria,Chattogram,Flagship,2018-12-29 21:30:00,Fahim Sarker,726.64,150606.96,27,3.74
+ST00321,Literary World Center - Gazipur,Cox's Bazar,Chattogram,Mall Outlet,2018-12-30 01:49:00,Mim Jahan,4765.8,187269.26,37,3.12
+ST00322,Story House Outlet - Chandpur,Munshiganj,Dhaka,Mini,2022-07-30 23:51:00,Tasnima Mollik,1584.38,50876.57,31,4.73
+ST00323,Story House Branch - Khagrachari,Narayanganj,Dhaka,Standard,2024-10-17 08:15:00,Rumana Amin,3569.17,110082.33,46,4.496164939075468
+ST00324,Novel Nest Store - Gopalganj,Gazipur,Dhaka,Flagship,2025-07-13 00:50:00,Shaila Sarker,5532.1,166589.39,4,3.33
+ST00325,Readers Point Branch - Rajbari,Dhaka,Dhaka,Flagship,2022-06-27 08:07:00,Hasan Nahar,4035.85,73976.71,22,4.17
+ST00326,Novel Nest Store - Cox'S Bazar,Chandpur,Chattogram,Standard,2021-10-07 21:46:00,Farhan Chowdhury,1398.59,179852.25,37,4.35
+ST00327,Readers Point Store - Noakhali,Feni,Chattogram,Standard,2024-05-05 10:29:00,Rahim Islam,4861.4,69899.51,7,4.56
+ST00328,Story House Store - Chandpur,Faridpur,Dhaka,Online Hub,2025-10-16 02:03:00,Imran Amin,2872.29,64145.04,51,3.7
+ST00329,Rokomari Outlet - Cox'S Bazar,Dhaka,Dhaka,Mini,2017-04-02 14:05:00,Rumana Patwary,473.79,17731.79,38,3.56
+ST00330,Pages Cafe Branch - Noakhali,Dhaka,Dhaka,Standard,2019-10-16 19:28:00,Adib Ahmed,3125.88,81248.09,2,3.43
+ST00331,Readers Point Store - Manikganj,Dhaka,Dhaka,Standard,2020-01-03 01:09:00,Nafis Sheikh,4949.91,72983.15,2,4.05
+ST00332,Pages Cafe Outlet - Narayanganj,Dhaka,Dhaka,Standard,2022-01-29 06:28:00,Arif Das,2807.76,194623.79,11,3.57
+ST00333,Readers Point Outlet - Feni,Dhaka,Dhaka,Flagship,2019-08-27 23:49:00,Sakib Sheikh,4647.2,148881.83,40,3.52
+ST00334,Pages Cafe Outlet - Khagrachari, Cumilla ,,Mini,2019-10-20 01:31:00,Tanvir Amin,4350.94,56788.75,32,2.84
+ST00335,Readers Point Branch - Dhaka,Dhaka,Dhaka,Mini,2017-03-22 04:56:00,Sifat Sheikh,2958.71,148509.96,29,4.89
+ST00336,Readers Point Center - Noakhali,Bandarban,Chattogram,Online Hub,2017-01-13 05:19:00,Farhan Patwary,2210.38,67979.24,34,2.93
+ST00337,Bookhub Center - Manikganj,Narayanganj,Dhaka,Standard,2021-01-18 15:40:00,Shuvo Karim,4468.62,114993.04,30,3.4
+ST00338,Readers Point Outlet - Munshiganj,Cox's Bazar,Chattogram,Standard,2025-12-22 03:42:00,Nayeem Bhuiyan,2465.94,223728.89,21,4.83
+ST00339,Rokomari Branch - Tangail,Noakhali,Chattogram,Online Hub,2019-08-30 11:11:00,Shuvo Chowdhury,1352.49,184025.21,2,4.42
+ST00340,Bookhub Outlet - Gazipur,Gopalganj,Dhaka,Mini,2019-02-28 20:05:00,Sakib Miah,2196.83,168008.5,3,4.07
+ST00341,Rokomari Branch - Narsingdi,Dhaka,Dhaka,Mini,2019-05-19 22:35:00,Nayeem Amin,5310.3,81148.61,41,4.25
+ST00342,Bookhub Branch - Munshiganj,Chandpur,Chattogram,Standard,2025-10-03 14:42:00,Sifat Hossain,1986.98,44276.69,45,3.01
+ST00343,Pages Cafe Branch - Gazipur,Dhaka,Dhaka,Online Hub,2022-12-22 09:43:00,Tanjim Sheikh,1715.78,191943.01,15,4.58
+ST00344,Novel Nest Center - Gazipur,Dhaka,Dhaka,Standard,2022-11-16 20:46:00,Mim Chowdhury,1147.15,148454.24,16,4.3473325888643926
+ST00345,Pages Cafe Outlet - Lakshmipur,Dhaka,Dhaka,Standard,2018-09-15 06:40:00,Raisa Mollik,709.0,161348.64,32,4.9
+ST00346,Novel Nest Store - Gazipur,Khagrachari,Chattogram,Mini,2025-02-18 07:49:00,Jannat Roy,5869.48,244151.63,39,3.31
+ST00347,Readers Point Outlet - Chandpur,Dhaka,Dhaka,Flagship,2018-10-09 09:39:00,Raisa Patwary,3405.95,96855.42,36,4.18
+ST00348,Story House Outlet - Bandarban,Munshiganj,Dhaka,Online Hub,2025-09-14 05:28:00,Hasan Karim,4486.01,203175.67,34,3.599206180157275
+ST00349,Pages Cafe Branch - Munshiganj,Kishoreganj,Dhaka,Standard,2025-07-27 18:14:00,Sami Das,4728.65,146354.86,4,3.11
+ST00350,Book Valley Outlet - Chittagong,Tangail,Dhaka,Flagship,2022-02-09 21:16:00,Fahim Jahan,2372.98,70286.09,26,3.6
+ST00351,Book Valley Outlet - Noakhali,Dhaka,Dhaka,Flagship,2024-10-23 20:08:00,Ayesha Chowdhury,4873.87,27428.76,45,4.52
+ST00352,Rokomari Store - Dhaka,Feni,Chattogram,Online Hub,2025-12-29 23:39:00,Muntasir Patwary,5784.31,159762.56,36,3.27
+ST00353,Readers Point Store - Chittagong,Chandpur,Chattogram,Mini,2022-03-23 01:36:00,Shuvo Patwary,4553.87,84939.79,48,4.92
+ST00354,Pages Cafe Store - Gopalganj,Madaripur,Dhaka,Standard,2023-11-27 10:42:00,Nusrat Rahman,4385.71,178437.41,42,3.45
+ST00355,Book Valley Center - Kishoreganj,Gazipur,Dhaka,Flagship,2022-04-25 21:26:00,Tanjim Ahmed,2820.51,179670.88,54,4.18
+ST00356,Novel Nest Store - Dhaka, Cumilla ,,Standard,2021-09-18 06:06:00,Muntasir Das,5111.39,122033.21,35,4.16
+ST00357,Rokomari Branch - Narsingdi,Chandpur,Chattogram,Standard,2020-01-05 18:55:00,Nafis Hossain,897.49,141053.32,35,3.84
+ST00358,Readers Point Center - Chittagong,Kishoreganj,Dhaka,Mini,2022-11-23 03:26:00,Arif Patwary,4598.23,162238.51,34,4.24
+ST00359,Rokomari Outlet - Cox'S Bazar,Gazipur,Dhaka,Standard,2019-05-29 06:18:00,Sadia Rahman,2427.16,125122.16,17,4.44
+ST00360,Novel Nest Outlet - Faridpur,Dhaka,Dhaka,Standard,2018-10-01 09:00:00,Shaila Sheikh,3569.45,221182.09,27,4.16
+ST00361,Bookhub Outlet - Rajbari,Dhaka,Dhaka,Flagship,2019-06-25 03:13:00,Rumana Karim,5400.6,32844.63,11,4.03
+ST00362,Pages Cafe Branch - Narayanganj,Dhaka,Dhaka,Standard,2017-02-06 06:04:00,Tanjim Sheikh,3788.11,245257.27,26,4.13
+ST00363,Pages Cafe Outlet - Faridpur,Dhaka,Dhaka,Mini,2025-05-27 15:15:00,Sifat Uddin,543.26,22860.96,10,3.68
+ST00364,Story House Outlet - Munshiganj,Dhaka,Dhaka,Mini,2019-04-24 19:26:00,Sadia Rahman,4446.59,63902.64,30,2.96
+ST00365,Novel Nest Center - Gopalganj,Feni,Chattogram,Standard,2024-03-13 14:22:00,Nusrat Patwary,5602.54,181452.35,57,3.15
+ST00366,Bookhub Branch - Bandarban, Cumilla ,,Mall Outlet,2020-11-30 07:32:00,Tanjim Nahar,3995.27,34965.66,28,4.13
+ST00367,Pages Cafe Outlet - Tangail,Cox's Bazar,Chattogram,Standard,2020-01-21 09:02:00,Rafi Karim,5223.95,76610.6,44,4.84
+ST00368,Literary World Branch - Gazipur,Shariatpur,Dhaka,Online Hub,2019-01-20 09:08:00,Rumana Miah,5021.66,51184.52,27,2.86
+ST00369,Story House Store - Khagrachari,Shariatpur,Dhaka,Mini,2024-05-20 20:41:00,Fahim Islam,5223.24,185039.32,54,4.0
+ST00370,Novel Nest Outlet - Feni,Dhaka,Dhaka,Flagship,2021-08-17 02:55:00,Sadia Karim,2326.96,151049.35,14,3.35
+ST00371,Novel Nest Store - Gopalganj,Brahmanbaria,Chattogram,Online Hub,2021-01-17 18:21:00,Shuvo Patwary,3055.32,30152.47,50,4.04
+ST00372,Bookhub Outlet - Tangail,Dhaka,Dhaka,Standard,2022-12-03 00:06:00,Nabil Chowdhury,5148.99,123131.55,44,4.45
+ST00373,Novel Nest Outlet - Feni,Narayanganj,Dhaka,Mini,2024-03-22 09:55:00,Nusrat Nahar,5498.23,63998.19,53,4.42
+ST00374,Novel Nest Store - Kishoreganj,Noakhali,Chattogram,Flagship,2022-11-25 22:31:00,Tanjim Ahmed,1222.31,242409.17,9,4.39
+ST00375,Bookhub Branch - Comilla,Feni,Chattogram,Standard,2021-03-18 08:35:00,Rahim Uddin,1416.58,40360.72,53,4.51
+ST00376,Book Valley Outlet - Gazipur,Dhaka,Dhaka,Online Hub,2025-01-15 21:50:00,Arif Miah,2342.25,155542.97,54,2.96
+ST00377,Literary World Center - Shariatpur,Chandpur,Chattogram,Standard,2025-01-22 02:56:00,Mahin Miah,4713.67,128234.1,19,3.92
+ST00378,Pages Cafe Center - Chandpur,Dhaka,Dhaka,Flagship,2025-09-11 07:47:00,Adib Chowdhury,5299.89,150849.86,38,3.38
+ST00379,Literary World Store - Munshiganj,Dhaka,Dhaka,Standard,2017-10-27 00:55:00,Raisa Rahman,3649.34,239775.82,36,4.83
+ST00380,Literary World Store - Madaripur,Dhaka,Dhaka,Standard,2025-01-05 19:46:00,Rumana Roy,1034.3,95201.24,4,4.52
+ST00381,Pages Cafe Branch - Narayanganj,Dhaka,Dhaka,Online Hub,2018-09-27 18:44:00,Karim Chowdhury,2100.99,190960.1,32,3.548087141156131
+ST00382,Rokomari Center - Gazipur,Bandarban,Chattogram,Mini,2022-07-31 21:28:00,Nayeem Roy,5199.33,120154.62,40,3.34
+ST00383,Book Valley Center - Rangamati,Gazipur,Dhaka,Mall Outlet,2022-12-03 03:32:00,Rafi Uddin,2346.31,170278.98,13,3.8
+ST00384,Pages Cafe Outlet - Madaripur,Dhaka,Dhaka,Standard,2018-11-08 03:23:00,Sifat Nahar,975.72,100929.52,22,4.92
+ST00385,Literary World Branch - Gazipur,Rangamati,Chattogram,Standard,2017-01-27 16:52:00,Tanjim Jahan,2091.58,68373.72,35,3.04
+ST00386,Novel Nest Center - Gazipur,Narayanganj,Dhaka,Standard,2025-06-28 04:19:00,Mahin Chowdhury,4917.56,34649.84,55,4.05
+ST00387,Literary World Outlet - Kishoreganj,Gopalganj,Dhaka,Standard,2025-01-07 14:03:00,Sakib Ahmed,3163.49,38911.54,5,3.55
+ST00388,Readers Point Store - Dhaka,Narayanganj,Dhaka,Mini,2018-07-29 14:11:00,Arif Patwary,1360.81,240466.12,56,4.22
+ST00389,Pages Cafe Store - Narsingdi,Narayanganj,Dhaka,Flagship,2022-05-30 23:19:00,Imran Mollik,2150.74,200287.31,49,4.23
+ST00390,Rokomari Outlet - Chittagong,Manikganj,Dhaka,Standard,2018-05-13 14:10:00,Nabil Karim,5740.06,72565.42,51,3.33
+ST00391,Novel Nest Center - Faridpur,Shariatpur,Dhaka,Online Hub,2022-02-05 15:53:00,Tasnima Karim,2818.96,139349.6,4,4.53
+ST00392,Story House Store - Chandpur,Khagrachari,Chattogram,Standard,2019-11-10 12:47:00,Jannat Bhuiyan,2872.96,182844.69,34,3.0
+ST00393,Novel Nest Store - Madaripur,Dhaka,Dhaka,Flagship,2023-10-06 23:42:00,Tanvir Mollik,1257.19,97846.41,23,4.6
+ST00394,Readers Point Center - Shariatpur,Munshiganj,Dhaka,Mini,2022-02-28 20:49:00,Tanjim Das,2105.5,118397.19,55,3.27
+ST00395,Book Valley Center - Gazipur,Dhaka,Dhaka,Standard,2021-06-25 16:01:00,Mim Amin,4962.24,183819.75,44,4.1
+ST00396,Literary World Branch - Tangail,Feni,Chattogram,Online Hub,2023-02-18 07:39:00,Adib Karim,4802.71,68451.76,39,4.39669923959564
+ST00397,Readers Point Branch - Rangamati,Faridpur,Dhaka,Mini,2021-04-13 10:27:00,Adib Amin,2838.79,138690.92,3,4.14
+ST00398,Pages Cafe Branch - Narayanganj,Dhaka,Dhaka,Flagship,2017-02-13 16:18:00,Mim Das,5404.45,64370.72,52,3.39
+ST00399,Story House Branch - Shariatpur,Rangamati,Chattogram,Standard,2022-05-13 07:13:00,Tasnima Miah,2529.45,15723.24,52,4.05
+ST00400,Readers Point Store - Dhaka,Rajbari,Dhaka,Standard,2024-01-01 13:56:00,Raisa Rahman,5240.25,177211.98,11,2.82
+ST00401,Rokomari Center - Kishoreganj,Dhaka,Dhaka,Mini,2021-05-31 08:40:00,Fahim Miah,576.77,181207.24,52,3.62
+ST00402,Book Valley Outlet - Bandarban,Dhaka,Dhaka,Standard,2018-07-30 02:44:00,Muntasir Patwary,2344.49,248994.83,52,4.62
+ST00403,Rokomari Center - Tangail,Gazipur,Dhaka,Mini,2017-01-26 18:29:00,Rumana Nahar,5188.38,57538.63,30,3.82
+ST00404,Rokomari Outlet - Faridpur,Rangamati,Chattogram,Standard,2019-09-02 05:58:00,Ayesha Chowdhury,5447.33,188801.38,40,3.9
+ST00405,Rokomari Center - Rajbari,Madaripur,Dhaka,Standard,2023-11-29 18:57:00,Sakib Nahar,4635.97,237772.34,37,4.17
+ST00406,Story House Outlet - Comilla,Dhaka,Dhaka,Flagship,2019-11-25 09:02:00,Nafis Miah,4151.25,166476.38,19,3.76
+ST00407,Literary World Center - Feni,Narsingdi,Dhaka,Standard,2025-08-08 21:53:00,Tanjim Uddin,4966.83,241338.03,45,4.71
+ST00408,Book Valley Center - Comilla,Kishoreganj,Dhaka,Standard,2019-12-29 10:01:00,Mahin Miah,4362.33,248693.63,59,3.69
+ST00409,Readers Point Center - Khagrachari,Dhaka,Dhaka,Standard,2020-11-06 03:33:00,Rafi Talukder,1823.64,203381.73,56,4.87
+ST00410,Book Valley Center - Faridpur,Feni,Chattogram,Mall Outlet,2023-11-04 13:37:00,Tasnima Nahar,3010.93,249832.19,41,4.73
+ST00411,Readers Point Branch - Gazipur,Dhaka,Dhaka,Standard,2022-07-11 09:46:00,Farhan Nahar,4099.95,162068.75,33,3.73
+ST00412,Pages Cafe Outlet - Tangail,Khagrachari,Chattogram,Mini,2017-05-15 13:02:00,Rahim Amin,3691.7,105102.50083846698,54,3.6
+ST00413,Novel Nest Store - Rajbari, Cumilla ,,Flagship,2017-09-08 15:44:00,Ayesha Miah,5356.55,230644.52,55,4.29
+ST00414,Pages Cafe Center - Manikganj,Dhaka,Dhaka,Mini,2018-10-08 18:10:00,Nayeem Jahan,3053.53,210274.62,32,4.46
+ST00415,Novel Nest Store - Chittagong,Brahmanbaria,Chattogram,Flagship,2024-11-04 04:10:00,Muntasir Chowdhury,1396.73,40876.34,21,3.21
+ST00416,Bookhub Center - Feni,Chittagong,Chattogram,Mini,2017-03-15 08:11:00,Nafis Roy,1601.66,86139.82,34,3.33
+ST00417,Rokomari Branch - Tangail,Rajbari,Dhaka,Flagship,2017-08-24 06:58:00,Sami Uddin,5137.92,76251.6,35,3.12
+ST00418,Pages Cafe Center - Narsingdi,Rajbari,Dhaka,Flagship,2024-01-02 11:48:00,Raisa Jahan,448.84,215986.49,43,4.47
+ST00419,Novel Nest Outlet - Narayanganj,Dhaka,Dhaka,Standard,2022-08-09 16:36:00,Tamim Sheikh,5267.13,69812.66,31,4.37
+ST00420,Rokomari Branch - Madaripur,Dhaka,Dhaka,Standard,2025-11-07 12:16:00,Rumana Sarker,711.29,86450.52,2,3.22
+ST00421,Story House Outlet - Kishoreganj,Chandpur,Chattogram,Standard,2018-12-23 14:19:00,Tanvir Patwary,2593.29,136915.33,11,3.98
+ST00422,Pages Cafe Center - Cox'S Bazar,Dhaka,Dhaka,Standard,2022-12-08 06:31:00,Jannat Sarker,4880.99,32888.08,46,4.48
+ST00423,Novel Nest Branch - Khagrachari,Dhaka,Dhaka,Mall Outlet,2018-03-19 00:55:00,Nusrat Uddin,2682.65,240888.97,42,4.88
+ST00424,Readers Point Store - Dhaka,Munshiganj,Dhaka,Standard,2022-04-24 04:44:00,Farhan Patwary,5005.15,130399.75,39,3.19
+ST00425,Book Valley Store - Dhaka,Dhaka,Dhaka,Standard,2017-12-15 21:34:00,Sami Nahar,961.67,59751.93,27,3.47
+ST00426,Story House Branch - Rangamati, Cumilla ,,Online Hub,2025-03-03 21:44:00,Hasan Mollik,3264.64,78642.87,17,3.57
+ST00427,Book Valley Store - Lakshmipur, Cumilla ,,Mini,2020-09-28 22:30:00,Mahin Patwary,3661.85,202549.68,19,4.17
+ST00428,Pages Cafe Outlet - Chittagong,Cox's Bazar,Chattogram,Standard,2019-04-18 18:41:00,Nayeem Rahman,5388.86,163991.52,41,3.1
+ST00429,Bookhub Outlet - Gazipur,Dhaka,Dhaka,Standard,2025-11-10 02:01:00,Rahim Karim,924.28,124187.12,31,3.23
+ST00430,Novel Nest Branch - Narsingdi,Madaripur,Dhaka,Flagship,2017-08-07 09:28:00,Adib Sheikh,2296.16,92926.32,9,4.52
+ST00431,Readers Point Outlet - Cox'S Bazar,Cox's Bazar,Chattogram,Standard,2024-03-13 10:52:00,Rumana Das,4092.35,226660.83,25,3.99
+ST00432,Novel Nest Center - Khagrachari,Gazipur,Dhaka,Standard,2021-08-03 18:15:00,Sadia Ahmed,5887.61,196552.67,49,3.15
+ST00433,Rokomari Store - Gazipur,Bandarban,Chattogram,Mini,2023-03-10 11:22:00,Rumana Sarker,5150.34,183756.33,36,3.65
+ST00434,Rokomari Branch - Madaripur,Rajbari,Dhaka,Online Hub,2019-05-06 12:08:00,Jannat Patwary,5140.37,119810.12,52,3.1
+ST00435,Story House Outlet - Cox'S Bazar,Gazipur,Dhaka,Flagship,2024-12-06 02:37:00,Fahim Karim,3296.22,245572.64,31,3.6
+ST00436,Readers Point Branch - Shariatpur,Dhaka,Dhaka,Flagship,2021-01-22 06:06:00,Hasan Patwary,3560.08,181866.52,30,3.68
+ST00437,Bookhub Outlet - Tangail,Tangail,Dhaka,Standard,2020-10-07 09:07:00,Nusrat Miah,5208.05,114551.81,57,3.05
+ST00438,Story House Center - Madaripur,Dhaka,Dhaka,Standard,2021-02-08 09:37:00,Tanvir Islam,5269.9,240729.73,31,2.93
+ST00439,Book Valley Center - Madaripur,Feni,Chattogram,Standard,2019-09-01 22:02:00,Mahin Talukder,4892.74,225495.37,9,4.74
+ST00440,Story House Store - Brahmanbaria,Rajbari,Dhaka,Mini,2019-11-14 16:21:00,Nayeem Miah,4984.0,188891.82,25,4.75
+ST00441,Pages Cafe Outlet - Rajbari,Dhaka,Dhaka,Standard,2018-04-06 08:45:00,Muntasir Khan,5325.93,195244.09,39,2.81
+ST00442,Bookhub Outlet - Gopalganj,Brahmanbaria,Chattogram,Mall Outlet,2021-05-18 01:30:00,Tasnima Khan,1037.18,114552.46,22,4.21
+ST00443,Bookhub Center - Gopalganj,Madaripur,Dhaka,Standard,2021-04-09 22:50:00,Jannat Hossain,2038.78,134227.37,25,3.01
+ST00444,Readers Point Outlet - Faridpur,Dhaka,Dhaka,Flagship,2020-06-03 04:17:00,Tasnima Chowdhury,5866.24,60013.62,52,4.58
+ST00445,Story House Store - Chandpur,Noakhali,Chattogram,Standard,2025-11-13 17:12:00,Jannat Amin,3450.75,154918.12,27,4.74
+ST00446,Book Valley Branch - Khagrachari,Brahmanbaria,Chattogram,Mini,2018-01-07 12:18:00,Mim Miah,1388.2,101930.39,19,4.16
+ST00447,Story House Outlet - Chittagong,Rajbari,Dhaka,Standard,2025-03-11 05:06:00,Hasan Das,3217.11,96648.01,8,4.15
+ST00448,Novel Nest Center - Kishoreganj,Feni,Chattogram,Standard,2024-10-19 01:27:00,Rafi Uddin,4016.39,237833.63,38,3.62
+ST00449,Pages Cafe Branch - Munshiganj,Narayanganj,Dhaka,Standard,2017-03-15 03:50:00,Nayeem Karim,5038.04,53724.11,46,3.35
+ST00450,Novel Nest Branch - Lakshmipur,Madaripur,Dhaka,Mini,2023-04-24 09:15:00,Shaila Amin,4948.19,210043.79,19,3.9
+ST00451,Pages Cafe Outlet - Tangail,Dhaka,Dhaka,Mall Outlet,2018-11-19 09:55:00,Muntasir Bhuiyan,675.75,81145.11,29,3.09
+ST00452,Bookhub Branch - Munshiganj,Dhaka,Dhaka,Standard,2017-05-16 17:46:00,Hasan Nahar,2939.74,21734.07,40,4.28
+ST00453,Rokomari Store - Bandarban,Madaripur,Dhaka,Flagship,2024-09-30 06:35:00,Shaila Nahar,515.19,24508.82,55,3.83
+ST00454,Story House Store - Narayanganj,Manikganj,Dhaka,Standard,2018-01-16 11:22:00,Karim Jahan,5373.67,115856.71,49,3.19
+ST00455,Story House Branch - Rajbari,Chandpur,Chattogram,Standard,2019-09-10 03:55:00,Sami Roy,1373.87,121798.31,18,4.09
+ST00456,Book Valley Outlet - Comilla,Madaripur,Dhaka,Mall Outlet,2017-11-14 03:31:00,Karim Uddin,3899.3,90259.02,11,4.55
+ST00457,Story House Outlet - Manikganj,Rajbari,Dhaka,Standard,2018-04-12 11:03:00,Rumana Roy,3595.46,172163.21,40,4.1
+ST00458,Literary World Store - Rangamati,Cox's Bazar,Chattogram,Mini,2017-07-22 21:20:00,Ayesha Miah,3902.96,129055.55,16,3.97
+ST00459,Story House Branch - Kishoreganj,Rangamati,Chattogram,Mall Outlet,2024-07-30 23:32:00,Mahin Rahman,3555.13,32416.57,24,4.66
+ST00460,Literary World Outlet - Brahmanbaria,Faridpur,Dhaka,Mini,2017-07-14 01:27:00,Farhan Miah,4407.3,96796.73,8,2.82
+ST00461,Novel Nest Center - Narayanganj,Khagrachari,Chattogram,Standard,2023-10-31 21:03:00,Adib Das,3906.22,98944.16397235251,46,4.16
+ST00462,Story House Outlet - Brahmanbaria, Cumilla ,,Mini,2018-06-01 06:30:00,Jannat Uddin,905.68,29785.19,11,3.7
+ST00463,Bookhub Center - Rajbari,Dhaka,Dhaka,Standard,2025-03-26 09:02:00,Mim Roy,2453.9,63952.06,24,3.23
+ST00464,Rokomari Branch - Chittagong,Gazipur,Dhaka,Standard,2024-08-18 02:22:00,Muntasir Khan,3460.92,179635.23,25,4.96
+ST00465,Bookhub Branch - Faridpur,Dhaka,Dhaka,Mall Outlet,2022-08-31 08:39:00,Tamim Sarker,2221.11,178560.39,4,3.69
+ST00466,Rokomari Outlet - Shariatpur,Tangail,Dhaka,Standard,2024-06-14 13:47:00,Raisa Miah,4657.85,217426.44,47,3.54
+ST00467,Literary World Center - Tangail,Narsingdi,Dhaka,Standard,2019-09-08 08:02:00,Arif Nahar,2180.23,192758.53,37,3.17
+ST00468,Novel Nest Branch - Comilla,Munshiganj,Dhaka,Flagship,2024-01-18 10:03:00,Imran Sarker,5040.63,140841.49,33,5.0
+ST00469,Rokomari Store - Narayanganj,Chittagong,Chattogram,Flagship,2018-12-30 02:42:00,Sami Ahmed,1221.71,88463.84,12,4.68
+ST00470,Pages Cafe Branch - Tangail,Faridpur,Dhaka,Mini,2022-07-13 22:12:00,Karim Islam,4708.6,16365.7,5,2.95
+ST00471,Readers Point Store - Kishoreganj,Gopalganj,Dhaka,Mini,2025-04-10 03:14:00,Nayeem Roy,1427.41,167077.31,5,4.04
+ST00472,Readers Point Store - Feni,Feni,Chattogram,Mini,2023-07-06 09:35:00,Rafi Hossain,3356.89,83082.6,38,3.12
+ST00473,Story House Center - Khagrachari,Rangamati,Chattogram,Standard,2019-06-05 21:24:00,Tanjim Roy,2194.94,73773.52,45,4.37
+ST00474,Bookhub Store - Bandarban,Chittagong,Chattogram,Flagship,2023-08-24 15:34:00,Rafi Uddin,3969.07,244084.0,48,3.86
+ST00475,Pages Cafe Branch - Tangail,Dhaka,Dhaka,Standard,2024-12-12 14:10:00,Jannat Sheikh,1591.35,55946.45,48,3.04
+ST00476,Rokomari Center - Madaripur,Dhaka,Dhaka,Standard,2025-01-01 06:46:00,Mahin Jahan,4854.29,22622.16,24,4.03
+ST00477,Readers Point Branch - Shariatpur,Dhaka,Dhaka,Mini,2023-08-26 22:04:00,Hasan Ahmed,3612.07,238106.74,2,4.8
+ST00478,Pages Cafe Branch - Lakshmipur,Kishoreganj,Dhaka,Mini,2023-08-04 11:30:00,Raisa Miah,5760.73,86911.58,16,3.55
+ST00479,Story House Outlet - Faridpur,Dhaka,Dhaka,Online Hub,2024-01-23 23:25:00,Rafi Amin,4385.91,107453.71,47,2.91
+ST00480,Story House Center - Bandarban,Khagrachari,Chattogram,Mini,2023-08-18 00:07:00,Karim Rahman,3801.42,34019.7,46,4.88
+ST00481,Literary World Branch - Shariatpur,Bandarban,Chattogram,Standard,2018-03-16 11:20:00,Rumana Sheikh,5043.29,109955.33,31,3.11
+ST00482,Bookhub Center - Noakhali,Kishoreganj,Dhaka,Mini,2024-03-27 05:03:00,Farhan Talukder,1630.22,243472.0,24,3.85
+ST00483,Literary World Center - Chittagong,Dhaka,Dhaka,Mini,2018-08-15 09:13:00,Mahin Islam,3943.36,178094.63,47,4.0
+ST00484,Novel Nest Branch - Munshiganj,Gopalganj,Dhaka,Mall Outlet,2022-01-03 04:22:00,Fahim Chowdhury,2586.26,126348.84,49,3.32
+ST00485,Pages Cafe Center - Rajbari,Manikganj,Dhaka,Standard,2020-01-21 10:56:00,Fahim Sheikh,4565.23,87255.84,15,3.19
+ST00486,Story House Outlet - Rangamati,Brahmanbaria,Chattogram,Mini,2018-12-02 00:18:00,Mim Karim,537.03,101020.33,48,3.05
+ST00487,Story House Branch - Rangamati,Dhaka,Dhaka,Standard,2019-07-16 09:16:00,Farhan Mollik,2795.19,158638.62,39,2.95
+ST00488,Novel Nest Branch - Narsingdi,Feni,Chattogram,Mini,2017-10-05 19:21:00,Tanvir Sarker,4049.53,74795.76,53,3.92
+ST00489,Novel Nest Store - Shariatpur,Dhaka,Dhaka,Mall Outlet,2020-12-15 17:06:00,Rafi Amin,2979.58,50707.67,38,4.65
+ST00490,Literary World Branch - Bandarban,Dhaka,Dhaka,Mall Outlet,2020-10-08 23:27:00,Farhan Chowdhury,1732.64,178613.74,7,3.08
+ST00491,Book Valley Outlet - Munshiganj,Rangamati,Chattogram,Flagship,2020-08-18 16:17:00,Tanvir Miah,3000.36,219325.4,39,3.844181850227363
+ST00492,Story House Outlet - Manikganj,Dhaka,Dhaka,Standard,2017-10-29 06:41:00,Sadia Jahan,5158.57,226861.64,8,3.71
+ST00493,Pages Cafe Outlet - Manikganj,Dhaka,Dhaka,Mini,2022-06-17 23:02:00,Arif Karim,1558.3,212733.35,17,2.88
+ST00494,Literary World Store - Comilla,Tangail,Dhaka,Mini,2018-07-11 07:59:00,Muntasir Das,2456.16,139690.93,52,3.98
+ST00495,Bookhub Outlet - Bandarban,Gopalganj,Dhaka,Mall Outlet,2024-09-13 12:47:00,Farhan Roy,5945.88,200375.28,58,3.35
+ST00496,Book Valley Store - Shariatpur,Dhaka,Dhaka,Standard,2017-03-20 08:07:00,Shaila Chowdhury,5511.78,232693.6,29,4.13
+ST00497,Pages Cafe Center - Gopalganj,Dhaka,Dhaka,Online Hub,2017-07-01 14:39:00,Nusrat Das,590.22,20490.21,18,3.57
+ST00498,Book Valley Store - Comilla,Dhaka,Dhaka,Mini,2019-09-14 11:28:00,Ayesha Islam,3369.86,111843.08,24,4.27
+ST00499,Readers Point Store - Tangail,Narayanganj,Dhaka,Flagship,2020-09-02 07:27:00,Farhan Mollik,766.31,62969.49,16,4.82
+ST00500,Literary World Store - Kishoreganj,Dhaka,Dhaka,Flagship,2025-09-23 09:54:00,Hasan Ahmed,5573.87,249240.66,35,3.34
+ST00501,Story House Center - Tangail,Chittagong,Chattogram,Mini,2020-05-30 04:02:00,Arif Jahan,2872.65,233448.01,26,4.87
+ST00502,Rokomari Store - Madaripur,Feni,Chattogram,Flagship,2024-07-15 08:58:00,Tanjim Rahman,2743.25,203513.7,5,3.25
+ST00503,Novel Nest Store - Narayanganj,Dhaka,Dhaka,Mini,2019-03-03 13:45:00,Nafis Roy,1928.5,84531.75,37,2.96
+ST00504,Readers Point Branch - Shariatpur,Gazipur,Dhaka,Standard,2025-01-26 13:20:00,Sadia Rahman,3585.39,238744.03,39,3.22
+ST00505,Rokomari Store - Chandpur,Dhaka,Dhaka,Standard,2020-08-18 17:38:00,Muntasir Das,1211.99,21873.85,40,4.291455768558543
+ST00506,Bookhub Store - Dhaka,Dhaka,Dhaka,Standard,2019-10-25 13:56:00,Nayeem Talukder,4874.15,59189.33,56,4.29
+ST00507,Literary World Branch - Faridpur,Dhaka,Dhaka,Mall Outlet,2019-09-18 04:45:00,Tanjim Bhuiyan,3150.78,159965.33,42,4.94
+ST00508,Bookhub Outlet - Comilla,Chittagong,Chattogram,Mini,2017-02-01 20:24:00,Fahim Sheikh,3572.19,201356.58,41,4.36
+ST00509,Novel Nest Store - Comilla,Gazipur,Dhaka,Mini,2023-01-24 08:37:00,Shuvo Sarker,5108.51,222653.25,14,3.71
+ST00510,Literary World Outlet - Manikganj,Munshiganj,Dhaka,Mini,2022-03-12 23:44:00,Karim Uddin,1436.83,85619.52,28,4.76
+ST00511,Novel Nest Center - Bandarban,Bandarban,Chattogram,Standard,2022-09-16 20:35:00,Nayeem Sheikh,1381.03,106839.08,27,4.91
+ST00512,Rokomari Outlet - Chittagong,Cox's Bazar,Chattogram,Mall Outlet,2022-11-12 21:33:00,Imran Rahman,2756.49,121884.44,57,3.9812523161306363
+ST00513,Readers Point Center - Feni,Dhaka,Dhaka,Standard,2017-03-31 20:22:00,Nayeem Mollik,4802.32,21338.85,30,4.02
+ST00514,Rokomari Store - Feni,Dhaka,Dhaka,Standard,2024-11-23 23:22:00,Nusrat Karim,727.86,218032.77,41,4.62
+ST00515,Readers Point Store - Faridpur,Rangamati,Chattogram,Standard,2021-08-08 04:59:00,Muntasir Patwary,4852.95,94417.88,33,3.19
+ST00516,Pages Cafe Branch - Chandpur,Faridpur,Dhaka,Standard,2023-03-22 23:53:00,Hasan Uddin,3204.24,61830.44,5,4.78
+ST00517,Story House Center - Comilla,Bandarban,Chattogram,Mini,2017-04-29 22:51:00,Sakib Nahar,3545.88,111161.31,56,5.0
+ST00518,Bookhub Store - Kishoreganj,Bandarban,Chattogram,Standard,2023-11-06 19:08:00,Nabil Roy,3560.56,181982.39,40,4.26
+ST00519,Literary World Center - Khagrachari,Munshiganj,Dhaka,Mini,2023-02-04 19:34:00,Shaila Uddin,714.54,219665.16,33,3.23
+ST00520,Novel Nest Center - Bandarban,Dhaka,Dhaka,Mall Outlet,2020-04-25 15:53:00,Fahim Karim,1798.72,65613.47,5,3.12
+ST00521,Readers Point Center - Chittagong,Dhaka,Dhaka,Standard,2025-06-03 01:35:00,Karim Rahman,4629.67,55564.05,56,4.91
+ST00522,Book Valley Center - Rajbari,Munshiganj,Dhaka,Flagship,2022-11-09 03:08:00,Arif Amin,2708.7,236789.0,19,4.72
+ST00523,Bookhub Branch - Rajbari,Munshiganj,Dhaka,Mini,2025-03-02 00:07:00,Nayeem Talukder,3538.9,144459.86,2,4.38106902543175
+ST00524,Readers Point Center - Lakshmipur,Chittagong,Chattogram,Flagship,2024-05-23 19:54:00,Rahim Hossain,5691.26,100956.42,37,4.89
+ST00525,Book Valley Store - Bandarban,Brahmanbaria,Chattogram,Mini,2018-11-07 23:16:00,Sifat Bhuiyan,659.12,61840.07,2,3.91
+ST00526,Novel Nest Store - Gopalganj,Lakshmipur,Chattogram,Standard,2025-12-19 09:52:00,Karim Amin,2918.21,248883.24,14,4.75
+ST00527,Book Valley Center - Rangamati,Rangamati,Chattogram,Standard,2023-09-07 07:58:00,Imran Uddin,2423.14,184008.31,53,3.16
+ST00528,Literary World Branch - Madaripur,Chandpur,Chattogram,Standard,2018-09-16 09:22:00,Arif Patwary,996.12,66203.05,4,3.2
+ST00529,Bookhub Branch - Gazipur,Dhaka,Dhaka,Standard,2024-02-20 00:21:00,Sadia Miah,5724.45,36445.97,45,3.93
+ST00530,Story House Outlet - Chittagong,Kishoreganj,Dhaka,Standard,2020-11-10 16:52:00,Rafi Sheikh,5784.17,61831.35,37,3.53
+ST00531,Novel Nest Center - Shariatpur,Shariatpur,Dhaka,Standard,2024-10-11 07:28:00,Rumana Bhuiyan,2144.33,73219.51,19,3.75
+ST00532,Pages Cafe Store - Tangail,Rajbari,Dhaka,Standard,2018-07-24 11:45:00,Karim Patwary,5701.61,41105.13,18,4.56
+ST00533,Story House Branch - Gopalganj,Dhaka,Dhaka,Online Hub,2019-05-04 00:59:00,Hasan Rahman,596.97,68968.07,29,2.92
+ST00534,Bookhub Center - Tangail,Rajbari,Dhaka,Flagship,2020-02-17 07:07:00,Shaila Das,5893.02,42443.23,32,4.39
+ST00535,Pages Cafe Outlet - Brahmanbaria,Gazipur,Dhaka,Standard,2021-01-21 10:38:00,Rafi Sheikh,5081.22,103766.95,53,2.99
+ST00536,Novel Nest Store - Shariatpur,Gazipur,Dhaka,Flagship,2022-09-06 11:32:00,Tasnima Islam,1600.25,129255.89,17,4.66
+ST00537,Book Valley Branch - Noakhali,Cox's Bazar,Chattogram,Standard,2023-05-08 12:44:00,Sifat Das,3757.46,121991.97,36,3.24
+ST00538,Rokomari Outlet - Comilla,Kishoreganj,Dhaka,Flagship,2017-03-21 21:08:00,Rumana Amin,4870.48,209864.37,41,4.42
+ST00539,Novel Nest Branch - Chandpur,Narayanganj,Dhaka,Mini,2019-12-24 16:44:00,Mim Nahar,2188.07,74688.92,2,4.1
+ST00540,Bookhub Branch - Rajbari,Narsingdi,Dhaka,Flagship,2022-12-06 12:22:00,Tamim Mollik,2381.01,223467.05,53,3.65
+ST00541,Literary World Outlet - Rangamati,Narsingdi,Dhaka,Mini,2019-05-21 11:09:00,Imran Nahar,3922.25,228408.86,59,3.39
+ST00542,Literary World Outlet - Shariatpur,Dhaka,Dhaka,Standard,2020-11-18 18:56:00,Mahin Sheikh,1223.73,240552.93,7,2.93
+ST00543,Readers Point Branch - Brahmanbaria,Rajbari,Dhaka,Standard,2022-06-15 12:17:00,Sadia Roy,1061.98,57531.06,17,3.58
+ST00544,Story House Outlet - Rajbari,Gazipur,Dhaka,Flagship,2019-03-27 07:29:00,Farhan Bhuiyan,1798.91,72751.52,47,3.24
+ST00545,Novel Nest Center - Munshiganj,Tangail,Dhaka,Mini,2025-09-04 19:46:00,Nabil Patwary,4551.05,161600.59,48,3.1
+ST00546,Rokomari Store - Chandpur,Dhaka,Dhaka,Mall Outlet,2024-08-15 14:00:00,Farhan Nahar,2452.96,48109.53,11,4.42
+ST00547,Book Valley Outlet - Kishoreganj,Rangamati,Chattogram,Standard,2025-09-26 19:02:00,Nafis Khan,3241.21,35121.01,55,3.27
+ST00548,Readers Point Store - Munshiganj,Chittagong,Chattogram,Mall Outlet,2021-06-17 19:21:00,Nabil Miah,1494.52,32318.84,21,3.29
+ST00549,Literary World Store - Madaripur,Kishoreganj,Dhaka,Standard,2020-02-03 09:59:00,Tasnima Uddin,1486.99,157445.16,19,3.55
+ST00550,Bookhub Branch - Lakshmipur,Dhaka,Dhaka,Standard,2025-12-13 10:40:00,Raisa Amin,4042.53,204099.36,22,3.82
+ST00551,Literary World Store - Noakhali,Gopalganj,Dhaka,Mini,2023-07-22 19:45:00,Muntasir Talukder,1006.9,75838.13,40,4.343770206077885
+ST00552,Readers Point Branch - Munshiganj,Brahmanbaria,Chattogram,Flagship,2024-02-20 23:22:00,Rumana Amin,4139.91,234380.46,13,4.26
+ST00553,Literary World Outlet - Dhaka,Tangail,Dhaka,Standard,2018-08-24 08:26:00,Sakib Patwary,2643.93,201104.84,33,4.09
+ST00554,Novel Nest Outlet - Brahmanbaria,Brahmanbaria,Chattogram,Flagship,2024-10-27 05:28:00,Sadia Rahman,4159.12,33203.2,6,3.86
+ST00555,Novel Nest Center - Chittagong,Khagrachari,Chattogram,Mini,2021-10-02 10:52:00,Arif Bhuiyan,2537.69,110716.24,10,3.67
+ST00556,Rokomari Center - Khagrachari,Manikganj,Dhaka,Standard,2023-12-17 04:04:00,Hasan Uddin,5137.89,30983.49,46,3.38
+ST00557,Novel Nest Branch - Madaripur,Bandarban,Chattogram,Online Hub,2024-06-04 00:44:00,Mahin Chowdhury,711.11,230070.63,24,4.36
+ST00558,Rokomari Store - Manikganj,Madaripur,Dhaka,Standard,2017-12-15 01:39:00,Rafi Roy,5402.46,189558.5,48,3.5
+ST00559,Literary World Outlet - Chittagong,Tangail,Dhaka,Mall Outlet,2017-11-22 13:43:00,Arif Talukder,1904.5,176338.11,44,4.67
+ST00560,Novel Nest Outlet - Cox'S Bazar,Manikganj,Dhaka,Flagship,2017-08-02 16:26:00,Adib Patwary,638.24,175434.93,59,4.09
+ST00561,Pages Cafe Branch - Gazipur,Chittagong,Chattogram,Mini,2022-10-14 16:55:00,Nafis Roy,3549.46,82017.89,9,4.19
+ST00562,Pages Cafe Center - Cox'S Bazar,Dhaka,Dhaka,Standard,2025-03-26 22:46:00,Shaila Islam,1656.38,234381.7,56,3.92
+ST00563,Story House Center - Narsingdi,Dhaka,Dhaka,Flagship,2017-04-09 22:48:00,Ayesha Roy,2971.54,231852.51,53,4.84
+ST00564,Bookhub Store - Narsingdi,Dhaka,Dhaka,Flagship,2018-03-31 02:46:00,Sami Patwary,4892.96,188779.87,27,3.73
+ST00565,Story House Center - Noakhali,Noakhali,Chattogram,Mini,2021-05-16 17:18:00,Imran Uddin,4832.66,125198.6,9,3.74
+ST00566,Novel Nest Center - Chandpur,Munshiganj,Dhaka,Standard,2020-07-09 13:39:00,Shuvo Sarker,3762.16,26072.2,9,4.76
+ST00567,Bookhub Branch - Bandarban,Gopalganj,Dhaka,Standard,2017-12-05 11:06:00,Sadia Sheikh,5876.08,21653.17,31,4.13
+ST00568,Book Valley Center - Manikganj,Kishoreganj,Dhaka,Mall Outlet,2022-06-28 04:01:00,Hasan Hossain,2997.01,47461.57,2,3.79
+ST00569,Literary World Store - Gazipur,Madaripur,Dhaka,Standard,2025-02-23 06:20:00,Muntasir Sarker,620.57,155004.7,7,3.38
+ST00570,Readers Point Store - Kishoreganj,Feni,Chattogram,Flagship,2018-11-28 07:09:00,Sakib Das,4988.78,202553.35,32,3.34
+ST00571,Pages Cafe Outlet - Chittagong,Noakhali,Chattogram,Flagship,2017-01-10 07:21:00,Shuvo Nahar,1639.25,237889.45,34,4.56
+ST00572,Pages Cafe Store - Madaripur,Cox's Bazar,Chattogram,Flagship,2019-01-11 06:52:00,Tasnima Patwary,1386.94,56210.09,51,3.41
+ST00573,Pages Cafe Center - Dhaka,Cox's Bazar,Chattogram,Standard,2018-08-30 14:35:00,Tanjim Islam,792.06,79749.05,58,2.81
+ST00574,Story House Center - Khagrachari,Dhaka,Dhaka,Mini,2021-03-13 01:39:00,Sadia Amin,2236.24,27713.57,17,2.84
+ST00575,Pages Cafe Outlet - Lakshmipur,Dhaka,Dhaka,Standard,2017-12-19 15:23:00,Nayeem Nahar,2226.49,247426.08,21,4.95
+ST00576,Rokomari Outlet - Shariatpur,Rajbari,Dhaka,Flagship,2020-03-31 21:37:00,Shaila Mollik,2095.52,198515.04,13,4.03
+ST00577,Readers Point Outlet - Comilla,Tangail,Dhaka,Mini,2018-01-28 11:56:00,Farhan Sheikh,3721.88,127967.82,15,3.88
+ST00578,Bookhub Store - Lakshmipur,Dhaka,Dhaka,Standard,2023-02-02 05:27:00,Muntasir Amin,4608.64,150257.86,27,4.82
+ST00579,Bookhub Store - Manikganj,Chandpur,Chattogram,Standard,2021-03-22 18:44:00,Farhan Hossain,5651.49,147110.99,59,3.57
+ST00580,Rokomari Outlet - Feni,Dhaka,Dhaka,Mall Outlet,2017-09-04 16:48:00,Muntasir Sarker,926.68,74774.78,53,4.55
+ST00581,Story House Center - Feni,Dhaka,Dhaka,Standard,2017-05-24 15:04:00,Sadia Sheikh,1242.14,58566.81,54,4.39
+ST00582,Pages Cafe Store - Chandpur,Faridpur,Dhaka,Standard,2021-05-26 01:27:00,Sakib Uddin,3703.12,84789.29,28,3.85
+ST00583,Bookhub Branch - Manikganj,Cox's Bazar,Chattogram,Online Hub,2022-04-29 15:26:00,Mim Talukder,949.56,73081.08,40,4.5
+ST00584,Rokomari Outlet - Rangamati,Chandpur,Chattogram,Mini,2018-07-27 14:50:00,Raisa Sheikh,2476.28,146019.1,43,4.92
+ST00585,Bookhub Center - Rangamati,Narayanganj,Dhaka,Mini,2019-11-30 02:00:00,Mahin Mollik,3897.49,87427.66,16,3.24
+ST00586,Pages Cafe Center - Rajbari,Cox's Bazar,Chattogram,Mini,2022-06-17 16:45:00,Shaila Nahar,4771.05,186302.03,28,2.84
+ST00587,Pages Cafe Store - Chandpur, Cumilla ,,Standard,2021-03-29 07:10:00,Tanvir Mollik,1618.56,148465.84,33,4.61
+ST00588,Readers Point Store - Lakshmipur,Gopalganj,Dhaka,Standard,2018-01-17 21:02:00,Tanvir Khan,4140.72,140081.98,32,3.69
+ST00589,Story House Store - Munshiganj,Chittagong,Chattogram,Mini,2020-07-09 17:02:00,Shuvo Amin,4016.87,238554.04,29,4.0
+ST00590,Pages Cafe Branch - Chittagong,Dhaka,Dhaka,Mini,2018-10-12 10:02:00,Sadia Karim,5213.85,90766.24,27,3.29
+ST00591,Story House Center - Brahmanbaria,Munshiganj,Dhaka,Mini,2025-05-04 06:08:00,Nusrat Ahmed,2156.99,164288.42,5,4.65
+ST00592,Story House Branch - Narayanganj,Dhaka,Dhaka,Standard,2024-03-26 13:54:00,Sifat Chowdhury,4600.51,15011.9,46,4.39
+ST00593,Book Valley Branch - Lakshmipur,Madaripur,Dhaka,Online Hub,2019-10-23 07:41:00,Muntasir Amin,4611.2,188177.06,54,4.9
+ST00594,Bookhub Store - Brahmanbaria,Narayanganj,Dhaka,Standard,2019-02-12 18:12:00,Raisa Talukder,1739.49,133097.82,45,3.85
+ST00595,Story House Store - Tangail,Dhaka,Dhaka,Flagship,2018-03-19 10:21:00,Mahin Islam,3878.48,63970.46,56,4.95
+ST00596,Story House Outlet - Brahmanbaria,Manikganj,Dhaka,Standard,2023-08-19 23:55:00,Tasnima Rahman,4180.91,15354.98,27,3.92
+ST00597,Novel Nest Branch - Narayanganj,Tangail,Dhaka,Standard,2025-04-06 08:52:00,Raisa Sarker,1936.8,181131.83,5,4.17
+ST00598,Rokomari Center - Cox'S Bazar,Shariatpur,Dhaka,Mini,2019-06-17 06:49:00,Rafi Sarker,2930.08,170734.67,17,4.28
+ST00599,Rokomari Center - Narsingdi,Dhaka,Dhaka,Standard,2022-10-04 07:06:00,Hasan Mollik,2840.36,105726.00085985196,51,3.88
+ST00600,Story House Branch - Gopalganj,Dhaka,Dhaka,Mini,2019-02-12 07:12:00,Nusrat Jahan,4731.65,117801.88,10,4.04
+ST00601,Rokomari Outlet - Shariatpur,Gazipur,Dhaka,Standard,2025-04-02 08:13:00,Arif Nahar,403.87,165234.87,33,3.29
+ST00602,Novel Nest Outlet - Kishoreganj,Cox's Bazar,Chattogram,Flagship,2019-09-11 00:32:00,Mahin Ahmed,3205.75,149263.68,2,3.6
+ST00603,Book Valley Branch - Narayanganj,Feni,Chattogram,Standard,2017-11-12 17:46:00,Nayeem Das,1432.31,71140.34,20,4.34
+ST00604,Book Valley Outlet - Brahmanbaria,Faridpur,Dhaka,Standard,2024-12-04 17:49:00,Hasan Sarker,4022.32,136910.49,8,2.89
+ST00605,Readers Point Store - Manikganj,Brahmanbaria,Chattogram,Mini,2025-07-04 23:47:00,Muntasir Mollik,4210.07,135929.31,8,4.34
+ST00606,Novel Nest Center - Comilla,Rajbari,Dhaka,Standard,2020-07-29 02:04:00,Sakib Karim,3206.31,124631.90172626058,11,3.47
+ST00607,Bookhub Branch - Comilla,Rangamati,Chattogram,Standard,2025-03-01 09:08:00,Karim Das,3435.37,116869.92,33,3.4
+ST00608,Readers Point Outlet - Lakshmipur,Dhaka,Dhaka,Standard,2019-03-12 23:55:00,Raisa Karim,2164.33,117480.08,42,4.33
+ST00609,Pages Cafe Outlet - Comilla,Narsingdi,Dhaka,Flagship,2019-06-10 03:48:00,Sami Ahmed,2154.61,246335.05,18,3.27
+ST00610,Novel Nest Store - Chandpur,Rajbari,Dhaka,Flagship,2021-10-30 09:32:00,Sami Sarker,4572.66,225199.01,49,4.92
+ST00611,Rokomari Branch - Chittagong,Faridpur,Dhaka,Mall Outlet,2022-05-28 00:03:00,Arif Amin,1137.7,71937.21,24,4.98
+ST00612,Literary World Branch - Chittagong,Dhaka,Dhaka,Flagship,2020-06-21 05:13:00,Tanvir Miah,4720.42,228918.88,44,3.81
+ST00613,Novel Nest Branch - Feni,Dhaka,Dhaka,Flagship,2024-03-12 12:11:00,Shuvo Sheikh,4068.07,47422.16,32,3.68
+ST00614,Pages Cafe Outlet - Comilla,Madaripur,Dhaka,Online Hub,2024-02-10 14:08:00,Raisa Chowdhury,5353.06,215546.9,43,2.97
+ST00615,Bookhub Branch - Rangamati,Bandarban,Chattogram,Mini,2018-02-02 10:49:00,Jannat Amin,1856.81,58080.99,58,4.51
+ST00616,Pages Cafe Branch - Chittagong,Brahmanbaria,Chattogram,Standard,2025-11-29 14:30:00,Mim Chowdhury,3234.6,115016.79,59,3.16
+ST00617,Bookhub Store - Faridpur,Dhaka,Dhaka,Mini,2018-06-08 01:46:00,Rafi Hossain,618.34,246221.58,36,4.85
+ST00618,Literary World Outlet - Noakhali,Feni,Chattogram,Mall Outlet,2021-09-27 07:46:00,Fahim Das,5510.04,37806.5,57,4.98
+ST00619,Literary World Store - Madaripur,Gopalganj,Dhaka,Flagship,2020-10-22 02:33:00,Hasan Sheikh,4182.19,212350.14,42,3.07
+ST00620,Readers Point Store - Gopalganj,Noakhali,Chattogram,Standard,2021-01-24 10:43:00,Nabil Uddin,3888.1,131262.48,17,4.3
+ST00621,Novel Nest Store - Chittagong,Dhaka,Dhaka,Online Hub,2018-02-27 03:52:00,Nayeem Bhuiyan,4503.06,204604.14075870323,56,3.83
+ST00622,Bookhub Store - Khagrachari,Cox's Bazar,Chattogram,Mini,2020-02-02 05:08:00,Sifat Ahmed,1992.24,238835.47,10,3.99
+ST00623,Pages Cafe Center - Faridpur,Khagrachari,Chattogram,Mall Outlet,2017-04-10 16:52:00,Nayeem Islam,3781.62,144069.37,29,3.2
+ST00624,Readers Point Branch - Bandarban,Cox's Bazar,Chattogram,Standard,2025-10-04 09:23:00,Sakib Islam,4885.16,221950.64,10,4.39
+ST00625,Literary World Center - Chittagong, Cumilla ,,Mall Outlet,2018-04-18 16:41:00,Mim Patwary,905.65,219240.13,47,3.17
+ST00626,Novel Nest Branch - Madaripur,Gazipur,Dhaka,Standard,2021-05-08 01:39:00,Sifat Chowdhury,5769.37,18439.13,53,4.75
+ST00627,Bookhub Store - Gazipur,Brahmanbaria,Chattogram,Mini,2018-12-11 20:35:00,Tamim Sarker,5394.57,77237.57,49,3.8
+ST00628,Rokomari Branch - Cox'S Bazar,Rajbari,Dhaka,Online Hub,2018-08-08 21:32:00,Tanjim Bhuiyan,5792.91,94176.57,7,4.2
+ST00629,Literary World Store - Kishoreganj,Madaripur,Dhaka,Flagship,2020-07-06 05:51:00,Tamim Uddin,4926.75,140693.05,17,4.83
+ST00630,Readers Point Center - Faridpur,Rangamati,Chattogram,Standard,2025-09-20 20:14:00,Ayesha Das,2048.14,31888.51,21,4.42
+ST00631,Novel Nest Store - Gopalganj,Dhaka,Dhaka,Standard,2021-04-21 07:57:00,Rafi Ahmed,3656.71,106407.22,8,3.99
+ST00632,Story House Outlet - Narayanganj,Kishoreganj,Dhaka,Online Hub,2025-08-24 11:00:00,Karim Das,1072.91,206439.96,32,3.69
+ST00633,Novel Nest Center - Madaripur,Khagrachari,Chattogram,Flagship,2024-06-10 15:50:00,Nusrat Nahar,4623.33,55699.91,3,4.243244826915597
+ST00634,Story House Center - Kishoreganj,Dhaka,Dhaka,Online Hub,2020-12-02 19:01:00,Karim Chowdhury,1260.38,179799.97,37,3.55
+ST00635,Book Valley Center - Manikganj,Dhaka,Dhaka,Standard,2025-02-09 06:44:00,Mahin Nahar,5254.21,123177.41,35,4.88
+ST00636,Readers Point Store - Kishoreganj,Faridpur,Dhaka,Standard,2020-02-19 03:20:00,Hasan Ahmed,1747.12,31615.7,36,3.36
+ST00637,Book Valley Store - Noakhali,Chittagong,Chattogram,Standard,2021-07-06 16:58:00,Karim Sheikh,1298.31,56682.91,54,3.7
+ST00638,Pages Cafe Outlet - Noakhali,Feni,Chattogram,Mall Outlet,2023-02-14 22:01:00,Rumana Karim,797.06,48142.22,47,4.51
+ST00639,Readers Point Center - Tangail,Dhaka,Dhaka,Flagship,2022-04-21 20:07:00,Shuvo Ahmed,4383.64,160633.69,17,3.6
+ST00640,Literary World Center - Rajbari,Shariatpur,Dhaka,Standard,2024-06-16 20:16:00,Shuvo Roy,1442.74,35521.23,35,4.75
+ST00641,Readers Point Outlet - Chandpur,Narsingdi,Dhaka,Flagship,2018-06-20 06:39:00,Tamim Das,1506.94,208415.99,48,3.33
+ST00642,Story House Center - Chittagong,Bandarban,Chattogram,Mall Outlet,2021-06-27 04:14:00,Adib Patwary,1350.3,204564.9,51,2.87
+ST00643,Readers Point Store - Narsingdi,Bandarban,Chattogram,Mini,2022-12-25 06:26:00,Mahin Talukder,2112.45,33814.57,39,4.18
+ST00644,Readers Point Branch - Manikganj,Noakhali,Chattogram,Standard,2019-12-24 01:14:00,Rafi Bhuiyan,5670.78,223726.34,6,3.92
+ST00645,Book Valley Branch - Madaripur,Gazipur,Dhaka,Standard,2024-10-19 16:06:00,Fahim Chowdhury,3125.08,240402.79,27,4.85
+ST00646,Story House Store - Narsingdi,Dhaka,Dhaka,Standard,2019-09-18 09:08:00,Adib Islam,1860.92,25215.0,51,3.73
+ST00647,Readers Point Center - Cox'S Bazar,Rajbari,Dhaka,Standard,2019-09-17 13:58:00,Imran Jahan,1354.19,238327.45,6,3.1
+ST00648,Readers Point Branch - Rajbari,Madaripur,Dhaka,Online Hub,2019-12-10 04:52:00,Tasnima Bhuiyan,505.85,80673.61,36,3.53
+ST00649,Pages Cafe Center - Gopalganj,Manikganj,Dhaka,Standard,2023-02-01 21:44:00,Mahin Patwary,2443.96,171219.06,33,3.67
+ST00650,Literary World Branch - Rangamati,Dhaka,Dhaka,Standard,2018-01-23 20:32:00,Muntasir Patwary,1016.34,56081.7,14,4.08
+ST00651,Book Valley Branch - Rangamati,Dhaka,Dhaka,Mini,2018-04-15 11:24:00,Nayeem Bhuiyan,551.27,207102.12,21,3.4
+ST00652,Literary World Center - Faridpur,Lakshmipur,Chattogram,Standard,2024-01-03 13:07:00,Sakib Talukder,976.69,212849.64,58,4.01
+ST00653,Bookhub Store - Shariatpur,Dhaka,Dhaka,Flagship,2018-11-13 05:39:00,Tamim Sheikh,2183.72,244910.23,36,4.8
+ST00654,Literary World Store - Rajbari,Rajbari,Dhaka,Flagship,2017-12-11 21:33:00,Sifat Patwary,4604.84,248245.36,56,3.73
+ST00655,Readers Point Store - Faridpur,Chandpur,Chattogram,Standard,2019-05-17 08:55:00,Hasan Mollik,775.12,32826.56,29,4.23
+ST00656,Readers Point Store - Madaripur,Dhaka,Dhaka,Mini,2020-08-01 20:40:00,Nusrat Karim,4200.57,169621.45,51,3.3
+ST00657,Pages Cafe Outlet - Faridpur,Dhaka,Dhaka,Flagship,2017-04-19 19:45:00,Sakib Das,3875.04,79165.85,37,4.56
+ST00658,Rokomari Outlet - Lakshmipur,Gopalganj,Dhaka,Standard,2024-07-06 14:58:00,Tasnima Nahar,5339.15,44510.78,54,3.39
+ST00659,Bookhub Center - Rajbari,Munshiganj,Dhaka,Standard,2018-01-22 02:20:00,Arif Jahan,1430.33,49966.92,20,4.08
+ST00660,Story House Outlet - Khagrachari,Gazipur,Dhaka,Mini,2020-08-20 21:24:00,Raisa Hossain,4847.9,235062.75,24,3.46
+ST00661,Pages Cafe Store - Feni,Tangail,Dhaka,Flagship,2018-10-27 04:30:00,Mahin Bhuiyan,5243.25,175657.57,23,2.95
+ST00662,Readers Point Center - Gazipur,Dhaka,Dhaka,Standard,2019-08-27 14:05:00,Tamim Das,5868.31,26858.32,15,3.5
+ST00663,Readers Point Outlet - Noakhali,Dhaka,Dhaka,Flagship,2017-05-29 16:34:00,Sifat Roy,4927.88,246294.07,34,3.27
+ST00664,Novel Nest Store - Noakhali,Dhaka,Dhaka,Standard,2025-07-13 23:04:00,Tanvir Hossain,1093.1,119957.04862376537,12,4.76
+ST00665,Novel Nest Store - Brahmanbaria,Gazipur,Dhaka,Flagship,2025-06-08 04:22:00,Tamim Nahar,5703.92,87657.14,19,3.39
+ST00666,Bookhub Store - Kishoreganj,Gazipur,Dhaka,Standard,2018-02-20 19:44:00,Sakib Jahan,4963.96,178223.91181630915,52,4.94
+ST00667,Bookhub Store - Gazipur,Noakhali,Chattogram,Mini,2018-10-11 06:19:00,Mahin Talukder,1589.02,185745.36,23,3.88
+ST00668,Bookhub Center - Brahmanbaria,Dhaka,Dhaka,Flagship,2024-12-17 15:07:00,Mahin Hossain,1325.11,173867.54,49,3.29
+ST00669,Rokomari Outlet - Madaripur,Narayanganj,Dhaka,Mini,2020-09-25 12:37:00,Imran Uddin,5643.92,123824.01,49,3.66
+ST00670,Pages Cafe Branch - Chittagong,Rajbari,Dhaka,Standard,2017-07-23 23:37:00,Nayeem Khan,1271.91,135411.63,58,3.2
+ST00671,Readers Point Store - Dhaka,Brahmanbaria,Chattogram,Standard,2018-03-23 11:15:00,Shaila Sarker,4751.78,25153.8,31,4.63
+ST00672,Story House Store - Shariatpur,Tangail,Dhaka,Standard,2022-01-08 09:23:00,Sakib Miah,2669.45,132648.81,51,3.06
+ST00673,Book Valley Outlet - Brahmanbaria,Dhaka,Dhaka,Standard,2022-09-07 20:02:00,Imran Mollik,4453.31,94958.02,26,4.72
+ST00674,Novel Nest Center - Bandarban,Shariatpur,Dhaka,Mini,2018-05-19 10:20:00,Fahim Das,914.37,81987.03,38,2.9
+ST00675,Novel Nest Outlet - Kishoreganj,Faridpur,Dhaka,Mini,2020-04-30 22:42:00,Jannat Uddin,4460.33,78361.27,49,3.46
+ST00676,Book Valley Center - Madaripur,Chittagong,Chattogram,Mini,2019-05-08 21:15:00,Rafi Mollik,3266.7,167502.52,10,3.93919317357087
+ST00677,Book Valley Branch - Munshiganj,Dhaka,Dhaka,Standard,2021-10-23 17:12:00,Imran Das,5442.12,143240.85337113877,5,4.31
+ST00678,Story House Center - Brahmanbaria,Brahmanbaria,Chattogram,Mini,2019-11-23 06:20:00,Karim Mollik,1455.03,115063.57,11,3.93
+ST00679,Literary World Branch - Rangamati,Shariatpur,Dhaka,Flagship,2018-11-02 08:23:00,Fahim Khan,1012.39,52408.94,43,4.87
+ST00680,Pages Cafe Store - Rangamati,Tangail,Dhaka,Standard,2024-05-02 18:19:00,Tanvir Miah,1498.83,241037.94,29,3.61
+ST00681,Bookhub Center - Faridpur,Dhaka,Dhaka,Flagship,2022-02-13 20:20:00,Rumana Islam,840.02,67622.66,18,2.89
+ST00682,Book Valley Outlet - Faridpur,Bandarban,Chattogram,Flagship,2021-04-07 09:38:00,Nusrat Uddin,5888.84,110435.66,46,4.48
+ST00683,Book Valley Store - Faridpur,Chandpur,Chattogram,Mini,2018-03-19 03:50:00,Fahim Karim,1088.0,59698.12,2,4.07
+ST00684,Novel Nest Store - Bandarban,Munshiganj,Dhaka,Online Hub,2017-08-21 16:16:00,Sami Jahan,1524.77,180238.57,12,4.62
+ST00685,Novel Nest Outlet - Comilla,Gazipur,Dhaka,Flagship,2024-02-29 23:20:00,Nayeem Bhuiyan,4934.24,117490.26,37,3.74
+ST00686,Book Valley Center - Khagrachari,Dhaka,Dhaka,Standard,2025-09-18 21:07:00,Mim Rahman,1781.82,112207.74,55,4.42
+ST00687,Novel Nest Store - Brahmanbaria,Dhaka,Dhaka,Mini,2022-04-03 08:00:00,Jannat Sheikh,1644.84,220647.3,45,3.18
+ST00688,Novel Nest Center - Chandpur,Chittagong,Chattogram,Mall Outlet,2017-05-09 10:42:00,Hasan Roy,4164.93,193477.76,41,5.0
+ST00689,Bookhub Outlet - Lakshmipur,Kishoreganj,Dhaka,Mini,2021-05-03 15:05:00,Rumana Rahman,2633.09,137170.64,43,3.18
+ST00690,Readers Point Center - Feni,Brahmanbaria,Chattogram,Flagship,2019-07-10 17:11:00,Sakib Karim,5078.68,125118.74,20,4.63
+ST00691,Pages Cafe Outlet - Dhaka,Chandpur,Chattogram,Flagship,2017-06-29 15:14:00,Shuvo Das,3974.31,240576.83,27,3.27
+ST00692,Bookhub Center - Comilla,Bandarban,Chattogram,Mini,2018-04-14 01:26:00,Sifat Miah,2014.0,239768.61,53,4.52
+ST00693,Pages Cafe Outlet - Madaripur,Bandarban,Chattogram,Standard,2021-07-01 06:12:00,Tamim Ahmed,3748.37,180621.15,44,4.69
+ST00694,Story House Center - Gopalganj,Shariatpur,Dhaka,Mall Outlet,2020-11-03 17:12:00,Tamim Hossain,5252.19,193634.76,36,4.73
+ST00695,Literary World Outlet - Khagrachari,Narayanganj,Dhaka,Mall Outlet,2022-01-26 21:20:00,Muntasir Patwary,2441.1,226286.83,6,3.85
+ST00696,Pages Cafe Store - Chittagong,Dhaka,Dhaka,Mall Outlet,2023-03-29 13:22:00,Sakib Roy,4524.24,241612.56,44,3.74
+ST00697,Bookhub Store - Comilla,Cox's Bazar,Chattogram,Standard,2019-05-23 23:36:00,Tasnima Karim,2728.66,34334.57,23,4.63
+ST00698,Readers Point Branch - Shariatpur,Noakhali,Chattogram,Mini,2019-07-30 19:05:00,Shaila Islam,3441.21,249374.63,24,4.07
+ST00699,Literary World Branch - Narayanganj,Manikganj,Dhaka,Mini,2023-02-05 13:29:00,Rafi Bhuiyan,4508.72,180210.22,41,4.17
+ST00700,Book Valley Center - Rangamati,Lakshmipur,Chattogram,Flagship,2018-10-10 19:51:00,Nayeem Nahar,738.95,154295.04,24,3.32
+ST00701,Bookhub Store - Rajbari,Rangamati,Chattogram,Standard,2017-09-10 06:00:00,Mahin Bhuiyan,2947.72,91455.54667229363,35,3.78
+ST00702,Bookhub Store - Brahmanbaria,Munshiganj,Dhaka,Standard,2024-09-05 19:54:00,Raisa Talukder,933.2,94051.63,2,3.61
+ST00703,Literary World Outlet - Lakshmipur,Brahmanbaria,Chattogram,Standard,2018-11-17 18:03:00,Tanvir Uddin,4460.03,203989.4,12,4.26
+ST00704,Rokomari Branch - Kishoreganj,Tangail,Dhaka,Mall Outlet,2018-02-02 05:03:00,Tasnima Jahan,3803.72,168792.24,33,3.23
+ST00705,Book Valley Branch - Feni,Dhaka,Dhaka,Online Hub,2023-08-21 14:01:00,Sami Mollik,2230.81,62165.71,57,3.69
+ST00706,Bookhub Center - Feni,Dhaka,Dhaka,Standard,2021-10-14 13:56:00,Jannat Sarker,827.18,158329.09,46,4.67
+ST00707,Novel Nest Outlet - Faridpur,Madaripur,Dhaka,Standard,2018-04-29 18:31:00,Mahin Roy,5584.49,48174.03,26,4.0
+ST00708,Story House Outlet - Noakhali,Chittagong,Chattogram,Flagship,2024-08-26 20:56:00,Sami Bhuiyan,2164.02,131765.58,58,4.77
+ST00709,Bookhub Center - Gazipur,Faridpur,Dhaka,Standard,2019-03-18 20:57:00,Nusrat Sarker,1942.11,152112.54,17,3.31
+ST00710,Readers Point Branch - Cox'S Bazar,Chittagong,Chattogram,Flagship,2023-01-31 10:39:00,Tanjim Hossain,965.63,164385.76,53,3.77
+ST00711,Literary World Branch - Shariatpur,Tangail,Dhaka,Mini,2022-11-09 17:03:00,Rumana Karim,3633.18,49136.61,25,3.9
+ST00712,Readers Point Center - Shariatpur,Bandarban,Chattogram,Mini,2024-06-19 05:12:00,Sifat Hossain,1887.66,37465.65,7,3.68
+ST00713,Readers Point Store - Tangail,Dhaka,Dhaka,Online Hub,2023-07-23 23:22:00,Shaila Chowdhury,5119.98,75796.42,2,4.31
+ST00714,Story House Store - Khagrachari,Manikganj,Dhaka,Online Hub,2023-04-30 05:56:00,Karim Bhuiyan,4223.49,157652.01,58,3.13
+ST00715,Novel Nest Center - Bandarban,Dhaka,Dhaka,Flagship,2017-06-19 04:38:00,Arif Islam,421.92,233945.46,39,3.94
+ST00716,Literary World Branch - Feni,Dhaka,Dhaka,Mini,2025-06-10 13:45:00,Nabil Ahmed,3567.78,198094.03,10,3.11
+ST00717,Book Valley Store - Chittagong,Dhaka,Dhaka,Flagship,2018-02-20 23:20:00,Arif Islam,1698.27,190241.97,32,3.410019620558151
+ST00718,Readers Point Outlet - Rangamati,Dhaka,Dhaka,Standard,2019-04-14 03:58:00,Shaila Khan,486.06,92604.6,4,4.63
+ST00719,Book Valley Store - Brahmanbaria,Dhaka,Dhaka,Standard,2021-01-05 22:39:00,Imran Das,3868.46,41251.23,21,2.84
+ST00720,Literary World Branch - Faridpur,Rajbari,Dhaka,Flagship,2019-08-06 16:57:00,Hasan Patwary,1547.52,224605.76,45,3.81
+ST00721,Book Valley Branch - Faridpur,Madaripur,Dhaka,Flagship,2022-05-02 22:10:00,Mahin Sarker,5437.96,132700.57,5,3.88
+ST00722,Story House Center - Gazipur,Dhaka,Dhaka,Standard,2017-06-23 20:43:00,Tasnima Das,3610.93,38620.05,54,4.38
+ST00723,Readers Point Outlet - Dhaka,Feni,Chattogram,Flagship,2021-01-31 03:00:00,Nusrat Bhuiyan,1571.44,140717.65,41,2.96
+ST00724,Literary World Outlet - Lakshmipur,Narayanganj,Dhaka,Mall Outlet,2020-02-23 07:28:00,Adib Sarker,5883.11,173721.41,14,3.69
+ST00725,Rokomari Store - Dhaka,Lakshmipur,Chattogram,Standard,2022-10-28 06:31:00,Mim Das,3460.07,90176.51,50,4.53
+ST00726,Story House Store - Narsingdi,Shariatpur,Dhaka,Standard,2021-09-05 01:25:00,Sadia Miah,1326.64,17173.5,49,3.97
+ST00727,Pages Cafe Branch - Narayanganj,Dhaka,Dhaka,Mall Outlet,2023-10-21 04:37:00,Imran Sarker,3296.56,161077.64,15,4.45
+ST00728,Book Valley Center - Kishoreganj,Lakshmipur,Chattogram,Standard,2018-06-25 09:18:00,Tasnima Miah,5772.35,24422.45,13,3.6
+ST00729,Rokomari Center - Bandarban,Feni,Chattogram,Standard,2025-07-18 04:49:00,Raisa Ahmed,2775.58,116706.42,16,4.82
+ST00730,Novel Nest Store - Bandarban,Shariatpur,Dhaka,Mall Outlet,2020-07-12 13:13:00,Tanjim Mollik,2781.93,208822.18,10,2.97
+ST00731,Literary World Center - Rajbari,Narayanganj,Dhaka,Standard,2020-02-24 16:59:00,Nafis Karim,2982.31,249729.19,40,3.0
+ST00732,Book Valley Branch - Feni,Madaripur,Dhaka,Flagship,2021-12-07 19:43:00,Karim Mollik,1968.58,102021.18,5,3.96
+ST00733,Story House Outlet - Rajbari,Manikganj,Dhaka,Standard,2018-06-20 23:05:00,Rafi Ahmed,1305.99,19729.83,26,3.84
+ST00734,Readers Point Store - Kishoreganj,Chittagong,Chattogram,Standard,2024-04-30 15:27:00,Ayesha Amin,3642.0,130832.23,35,4.2
+ST00735,Pages Cafe Center - Chittagong,Munshiganj,Dhaka,Mini,2019-05-18 18:43:00,Mim Uddin,5407.52,79924.72,33,3.3
+ST00736,Pages Cafe Branch - Tangail,Dhaka,Dhaka,Flagship,2025-05-06 12:59:00,Nafis Islam,4520.09,224802.13,30,3.3
+ST00737,Book Valley Store - Dhaka,Dhaka,Dhaka,Mini,2018-05-02 20:50:00,Ayesha Sheikh,938.65,182203.24,14,4.45
+ST00738,Rokomari Outlet - Bandarban,Dhaka,Dhaka,Mini,2024-10-10 18:15:00,Raisa Amin,2644.75,110015.97,8,3.44
+ST00739,Rokomari Branch - Rajbari,Dhaka,Dhaka,Mall Outlet,2020-07-19 11:47:00,Farhan Khan,429.66,194076.63,59,4.4
+ST00740,Pages Cafe Center - Dhaka,Gopalganj,Dhaka,Flagship,2022-06-19 18:50:00,Farhan Karim,2124.47,95183.38,28,4.21
+ST00741,Novel Nest Branch - Rajbari,Khagrachari,Chattogram,Standard,2024-11-07 06:08:00,Nusrat Khan,4148.51,137614.44,36,2.98
+ST00742,Novel Nest Center - Rangamati,Dhaka,Dhaka,Mall Outlet,2018-03-01 08:38:00,Nayeem Roy,2025.31,231854.54,34,4.36
+ST00743,Rokomari Center - Faridpur,Faridpur,Dhaka,Mini,2020-02-15 10:31:00,Raisa Hossain,5107.13,62036.96,23,4.73
+ST00744,Literary World Outlet - Cox'S Bazar,Dhaka,Dhaka,Flagship,2025-07-14 10:34:00,Sifat Hossain,3073.35,88568.63,31,4.6
+ST00745,Rokomari Store - Shariatpur,Narsingdi,Dhaka,Flagship,2018-05-05 00:45:00,Sakib Karim,4147.34,223114.45,23,2.82
+ST00746,Literary World Center - Dhaka,Shariatpur,Dhaka,Mini,2017-12-05 01:29:00,Jannat Uddin,5349.65,123541.41,26,3.99
+ST00747,Pages Cafe Center - Rangamati,Narayanganj,Dhaka,Standard,2021-09-14 08:55:00,Shaila Rahman,4223.74,89703.87,48,4.81
+ST00748,Novel Nest Center - Manikganj,Noakhali,Chattogram,Standard,2017-03-23 05:40:00,Farhan Amin,5425.03,129980.0546556718,20,4.12
+ST00749,Readers Point Outlet - Narsingdi,Rangamati,Chattogram,Online Hub,2025-12-04 12:39:00,Rahim Mollik,4925.17,113453.96,42,3.44
+ST00750,Pages Cafe Store - Narsingdi,Cox's Bazar,Chattogram,Standard,2025-02-17 17:05:00,Tanvir Sheikh,3575.56,132641.26,40,3.23
+ST00751,Rokomari Center - Chandpur, Cumilla ,,Flagship,2018-07-22 11:40:00,Sifat Sheikh,2064.51,110488.22,3,4.31
+ST00752,Readers Point Center - Noakhali,Gopalganj,Dhaka,Mini,2024-01-01 02:19:00,Nabil Sheikh,2069.6,80202.92,41,4.5
+ST00753,Novel Nest Store - Brahmanbaria,Rajbari,Dhaka,Online Hub,2021-09-08 03:34:00,Arif Bhuiyan,5301.85,101745.59,48,4.81
+ST00754,Rokomari Center - Feni,Gazipur,Dhaka,Standard,2024-05-29 13:22:00,Nafis Sarker,701.75,165974.53,17,4.79
+ST00755,Story House Store - Rangamati,Chittagong,Chattogram,Mini,2025-09-15 14:09:00,Arif Sheikh,5672.05,224450.73,55,3.55
+ST00756,Literary World Branch - Shariatpur,Dhaka,Dhaka,Flagship,2020-08-11 19:08:00,Nabil Khan,2231.53,167673.82,3,4.13
+ST00757,Pages Cafe Store - Cox'S Bazar,Dhaka,Dhaka,Flagship,2019-04-15 06:21:00,Sakib Hossain,4537.68,166848.17,12,3.02
+ST00758,Readers Point Outlet - Gopalganj,Dhaka,Dhaka,Mall Outlet,2022-07-29 20:18:00,Farhan Das,2248.17,206965.59,53,3.01
+ST00759,Rokomari Outlet - Madaripur,Shariatpur,Dhaka,Flagship,2022-09-18 16:23:00,Shuvo Rahman,5738.49,53808.55,51,2.96
+ST00760,Pages Cafe Store - Chittagong,Bandarban,Chattogram,Flagship,2020-11-21 18:41:00,Sadia Bhuiyan,604.25,85757.94,45,4.84
+ST00761,Literary World Branch - Khagrachari,Dhaka,Dhaka,Mini,2019-09-10 16:00:00,Sadia Sheikh,2378.59,26888.88,37,3.14
+ST00762,Book Valley Center - Shariatpur,Munshiganj,Dhaka,Standard,2019-05-13 00:09:00,Ayesha Roy,5257.78,97164.88,13,3.86
+ST00763,Literary World Store - Comilla,Gopalganj,Dhaka,Standard,2021-09-10 19:30:00,Sifat Uddin,1934.72,249723.59,30,3.75
+ST00764,Readers Point Center - Noakhali, Cumilla ,,Mini,2020-11-01 05:25:00,Shuvo Das,1943.47,92388.41,34,3.436482603249411
+ST00765,Pages Cafe Store - Brahmanbaria,Dhaka,Dhaka,Flagship,2021-02-12 10:34:00,Sami Nahar,5433.01,217046.65,7,3.98
+ST00766,Bookhub Store - Chittagong,Dhaka,Dhaka,Mini,2017-11-10 02:57:00,Farhan Khan,5051.26,35157.76,36,2.81
+ST00767,Readers Point Branch - Lakshmipur,Shariatpur,Dhaka,Standard,2024-12-04 06:53:00,Mahin Ahmed,992.32,123032.41,7,3.64
+ST00768,Story House Branch - Chandpur,Rajbari,Dhaka,Flagship,2023-05-13 01:23:00,Nayeem Bhuiyan,3649.01,97593.77,9,3.85
+ST00769,Rokomari Outlet - Bandarban,Cox's Bazar,Chattogram,Mini,2025-04-08 16:28:00,Rumana Talukder,1651.01,62371.97,11,4.57
+ST00770,Bookhub Center - Rajbari,Rajbari,Dhaka,Standard,2024-06-17 17:28:00,Imran Das,1604.77,102538.97,13,4.34
+ST00771,Literary World Store - Gopalganj,Noakhali,Chattogram,Online Hub,2022-07-27 09:15:00,Mahin Sarker,3846.26,168050.36,6,4.67
+ST00772,Story House Branch - Dhaka,Faridpur,Dhaka,Mall Outlet,2022-11-19 21:56:00,Arif Islam,1093.65,130222.4,14,3.63
+ST00773,Readers Point Outlet - Kishoreganj,Kishoreganj,Dhaka,Online Hub,2022-02-05 10:37:00,Nabil Jahan,3030.76,213418.5,48,3.11
+ST00774,Readers Point Store - Brahmanbaria,Rangamati,Chattogram,Standard,2025-04-24 13:36:00,Tamim Das,1832.6,227662.45,31,3.68
+ST00775,Book Valley Branch - Faridpur,Dhaka,Dhaka,Standard,2019-02-02 20:09:00,Tamim Das,5181.97,128244.82,23,4.92
+ST00776,Pages Cafe Store - Lakshmipur, Cumilla ,,Online Hub,2017-03-26 07:58:00,Mim Mollik,3505.17,245705.68,13,4.369397276847214
+ST00777,Rokomari Outlet - Narsingdi,Dhaka,Dhaka,Standard,2018-02-23 20:02:00,Tamim Nahar,1604.61,31924.88,57,3.18
+ST00778,Book Valley Branch - Shariatpur,Munshiganj,Dhaka,Mini,2018-07-30 14:50:00,Mahin Chowdhury,5588.21,79939.72,48,4.88
+ST00779,Story House Outlet - Cox'S Bazar,Dhaka,Dhaka,Online Hub,2022-12-21 15:36:00,Mim Jahan,5008.22,112927.15,45,4.89
+ST00780,Literary World Center - Manikganj,Rajbari,Dhaka,Standard,2018-04-27 21:13:00,Tamim Khan,1885.64,151934.85,29,3.13
+ST00781,Novel Nest Branch - Noakhali, Cumilla ,,Flagship,2018-03-17 16:15:00,Sami Hossain,5781.89,143293.49,3,4.49
+ST00782,Novel Nest Center - Khagrachari,Dhaka,Dhaka,Mini,2020-07-28 13:45:00,Imran Nahar,1899.34,148474.54,39,3.75
+ST00783,Book Valley Center - Faridpur,Dhaka,Dhaka,Standard,2024-01-14 13:59:00,Muntasir Khan,2038.8,225618.92,30,3.88
+ST00784,Bookhub Branch - Dhaka,Gazipur,Dhaka,Standard,2020-10-26 18:21:00,Tamim Rahman,2561.39,80227.82,19,3.9
+ST00785,Story House Branch - Dhaka,Dhaka,Dhaka,Standard,2019-06-12 23:39:00,Shuvo Mollik,1322.91,206960.63,20,4.93
+ST00786,Novel Nest Outlet - Feni,Gopalganj,Dhaka,Mini,2019-07-24 14:44:00,Nayeem Nahar,4247.29,146130.13,5,3.21
+ST00787,Novel Nest Center - Noakhali,Noakhali,Chattogram,Standard,2024-05-13 15:14:00,Sakib Sheikh,3521.09,130265.26,52,4.40408887429143
+ST00788,Novel Nest Branch - Gopalganj,Dhaka,Dhaka,Standard,2020-11-24 18:25:00,Muntasir Mollik,5408.99,85362.16,11,2.81
+ST00789,Pages Cafe Center - Cox'S Bazar,Kishoreganj,Dhaka,Mini,2020-04-25 21:44:00,Rumana Sarker,1748.9,86456.17,49,4.18
+ST00790,Bookhub Branch - Munshiganj,Manikganj,Dhaka,Mini,2023-12-17 14:56:00,Shuvo Bhuiyan,1353.29,106292.77,58,4.24
+ST00791,Pages Cafe Store - Narsingdi,Dhaka,Dhaka,Mall Outlet,2020-04-27 00:24:00,Tamim Miah,2408.29,194424.96,4,4.46
+ST00792,Story House Branch - Gazipur,Dhaka,Dhaka,Flagship,2020-03-18 07:07:00,Muntasir Jahan,1218.21,127032.23,38,4.84
+ST00793,Story House Branch - Faridpur,Brahmanbaria,Chattogram,Online Hub,2023-10-03 09:10:00,Karim Sarker,5698.45,122807.48642907878,5,4.46
+ST00794,Literary World Branch - Faridpur,Shariatpur,Dhaka,Mini,2019-12-13 00:25:00,Sadia Ahmed,4417.7,193567.85,50,4.41
+ST00795,Readers Point Center - Tangail, Cumilla ,,Mini,2021-08-04 17:36:00,Rahim Islam,4858.67,170894.3,31,4.7260481273011985
+ST00796,Literary World Branch - Manikganj,Kishoreganj,Dhaka,Standard,2022-12-25 01:23:00,Sifat Amin,4589.04,238071.11,3,4.98
+ST00797,Pages Cafe Outlet - Bandarban,Shariatpur,Dhaka,Flagship,2018-10-23 09:53:00,Mahin Islam,1759.79,139412.31,46,3.83
+ST00798,Bookhub Center - Noakhali,Khagrachari,Chattogram,Standard,2018-02-26 18:03:00,Mahin Uddin,1187.68,168789.2,46,3.72
+ST00799,Book Valley Outlet - Rajbari,Feni,Chattogram,Standard,2024-08-26 10:37:00,Rumana Mollik,2804.83,127642.61,55,3.9
+ST00800,Literary World Center - Munshiganj,Lakshmipur,Chattogram,Standard,2019-09-04 01:10:00,Muntasir Nahar,5042.51,174983.35,30,3.67
+ST00801,Rokomari Center - Chandpur,Dhaka,Dhaka,Mall Outlet,2020-01-23 17:50:00,Nabil Das,2250.89,117487.51,56,4.11
+ST00802,Rokomari Center - Faridpur,Rangamati,Chattogram,Flagship,2022-04-22 21:54:00,Fahim Chowdhury,453.55,47396.27,40,3.57
+ST00803,Book Valley Center - Dhaka, Cumilla ,,Mall Outlet,2017-12-04 17:23:00,Tanvir Sheikh,4096.34,246870.56,32,3.33
+ST00804,Book Valley Branch - Manikganj, Cumilla ,,Standard,2017-05-30 19:07:00,Adib Uddin,1520.35,184285.47,22,4.84
+ST00805,Book Valley Outlet - Rangamati,Bandarban,Chattogram,Online Hub,2020-09-28 23:30:00,Tamim Das,3439.88,158027.07,18,4.84
+ST00806,Novel Nest Store - Gazipur,Rangamati,Chattogram,Standard,2025-09-17 17:32:00,Muntasir Sheikh,483.33,128133.88,38,3.89
+ST00807,Bookhub Branch - Brahmanbaria,Madaripur,Dhaka,Mini,2022-03-02 00:55:00,Mahin Chowdhury,3249.56,182185.82,44,4.92
+ST00808,Readers Point Center - Manikganj,Chandpur,Chattogram,Standard,2022-03-16 19:53:00,Shuvo Das,2604.21,44792.11,4,3.71
+ST00809,Bookhub Center - Brahmanbaria,Brahmanbaria,Chattogram,Mall Outlet,2022-06-28 01:59:00,Adib Khan,5330.31,91636.65,17,3.65
+ST00810,Book Valley Outlet - Tangail,Chandpur,Chattogram,Flagship,2024-09-30 00:46:00,Fahim Khan,4442.16,44304.35,4,4.82
+ST00811,Novel Nest Center - Noakhali,Chandpur,Chattogram,Standard,2024-07-08 19:22:00,Shuvo Miah,601.76,44615.9,25,4.19
+ST00812,Readers Point Branch - Cox'S Bazar,Dhaka,Dhaka,Mall Outlet,2017-03-21 13:10:00,Muntasir Jahan,4821.33,20016.67,48,4.48
+ST00813,Readers Point Branch - Gopalganj,Gazipur,Dhaka,Flagship,2021-11-15 01:30:00,Sifat Sarker,4830.87,192634.95,42,3.71
+ST00814,Pages Cafe Branch - Chittagong,Gopalganj,Dhaka,Mini,2021-12-02 05:28:00,Adib Jahan,4115.09,68417.53,9,3.7
+ST00815,Literary World Outlet - Gazipur,Chandpur,Chattogram,Flagship,2019-01-06 02:42:00,Fahim Patwary,5604.06,210521.81,43,2.98
+ST00816,Rokomari Store - Narayanganj,Brahmanbaria,Chattogram,Flagship,2025-10-09 23:56:00,Nusrat Mollik,4898.22,227542.11,2,4.93
+ST00817,Rokomari Center - Khagrachari,Cox's Bazar,Chattogram,Standard,2019-05-10 20:03:00,Imran Ahmed,1625.83,54613.02,2,3.3
+ST00818,Rokomari Store - Comilla, Cumilla ,,Standard,2024-07-03 01:32:00,Mahin Amin,2536.66,181583.05,54,3.89
+ST00819,Pages Cafe Store - Rajbari,Rajbari,Dhaka,Standard,2017-11-28 08:41:00,Shuvo Khan,2359.57,123171.85,3,3.05
+ST00820,Book Valley Branch - Madaripur,Dhaka,Dhaka,Standard,2022-06-01 11:30:00,Sami Jahan,3227.48,230955.87,17,4.22
+ST00821,Story House Store - Dhaka,Shariatpur,Dhaka,Mini,2023-08-16 05:55:00,Tasnima Miah,5740.8,128838.04,9,3.66
+ST00822,Bookhub Center - Lakshmipur,Khagrachari,Chattogram,Mall Outlet,2021-07-15 13:12:00,Tasnima Nahar,3847.35,104035.36,40,4.49
+ST00823,Book Valley Center - Narsingdi,Tangail,Dhaka,Standard,2017-12-15 02:58:00,Muntasir Chowdhury,2152.46,84222.8,32,3.96
+ST00824,Rokomari Store - Feni,Khagrachari,Chattogram,Standard,2018-02-12 04:55:00,Tasnima Bhuiyan,5672.5,227351.04,50,3.08
+ST00825,Readers Point Center - Madaripur,Rangamati,Chattogram,Standard,2022-06-14 16:48:00,Nusrat Khan,4321.52,68152.14,59,2.82
+ST00826,Readers Point Branch - Rajbari,Gazipur,Dhaka,Mini,2024-10-05 14:22:00,Shuvo Hossain,1890.05,209512.98,45,3.552586873179853
+ST00827,Bookhub Center - Madaripur,Brahmanbaria,Chattogram,Standard,2022-05-16 13:39:00,Sakib Bhuiyan,5476.47,60634.05,29,4.39
+ST00828,Book Valley Center - Lakshmipur,Narayanganj,Dhaka,Mini,2017-11-28 08:12:00,Arif Sarker,2327.59,166198.26,4,4.62
+ST00829,Bookhub Outlet - Madaripur,Manikganj,Dhaka,Standard,2024-01-26 03:57:00,Nabil Nahar,3290.78,121000.43,55,3.55
+ST00830,Book Valley Branch - Chittagong,Dhaka,Dhaka,Mini,2021-02-17 21:11:00,Raisa Jahan,3083.65,39583.04,34,3.98
+ST00831,Story House Center - Gopalganj,Dhaka,Dhaka,Online Hub,2017-09-03 05:35:00,Sakib Bhuiyan,5572.33,155397.6909300377,14,3.33
+ST00832,Readers Point Center - Narsingdi,Dhaka,Dhaka,Standard,2020-04-23 22:17:00,Rahim Nahar,1887.71,81154.65,33,4.74
+ST00833,Readers Point Store - Khagrachari,Shariatpur,Dhaka,Standard,2018-10-29 18:24:00,Rumana Amin,2266.52,195163.15,24,4.92
+ST00834,Pages Cafe Outlet - Kishoreganj,Dhaka,Dhaka,Standard,2025-11-16 07:36:00,Rahim Sheikh,4096.9,186300.9,22,4.46
+ST00835,Readers Point Center - Comilla,Madaripur,Dhaka,Standard,2025-03-08 19:43:00,Shaila Islam,5365.05,63203.26,28,3.0
+ST00836,Pages Cafe Branch - Dhaka,Narayanganj,Dhaka,Standard,2017-12-15 13:14:00,Hasan Uddin,1043.35,126907.52,45,3.76
+ST00837,Rokomari Branch - Kishoreganj,Madaripur,Dhaka,Online Hub,2022-02-24 08:53:00,Imran Nahar,1575.35,37791.94,11,4.98
+ST00838,Book Valley Store - Rangamati,Feni,Chattogram,Standard,2017-01-24 04:35:00,Hasan Chowdhury,5708.99,183247.38,57,3.3
+ST00839,Literary World Outlet - Lakshmipur,Madaripur,Dhaka,Flagship,2021-02-12 23:16:00,Raisa Rahman,4752.86,201425.98,5,4.28
+ST00840,Bookhub Center - Feni,Dhaka,Dhaka,Standard,2018-05-28 08:01:00,Nusrat Rahman,2337.99,224975.32,10,4.86
+ST00841,Literary World Outlet - Brahmanbaria,Rangamati,Chattogram,Standard,2023-09-23 20:44:00,Tasnima Uddin,2402.75,223150.3,41,4.5
+ST00842,Novel Nest Branch - Bandarban,Cox's Bazar,Chattogram,Mall Outlet,2017-08-25 19:09:00,Tanjim Miah,3029.39,94404.69,10,4.14
+ST00843,Rokomari Branch - Cox'S Bazar,Tangail,Dhaka,Standard,2025-02-13 17:09:00,Arif Jahan,4173.28,74815.45,47,3.91
+ST00844,Readers Point Branch - Narayanganj,Chandpur,Chattogram,Standard,2019-01-30 13:06:00,Rumana Bhuiyan,3541.83,225698.5,44,4.84
+ST00845,Rokomari Store - Noakhali,Dhaka,Dhaka,Standard,2019-05-15 05:59:00,Mahin Jahan,4746.27,49311.64,26,3.67
+ST00846,Rokomari Branch - Khagrachari,Chittagong,Chattogram,Mall Outlet,2024-12-20 14:13:00,Imran Rahman,703.33,28945.86,28,4.4032745836015454
+ST00847,Novel Nest Store - Comilla,Dhaka,Dhaka,Online Hub,2025-02-10 05:58:00,Karim Amin,4986.63,88847.1,59,3.75
+ST00848,Story House Outlet - Lakshmipur,Munshiganj,Dhaka,Flagship,2017-11-12 09:56:00,Tasnima Jahan,725.09,193670.51,48,4.46
+ST00849,Novel Nest Branch - Faridpur,Dhaka,Dhaka,Mini,2017-12-24 04:05:00,Fahim Khan,5333.45,178136.95,38,4.81
+ST00850,Literary World Store - Khagrachari,Chandpur,Chattogram,Mini,2024-09-05 09:10:00,Nabil Chowdhury,642.22,246957.99,10,4.01
+ST00851,Bookhub Outlet - Cox'S Bazar,Dhaka,Dhaka,Mini,2025-10-18 15:59:00,Raisa Sarker,1115.86,70251.72564876477,36,3.48
+ST00852,Rokomari Center - Manikganj,Dhaka,Dhaka,Standard,2021-05-25 23:49:00,Arif Sheikh,1409.03,79824.12,4,2.91
+ST00853,Rokomari Branch - Comilla,Dhaka,Dhaka,Mini,2018-06-26 16:52:00,Muntasir Sarker,1649.08,103878.79,16,3.2701970839848986
+ST00854,Story House Branch - Shariatpur,Brahmanbaria,Chattogram,Standard,2018-05-17 14:55:00,Tasnima Ahmed,2649.87,198830.22,42,4.17
+ST00855,Bookhub Center - Cox'S Bazar,Dhaka,Dhaka,Standard,2019-05-25 20:27:00,Farhan Khan,4070.7,65360.49,25,3.38
+ST00856,Novel Nest Outlet - Munshiganj,Narayanganj,Dhaka,Flagship,2023-03-03 04:00:00,Imran Ahmed,5398.58,237720.78,59,4.73
+ST00857,Pages Cafe Store - Rajbari,Faridpur,Dhaka,Standard,2017-11-14 09:47:00,Sadia Das,3337.22,135449.09,25,4.82
+ST00858,Rokomari Store - Gazipur,Chittagong,Chattogram,Flagship,2022-10-09 20:42:00,Karim Amin,3381.94,199039.07,7,4.75
+ST00859,Novel Nest Branch - Tangail,Dhaka,Dhaka,Standard,2024-03-25 21:08:00,Mim Roy,2188.11,209406.53,53,4.12
+ST00860,Pages Cafe Center - Narsingdi,Noakhali,Chattogram,Online Hub,2018-04-18 01:08:00,Fahim Patwary,4883.81,127521.55,52,4.95
+ST00861,Pages Cafe Outlet - Rangamati,Faridpur,Dhaka,Online Hub,2025-11-09 04:28:00,Arif Ahmed,1018.72,189222.27,8,4.72
+ST00862,Bookhub Branch - Faridpur,Dhaka,Dhaka,Flagship,2025-11-19 15:43:00,Tamim Roy,2086.18,100703.17,24,3.03
+ST00863,Book Valley Center - Brahmanbaria,Dhaka,Dhaka,Flagship,2019-09-03 20:45:00,Rumana Amin,943.1,205568.08,57,4.96
+ST00864,Rokomari Store - Feni,Dhaka,Dhaka,Mini,2018-01-04 12:44:00,Adib Jahan,1599.41,208617.21,2,4.01
+ST00865,Novel Nest Store - Manikganj,Manikganj,Dhaka,Standard,2019-12-06 23:03:00,Sakib Mollik,3684.95,148058.37,5,4.82
+ST00866,Book Valley Outlet - Brahmanbaria,Dhaka,Dhaka,Flagship,2019-04-29 22:36:00,Adib Rahman,1105.38,66264.74,31,4.47
+ST00867,Pages Cafe Center - Noakhali,Khagrachari,Chattogram,Online Hub,2019-07-06 17:28:00,Sakib Talukder,963.46,243002.45,57,4.22
+ST00868,Book Valley Store - Noakhali,Narayanganj,Dhaka,Standard,2025-04-28 06:25:00,Nayeem Jahan,5025.1,237540.27,40,3.52
+ST00869,Rokomari Store - Feni,Dhaka,Dhaka,Flagship,2018-05-24 18:21:00,Imran Hossain,1062.48,160657.83,46,2.86
+ST00870,Readers Point Center - Brahmanbaria,Madaripur,Dhaka,Mini,2019-11-08 17:31:00,Jannat Patwary,3805.1,246212.04,42,3.41
+ST00871,Story House Store - Gazipur,Dhaka,Dhaka,Mini,2024-02-01 13:00:00,Shuvo Sarker,2371.26,133157.13,10,4.31
+ST00872,Rokomari Branch - Tangail,Dhaka,Dhaka,Standard,2017-07-09 01:18:00,Rumana Islam,5419.66,103238.83,18,4.7
+ST00873,Story House Center - Gopalganj,Dhaka,Dhaka,Mini,2017-07-19 12:36:00,Mahin Amin,4362.28,123218.21,38,2.81
+ST00874,Book Valley Outlet - Narayanganj,Dhaka,Dhaka,Mall Outlet,2019-09-19 23:34:00,Karim Nahar,732.81,25788.15,29,3.26
+ST00875,Story House Outlet - Brahmanbaria,Dhaka,Dhaka,Flagship,2025-09-16 02:32:00,Fahim Mollik,5414.62,144043.63,15,4.28
+ST00876,Bookhub Outlet - Bandarban,Lakshmipur,Chattogram,Mini,2024-07-21 10:19:00,Muntasir Mollik,2717.83,171564.62,13,3.42
+ST00877,Literary World Store - Manikganj,Bandarban,Chattogram,Standard,2025-05-06 03:48:00,Nafis Rahman,2070.07,40737.19,34,3.11
+ST00878,Novel Nest Store - Narayanganj,Lakshmipur,Chattogram,Standard,2024-10-10 01:58:00,Imran Bhuiyan,4167.58,75065.43,50,2.98
+ST00879,Bookhub Outlet - Chandpur,Dhaka,Dhaka,Standard,2018-01-25 04:34:00,Muntasir Karim,4420.65,184478.27,25,4.2
+ST00880,Story House Center - Comilla,Feni,Chattogram,Standard,2020-08-10 15:49:00,Tanvir Chowdhury,2098.2,101681.9510821959,55,4.11
+ST00881,Rokomari Center - Khagrachari,Gazipur,Dhaka,Flagship,2021-10-07 00:22:00,Farhan Roy,2369.28,246678.76,40,4.69
+ST00882,Readers Point Store - Gazipur,Dhaka,Dhaka,Online Hub,2018-07-02 10:18:00,Karim Sheikh,1275.45,74507.57,25,3.49
+ST00883,Novel Nest Store - Chandpur, Cumilla ,,Standard,2025-12-07 12:13:00,Muntasir Khan,3723.28,212738.28,43,3.1
+ST00884,Literary World Store - Narsingdi,Dhaka,Dhaka,Online Hub,2022-06-05 16:32:00,Farhan Sheikh,5758.69,55444.2,28,4.56
+ST00885,Bookhub Store - Gazipur,Kishoreganj,Dhaka,Standard,2019-04-30 21:18:00,Rahim Roy,2733.1,45756.42,45,4.97
+ST00886,Book Valley Outlet - Noakhali,Cox's Bazar,Chattogram,Online Hub,2023-06-08 22:18:00,Tasnima Mollik,5978.75,186362.84,58,3.59
+ST00887,Novel Nest Outlet - Tangail,Shariatpur,Dhaka,Standard,2017-12-15 00:50:00,Tanvir Bhuiyan,1387.92,119780.01,47,4.7
+ST00888,Readers Point Outlet - Noakhali,Narayanganj,Dhaka,Standard,2017-03-15 19:21:00,Arif Jahan,4858.16,201572.02,10,4.48
+ST00889,Pages Cafe Store - Chandpur,Gazipur,Dhaka,Mini,2022-10-07 02:09:00,Nabil Amin,5597.41,81402.73,14,4.81
+ST00890,Novel Nest Center - Feni,Dhaka,Dhaka,Mini,2017-08-13 16:31:00,Shaila Islam,4253.1,65100.56,48,3.73
+ST00891,Readers Point Outlet - Manikganj,Rangamati,Chattogram,Standard,2019-06-27 12:23:00,Nabil Bhuiyan,1012.23,143967.7,51,3.02
+ST00892,Bookhub Branch - Narsingdi,Dhaka,Dhaka,Standard,2021-06-24 10:33:00,Arif Sheikh,2228.63,42097.96,34,3.06
+ST00893,Novel Nest Store - Chittagong,Dhaka,Dhaka,Standard,2020-05-21 23:56:00,Nayeem Karim,879.73,80506.07,16,4.48
+ST00894,Pages Cafe Center - Cox'S Bazar,Dhaka,Dhaka,Standard,2019-08-13 13:09:00,Rahim Karim,3769.79,54065.7,53,4.7
+ST00895,Rokomari Store - Khagrachari,Khagrachari,Chattogram,Standard,2023-01-06 11:12:00,Sadia Bhuiyan,5989.63,90211.11,28,3.81
+ST00896,Novel Nest Branch - Noakhali,Chittagong,Chattogram,Mini,2025-08-03 06:24:00,Tamim Bhuiyan,2498.63,194892.2,18,2.93
+ST00897,Literary World Center - Kishoreganj,Manikganj,Dhaka,Standard,2023-08-26 22:49:00,Mahin Uddin,1312.49,43374.45,23,2.95
+ST00898,Readers Point Outlet - Rangamati,Noakhali,Chattogram,Standard,2020-03-25 09:32:00,Nusrat Bhuiyan,1904.39,158789.2,19,4.12
+ST00899,Pages Cafe Branch - Noakhali,Dhaka,Dhaka,Mini,2020-10-19 07:07:00,Rafi Bhuiyan,3596.49,152420.03,18,4.82
+ST00900,Bookhub Store - Rangamati,Khagrachari,Chattogram,Mall Outlet,2017-12-05 16:47:00,Jannat Ahmed,3586.19,141460.7,20,3.68
+ST00901,Pages Cafe Center - Feni,Dhaka,Dhaka,Standard,2018-04-17 03:39:00,Nabil Islam,1687.0,128798.19,41,4.23
+ST00902,Literary World Center - Gopalganj,Gopalganj,Dhaka,Standard,2019-06-01 06:14:00,Tanjim Bhuiyan,4603.95,171007.24,2,3.9180722992381147
+ST00903,Literary World Center - Bandarban,Dhaka,Dhaka,Flagship,2020-06-24 16:16:00,Nafis Sarker,892.87,215175.5,23,4.76
+ST00904,Novel Nest Store - Brahmanbaria,Rangamati,Chattogram,Mini,2025-11-28 15:07:00,Rafi Sarker,3889.03,53078.61,11,4.63
+ST00905,Readers Point Outlet - Dhaka,Lakshmipur,Chattogram,Standard,2024-11-02 06:21:00,Mim Hossain,2783.91,206320.86,39,3.24
+ST00906,Literary World Outlet - Lakshmipur,Rajbari,Dhaka,Standard,2018-01-07 10:07:00,Farhan Patwary,1112.18,29446.78,59,4.29
+ST00907,Story House Store - Rangamati,Dhaka,Dhaka,Standard,2019-12-24 22:44:00,Ayesha Karim,3952.55,128299.25,47,4.66
+ST00908,Readers Point Outlet - Brahmanbaria,Dhaka,Dhaka,Online Hub,2017-07-05 01:41:00,Farhan Bhuiyan,4169.08,135194.4,16,4.85
+ST00909,Readers Point Outlet - Chittagong,Madaripur,Dhaka,Standard,2017-07-25 20:47:00,Raisa Sheikh,2864.11,61432.67,31,4.1
+ST00910,Readers Point Store - Madaripur,Faridpur,Dhaka,Mini,2020-05-16 11:50:00,Nabil Mollik,4868.76,36073.18,3,3.19
+ST00911,Readers Point Center - Lakshmipur,Dhaka,Dhaka,Flagship,2025-08-18 16:56:00,Rafi Chowdhury,3252.17,106099.72800768047,25,4.03
+ST00912,Literary World Branch - Narayanganj,Tangail,Dhaka,Flagship,2018-09-01 08:25:00,Nabil Hossain,2000.22,23749.99,18,4.26
+ST00913,Novel Nest Outlet - Narayanganj,Shariatpur,Dhaka,Flagship,2023-02-15 16:54:00,Nusrat Chowdhury,5740.17,149794.36,31,3.4
+ST00914,Bookhub Center - Gopalganj,Khagrachari,Chattogram,Standard,2020-07-14 04:23:00,Rafi Islam,5686.65,117262.17908874321,25,4.94
+ST00915,Pages Cafe Center - Lakshmipur,Manikganj,Dhaka,Standard,2021-11-13 06:07:00,Adib Uddin,935.48,205045.62,41,4.324711463795448
+ST00916,Bookhub Outlet - Gazipur,Gazipur,Dhaka,Standard,2024-10-27 08:37:00,Sakib Rahman,5698.06,226253.89,33,4.8
+ST00917,Readers Point Store - Munshiganj,Munshiganj,Dhaka,Standard,2024-06-17 10:43:00,Tasnima Sheikh,4742.7,83715.92,56,3.74
+ST00918,Pages Cafe Outlet - Lakshmipur,Dhaka,Dhaka,Flagship,2024-06-14 12:00:00,Nusrat Bhuiyan,997.21,53649.61,5,2.8
+ST00919,Literary World Center - Cox'S Bazar,Shariatpur,Dhaka,Standard,2020-09-13 01:46:00,Tanjim Miah,3308.22,111258.79,56,4.0
+ST00920,Book Valley Center - Bandarban,Chittagong,Chattogram,Flagship,2017-06-09 15:11:00,Mim Karim,595.73,222169.0,47,4.18
+ST00921,Literary World Branch - Narsingdi,Dhaka,Dhaka,Flagship,2025-11-12 02:10:00,Mim Karim,3697.6,108957.51,43,4.71
+ST00922,Story House Branch - Feni,Faridpur,Dhaka,Flagship,2025-12-11 06:08:00,Shuvo Amin,5625.85,40459.03,49,3.99
+ST00923,Literary World Outlet - Gazipur,Feni,Chattogram,Mini,2024-09-18 23:38:00,Rumana Amin,2461.97,246397.0,4,3.01
+ST00924,Story House Branch - Bandarban,Munshiganj,Dhaka,Mall Outlet,2021-04-18 05:47:00,Muntasir Karim,3248.3,132423.74,14,4.84
+ST00925,Bookhub Store - Kishoreganj,Narayanganj,Dhaka,Mini,2019-07-11 20:52:00,Tasnima Bhuiyan,1674.34,95457.3,2,4.04
+ST00926,Story House Center - Dhaka,Brahmanbaria,Chattogram,Flagship,2018-07-28 16:55:00,Adib Mollik,3429.3,225000.89,48,3.4
+ST00927,Book Valley Store - Madaripur,Rajbari,Dhaka,Mall Outlet,2020-05-04 06:19:00,Sadia Islam,4894.42,232939.82,22,4.78
+ST00928,Novel Nest Store - Comilla,Dhaka,Dhaka,Mall Outlet,2020-01-04 21:57:00,Mahin Uddin,1605.45,90644.46041492917,22,3.07
+ST00929,Pages Cafe Branch - Rajbari, Cumilla ,,Standard,2019-06-26 02:11:00,Adib Talukder,3499.53,87078.35,37,3.01
+ST00930,Story House Center - Chandpur,Lakshmipur,Chattogram,Flagship,2025-07-20 13:22:00,Farhan Ahmed,2386.0,128418.95,26,3.98
+ST00931,Story House Outlet - Dhaka,Dhaka,Dhaka,Mini,2022-12-07 14:15:00,Rafi Islam,4588.08,66531.26,38,4.17
+ST00932,Novel Nest Center - Bandarban,Dhaka,Dhaka,Mall Outlet,2019-01-03 20:58:00,Imran Ahmed,4331.42,127385.95,56,3.92
+ST00933,Literary World Store - Cox'S Bazar,Brahmanbaria,Chattogram,Mini,2022-10-02 20:16:00,Shuvo Rahman,4313.22,68916.31,21,4.84
+ST00934,Book Valley Store - Manikganj,Rajbari,Dhaka,Mini,2023-05-06 17:42:00,Sami Islam,2515.7,161217.65,53,3.38
+ST00935,Book Valley Store - Madaripur,Gopalganj,Dhaka,Mini,2021-09-13 22:54:00,Rahim Das,3755.96,193573.96,32,4.98
+ST00936,Literary World Center - Tangail,Narayanganj,Dhaka,Mall Outlet,2025-07-08 20:29:00,Rumana Patwary,4046.08,242815.53,23,2.84
+ST00937,Novel Nest Outlet - Madaripur,Brahmanbaria,Chattogram,Flagship,2025-09-09 18:02:00,Hasan Bhuiyan,4212.56,213004.06,35,3.06
+ST00938,Bookhub Store - Chittagong,Munshiganj,Dhaka,Flagship,2020-11-21 01:19:00,Tamim Jahan,3621.44,35241.69,30,3.21
+ST00939,Literary World Outlet - Narsingdi,Dhaka,Dhaka,Online Hub,2021-04-01 21:31:00,Sami Ahmed,5254.11,64707.88,9,2.98
+ST00940,Novel Nest Center - Rangamati,Dhaka,Dhaka,Flagship,2018-12-15 06:53:00,Imran Patwary,1793.27,139947.59,18,3.76
+ST00941,Story House Store - Bandarban,Madaripur,Dhaka,Standard,2024-01-20 07:28:00,Shaila Khan,712.52,75533.88,51,4.7
+ST00942,Bookhub Center - Comilla,Lakshmipur,Chattogram,Standard,2025-05-18 13:04:00,Nabil Sarker,5790.02,18375.82,31,4.61
+ST00943,Literary World Branch - Rangamati,Narsingdi,Dhaka,Standard,2022-12-03 12:00:00,Farhan Talukder,740.11,134433.20061907932,34,4.44
+ST00944,Story House Outlet - Shariatpur,Gazipur,Dhaka,Flagship,2018-10-23 17:01:00,Tamim Sheikh,5456.55,99076.42,41,2.82
+ST00945,Rokomari Store - Madaripur,Khagrachari,Chattogram,Standard,2021-08-30 18:08:00,Tamim Karim,3828.8,30533.51,13,4.7
+ST00946,Readers Point Outlet - Manikganj,Gopalganj,Dhaka,Standard,2024-02-24 22:55:00,Rahim Amin,5544.95,134576.56,7,3.67
+ST00947,Book Valley Store - Khagrachari,Munshiganj,Dhaka,Standard,2017-05-19 07:47:00,Imran Nahar,3563.74,168668.28063980726,27,4.41
+ST00948,Literary World Branch - Khagrachari,Dhaka,Dhaka,Standard,2022-04-24 10:03:00,Ayesha Talukder,4997.65,174456.58,55,4.4
+ST00949,Pages Cafe Store - Narsingdi,Chandpur,Chattogram,Mall Outlet,2022-12-01 12:41:00,Rahim Jahan,4439.23,52310.04,9,3.19
+ST00950,Literary World Outlet - Rajbari,Brahmanbaria,Chattogram,Standard,2021-10-30 18:23:00,Sakib Khan,3340.63,135859.46,43,3.93
+ST00951,Bookhub Center - Narsingdi, Cumilla ,,Mall Outlet,2022-10-13 13:37:00,Ayesha Rahman,2434.61,226904.78,58,4.84
+ST00952,Story House Outlet - Rangamati,Faridpur,Dhaka,Standard,2025-01-22 20:17:00,Sifat Karim,416.01,27747.26,7,3.38
+ST00953,Pages Cafe Outlet - Dhaka,Madaripur,Dhaka,Flagship,2018-02-15 08:03:00,Ayesha Karim,1805.07,164904.9,9,4.37
+ST00954,Book Valley Branch - Manikganj,Dhaka,Dhaka,Mini,2022-02-19 08:07:00,Mim Sarker,5729.89,184499.15,52,4.91
+ST00955,Novel Nest Center - Bandarban,Noakhali,Chattogram,Online Hub,2024-02-29 09:02:00,Sifat Chowdhury,1942.59,180442.75,8,3.59
+ST00956,Story House Store - Lakshmipur,Dhaka,Dhaka,Flagship,2024-05-24 22:21:00,Tanvir Chowdhury,4610.37,50290.05,45,3.65
+ST00957,Book Valley Outlet - Gopalganj,Tangail,Dhaka,Mini,2021-03-15 13:01:00,Sadia Roy,3247.59,228210.45,48,3.8
+ST00958,Pages Cafe Center - Manikganj,Brahmanbaria,Chattogram,Mini,2025-12-22 10:49:00,Sadia Chowdhury,2127.68,90733.76,20,4.58
+ST00959,Book Valley Branch - Faridpur,Dhaka,Dhaka,Flagship,2019-12-02 03:27:00,Jannat Bhuiyan,5950.12,27159.38,18,3.77
+ST00960,Pages Cafe Branch - Khagrachari,Gopalganj,Dhaka,Standard,2020-12-19 00:55:00,Arif Islam,663.06,34556.92,32,3.87
+ST00961,Readers Point Outlet - Narsingdi,Dhaka,Dhaka,Standard,2024-05-31 12:43:00,Raisa Khan,3659.63,122530.68,31,3.29
+ST00962,Pages Cafe Store - Comilla,Narsingdi,Dhaka,Flagship,2020-12-14 12:28:00,Mahin Rahman,2984.5,24395.77,51,4.97
+ST00963,Bookhub Branch - Faridpur,Rangamati,Chattogram,Online Hub,2020-02-03 07:36:00,Arif Amin,828.55,198194.84,36,4.76
+ST00964,Pages Cafe Center - Noakhali,Madaripur,Dhaka,Standard,2022-01-01 05:10:00,Tanjim Sarker,1598.94,218468.52,58,4.12
+ST00965,Readers Point Branch - Faridpur,Rangamati,Chattogram,Mini,2022-08-06 09:38:00,Tanjim Roy,4287.76,18142.7,15,4.91
+ST00966,Readers Point Outlet - Bandarban,Dhaka,Dhaka,Mini,2025-09-23 07:30:00,Shaila Jahan,1006.64,205353.17,18,4.31
+ST00967,Rokomari Branch - Bandarban,Gopalganj,Dhaka,Mall Outlet,2022-07-24 11:13:00,Shaila Amin,4885.74,220648.75585562122,15,4.91
+ST00968,Pages Cafe Outlet - Madaripur,Khagrachari,Chattogram,Standard,2018-09-01 23:41:00,Shaila Sarker,3900.34,22136.52,39,3.16
+ST00969,Rokomari Outlet - Munshiganj,Feni,Chattogram,Standard,2017-06-23 12:29:00,Tanjim Nahar,964.8,185367.3,3,3.3
+ST00970,Novel Nest Store - Rajbari,Faridpur,Dhaka,Standard,2025-09-14 17:09:00,Sadia Rahman,2006.16,249787.11,51,3.558111993824269
+ST00971,Pages Cafe Outlet - Brahmanbaria,Bandarban,Chattogram,Mini,2020-10-21 10:21:00,Tanjim Bhuiyan,1168.2,202322.87,46,3.72
+ST00972,Readers Point Store - Rangamati,Khagrachari,Chattogram,Standard,2018-10-25 04:18:00,Nusrat Roy,4866.57,133758.9,59,3.62
+ST00973,Readers Point Branch - Gazipur,Chittagong,Chattogram,Mini,2019-01-03 01:13:00,Tamim Sheikh,3384.57,222933.4,57,4.46
+ST00974,Story House Outlet - Munshiganj,Shariatpur,Dhaka,Standard,2017-12-15 16:08:00,Shaila Karim,415.85,181364.12,6,4.19
+ST00975,Literary World Store - Rajbari,Dhaka,Dhaka,Flagship,2018-10-18 18:56:00,Raisa Amin,3440.26,83726.14,45,3.56
+ST00976,Pages Cafe Store - Faridpur,Dhaka,Dhaka,Online Hub,2024-01-08 22:30:00,Muntasir Sheikh,3103.7,67715.15,31,3.68
+ST00977,Story House Center - Dhaka,Shariatpur,Dhaka,Online Hub,2022-11-23 04:54:00,Muntasir Khan,4001.23,135447.93,44,3.7
+ST00978,Bookhub Center - Cox'S Bazar,Munshiganj,Dhaka,Standard,2022-05-26 00:43:00,Ayesha Jahan,595.13,102652.77,52,3.08
+ST00979,Bookhub Center - Rangamati,Dhaka,Dhaka,Mini,2017-02-07 11:50:00,Raisa Hossain,598.38,92424.98,35,3.31
+ST00980,Book Valley Center - Kishoreganj,Dhaka,Dhaka,Standard,2023-01-19 08:54:00,Nafis Rahman,2356.46,56812.33,2,3.98
+ST00981,Book Valley Center - Gazipur,Gopalganj,Dhaka,Mini,2025-09-20 09:26:00,Raisa Talukder,4255.81,213642.21,52,4.52
+ST00982,Pages Cafe Store - Rangamati,Munshiganj,Dhaka,Standard,2025-04-22 18:54:00,Mim Nahar,4132.73,180678.41,27,3.72
+ST00983,Bookhub Center - Tangail,Gopalganj,Dhaka,Standard,2020-07-23 06:06:00,Tasnima Nahar,1958.28,92860.55,28,3.64
+ST00984,Literary World Center - Khagrachari,Gopalganj,Dhaka,Flagship,2022-05-27 11:57:00,Tasnima Mollik,1609.98,70851.76,35,4.23
+ST00985,Readers Point Center - Chittagong,Dhaka,Dhaka,Flagship,2019-09-09 20:50:00,Nayeem Uddin,4225.5,45112.41,54,3.15
+ST00986,Literary World Store - Madaripur,Feni,Chattogram,Mini,2024-12-29 22:51:00,Tanvir Sheikh,551.83,41440.54,32,3.64
+ST00987,Novel Nest Center - Rangamati,Shariatpur,Dhaka,Standard,2025-04-12 00:51:00,Mahin Mollik,3517.99,161987.37,14,3.26
+ST00988,Pages Cafe Outlet - Faridpur,Dhaka,Dhaka,Flagship,2019-01-04 07:36:00,Sami Patwary,2774.95,40572.04,44,4.23
+ST00989,Novel Nest Store - Munshiganj,Kishoreganj,Dhaka,Flagship,2021-05-19 04:54:00,Rumana Chowdhury,1738.89,240649.97,38,3.05
+ST00990,Rokomari Center - Chittagong,Kishoreganj,Dhaka,Standard,2019-02-16 07:07:00,Muntasir Talukder,3313.67,80596.75,5,3.79
+ST00991,Literary World Branch - Noakhali,Rajbari,Dhaka,Mini,2022-07-12 16:08:00,Imran Nahar,1616.14,21064.14,32,4.11
+ST00992,Readers Point Center - Khagrachari,Shariatpur,Dhaka,Standard,2019-08-21 08:38:00,Sami Karim,3560.2,134418.94632520518,47,4.63
+ST00993,Literary World Branch - Lakshmipur,Tangail,Dhaka,Mini,2023-04-06 13:34:00,Rumana Ahmed,1234.25,101383.04,53,4.39
+ST00994,Book Valley Store - Brahmanbaria,Brahmanbaria,Chattogram,Online Hub,2024-11-03 10:58:00,Nayeem Sarker,2671.88,95596.98,18,4.87
+ST00995,Novel Nest Store - Madaripur,Dhaka,Dhaka,Standard,2018-08-22 18:41:00,Nabil Sarker,3258.39,42875.84,32,4.3
+ST00996,Bookhub Branch - Feni,Faridpur,Dhaka,Online Hub,2018-03-03 07:58:00,Mahin Rahman,577.53,170199.18,49,3.57
+ST00997,Bookhub Outlet - Cox'S Bazar,Dhaka,Dhaka,Flagship,2024-05-01 00:21:00,Shaila Patwary,3820.02,99316.44,35,3.31
+ST00998,Readers Point Branch - Narayanganj,Manikganj,Dhaka,Standard,2017-09-26 07:29:00,Jannat Ahmed,4601.77,208403.71,26,2.92
+ST00999,Rokomari Outlet - Comilla,Madaripur,Dhaka,Flagship,2020-08-08 02:28:00,Tanjim Miah,5754.01,163195.3,12,3.41
+ST01000,Literary World Center - Gazipur,Chandpur,Chattogram,Flagship,2025-12-10 08:00:00,Raisa Nahar,1537.51,221779.4,4,3.1

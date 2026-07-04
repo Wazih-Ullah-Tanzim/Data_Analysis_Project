@@ -1,0 +1,1001 @@
+supplier_id,supplier_name,country,contact_person,phone,email,product_category,rating,contract_start_date,delivery_time_days,city,status,region
+S00001,Global Supply Co,Bangladesh,Tanjim Patwary,17676175250,nabil.das@gmail.com,Academic,4.61,2020-05-20 11:49:34,8,Gopalganj,Active,Dhaka
+S00002,Bright Enterprises,Bangladesh,Karim Das,17352689600,hasan.roy@outlook.com,Fiction,4.59,2024-10-19 08:28:38,9, Cumilla ,Active,
+S00003,Delta Trade Group,Bangladesh,Shuvo Karim,18162830890,tanjim.sarker@gmail.com,Biography,3.57,2023-01-01 18:46:34,6,Noakhali,Active,Chattogram
+S00004,Global Logistics,Bangladesh,Muntasir Jahan,13456999320,tasnima.jahan@outlook.com,Programming,4.92,2024-12-16 07:17:16,9,Gopalganj,Active,Dhaka
+S00005,Prime Books Ltd,Bangladesh,Tanvir Khan,18691331770,,Biography,4.95,2019-06-09 05:50:23,17, Cumilla ,Active,
+S00006,Green Trade Group,Bangladesh,Nayeem Mollik,17580719050,adib.islam@outlook.com,Programming,2.82,2024-07-31 05:07:19,16,Noakhali,Active,Chattogram
+S00007,Ocean Supply Co,Usa,Tamim Roy,13398615300,adib.uddin@outlook.com,Programming,3.42,2020-11-22 10:45:14,8,Madaripur,Active,Dhaka
+S00008,Ocean Supply Co,Bangladesh,Rafi Khan,13782342000,tasnima.roy@gmail.com,Business,4.0,2021-07-06 04:53:55,7,Bandarban,Inactive,Chattogram
+S00009,Green Books Ltd,India,Rafi Hossain,18332285260,farhan.sarker@yahoo.com,Religious,2.71,2019-04-25 10:20:22,11,Feni,Active,Chattogram
+S00010,Royal Enterprises,Bangladesh,Tanvir Jahan,15385709290,tanjim.bhuiyan@outlook.com,Academic,3.46,2025-09-04 13:47:50,14,Narayanganj,Active,Dhaka
+S00011,Green Distributors,Bangladesh,Nusrat Ahmed,19539673750,shuvo.mollik@gmail.com,Academic,3.15,2023-06-28 11:08:23,5,Madaripur,Active,Dhaka
+S00012,Eastern Trade Group,Bangladesh,Hasan Rahman,18728371210,rumana.bhuiyan@outlook.com,Programming,4.88,2022-12-23 07:01:12,15,Narsingdi,Active,Dhaka
+S00013,Ocean Logistics,Bangladesh,Shaila Khan,16350745440,farhan.sarker@gmail.com,Religious,3.53,2020-02-09 07:53:05,19,Narayanganj,Active,Dhaka
+S00014,Delta Supply Co,China,Sakib Das,19738050060,rumana.sarker@yahoo.com,Programming,4.41,2021-05-12 14:22:28,17, Cumilla ,Active,
+S00015,Green Enterprises,Bangladesh,Tamim Das,18953332910,rafi.mollik@yahoo.com,Business,3.47,2022-01-29 08:30:42,11,Narayanganj,Inactive,Dhaka
+S00016,Delta Publishing House,Bangladesh,Hasan Talukder,14182403850,,Fiction,2.83,2020-01-12 14:05:37,7,Narsingdi,Active,Dhaka
+S00017,Global Enterprises,Bangladesh,Rafi Rahman,17393546370,arif.karim@outlook.com,Exam Prep,4.66,2025-09-14 10:38:03,7,Noakhali,Inactive,Chattogram
+S00018,Royal Books Ltd,Uk,Imran Ahmed,16311205030,tanjim.talukder@yahoo.com,Religious,2.5,2022-12-11 07:03:26,15,Bandarban,Active,Chattogram
+S00019,Royal Supply Co,Bangladesh,Tamim Bhuiyan,15453925120,fahim.nahar@gmail.com,Academic,2.64,2023-02-02 16:58:13,10,Noakhali,Active,Chattogram
+S00020,Prime Logistics,Bangladesh,Tanjim Miah,15768099380,sifat.talukder@yahoo.com,Programming,3.41,2023-12-04 02:59:28,3, Cumilla ,Active,
+S00021,Eastern Supply Co,Usa,Tanjim Jahan,17526818320,rumana.uddin@yahoo.com,Exam Prep,4.22,2023-10-02 19:31:49,14,Lakshmipur,Active,Chattogram
+S00022,Ocean Distributors,India,Sami Khan,13613657540,,Self Help,3.35,2019-06-10 04:22:09,4,Kishoreganj,Active,Dhaka
+S00023,Global Trade Group,China,Imran Ahmed,14382739390,jannat.das@outlook.com,Fiction,2.67,2022-09-20 03:03:28,19,Noakhali,Active,Chattogram
+S00024,Delta Trade Group,Bangladesh,Shaila Chowdhury,15450540590,mahin.bhuiyan@yahoo.com,Biography,3.29,2024-06-09 07:39:13,9,Noakhali,Active,Chattogram
+S00025,Bright Supply Co,Bangladesh,Nayeem Roy,14864786560,sadia.ahmed@outlook.com,Religious,3.11,2024-08-23 11:58:31,8,Dhaka,Active,Dhaka
+S00026,Ocean Publishing House,Bangladesh,Tanjim Miah,19104111150,farhan.patwary@gmail.com,Business,2.51,2023-03-04 11:32:29,2,Narayanganj,Active,Dhaka
+S00027,National Enterprises,Usa,Sami Patwary,17676495940,fahim.uddin@gmail.com,Religious,3.84,2025-04-10 03:32:15,5,Narsingdi,Active,Dhaka
+S00028,Delta Books Ltd,Bangladesh,Rahim Miah,15522209960,rumana.talukder@gmail.com,Self Help,2.79,2023-02-07 07:59:49,19,Rajbari,Active,Dhaka
+S00029,Green Publishing House,India,Arif Talukder,18440166190,tasnima.bhuiyan@outlook.com,Fiction,3.22,2021-09-05 04:59:44,11,Cox's Bazar,Suspended,Chattogram
+S00030,Ocean Logistics,Bangladesh,Sakib Uddin,13435256710,adib.amin@gmail.com,Children,4.1,2022-02-05 10:37:10,18,Chittagong,Active,Chattogram
+S00031,Metro Supply Co,Bangladesh,Sadia Ahmed,14444450120,raisa.islam@yahoo.com,Business,4.31,2023-10-30 16:54:45,19,Madaripur,Active,Dhaka
+S00032,National Trade Group,Bangladesh,Raisa Talukder,14234885530,,Academic,3.16,2025-03-15 20:16:41,2,Brahmanbaria,Active,Chattogram
+S00033,Delta Distributors,Bangladesh,Sami Sarker,19215980280,farhan.khan@outlook.com,Self Help,3.32,2020-08-10 14:13:04,8,Rangamati,Active,Chattogram
+S00034,Metro Distributors,Usa,Arif Das,17745819000,farhan.sarker@outlook.com,Biography,3.12,2021-01-20 04:02:36,17,Rajbari,Active,Dhaka
+S00035,Global Enterprises,Bangladesh,Sami Khan,17104486460,rahim.khan@gmail.com,Religious,4.89,2023-07-25 03:23:45,10,Noakhali,Active,Chattogram
+S00036,Ocean Publishing House,Bangladesh,Ayesha Amin,15265879000,farhan.islam@yahoo.com,Biography,2.98,2024-05-05 16:30:12,11,Chandpur,Active,Chattogram
+S00037,Delta Books Ltd,Bangladesh,Arif Sheikh,17671987160,arif.amin@yahoo.com,Academic,2.96,2021-10-17 05:48:10,12,Noakhali,Active,Chattogram
+S00038,Bright Enterprises,Bangladesh,Tanjim Ahmed,19441747390,adib.hossain@outlook.com,Religious,3.61,2023-07-02 23:07:41,14,Lakshmipur,Active,Chattogram
+S00039,National Publishing House,Bangladesh,Mahin Bhuiyan,14931852340,rumana.bhuiyan@yahoo.com,Business,2.97,2019-01-18 08:00:37,18,Dhaka,Inactive,Dhaka
+S00040,Green Logistics,Bangladesh,Muntasir Amin,17788251790,jannat.ahmed@yahoo.com,Fiction,2.89,2021-01-15 16:56:36,17,Feni,Suspended,Chattogram
+S00041,Metro Enterprises,Bangladesh,Tasnima Rahman,16502645660,farhan.amin@gmail.com,Fiction,2.74,2025-09-08 07:54:05,13,Kishoreganj,Active,Dhaka
+S00042,Eastern Supply Co,Bangladesh,Rumana Amin,15774563470,karim.islam@gmail.com,Programming,4.1,2023-01-13 12:21:41,12,Feni,Active,Chattogram
+S00043,Bright Logistics,Bangladesh,Farhan Bhuiyan,14977863890,jannat.talukder@yahoo.com,Religious,4.03,2025-01-28 17:40:41,8,Feni,Active,Chattogram
+S00044,Global Distributors,Bangladesh,Rafi Sheikh,14514882740,fahim.das@gmail.com,Children,3.55,2020-07-10 07:29:29,4,Manikganj,Active,Dhaka
+S00045,Ocean Supply Co,Bangladesh,Mahin Karim,15678273290,muntasir.islam@yahoo.com,Religious,4.43,2021-01-13 09:04:38,14,Faridpur,Active,Dhaka
+S00046,Delta Supply Co,Bangladesh,Sami Ahmed,17926798150,rahim.islam@outlook.com,Biography,3.32,2025-10-27 22:11:00,2,Rajbari,Active,Dhaka
+S00047,Royal Distributors,Bangladesh,Nayeem Das,18323807190,tamim.amin@yahoo.com,Academic,3.61,2025-12-25 06:25:28,14,Munshiganj,Active,Dhaka
+S00048,Royal Distributors,India,Sifat Talukder,14897902120,shaila.islam@yahoo.com,Self Help,4.33,2025-02-19 05:13:31,10,Bandarban,Active,Chattogram
+S00049,Prime Logistics,Uk,Hasan Khan,16187790230,imran.karim@gmail.com,Religious,4.51,2021-03-21 13:52:48,16,Faridpur,Active,Dhaka
+S00050,Bright Books Ltd,Bangladesh,Rumana Sarker,18683603350,muntasir.roy@yahoo.com,Business,4.3,2024-08-10 12:18:23,19,Faridpur,Suspended,Dhaka
+S00051,Royal Publishing House,Bangladesh,Ayesha Karim,13804554330,hasan.sarker@yahoo.com,Exam Prep,3.4,2022-03-18 19:20:15,11,Rajbari,Inactive,Dhaka
+S00052,Royal Books Ltd,Bangladesh,Tanvir Ahmed,17653145590,shaila.roy@gmail.com,Religious,3.21,2024-11-27 02:00:05,12,Cox's Bazar,Active,Chattogram
+S00053,Ocean Supply Co,Bangladesh,Ayesha Roy,19515139140,fahim.nahar@gmail.com,Exam Prep,3.56,2024-12-15 19:38:01,10,Munshiganj,Active,Dhaka
+S00054,Ocean Logistics,Bangladesh,Nusrat Patwary,17278004380,mim.islam@outlook.com,Academic,2.74,2022-01-16 12:09:50,8,Munshiganj,Active,Dhaka
+S00055,Delta Logistics,Bangladesh,Farhan Sarker,14859399820,rahim.das@outlook.com,Academic,3.63,2021-02-17 13:09:30,3,Gopalganj,Active,Dhaka
+S00056,Prime Supply Co,Bangladesh,Rahim Roy,14553909930,tasnima.ahmed@yahoo.com,Religious,2.61,2025-10-27 17:20:31,2,Manikganj,Active,Dhaka
+S00057,Green Enterprises,Usa,Sadia Karim,14307412140,ayesha.jahan@outlook.com,Fiction,2.51,2022-02-25 13:56:35,15,Munshiganj,Inactive,Dhaka
+S00058,Green Enterprises,Bangladesh,Rafi Roy,17822125990,shaila.chowdhury@gmail.com,Fiction,4.83,2022-01-08 08:18:24,18,Manikganj,Active,Dhaka
+S00059,Global Books Ltd,Bangladesh,Rahim Khan,16224855460,sakib.jahan@gmail.com,Business,4.22,2023-08-29 05:46:45,2,Narayanganj,Active,Dhaka
+S00060,Prime Books Ltd,Bangladesh,Sakib Islam,14387576940,farhan.bhuiyan@outlook.com,Exam Prep,3.9,2025-07-22 02:58:59,7,Manikganj,Suspended,Dhaka
+S00061,Delta Logistics,China,Adib Sheikh,15163933400,rafi.talukder@gmail.com,Children,3.64,2019-11-30 11:24:05,12,Chittagong,Active,Chattogram
+S00062,Bright Enterprises,Bangladesh,Mahin Rahman,16922532110,arif.sarker@yahoo.com,Biography,3.93,2025-11-21 07:19:56,14,Narayanganj,Active,Dhaka
+S00063,Royal Enterprises,Bangladesh,Rumana Talukder,15686119200,,Business,4.73,2021-12-15 12:39:39,15,Cox's Bazar,Active,Chattogram
+S00064,Global Supply Co,Bangladesh,Karim Islam,14159162250,nabil.ahmed@gmail.com,Children,4.13,2019-03-07 10:04:33,14,Brahmanbaria,Active,Chattogram
+S00065,Green Logistics,Bangladesh,Hasan Das,16385033730,muntasir.nahar@yahoo.com,Academic,4.01,2021-03-01 20:26:35,3,Chandpur,Active,Chattogram
+S00066,Green Enterprises,China,Rahim Sheikh,13578085650,rahim.karim@yahoo.com,Self Help,3.65,2022-03-28 03:16:57,6,Brahmanbaria,Active,Chattogram
+S00067,Global Enterprises,Bangladesh,Adib Talukder,19162233380,imran.miah@outlook.com,Children,3.36,2023-09-26 20:02:34,10,Noakhali,Active,Chattogram
+S00068,Ocean Distributors,Bangladesh,Mahin Karim,18751203410,hasan.bhuiyan@outlook.com,Business,4.25,2022-12-18 15:04:19,3,Manikganj,Active,Dhaka
+S00069,Bright Books Ltd,Bangladesh,Mahin Rahman,13882182680,shaila.mollik@yahoo.com,Exam Prep,4.95,2019-12-14 12:54:22,8,Rangamati,Active,Chattogram
+S00070,National Enterprises,Bangladesh,Nafis Talukder,13916126520,sifat.chowdhury@yahoo.com,Programming,3.56,2022-06-01 22:12:25,8,Kishoreganj,Active,Dhaka
+S00071,Metro Publishing House,Uk,Adib Mollik,17403740730,adib.sarker@gmail.com,Fiction,3.48,2020-08-17 20:40:47,19,Gopalganj,Inactive,Dhaka
+S00072,Prime Distributors,Bangladesh,Sadia Das,13649862800,mahin.rahman@gmail.com,Academic,3.48,2020-11-19 23:02:32,7,Feni,Active,Chattogram
+S00073,Metro Supply Co,Bangladesh,Nusrat Rahman,13647927020,rafi.nahar@gmail.com,Exam Prep,3.56,2023-12-24 06:39:42,19,Lakshmipur,Active,Chattogram
+S00074,Global Publishing House,Usa,Imran Mollik,18340569700,rumana.khan@outlook.com,Programming,4.98,2024-08-15 04:46:40,14,Gazipur,Active,Dhaka
+S00075,Royal Books Ltd,Uk,Arif Miah,14302354690,hasan.sarker@gmail.com,Academic,4.27,2020-02-04 07:25:39,14,Brahmanbaria,Active,Chattogram
+S00076,Royal Publishing House,Bangladesh,Tanjim Talukder,13324731630,raisa.uddin@yahoo.com,Children,3.4,2023-03-20 16:02:37,16,Tangail,Active,Dhaka
+S00077,Metro Distributors,Bangladesh,Tasnima Karim,17372265320,mahin.sheikh@outlook.com,Religious,3.43,2021-12-14 16:20:58,17,Madaripur,Active,Dhaka
+S00078,Delta Logistics,,Sakib Hossain,18837360410,nabil.jahan@outlook.com,Children,3.58,2021-05-10 12:13:44,6,Tangail,Active,Dhaka
+S00079,Eastern Enterprises,Bangladesh,Adib Sarker,,nafis.hossain@yahoo.com,Business,2.59,2023-12-28 02:57:18,9,Chittagong,Active,Chattogram
+S00080,Green Supply Co,Bangladesh,Tanvir Ahmed,15518058170,adib.amin@gmail.com,Children,3.82,2020-09-28 00:08:26,11,Bandarban,Active,Chattogram
+S00081,Metro Logistics,Bangladesh,Imran Miah,16592132110,nusrat.mollik@yahoo.com,Self Help,4.53,2024-05-10 12:53:33,19,Tangail,Active,Dhaka
+S00082,Delta Distributors,Usa,Hasan Chowdhury,18451562690,tamim.sarker@yahoo.com,Religious,4.15,2021-10-21 07:32:50,2,Lakshmipur,Active,Chattogram
+S00083,Delta Supply Co,Usa,Adib Jahan,19252715080,fahim.roy@gmail.com,Self Help,3.0,2019-08-31 12:23:27,10,Madaripur,Active,Dhaka
+S00084,National Publishing House,Uk,Shaila Hossain,19260190420,tasnima.karim@outlook.com,Academic,4.32,2024-07-17 23:42:14,5,Brahmanbaria,Active,Chattogram
+S00085,National Books Ltd,China,Farhan Jahan,18451222580,shuvo.jahan@outlook.com,Business,4.3,2024-12-17 16:49:07,5,Munshiganj,Active,Dhaka
+S00086,Eastern Books Ltd,,Jannat Rahman,19216275190,nusrat.sheikh@gmail.com,Fiction,3.16,2022-12-10 04:56:38,15,Rangamati,Active,Chattogram
+S00087,Ocean Supply Co,India,Farhan Miah,16911692240,,Religious,4.06,2024-01-25 11:21:24,5,Manikganj,Active,Dhaka
+S00088,Bright Enterprises,India,Imran Sarker,13338513350,ayesha.sheikh@gmail.com,Self Help,4.03,2020-01-13 03:32:58,16,Khagrachari,Active,Chattogram
+S00089,Ocean Publishing House,Bangladesh,Tanjim Nahar,13389146280,fahim.chowdhury@outlook.com,Fiction,4.6,2021-05-17 05:41:14,19,Chandpur,Active,Chattogram
+S00090,Metro Enterprises,Bangladesh,Shaila Roy,15657001570,ayesha.das@gmail.com,Exam Prep,2.84,2021-06-13 08:10:50,15,Madaripur,Active,Dhaka
+S00091,Metro Publishing House,Bangladesh,Nabil Miah,14242816010,adib.karim@outlook.com,Religious,2.99,2024-05-06 06:43:19,5,Cox's Bazar,Active,Chattogram
+S00092,Delta Logistics,Bangladesh,Nusrat Mollik,14944563680,hasan.bhuiyan@outlook.com,Self Help,3.71,2021-06-18 19:28:00,4,Madaripur,Active,Dhaka
+S00093,Delta Enterprises,Bangladesh,Karim Uddin,19299263870,arif.sheikh@yahoo.com,Academic,2.61,2024-02-05 12:45:56,9,Manikganj,Active,Dhaka
+S00094,Eastern Distributors,Bangladesh,Muntasir Chowdhury,14148776040,rafi.karim@yahoo.com,Biography,3.54,2021-02-23 07:04:21,11,Narayanganj,Active,Dhaka
+S00095,Prime Distributors,,Karim Sheikh,19735535530,farhan.sheikh@outlook.com,Business,4.47,2020-06-20 06:22:39,16,Chittagong,Active,Chattogram
+S00096,Bright Logistics,Bangladesh,Imran Sarker,18676851100,nusrat.islam@outlook.com,Fiction,2.87,2022-11-28 11:28:08,9,Narsingdi,Active,Dhaka
+S00097,Bright Distributors,Bangladesh,Sami Ahmed,13708417060,nafis.jahan@gmail.com,Children,3.65,2019-07-26 13:44:29,5,Bandarban,Active,Chattogram
+S00098,Metro Books Ltd,India,Hasan Roy,17398326890,tanvir.mollik@gmail.com,Biography,4.97,2024-02-21 21:39:02,19,Bandarban,Active,Chattogram
+S00099,National Books Ltd,Uk,Hasan Khan,17681784330,nusrat.jahan@yahoo.com,Self Help,3.76,2019-03-16 09:14:14,18,Kishoreganj,Active,Dhaka
+S00100,National Trade Group,Bangladesh,Sifat Chowdhury,16268022900,sakib.islam@gmail.com,Children,3.75,2025-12-29 02:35:57,13,Madaripur,Active,Dhaka
+S00101,National Trade Group,Bangladesh,Tamim Nahar,13943934880,shuvo.patwary@gmail.com,Programming,3.9,2024-11-14 09:32:46,14,Munshiganj,Active,Dhaka
+S00102,Delta Logistics,Bangladesh,Nayeem Khan,14371614000,nusrat.islam@outlook.com,Exam Prep,2.97,2025-05-13 21:06:28,18,Madaripur,Active,Dhaka
+S00103,Delta Publishing House,India,Rafi Patwary,17329667860,raisa.ahmed@yahoo.com,Religious,2.87,2024-08-29 01:59:20,10,Noakhali,Active,Chattogram
+S00104,Ocean Trade Group,Uk,Tasnima Sheikh,15740046510,sami.sheikh@yahoo.com,Children,4.19,2019-12-31 22:33:24,4,Narsingdi,Active,Dhaka
+S00105,Prime Supply Co,Bangladesh,Sakib Bhuiyan,17690803840,sami.chowdhury@gmail.com,Business,3.49,2024-03-17 08:43:36,12,Narsingdi,Active,Dhaka
+S00106,Prime Supply Co,India,Sadia Nahar,13527741190,tanvir.jahan@gmail.com,Business,3.22,2021-08-22 09:11:11,10,Chittagong,Active,Chattogram
+S00107,Ocean Enterprises,Bangladesh,Imran Nahar,17236312540,karim.talukder@gmail.com,Fiction,2.58,2024-12-27 10:42:38,16,Cox's Bazar,Active,Chattogram
+S00108,Ocean Publishing House,Bangladesh,Tamim Karim,14786188530,shaila.nahar@yahoo.com,Biography,4.62,2025-01-16 21:25:17,15,Chittagong,Active,Chattogram
+S00109,Global Books Ltd,China,Fahim Sarker,17830064150,sakib.amin@gmail.com,Children,2.58,2025-09-05 18:22:23,10,Bandarban,Active,Chattogram
+S00110,Delta Trade Group,Bangladesh,Farhan Hossain,14997842840,,Exam Prep,4.37,2022-02-26 17:11:46,8,Rangamati,Active,Chattogram
+S00111,Eastern Enterprises,Bangladesh,Nusrat Talukder,14685866140,nayeem.islam@gmail.com,Biography,3.45,2020-05-08 12:29:46,9,Lakshmipur,Active,Chattogram
+S00112,Ocean Publishing House,Bangladesh,Shuvo Talukder,14398125950,shaila.rahman@yahoo.com,Self Help,4.0,2019-11-16 16:40:14,13,Kishoreganj,Active,Dhaka
+S00113,Ocean Distributors,Bangladesh,Rumana Hossain,18508761100,nusrat.uddin@yahoo.com,Self Help,3.12,2020-02-27 21:57:21,13,Gopalganj,Inactive,Dhaka
+S00114,Royal Logistics,Usa,Shaila Bhuiyan,13271377550,mim.islam@gmail.com,Children,2.89,2025-12-10 01:09:53,11,Narsingdi,Suspended,Dhaka
+S00115,Green Publishing House,China,Nayeem Ahmed,17273706780,tanvir.islam@yahoo.com,Children,3.83,2023-02-07 17:09:59,11,Khagrachari,Active,Chattogram
+S00116,Delta Supply Co,Bangladesh,Ayesha Sheikh,14587564710,tamim.sarker@gmail.com,Self Help,4.24,2021-06-18 04:49:49,19,Rangamati,Active,Chattogram
+S00117,Global Supply Co,Bangladesh,Raisa Rahman,14661868130,ayesha.hossain@gmail.com,Exam Prep,2.99,2022-02-22 09:33:22,6,Chittagong,Active,Chattogram
+S00118,Delta Supply Co,India,Muntasir Ahmed,17759743470,mahin.rahman@outlook.com,Exam Prep,3.59,2020-03-17 21:18:54,5,Chittagong,Active,Chattogram
+S00119,Bright Enterprises,Bangladesh,Sifat Khan,19212044510,tamim.roy@outlook.com,Business,3.61,2022-12-29 18:24:46,16,Madaripur,Active,Dhaka
+S00120,National Logistics,Uk,Sami Chowdhury,15310595990,tanvir.sarker@yahoo.com,Programming,3.04,2021-12-24 00:20:45,18,Brahmanbaria,Active,Chattogram
+S00121,Eastern Logistics,Bangladesh,Nayeem Rahman,,rahim.nahar@outlook.com,Academic,3.91,2024-08-01 19:08:00,12,Kishoreganj,Active,Dhaka
+S00122,Global Logistics,Bangladesh,Shuvo Ahmed,13722933020,nayeem.roy@yahoo.com,Fiction,2.86,2019-02-24 01:55:28,9,Tangail,Active,Dhaka
+S00123,Bright Books Ltd,Uk,Nayeem Rahman,13346755310,sadia.patwary@gmail.com,Programming,3.77,2025-07-09 11:05:35,8,Kishoreganj,Active,Dhaka
+S00124,Ocean Distributors,Bangladesh,Rafi Hossain,18555404690,sakib.uddin@outlook.com,Children,2.78,2019-06-05 01:08:00,10,Faridpur,Active,Dhaka
+S00125,Ocean Books Ltd,Bangladesh,Tasnima Miah,18614070830,nafis.nahar@yahoo.com,Children,3.71,2021-12-02 21:57:22,2,Rangamati,Active,Chattogram
+S00126,Eastern Enterprises,Bangladesh,Imran Miah,18606309330,raisa.mollik@yahoo.com,Academic,3.28,2021-05-20 15:27:17,11,Lakshmipur,Active,Chattogram
+S00127,Eastern Distributors,Bangladesh,Mahin Sarker,13164135440,tanvir.karim@yahoo.com,Children,3.63,2024-01-10 00:51:36,6,Chittagong,Active,Chattogram
+S00128,Bright Publishing House,Bangladesh,Nayeem Sarker,18134741470,hasan.das@gmail.com,Biography,3.58,2023-08-10 09:29:22,6,Chandpur,Active,Chattogram
+S00129,Bright Books Ltd,Bangladesh,Tanjim Islam,15114493370,muntasir.nahar@outlook.com,Exam Prep,4.77,2020-05-18 00:26:57,12,Madaripur,Active,Dhaka
+S00130,Eastern Logistics,China,Raisa Ahmed,15635623310,,Biography,3.72,2022-06-08 07:09:44,19,Bandarban,Active,Chattogram
+S00131,Ocean Publishing House,,Sakib Chowdhury,14996414170,rahim.roy@yahoo.com,Fiction,4.55,2022-09-28 07:33:17,5, Cumilla ,Active,
+S00132,Prime Trade Group,Bangladesh,Rafi Amin,13157297230,,Religious,3.06,2022-03-31 16:17:36,18,Tangail,Active,Dhaka
+S00133,Metro Logistics,Bangladesh,Mim Karim,14844307210,rumana.nahar@outlook.com,Biography,3.38,2019-02-25 17:35:32,11,Manikganj,Active,Dhaka
+S00134,Delta Distributors,India,Nayeem Sheikh,15675544990,ayesha.uddin@gmail.com,Business,2.69,2020-03-31 05:36:29,19,Narsingdi,Active,Dhaka
+S00135,Bright Logistics,China,Karim Talukder,13740545400,tanvir.roy@gmail.com,Religious,3.55,2022-07-11 14:04:29,8,Khagrachari,Inactive,Chattogram
+S00136,Prime Books Ltd,Bangladesh,Rumana Talukder,14872591030,jannat.patwary@outlook.com,Exam Prep,4.17,2020-10-27 17:49:48,19,Manikganj,Active,Dhaka
+S00137,Eastern Trade Group,Bangladesh,Tasnima Sarker,15265412860,nafis.roy@gmail.com,Self Help,4.6,2022-10-25 21:07:11,13,Rangamati,Active,Chattogram
+S00138,Delta Enterprises,Bangladesh,Rahim Amin,15638675630,hasan.bhuiyan@yahoo.com,Biography,3.91,2020-02-23 08:16:21,14,Cox's Bazar,Active,Chattogram
+S00139,Delta Supply Co,,Ayesha Amin,15418472770,nabil.bhuiyan@outlook.com,Religious,4.1,2024-02-23 19:09:31,12,Lakshmipur,Active,Chattogram
+S00140,Global Books Ltd,Bangladesh,Sami Patwary,18211408590,rumana.karim@outlook.com,Religious,2.94,2020-04-26 16:19:29,10,Tangail,Active,Dhaka
+S00141,Prime Enterprises,Bangladesh,Fahim Mollik,15267524870,shuvo.khan@yahoo.com,Self Help,2.59,2023-07-19 01:59:41,11,Madaripur,Active,Dhaka
+S00142,Bright Enterprises,India,Tanvir Das,16398574380,fahim.roy@outlook.com,Exam Prep,4.48,2024-11-08 09:34:35,17,Dhaka,Active,Dhaka
+S00143,Delta Trade Group,Uk,Nusrat Amin,13163210030,farhan.talukder@outlook.com,Business,2.92,2021-07-05 01:29:21,16,Tangail,Active,Dhaka
+S00144,Eastern Logistics,Uk,Adib Patwary,18151221880,adib.das@outlook.com,Religious,2.73,2019-12-23 12:12:42,2,Narsingdi,Active,Dhaka
+S00145,Green Enterprises,Bangladesh,Sami Sarker,18924423620,muntasir.roy@gmail.com,Programming,4.84,2019-01-15 15:33:22,14,Gazipur,Active,Dhaka
+S00146,Royal Publishing House,Bangladesh,Ayesha Sheikh,16798685580,arif.sarker@outlook.com,Fiction,4.91,2021-07-10 13:52:55,17,Noakhali,Active,Chattogram
+S00147,Metro Distributors,India,Fahim Islam,19208384490,rahim.karim@gmail.com,Programming,4.04,2019-10-23 04:21:55,15,Rangamati,Active,Chattogram
+S00148,Green Enterprises,India,Tasnima Karim,19949363120,tanvir.bhuiyan@outlook.com,Religious,3.45,2025-03-03 23:55:12,10,Narayanganj,Active,Dhaka
+S00149,Royal Enterprises,Bangladesh,Shaila Amin,13149264470,shuvo.rahman@gmail.com,Biography,4.58,2025-10-23 03:25:57,8,Chittagong,Active,Chattogram
+S00150,Prime Books Ltd,Usa,Karim Islam,18169901610,nayeem.rahman@gmail.com,Religious,3.01,2025-11-11 11:43:55,14,Narsingdi,Active,Dhaka
+S00151,National Supply Co,Bangladesh,Rafi Jahan,17158280710,sadia.hossain@gmail.com,Children,3.57,2025-06-15 11:36:18,13,Shariatpur,Active,Dhaka
+S00152,Global Trade Group,Uk,Sadia Ahmed,,tanvir.roy@yahoo.com,Biography,3.39,2023-02-08 15:23:50,8,Brahmanbaria,Active,Chattogram
+S00153,Green Books Ltd,Bangladesh,Tamim Amin,13269704070,farhan.ahmed@gmail.com,Religious,4.78,2021-04-10 22:30:53,9,Narsingdi,Active,Dhaka
+S00154,National Enterprises,Bangladesh,Sami Amin,16822046020,arif.jahan@gmail.com,Fiction,4.8,2022-02-15 09:12:53,8,Feni,Active,Chattogram
+S00155,National Books Ltd,Bangladesh,Shuvo Bhuiyan,17367571830,ayesha.patwary@yahoo.com,Exam Prep,4.13,2020-10-23 15:04:29,2,Kishoreganj,Suspended,Dhaka
+S00156,Bright Logistics,Bangladesh,Farhan Mollik,19692685340,rahim.uddin@outlook.com,Business,2.78,2024-11-17 15:49:11,2,Chittagong,Active,Chattogram
+S00157,Eastern Publishing House,Bangladesh,Nayeem Islam,17256551900,shaila.talukder@yahoo.com,Business,3.71,2022-01-20 11:31:15,3,Rangamati,Active,Chattogram
+S00158,Prime Logistics,,Sami Rahman,17986126530,sifat.sheikh@yahoo.com,Self Help,3.11,2021-09-11 09:04:31,9,Khagrachari,Active,Chattogram
+S00159,Ocean Supply Co,,Mahin Das,16710210390,rafi.uddin@yahoo.com,Self Help,4.71,2023-10-30 11:40:52,11,Faridpur,Suspended,Dhaka
+S00160,Metro Supply Co,India,Arif Ahmed,15136163410,sifat.nahar@yahoo.com,Programming,2.85,2021-07-01 01:14:12,9,Gazipur,Active,Dhaka
+S00161,National Books Ltd,Bangladesh,Nabil Das,13880305030,nafis.das@yahoo.com,Business,2.64,2020-08-04 00:33:15,19,Chandpur,Active,Chattogram
+S00162,Bright Trade Group,Bangladesh,Shaila Rahman,18428210460,rafi.talukder@yahoo.com,Self Help,4.26,2019-06-22 00:04:25,6,Noakhali,Active,Chattogram
+S00163,Metro Publishing House,Uk,Mahin Miah,17103927250,shuvo.sheikh@gmail.com,Children,3.63,2019-04-08 01:47:48,9,Khagrachari,Active,Chattogram
+S00164,Prime Books Ltd,Bangladesh,Arif Das,13556510750,tamim.nahar@gmail.com,Exam Prep,4.6,2021-10-26 13:03:43,6,Lakshmipur,Active,Chattogram
+S00165,Eastern Enterprises,Bangladesh,Karim Mollik,17943313490,farhan.sarker@outlook.com,Religious,2.69,2025-12-18 22:08:07,7,Gopalganj,Active,Dhaka
+S00166,Green Distributors,Uk,Tanvir Rahman,18833622540,imran.roy@yahoo.com,Self Help,4.5,2020-10-28 01:34:16,12,Tangail,Inactive,Dhaka
+S00167,National Supply Co,Uk,Arif Mollik,16843427430,shuvo.uddin@gmail.com,Business,2.59,2023-06-27 13:42:11,7, Cumilla ,Active,
+S00168,Delta Supply Co,Bangladesh,Tasnima Das,14123603440,rumana.ahmed@gmail.com,Self Help,2.57,2021-04-10 12:30:23,7,Brahmanbaria,Active,Chattogram
+S00169,Metro Distributors,India,Sami Sarker,13991795480,sami.talukder@outlook.com,Academic,3.65,2021-02-12 17:13:31,14,Cox's Bazar,Active,Chattogram
+S00170,Prime Trade Group,Bangladesh,Sami Talukder,13945418050,mahin.roy@gmail.com,Exam Prep,3.05,2020-02-21 12:26:57,16,Madaripur,Suspended,Dhaka
+S00171,Bright Distributors,Bangladesh,Karim Das,18231435220,,Academic,3.98,2022-12-11 02:44:42,5,Rajbari,Active,Dhaka
+S00172,Bright Enterprises,India,Fahim Rahman,19229789340,shuvo.nahar@outlook.com,Religious,2.56,2023-08-11 23:53:06,4,Rajbari,Active,Dhaka
+S00173,Metro Publishing House,Bangladesh,Jannat Talukder,14359486710,,Children,2.59,2021-06-14 02:41:08,6,Noakhali,Active,Chattogram
+S00174,Metro Trade Group,India,Karim Hossain,15275526520,sakib.mollik@yahoo.com,Biography,4.32,2022-09-08 01:38:52,12,Kishoreganj,Active,Dhaka
+S00175,Eastern Publishing House,Bangladesh,Rumana Miah,17598088230,karim.talukder@outlook.com,Exam Prep,3.03,2022-05-02 01:28:29,19,Munshiganj,Active,Dhaka
+S00176,Green Books Ltd,India,Raisa Uddin,16729929950,imran.sheikh@gmail.com,Academic,4.14,2020-11-23 07:49:37,4,Dhaka,Active,Dhaka
+S00177,Prime Enterprises,Bangladesh,Hasan Das,14783948630,arif.mollik@yahoo.com,Biography,4.37,2023-11-04 00:46:57,2,Gopalganj,Active,Dhaka
+S00178,Metro Trade Group,Bangladesh,Fahim Patwary,15331129410,rafi.uddin@outlook.com,Fiction,2.65,2022-11-16 16:08:24,11,Rangamati,Inactive,Chattogram
+S00179,Eastern Trade Group,Bangladesh,Sifat Rahman,16620975000,adib.karim@yahoo.com,Programming,3.12,2019-06-18 07:44:48,19,Khagrachari,Inactive,Chattogram
+S00180,Global Supply Co,Bangladesh,Tamim Karim,13608601450,rahim.karim@gmail.com,Academic,3.17,2022-06-13 08:40:12,11,Manikganj,Active,Dhaka
+S00181,Royal Trade Group,India,Rahim Amin,,nayeem.khan@outlook.com,Academic,3.47,2021-09-22 06:12:25,18,Chittagong,Active,Chattogram
+S00182,Prime Trade Group,,Fahim Karim,19785356970,raisa.amin@outlook.com,Fiction,2.72,2024-07-27 12:16:53,13,Brahmanbaria,Active,Chattogram
+S00183,Eastern Enterprises,Bangladesh,Mim Patwary,15930465180,nusrat.ahmed@gmail.com,Programming,4.6,2021-02-22 17:23:50,2,Lakshmipur,Active,Chattogram
+S00184,Delta Distributors,Bangladesh,Sadia Khan,18925012250,nafis.sheikh@gmail.com,Programming,3.9,2025-09-09 11:53:56,9,Munshiganj,Active,Dhaka
+S00185,Global Supply Co,Bangladesh,Tasnima Talukder,18684453350,sadia.sheikh@outlook.com,Self Help,3.76,2023-04-21 22:41:15,15,Rangamati,Active,Chattogram
+S00186,National Logistics,Uk,Hasan Hossain,16935414780,tasnima.karim@gmail.com,Children,4.92,2019-11-30 23:51:06,11,Narayanganj,Active,Dhaka
+S00187,Delta Distributors,Bangladesh,Sakib Patwary,18475033690,sakib.uddin@outlook.com,Exam Prep,3.34,2021-10-28 00:29:11,5, Cumilla ,Active,
+S00188,Royal Books Ltd,China,Tanjim Uddin,13103254620,mahin.sheikh@gmail.com,Academic,4.73,2025-03-09 06:47:18,5,Narsingdi,Active,Dhaka
+S00189,Ocean Supply Co,Bangladesh,Tanjim Rahman,,raisa.hossain@outlook.com,Fiction,4.3,2023-12-07 11:03:48,13,Chittagong,Active,Chattogram
+S00190,National Publishing House,Bangladesh,Sadia Sheikh,13982946800,ayesha.rahman@outlook.com,Children,4.82,2024-06-25 06:10:38,10,Narayanganj,Active,Dhaka
+S00191,Global Trade Group,Bangladesh,Sifat Khan,13664202040,karim.hossain@yahoo.com,Children,3.64,2023-11-06 04:00:16,12,Khagrachari,Active,Chattogram
+S00192,Metro Publishing House,Bangladesh,Nayeem Uddin,15256793920,ayesha.amin@gmail.com,Religious,4.98,2019-08-20 00:10:49,8,Chandpur,Active,Chattogram
+S00193,Global Books Ltd,Uk,Jannat Nahar,17973499480,mim.talukder@yahoo.com,Biography,2.83,2021-08-14 17:06:51,8,Manikganj,Active,Dhaka
+S00194,Global Supply Co,China,Muntasir Islam,18706217170,shuvo.das@outlook.com,Exam Prep,4.49,2021-05-29 00:42:15,13,Rangamati,Active,Chattogram
+S00195,Royal Publishing House,Uk,Nayeem Uddin,14867174700,imran.chowdhury@outlook.com,Self Help,4.51,2025-02-24 17:18:01,2, Cumilla ,Active,
+S00196,Ocean Publishing House,Bangladesh,Tanvir Patwary,18328621680,shaila.hossain@gmail.com,Religious,4.11,2019-01-15 09:56:54,9,Rajbari,Inactive,Dhaka
+S00197,National Logistics,Bangladesh,Rahim Islam,15649801120,mim.karim@yahoo.com,Academic,3.2,2022-10-09 17:26:38,8,Gopalganj,Inactive,Dhaka
+S00198,Ocean Trade Group,Bangladesh,Farhan Talukder,,farhan.rahman@outlook.com,Business,4.91,2025-11-15 12:22:32,16,Rangamati,Active,Chattogram
+S00199,Global Publishing House,Bangladesh,Rafi Rahman,14167479710,,Self Help,3.01,2025-02-15 18:50:49,15,Cox's Bazar,Suspended,Chattogram
+S00200,Prime Distributors,India,Ayesha Jahan,15852191750,fahim.rahman@outlook.com,Academic,3.75,2023-03-31 05:29:37,9,Chittagong,Active,Chattogram
+S00201,Metro Supply Co,Bangladesh,Jannat Khan,14585271610,adib.hossain@gmail.com,Academic,3.8,2025-12-25 17:49:07,6,Feni,Suspended,Chattogram
+S00202,National Trade Group,Bangladesh,Jannat Sheikh,18130339930,mahin.sarker@outlook.com,Self Help,2.9,2021-10-25 08:26:49,6,Brahmanbaria,Inactive,Chattogram
+S00203,Delta Enterprises,Uk,Muntasir Mollik,18725996820,nayeem.nahar@gmail.com,Academic,4.31,2023-04-12 15:01:39,5,Madaripur,Active,Dhaka
+S00204,Delta Publishing House,Bangladesh,Muntasir Hossain,14225104570,rahim.chowdhury@gmail.com,Biography,2.72,2022-10-21 20:57:16,6,Madaripur,Inactive,Dhaka
+S00205,Metro Books Ltd,Bangladesh,Muntasir Sarker,18827050510,nusrat.miah@yahoo.com,Exam Prep,4.23,2019-05-01 23:03:23,15,Faridpur,Active,Dhaka
+S00206,Eastern Publishing House,Bangladesh,Nusrat Uddin,19709458360,hasan.hossain@yahoo.com,Religious,4.62,2019-04-14 14:05:25,2,Faridpur,Active,Dhaka
+S00207,Prime Books Ltd,Bangladesh,Nayeem Nahar,16275353910,nayeem.amin@gmail.com,Programming,3.37,2025-04-11 09:58:42,2, Cumilla ,Inactive,
+S00208,Global Logistics,Bangladesh,Fahim Das,15683284530,sifat.ahmed@yahoo.com,Academic,4.27,2020-03-19 20:26:39,11,Khagrachari,Active,Chattogram
+S00209,Metro Books Ltd,Bangladesh,Fahim Hossain,15535160470,raisa.ahmed@gmail.com,Business,2.89,2021-06-25 22:34:15,6,Gopalganj,Active,Dhaka
+S00210,Prime Enterprises,Bangladesh,Adib Khan,14495415050,farhan.mollik@outlook.com,Self Help,4.61,2023-05-13 07:23:28,16,Bandarban,Active,Chattogram
+S00211,Metro Logistics,India,Adib Karim,14200910840,rumana.chowdhury@gmail.com,Biography,4.88,2023-01-11 01:57:33,15,Gazipur,Active,Dhaka
+S00212,Ocean Logistics,Uk,Sami Roy,13566473840,muntasir.amin@yahoo.com,Programming,2.88,2022-08-07 10:52:17,15,Narsingdi,Inactive,Dhaka
+S00213,Delta Publishing House,Bangladesh,Tanjim Mollik,15189938620,shuvo.rahman@outlook.com,Self Help,4.23,2025-11-07 18:31:45,10,Cox's Bazar,Inactive,Chattogram
+S00214,Royal Supply Co,Bangladesh,Muntasir Roy,,rahim.das@gmail.com,Exam Prep,3.76,2024-07-04 18:19:04,9,Feni,Active,Chattogram
+S00215,Global Supply Co,Bangladesh,Rumana Sheikh,13219291680,raisa.das@gmail.com,Academic,3.83,2025-08-04 04:14:04,9,Noakhali,Suspended,Chattogram
+S00216,Global Supply Co,Bangladesh,Tasnima Islam,16317504760,sifat.patwary@outlook.com,Religious,4.27,2023-08-11 17:54:41,5,Munshiganj,Active,Dhaka
+S00217,Royal Books Ltd,Bangladesh,Nafis Khan,14419683890,rumana.ahmed@gmail.com,Religious,3.72,2025-11-07 15:12:34,12,Noakhali,Suspended,Chattogram
+S00218,Delta Books Ltd,Bangladesh,Mim Sheikh,18389872540,arif.amin@outlook.com,Programming,4.0,2023-03-18 06:28:12,17,Cox's Bazar,Active,Chattogram
+S00219,Green Trade Group,Bangladesh,Nabil Sheikh,17908425390,jannat.uddin@yahoo.com,Exam Prep,3.08,2022-10-16 15:44:06,6,Narayanganj,Active,Dhaka
+S00220,Global Distributors,,Nayeem Sarker,19606669310,shuvo.sheikh@outlook.com,Biography,3.45,2024-09-14 19:39:33,3,Munshiganj,Active,Dhaka
+S00221,Metro Distributors,Bangladesh,Tanjim Miah,17927243900,hasan.ahmed@gmail.com,Programming,4.66,2025-01-29 16:14:44,12,Gazipur,Active,Dhaka
+S00222,Eastern Enterprises,Bangladesh,Tamim Roy,18369932410,raisa.jahan@gmail.com,Fiction,2.77,2019-06-24 11:31:54,9,Noakhali,Active,Chattogram
+S00223,Green Logistics,Usa,Sami Das,13203351200,karim.patwary@outlook.com,Biography,3.99,2025-05-16 10:37:02,16,Kishoreganj,Active,Dhaka
+S00224,National Trade Group,Bangladesh,Tanjim Hossain,19600596600,sakib.mollik@outlook.com,Biography,2.96,2023-11-01 21:45:34,17,Manikganj,Active,Dhaka
+S00225,Green Distributors,Bangladesh,Hasan Mollik,15410983290,hasan.sarker@outlook.com,Exam Prep,4.62,2025-04-13 08:29:23,19,Narsingdi,Active,Dhaka
+S00226,Metro Trade Group,Usa,Arif Rahman,14821716140,karim.ahmed@gmail.com,Religious,3.95,2024-01-04 01:11:48,9,Gopalganj,Active,Dhaka
+S00227,Delta Books Ltd,Bangladesh,Fahim Nahar,17371595340,sami.miah@yahoo.com,Academic,3.51,2025-06-27 04:53:20,18,Feni,Active,Chattogram
+S00228,Green Enterprises,Bangladesh,Raisa Islam,16974223120,arif.chowdhury@yahoo.com,Business,3.12,2020-04-24 15:03:21,4,Chittagong,Active,Chattogram
+S00229,Eastern Logistics,Usa,Mim Ahmed,16472300060,tasnima.sheikh@yahoo.com,Children,3.59,2020-05-15 01:55:52,8,Gopalganj,Active,Dhaka
+S00230,Royal Books Ltd,Bangladesh,Nusrat Jahan,14707294510,nusrat.bhuiyan@gmail.com,Programming,4.89,2020-10-06 12:27:22,6,Gopalganj,Active,Dhaka
+S00231,Ocean Books Ltd,Bangladesh,Nusrat Sarker,13348337240,sifat.sarker@yahoo.com,Self Help,3.77,2020-06-30 14:33:58,18,Dhaka,Active,Dhaka
+S00232,Ocean Distributors,Bangladesh,Mim Jahan,18179051440,ayesha.mollik@yahoo.com,Fiction,3.67,2022-02-02 18:36:05,12,Noakhali,Active,Chattogram
+S00233,Global Trade Group,Bangladesh,Shaila Islam,13828854860,fahim.ahmed@gmail.com,Biography,4.37,2020-05-21 10:45:11,8,Rajbari,Active,Dhaka
+S00234,Eastern Logistics,Bangladesh,Rumana Sheikh,15346490940,arif.jahan@yahoo.com,Children,3.45,2020-02-09 06:38:23,4,Chandpur,Active,Chattogram
+S00235,Eastern Trade Group,,Nafis Nahar,16138677610,ayesha.rahman@gmail.com,Academic,3.57,2022-08-31 18:53:40,16,Gopalganj,Active,Dhaka
+S00236,Ocean Supply Co,Bangladesh,Imran Mollik,13171385200,rahim.karim@gmail.com,Biography,3.34,2024-07-20 19:02:38,13,Madaripur,Active,Dhaka
+S00237,Delta Enterprises,,Fahim Khan,14368155520,rahim.amin@gmail.com,Academic,2.88,2019-12-13 15:51:37,17,Tangail,Suspended,Dhaka
+S00238,Bright Supply Co,Bangladesh,Arif Sarker,13112982050,farhan.uddin@yahoo.com,Exam Prep,4.28,2022-07-30 21:05:08,9,Madaripur,Active,Dhaka
+S00239,Royal Books Ltd,Bangladesh,Sifat Miah,16856115130,shuvo.mollik@gmail.com,Exam Prep,4.68,2023-08-13 03:13:54,4,Brahmanbaria,Active,Chattogram
+S00240,Bright Books Ltd,Bangladesh,Nafis Talukder,,nusrat.ahmed@yahoo.com,Fiction,4.76,2023-12-09 11:23:05,8,Noakhali,Active,Chattogram
+S00241,Prime Supply Co,Uk,Fahim Rahman,14549430700,nusrat.jahan@yahoo.com,Academic,3.34,2019-09-26 13:55:14,13,Munshiganj,Active,Dhaka
+S00242,Prime Supply Co,Bangladesh,Arif Islam,14980630590,mim.islam@outlook.com,Fiction,3.63,2024-02-19 11:23:13,6,Brahmanbaria,Active,Chattogram
+S00243,Delta Publishing House,Bangladesh,Fahim Miah,,muntasir.talukder@gmail.com,Academic,3.21,2019-03-10 17:31:05,3,Lakshmipur,Active,Chattogram
+S00244,National Enterprises,Bangladesh,Hasan Rahman,19226161760,adib.sarker@yahoo.com,Exam Prep,4.09,2020-08-28 14:05:00,16,Lakshmipur,Inactive,Chattogram
+S00245,Ocean Logistics,Bangladesh,Nabil Miah,19635286250,sifat.karim@gmail.com,Self Help,4.89,2021-03-27 02:32:26,11,Dhaka,Suspended,Dhaka
+S00246,Metro Trade Group,Bangladesh,Tanvir Hossain,14721106720,sami.roy@yahoo.com,Biography,4.32,2024-12-20 06:49:22,9,Gazipur,Active,Dhaka
+S00247,Ocean Logistics,Bangladesh,Tamim Rahman,17611861770,,Self Help,3.74,2020-05-05 09:26:34,11,Rangamati,Active,Chattogram
+S00248,Prime Distributors,Bangladesh,Tanjim Bhuiyan,17599544110,farhan.das@outlook.com,Exam Prep,4.22,2024-06-22 22:13:31,15,Noakhali,Active,Chattogram
+S00249,Eastern Distributors,Uk,Tanjim Miah,18261628430,shuvo.uddin@yahoo.com,Self Help,4.43,2025-12-02 00:29:06,2,Munshiganj,Active,Dhaka
+S00250,Metro Distributors,Usa,Muntasir Sarker,16474755730,tanvir.karim@outlook.com,Exam Prep,4.8,2025-09-19 14:09:20,9,Tangail,Inactive,Dhaka
+S00251,Eastern Logistics,Bangladesh,Tamim Talukder,16227874780,ayesha.jahan@gmail.com,Religious,4.41,2021-02-13 11:00:18,6,Bandarban,Active,Chattogram
+S00252,Metro Trade Group,Bangladesh,Mahin Amin,15958726590,nabil.uddin@gmail.com,Biography,3.58,2019-09-02 15:23:10,3,Chittagong,Active,Chattogram
+S00253,Prime Enterprises,Bangladesh,Rahim Miah,13671776430,karim.roy@gmail.com,Fiction,3.85,2020-07-21 14:17:57,2,Cox's Bazar,Active,Chattogram
+S00254,Green Publishing House,Bangladesh,Rafi Uddin,17527064140,,Business,3.75,2024-05-19 02:26:25,9,Narayanganj,Active,Dhaka
+S00255,Prime Publishing House,Bangladesh,Muntasir Karim,,tamim.mollik@gmail.com,Biography,3.32,2020-05-17 22:38:52,11,Lakshmipur,Active,Chattogram
+S00256,Metro Supply Co,Uk,Rafi Talukder,13184806870,sifat.talukder@gmail.com,Fiction,4.86,2023-07-09 03:12:53,11,Faridpur,Active,Dhaka
+S00257,Royal Supply Co,India,Nusrat Sheikh,14271654440,tanjim.jahan@gmail.com,Fiction,3.77,2021-08-13 13:37:57,16,Dhaka,Active,Dhaka
+S00258,Metro Books Ltd,India,Tasnima Amin,18674857820,fahim.bhuiyan@outlook.com,Children,3.68,2024-05-14 01:54:20,10,Noakhali,Active,Chattogram
+S00259,Royal Books Ltd,Bangladesh,Nayeem Islam,13665628960,sami.nahar@outlook.com,Fiction,3.37,2023-03-29 13:11:40,12,Kishoreganj,Inactive,Dhaka
+S00260,Delta Logistics,China,Adib Das,13478949420,muntasir.amin@gmail.com,Religious,4.1,2023-02-05 13:24:05,16,Rangamati,Active,Chattogram
+S00261,National Publishing House,Bangladesh,Mahin Jahan,13181154770,hasan.sheikh@outlook.com,Self Help,3.8,2024-06-21 15:39:03,13,Manikganj,Active,Dhaka
+S00262,Eastern Supply Co,Bangladesh,Hasan Karim,13490036520,nabil.mollik@gmail.com,Children,2.82,2025-09-06 15:43:18,18,Narayanganj,Active,Dhaka
+S00263,National Distributors,Bangladesh,Shuvo Roy,16417470380,mahin.karim@yahoo.com,Exam Prep,4.67,2021-07-20 20:33:55,5,Dhaka,Active,Dhaka
+S00264,Metro Publishing House,Usa,Rahim Islam,17748413230,sami.uddin@gmail.com,Exam Prep,3.4,2022-09-13 17:43:53,16,Noakhali,Inactive,Chattogram
+S00265,Metro Trade Group,Bangladesh,Shaila Uddin,18621123940,nusrat.miah@yahoo.com,Biography,3.58,2023-05-19 23:33:49,14,Narayanganj,Active,Dhaka
+S00266,Green Publishing House,India,Rahim Khan,16542409180,fahim.amin@outlook.com,Exam Prep,3.01,2024-10-04 17:31:57,12,Kishoreganj,Active,Dhaka
+S00267,Eastern Publishing House,Bangladesh,Adib Amin,14538283870,mim.das@outlook.com,Children,3.88,2022-05-17 03:28:56,2,Shariatpur,Active,Dhaka
+S00268,Green Publishing House,China,Rahim Talukder,13969667190,sadia.nahar@yahoo.com,Programming,4.26,2021-08-15 07:55:23,11,Gopalganj,Active,Dhaka
+S00269,Delta Books Ltd,Bangladesh,Ayesha Nahar,15780664790,imran.ahmed@yahoo.com,Biography,4.7,2024-12-03 15:24:37,17,Cox's Bazar,Inactive,Chattogram
+S00270,Green Books Ltd,Bangladesh,Arif Mollik,19547281600,rafi.mollik@outlook.com,Biography,2.63,2025-09-02 09:02:58,13,Faridpur,Active,Dhaka
+S00271,Ocean Books Ltd,China,Mim Bhuiyan,19531300350,nusrat.das@gmail.com,Religious,4.93,2022-12-25 11:17:55,2,Shariatpur,Active,Dhaka
+S00272,Eastern Publishing House,Bangladesh,Tasnima Bhuiyan,13222060210,farhan.islam@yahoo.com,Biography,4.26,2019-09-22 13:00:22,7,Narsingdi,Active,Dhaka
+S00273,Royal Books Ltd,Bangladesh,Shaila Amin,19527597520,sadia.sheikh@gmail.com,Exam Prep,3.21,2021-01-10 23:06:52,12,Dhaka,Active,Dhaka
+S00274,Delta Logistics,Bangladesh,Mim Patwary,15501454870,mim.chowdhury@outlook.com,Academic,3.01,2022-03-29 07:13:19,16,Faridpur,Active,Dhaka
+S00275,Green Logistics,Bangladesh,Farhan Mollik,14883497670,tanvir.das@yahoo.com,Biography,3.24,2023-12-04 08:51:24,10,Tangail,Active,Dhaka
+S00276,Royal Distributors,Bangladesh,Karim Ahmed,19176424480,adib.nahar@yahoo.com,Children,4.69,2023-09-08 21:11:12,17,Narsingdi,Active,Dhaka
+S00277,Royal Distributors,Bangladesh,Ayesha Uddin,18142627390,tanvir.nahar@yahoo.com,Business,3.23,2024-09-27 02:02:09,16,Gopalganj,Active,Dhaka
+S00278,Metro Enterprises,Bangladesh,Adib Chowdhury,19285312200,nafis.chowdhury@gmail.com,Fiction,3.66,2019-03-18 15:48:01,6,Gopalganj,Active,Dhaka
+S00279,Ocean Trade Group,Uk,Sadia Mollik,13524154800,rahim.karim@gmail.com,Exam Prep,4.26,2022-04-04 15:59:29,5,Feni,Active,Chattogram
+S00280,Ocean Supply Co,Bangladesh,Sami Bhuiyan,17388605770,farhan.amin@outlook.com,Academic,4.68,2023-11-27 21:48:46,18, Cumilla ,Active,
+S00281,Green Books Ltd,Bangladesh,Fahim Das,13204539560,tanjim.rahman@gmail.com,Religious,4.15,2025-11-28 06:37:38,12,Brahmanbaria,Active,Chattogram
+S00282,Delta Publishing House,Bangladesh,Rahim Hossain,19825325170,sakib.chowdhury@gmail.com,Self Help,4.38,2019-12-30 20:34:17,17,Khagrachari,Active,Chattogram
+S00283,Royal Publishing House,Bangladesh,Nafis Sarker,19577723440,fahim.khan@gmail.com,Self Help,2.93,2025-02-24 23:19:08,18,Faridpur,Active,Dhaka
+S00284,Prime Publishing House,Bangladesh,Adib Nahar,16654975030,arif.talukder@outlook.com,Fiction,4.69,2019-01-20 20:36:37,9,Chittagong,Active,Chattogram
+S00285,Bright Enterprises,Usa,Tanjim Chowdhury,16362704960,tasnima.talukder@gmail.com,Biography,3.19,2020-05-18 09:59:14,2,Cox's Bazar,Active,Chattogram
+S00286,Metro Distributors,Usa,Tamim Islam,16273203500,tanjim.talukder@outlook.com,Business,2.82,2024-12-04 22:09:49,18,Kishoreganj,Active,Dhaka
+S00287,Prime Books Ltd,Bangladesh,Fahim Mollik,18881248540,sadia.patwary@yahoo.com,Exam Prep,4.94,2024-07-03 22:45:07,12,Tangail,Active,Dhaka
+S00288,Global Distributors,Bangladesh,Adib Amin,13187216170,adib.khan@outlook.com,Programming,3.0,2025-10-22 08:24:11,4,Cox's Bazar,Active,Chattogram
+S00289,Metro Enterprises,Bangladesh,Ayesha Hossain,13812420350,,Academic,2.84,2023-03-17 00:45:11,11,Brahmanbaria,Inactive,Chattogram
+S00290,Royal Books Ltd,Bangladesh,Rafi Rahman,15394087850,sakib.khan@gmail.com,Academic,4.07,2023-04-24 09:50:34,2,Madaripur,Active,Dhaka
+S00291,Global Supply Co,Bangladesh,Tanvir Karim,13975339780,,Children,3.3,2022-09-28 23:27:51,7,Chandpur,Active,Chattogram
+S00292,Eastern Books Ltd,Bangladesh,Sadia Nahar,16817701940,farhan.chowdhury@yahoo.com,Biography,2.83,2022-07-31 22:22:40,8,Cox's Bazar,Inactive,Chattogram
+S00293,Delta Trade Group,Bangladesh,Mim Bhuiyan,17227597600,nabil.ahmed@gmail.com,Biography,4.0,2022-08-06 15:02:55,10,Dhaka,Active,Dhaka
+S00294,Bright Books Ltd,Bangladesh,Sakib Sarker,18595273410,,Business,4.4,2021-01-17 16:18:00,12,Bandarban,Active,Chattogram
+S00295,Royal Supply Co,Bangladesh,Raisa Rahman,17862186780,shaila.bhuiyan@gmail.com,Biography,4.48,2024-12-21 07:39:11,17,Tangail,Active,Dhaka
+S00296,Royal Trade Group,Bangladesh,Tamim Ahmed,19465851980,tanvir.das@outlook.com,Academic,2.89,2021-06-30 12:43:15,8,Narayanganj,Active,Dhaka
+S00297,Prime Trade Group,Bangladesh,Ayesha Nahar,13863894870,sami.sarker@outlook.com,Biography,3.89,2023-04-11 09:22:49,15,Faridpur,Active,Dhaka
+S00298,National Supply Co,Bangladesh,Raisa Ahmed,19555825970,sadia.patwary@gmail.com,Fiction,4.53,2023-09-07 14:32:28,18,Gazipur,Active,Dhaka
+S00299,Green Supply Co,India,Nafis Ahmed,17300732510,rumana.jahan@yahoo.com,Academic,2.9,2022-10-06 09:02:09,15,Cox's Bazar,Active,Chattogram
+S00300,Bright Logistics,Bangladesh,Sifat Nahar,13534661820,,Exam Prep,3.02,2023-04-12 19:35:53,6,Feni,Active,Chattogram
+S00301,Bright Supply Co,Bangladesh,Mahin Sheikh,14723909310,sami.talukder@gmail.com,Business,2.51,2019-05-05 21:15:43,14,Rajbari,Active,Dhaka
+S00302,Ocean Books Ltd,Bangladesh,Tanjim Amin,,rahim.uddin@yahoo.com,Fiction,3.81,2021-03-18 13:43:29,7,Noakhali,Active,Chattogram
+S00303,Royal Enterprises,India,Sakib Roy,16430018800,rafi.amin@gmail.com,Exam Prep,2.99,2022-02-19 20:41:28,10,Noakhali,Active,Chattogram
+S00304,National Enterprises,Bangladesh,Muntasir Roy,14416214710,fahim.sheikh@gmail.com,Fiction,4.31,2021-10-04 14:27:17,13,Chandpur,Active,Chattogram
+S00305,Metro Trade Group,Uk,Nafis Das,15572200750,mim.uddin@outlook.com,Exam Prep,4.91,2025-05-09 22:54:05,7,Bandarban,Active,Chattogram
+S00306,Royal Enterprises,Usa,Ayesha Sarker,16894814190,tasnima.roy@yahoo.com,Children,3.02,2025-04-12 02:17:03,2,Rangamati,Inactive,Chattogram
+S00307,Ocean Distributors,Bangladesh,Rumana Talukder,18363104400,jannat.miah@outlook.com,Academic,4.12,2023-12-25 04:46:40,17,Brahmanbaria,Active,Chattogram
+S00308,Bright Logistics,Bangladesh,Hasan Das,19568693540,nafis.amin@yahoo.com,Fiction,3.03,2021-06-19 10:19:38,15,Noakhali,Active,Chattogram
+S00309,Prime Publishing House,Bangladesh,Rafi Uddin,14406125050,sadia.roy@outlook.com,Religious,2.55,2019-05-11 05:43:14,4,Rangamati,Active,Chattogram
+S00310,Global Books Ltd,Usa,Raisa Mollik,18839595750,jannat.bhuiyan@outlook.com,Fiction,4.4,2024-04-14 02:47:30,8,Kishoreganj,Active,Dhaka
+S00311,Delta Enterprises,Bangladesh,Raisa Karim,15241841360,karim.nahar@yahoo.com,Children,3.59,2025-03-09 11:37:21,6,Chandpur,Active,Chattogram
+S00312,Eastern Distributors,Usa,Shuvo Islam,14193159240,sami.chowdhury@yahoo.com,Exam Prep,4.87,2022-06-05 12:26:01,19, Cumilla ,Active,
+S00313,Bright Publishing House,Bangladesh,Jannat Miah,17552695720,sadia.bhuiyan@yahoo.com,Programming,3.84,2024-10-13 23:04:26,18,Feni,Active,Chattogram
+S00314,National Distributors,Bangladesh,Rahim Hossain,16704698820,muntasir.sheikh@outlook.com,Business,2.89,2025-07-06 18:53:09,14,Narayanganj,Active,Dhaka
+S00315,Green Distributors,Bangladesh,Sami Miah,,rumana.karim@yahoo.com,Fiction,3.62,2022-10-29 07:47:46,9,Khagrachari,Suspended,Chattogram
+S00316,Ocean Distributors,Bangladesh,Sadia Rahman,19796464780,hasan.sheikh@yahoo.com,Academic,3.01,2020-06-19 15:36:46,2,Shariatpur,Active,Dhaka
+S00317,Delta Distributors,,Rafi Hossain,15453439050,rahim.rahman@gmail.com,Academic,4.7,2019-02-27 06:26:27,6,Narsingdi,Active,Dhaka
+S00318,Eastern Logistics,Bangladesh,Nusrat Amin,19204489370,rahim.jahan@outlook.com,Exam Prep,4.23,2024-04-18 18:05:28,3,Gopalganj,Active,Dhaka
+S00319,Prime Distributors,India,Shuvo Roy,19134850340,farhan.rahman@yahoo.com,Academic,3.35,2022-12-08 13:40:56,16,Munshiganj,Active,Dhaka
+S00320,Ocean Trade Group,Uk,Raisa Sheikh,13545942200,tanjim.bhuiyan@gmail.com,Fiction,3.82,2020-01-28 21:16:20,3,Rangamati,Active,Chattogram
+S00321,Bright Trade Group,Bangladesh,Arif Ahmed,15420685730,tanvir.talukder@yahoo.com,Biography,4.17,2019-05-20 12:42:38,14, Cumilla ,Suspended,
+S00322,Royal Enterprises,Bangladesh,Sifat Islam,16604539520,raisa.chowdhury@yahoo.com,Business,4.46,2025-10-13 23:57:12,19, Cumilla ,Active,
+S00323,Ocean Distributors,,Rahim Das,19532548230,sakib.miah@gmail.com,Exam Prep,2.7,2021-03-29 21:19:36,7,Lakshmipur,Suspended,Chattogram
+S00324,Delta Enterprises,India,Sami Islam,16710148520,mim.rahman@outlook.com,Business,2.56,2021-04-16 00:49:31,14,Manikganj,Active,Dhaka
+S00325,Metro Supply Co,Bangladesh,Rafi Rahman,14700265940,jannat.talukder@outlook.com,Biography,2.79,2023-05-27 11:49:53,17,Chandpur,Active,Chattogram
+S00326,Delta Logistics,,Jannat Karim,19386257730,tanvir.uddin@outlook.com,Self Help,3.49,2021-07-20 12:27:39,9,Narayanganj,Active,Dhaka
+S00327,Prime Supply Co,Bangladesh,Tanjim Chowdhury,14411593000,sadia.khan@yahoo.com,Programming,3.67,2025-05-22 09:44:24,10,Khagrachari,Inactive,Chattogram
+S00328,Green Enterprises,Bangladesh,Nusrat Hossain,14626633030,muntasir.rahman@gmail.com,Exam Prep,2.84,2023-10-07 11:36:22,5,Rajbari,Active,Dhaka
+S00329,Ocean Logistics,Bangladesh,Nusrat Uddin,19636789220,rahim.karim@gmail.com,Business,3.53,2021-07-03 12:36:56,9,Khagrachari,Active,Chattogram
+S00330,Global Distributors,Bangladesh,Imran Roy,13383229920,tanjim.patwary@outlook.com,Biography,3.6,2020-11-12 12:33:50,17, Cumilla ,Active,
+S00331,Eastern Supply Co,India,Shuvo Uddin,17397286090,tasnima.patwary@gmail.com,Business,2.77,2025-01-07 05:17:56,13,Cox's Bazar,Active,Chattogram
+S00332,Global Publishing House,Bangladesh,Sadia Miah,17396251020,shuvo.khan@outlook.com,Self Help,4.79,2023-02-21 11:18:09,5,Noakhali,Active,Chattogram
+S00333,Green Logistics,Bangladesh,Tanjim Patwary,17458304870,jannat.nahar@outlook.com,Religious,4.0,2025-06-05 07:56:16,11,Cox's Bazar,Active,Chattogram
+S00334,Green Trade Group,China,Tanjim Khan,,mim.ahmed@gmail.com,Religious,3.47,2021-06-01 01:44:48,14,Munshiganj,Active,Dhaka
+S00335,Metro Books Ltd,China,Sami Das,16903435460,,Business,3.77,2019-02-23 18:54:56,3,Tangail,Active,Dhaka
+S00336,Metro Logistics,Uk,Ayesha Jahan,16132675100,shuvo.miah@gmail.com,Self Help,3.29,2025-04-17 03:26:29,15,Shariatpur,Active,Dhaka
+S00337,Bright Books Ltd,Bangladesh,Sakib Mollik,19869647550,muntasir.sarker@yahoo.com,Exam Prep,4.64,2020-09-03 23:27:40,5,Faridpur,Active,Dhaka
+S00338,Bright Supply Co,Bangladesh,Shuvo Miah,13246860340,rafi.sarker@yahoo.com,Self Help,3.94,2024-12-01 00:43:10,7,Brahmanbaria,Active,Chattogram
+S00339,Green Books Ltd,Uk,Hasan Uddin,15556523760,tanjim.roy@outlook.com,Self Help,3.74,2023-12-20 09:47:34,9,Rajbari,Active,Dhaka
+S00340,Green Trade Group,Bangladesh,Nabil Islam,18481902780,karim.rahman@yahoo.com,Children,4.78,2020-08-15 10:18:44,11,Narsingdi,Active,Dhaka
+S00341,Ocean Books Ltd,Bangladesh,Tanjim Hossain,17109116400,tanjim.hossain@outlook.com,Self Help,4.59,2024-04-18 11:46:46,18,Gazipur,Suspended,Dhaka
+S00342,Metro Trade Group,India,Tamim Islam,17923857240,nafis.jahan@yahoo.com,Self Help,4.53,2019-07-28 12:18:43,6,Tangail,Active,Dhaka
+S00343,Eastern Supply Co,Bangladesh,Farhan Nahar,16367406500,tasnima.uddin@outlook.com,Fiction,3.06,2021-09-30 00:25:09,6,Bandarban,Active,Chattogram
+S00344,Delta Logistics,Bangladesh,Sifat Rahman,19129882860,nusrat.sheikh@outlook.com,Biography,2.88,2021-06-30 08:35:28,8,Gazipur,Active,Dhaka
+S00345,Delta Supply Co,China,Rahim Nahar,15224837240,shaila.jahan@outlook.com,Programming,4.23,2023-08-06 15:57:17,17,Chandpur,Active,Chattogram
+S00346,Metro Supply Co,Bangladesh,Rahim Islam,19534344710,jannat.roy@yahoo.com,Fiction,3.67,2022-09-28 05:31:56,19,Kishoreganj,Active,Dhaka
+S00347,Metro Trade Group,Bangladesh,Mahin Mollik,19698642240,fahim.rahman@yahoo.com,Fiction,4.21,2023-04-14 16:15:29,10,Gopalganj,Active,Dhaka
+S00348,Global Publishing House,Bangladesh,Adib Patwary,16565725260,hasan.nahar@outlook.com,Business,4.4,2022-05-02 04:32:10,14,Narsingdi,Active,Dhaka
+S00349,Ocean Logistics,Bangladesh,Ayesha Islam,14605843360,rahim.khan@outlook.com,Academic,3.24,2024-03-05 20:45:18,18,Narsingdi,Active,Dhaka
+S00350,Global Books Ltd,Bangladesh,Tanjim Ahmed,17968809400,arif.uddin@outlook.com,Exam Prep,3.21,2020-02-14 03:46:37,17,Lakshmipur,Active,Chattogram
+S00351,Green Logistics,India,Nafis Islam,16228433030,mahin.bhuiyan@yahoo.com,Exam Prep,3.73,2024-01-11 21:22:57,14,Faridpur,Active,Dhaka
+S00352,Eastern Publishing House,Uk,Hasan Mollik,14891184080,nabil.mollik@outlook.com,Exam Prep,3.18,2019-05-08 20:43:37,11,Narayanganj,Active,Dhaka
+S00353,Eastern Enterprises,Bangladesh,Sami Chowdhury,13457352240,nabil.sarker@outlook.com,Programming,4.17,2019-08-08 11:39:29,19, Cumilla ,Active,
+S00354,Global Logistics,Bangladesh,Fahim Talukder,17316559740,farhan.chowdhury@outlook.com,Business,4.37,2024-01-24 15:15:06,6,Madaripur,Active,Dhaka
+S00355,Delta Enterprises,Uk,Rumana Das,19125509390,nayeem.jahan@gmail.com,Exam Prep,3.68,2020-02-09 11:41:56,8,Rangamati,Active,Chattogram
+S00356,Bright Enterprises,Bangladesh,Rafi Amin,14766400810,sadia.jahan@yahoo.com,Self Help,4.31,2024-05-22 11:23:24,14, Cumilla ,Inactive,
+S00357,Ocean Supply Co,Bangladesh,Nafis Roy,19934237320,mim.sarker@outlook.com,Academic,3.78,2019-12-06 06:00:50,2,Noakhali,Active,Chattogram
+S00358,Metro Supply Co,Bangladesh,Rahim Talukder,18167303380,karim.nahar@outlook.com,Business,4.28,2020-01-10 23:22:44,11,Noakhali,Inactive,Chattogram
+S00359,Green Enterprises,Bangladesh,Nafis Karim,18199153040,shuvo.nahar@outlook.com,Biography,3.06,2025-07-11 10:03:26,17,Gazipur,Active,Dhaka
+S00360,Prime Logistics,Bangladesh,Imran Hossain,13722761380,imran.jahan@gmail.com,Self Help,4.35,2020-03-29 05:21:03,5,Shariatpur,Active,Dhaka
+S00361,Eastern Trade Group,Bangladesh,Mim Patwary,16683167030,imran.miah@gmail.com,Biography,4.29,2025-05-24 00:21:36,16, Cumilla ,Active,
+S00362,Royal Books Ltd,Bangladesh,Sifat Islam,18161944670,tanjim.chowdhury@outlook.com,Children,3.17,2021-06-08 19:10:06,9,Dhaka,Active,Dhaka
+S00363,Ocean Books Ltd,Bangladesh,Rafi Roy,16850980470,mahin.jahan@outlook.com,Programming,3.89,2024-07-31 04:27:29,17,Rajbari,Active,Dhaka
+S00364,Ocean Books Ltd,Bangladesh,Ayesha Mollik,16571081460,tanvir.mollik@gmail.com,Children,4.64,2025-07-29 04:49:05,13,Chittagong,Active,Chattogram
+S00365,Delta Logistics,Bangladesh,Nusrat Jahan,16916477630,sadia.uddin@yahoo.com,Self Help,3.12,2019-10-26 07:59:00,4,Feni,Inactive,Chattogram
+S00366,Ocean Distributors,Bangladesh,Tasnima Jahan,13834744770,sadia.miah@outlook.com,Programming,4.34,2021-04-24 16:18:14,15,Narsingdi,Active,Dhaka
+S00367,Metro Supply Co,Bangladesh,Sami Rahman,18471058490,nabil.karim@gmail.com,Fiction,4.88,2023-01-07 20:06:32,3,Khagrachari,Active,Chattogram
+S00368,Prime Logistics,Bangladesh,Shuvo Das,16432085390,mahin.mollik@outlook.com,Academic,4.67,2025-01-21 06:13:39,6,Chittagong,Active,Chattogram
+S00369,Ocean Distributors,Bangladesh,Karim Miah,14887891120,muntasir.islam@gmail.com,Exam Prep,3.5,2020-04-23 13:28:31,17,Faridpur,Active,Dhaka
+S00370,Ocean Trade Group,Bangladesh,Nayeem Talukder,16751011600,tasnima.sheikh@gmail.com,Self Help,4.02,2021-07-30 14:08:39,17,Manikganj,Active,Dhaka
+S00371,Royal Supply Co,Bangladesh,Muntasir Roy,13810033480,rafi.ahmed@outlook.com,Self Help,4.98,2020-06-06 21:36:27,2,Noakhali,Active,Chattogram
+S00372,Bright Publishing House,Usa,Imran Sarker,17997849300,nabil.islam@yahoo.com,Biography,3.92,2020-11-13 16:26:50,8,Dhaka,Active,Dhaka
+S00373,Ocean Distributors,Bangladesh,Tamim Sarker,13586036330,karim.sheikh@yahoo.com,Self Help,2.79,2019-11-28 21:22:50,3,Gazipur,Active,Dhaka
+S00374,Green Distributors,India,Sami Rahman,16148943770,fahim.khan@outlook.com,Self Help,2.61,2024-10-19 17:56:31,6,Narayanganj,Active,Dhaka
+S00375,National Publishing House,China,Arif Miah,16369561240,nabil.miah@gmail.com,Self Help,4.48,2024-07-29 09:19:02,19,Rangamati,Suspended,Chattogram
+S00376,Metro Publishing House,Bangladesh,Karim Khan,17308872410,hasan.mollik@yahoo.com,Biography,3.56,2020-01-05 05:13:35,5,Chittagong,Active,Chattogram
+S00377,Global Trade Group,Bangladesh,Shuvo Mollik,16658028380,muntasir.bhuiyan@yahoo.com,Programming,3.12,2022-10-03 22:06:45,13,Gopalganj,Active,Dhaka
+S00378,Green Enterprises,Uk,Sakib Bhuiyan,13744161270,shuvo.das@outlook.com,Exam Prep,3.37,2023-07-10 15:12:53,16,Narsingdi,Inactive,Dhaka
+S00379,Ocean Distributors,,Mim Khan,13158262340,mahin.das@gmail.com,Self Help,4.39,2023-05-24 00:35:36,17,Noakhali,Active,Chattogram
+S00380,Eastern Supply Co,Bangladesh,Shaila Jahan,18874690920,,Children,3.66,2025-11-19 20:02:03,8,Madaripur,Active,Dhaka
+S00381,Eastern Enterprises,Bangladesh,Mahin Patwary,16408042160,nabil.mollik@yahoo.com,Exam Prep,4.67,2023-06-28 01:46:51,14,Bandarban,Active,Chattogram
+S00382,Metro Trade Group,Bangladesh,Ayesha Chowdhury,14693103650,rumana.nahar@yahoo.com,Business,4.34,2023-10-23 02:40:34,10,Shariatpur,Active,Dhaka
+S00383,National Supply Co,Bangladesh,Shaila Hossain,13411270570,muntasir.miah@outlook.com,Children,4.94,2019-03-26 00:14:01,3,Cox's Bazar,Inactive,Chattogram
+S00384,Bright Enterprises,China,Mim Ahmed,14417540220,arif.bhuiyan@yahoo.com,Children,4.72,2019-07-22 12:29:56,6,Cox's Bazar,Active,Chattogram
+S00385,Eastern Distributors,China,Nusrat Ahmed,16709806830,,Children,3.14,2023-05-01 23:46:58,15,Feni,Active,Chattogram
+S00386,Bright Trade Group,Bangladesh,Rafi Amin,13885158260,rumana.hossain@outlook.com,Biography,4.15,2025-05-09 11:07:11,14,Gazipur,Suspended,Dhaka
+S00387,Global Supply Co,,Tanvir Karim,19931860780,nusrat.amin@outlook.com,Exam Prep,2.55,2021-10-16 22:29:25,11,Rajbari,Active,Dhaka
+S00388,Royal Trade Group,Bangladesh,Rafi Ahmed,15839451820,rafi.amin@outlook.com,Academic,4.98,2023-07-02 17:04:47,16,Chittagong,Inactive,Chattogram
+S00389,Delta Books Ltd,Usa,Nayeem Nahar,18606275300,hasan.karim@yahoo.com,Religious,3.15,2020-06-20 22:40:51,14,Rajbari,Active,Dhaka
+S00390,Prime Supply Co,Bangladesh,Nusrat Islam,14601838730,farhan.mollik@gmail.com,Religious,4.16,2022-03-12 07:56:26,8,Chittagong,Active,Chattogram
+S00391,Royal Logistics,Usa,Arif Uddin,,arif.chowdhury@outlook.com,Programming,4.62,2024-04-04 06:53:29,7,Chandpur,Active,Chattogram
+S00392,Eastern Books Ltd,Uk,Nayeem Amin,16323111520,mahin.nahar@yahoo.com,Religious,2.9,2023-08-14 04:10:31,19,Narayanganj,Active,Dhaka
+S00393,Delta Logistics,Bangladesh,Arif Miah,18235983770,nusrat.ahmed@gmail.com,Biography,4.62,2019-10-19 21:00:01,19,Gazipur,Active,Dhaka
+S00394,Global Logistics,,Hasan Ahmed,16991182900,rafi.ahmed@gmail.com,Programming,2.53,2025-02-24 20:05:43,2,Rangamati,Active,Chattogram
+S00395,Green Books Ltd,Uk,Tanjim Uddin,15496453940,nayeem.karim@gmail.com,Religious,3.6,2025-06-27 18:07:57,16,Feni,Active,Chattogram
+S00396,Global Enterprises,Bangladesh,Tanvir Karim,13635250360,fahim.ahmed@outlook.com,Religious,3.68,2022-05-04 12:53:33,4,Lakshmipur,Active,Chattogram
+S00397,Ocean Supply Co,Bangladesh,Mahin Rahman,17384007020,fahim.chowdhury@gmail.com,Business,3.44,2021-05-20 23:01:24,17,Munshiganj,Active,Dhaka
+S00398,Delta Distributors,Usa,Jannat Hossain,14142360360,arif.islam@outlook.com,Biography,3.97,2022-09-20 01:23:06,12,Munshiganj,Active,Dhaka
+S00399,Metro Enterprises,Bangladesh,Farhan Khan,13893578280,rumana.das@yahoo.com,Business,4.79,2024-08-10 07:02:08,14,Munshiganj,Active,Dhaka
+S00400,National Enterprises,Bangladesh,Jannat Uddin,15191649050,rahim.jahan@gmail.com,Self Help,3.32,2022-03-02 10:55:59,14,Dhaka,Inactive,Dhaka
+S00401,Global Distributors,Bangladesh,Raisa Uddin,19233760630,shaila.amin@yahoo.com,Religious,3.95,2019-03-19 00:38:42,12,Kishoreganj,Active,Dhaka
+S00402,Green Trade Group,Bangladesh,Sakib Amin,15118618710,raisa.amin@outlook.com,Exam Prep,4.69,2019-07-05 13:02:54,6,Munshiganj,Suspended,Dhaka
+S00403,Ocean Supply Co,China,Tamim Amin,17729370840,shaila.ahmed@outlook.com,Exam Prep,4.43,2024-09-05 09:10:16,16,Rangamati,Active,Chattogram
+S00404,Green Books Ltd,Bangladesh,Fahim Mollik,18336739330,nusrat.roy@yahoo.com,Exam Prep,2.6,2024-07-04 18:01:47,11,Kishoreganj,Active,Dhaka
+S00405,National Trade Group,Bangladesh,Jannat Patwary,15944307890,jannat.amin@yahoo.com,Religious,4.86,2024-05-27 07:41:16,11,Tangail,Active,Dhaka
+S00406,Global Trade Group,Bangladesh,Sakib Chowdhury,18133441240,imran.mollik@gmail.com,Religious,2.62,2019-11-20 02:36:07,7,Bandarban,Active,Chattogram
+S00407,Bright Publishing House,China,Farhan Uddin,17675916250,tanvir.miah@gmail.com,Programming,3.97,2020-03-12 05:58:14,2,Narayanganj,Active,Dhaka
+S00408,Ocean Supply Co,Bangladesh,Sami Rahman,13127047170,sami.khan@yahoo.com,Business,3.94,2021-10-05 12:30:09,11,Noakhali,Active,Chattogram
+S00409,Global Books Ltd,Uk,Nafis Sarker,13243079010,tanjim.amin@yahoo.com,Exam Prep,4.47,2020-08-13 01:31:51,8,Gazipur,Suspended,Dhaka
+S00410,Bright Trade Group,Bangladesh,Hasan Sheikh,19670918120,mim.amin@gmail.com,Self Help,2.87,2021-09-15 17:15:38,13,Khagrachari,Inactive,Chattogram
+S00411,Global Logistics,Uk,Hasan Jahan,18366026510,farhan.mollik@outlook.com,Exam Prep,2.95,2022-11-28 11:07:09,8, Cumilla ,Active,
+S00412,Eastern Logistics,China,Tasnima Karim,19279023250,nafis.karim@yahoo.com,Exam Prep,4.38,2020-12-16 18:49:20,19,Munshiganj,Active,Dhaka
+S00413,Bright Books Ltd,Uk,Fahim Das,19127714750,nusrat.uddin@gmail.com,Self Help,2.87,2019-11-12 14:52:12,14,Cox's Bazar,Active,Chattogram
+S00414,Bright Trade Group,Usa,Tanvir Talukder,13171007520,nusrat.chowdhury@outlook.com,Business,3.67,2021-10-25 19:23:49,10,Rajbari,Active,Dhaka
+S00415,Royal Books Ltd,Bangladesh,Tasnima Roy,18331747520,tanjim.bhuiyan@gmail.com,Academic,4.33,2024-01-21 22:15:19,14,Rangamati,Active,Chattogram
+S00416,Prime Publishing House,India,Nayeem Khan,16524181680,imran.mollik@outlook.com,Business,4.13,2023-04-29 15:09:03,13,Dhaka,Active,Dhaka
+S00417,Delta Publishing House,Bangladesh,Jannat Chowdhury,18413860580,rafi.bhuiyan@gmail.com,Exam Prep,3.03,2021-04-01 15:53:22,13,Dhaka,Active,Dhaka
+S00418,Royal Supply Co,Bangladesh,Mahin Talukder,13447829310,sami.karim@yahoo.com,Self Help,3.26,2021-03-06 21:44:35,12,Bandarban,Active,Chattogram
+S00419,Royal Publishing House,Usa,Sadia Islam,15757791680,muntasir.nahar@yahoo.com,Programming,4.92,2023-01-31 21:41:24,18,Noakhali,Inactive,Chattogram
+S00420,Global Trade Group,China,Arif Sheikh,18182761990,ayesha.talukder@outlook.com,Self Help,3.62,2020-03-16 22:34:20,7,Faridpur,Active,Dhaka
+S00421,Prime Logistics,Bangladesh,Sami Khan,18163442690,imran.karim@gmail.com,Academic,2.61,2024-10-31 19:13:26,9,Cox's Bazar,Inactive,Chattogram
+S00422,Metro Books Ltd,Bangladesh,Ayesha Hossain,17450355140,rumana.sheikh@outlook.com,Religious,3.05,2025-01-31 02:28:49,6,Noakhali,Active,Chattogram
+S00423,Global Books Ltd,Bangladesh,Sami Amin,15534867500,arif.das@yahoo.com,Exam Prep,3.36,2019-03-06 23:07:39,12,Shariatpur,Active,Dhaka
+S00424,Eastern Books Ltd,Bangladesh,Arif Islam,15814477280,sami.ahmed@gmail.com,Programming,5.0,2025-10-17 10:45:29,19,Khagrachari,Inactive,Chattogram
+S00425,Royal Logistics,Bangladesh,Sadia Sheikh,19834219280,hasan.ahmed@yahoo.com,Exam Prep,3.26,2019-03-01 20:45:16,12,Cox's Bazar,Active,Chattogram
+S00426,Metro Supply Co,Bangladesh,Tasnima Nahar,16552956630,adib.karim@outlook.com,Programming,2.57,2022-03-18 03:21:57,5,Madaripur,Active,Dhaka
+S00427,Metro Publishing House,Bangladesh,Nusrat Islam,16814186550,tamim.patwary@yahoo.com,Programming,3.78,2023-09-02 16:18:51,18,Khagrachari,Active,Chattogram
+S00428,Prime Supply Co,Bangladesh,Karim Jahan,16468552100,muntasir.karim@gmail.com,Religious,2.71,2020-06-04 11:05:46,16,Chittagong,Active,Chattogram
+S00429,Prime Books Ltd,India,Arif Bhuiyan,15597404400,hasan.jahan@yahoo.com,Self Help,3.19,2019-05-02 08:44:26,9,Dhaka,Active,Dhaka
+S00430,Bright Supply Co,Bangladesh,Muntasir Amin,17489101870,rumana.bhuiyan@yahoo.com,Fiction,4.98,2024-02-03 05:16:29,4,Bandarban,Active,Chattogram
+S00431,Metro Trade Group,Usa,Karim Patwary,18844043420,tanjim.bhuiyan@gmail.com,Fiction,4.26,2019-04-05 04:37:15,9,Chandpur,Active,Chattogram
+S00432,Eastern Supply Co,Bangladesh,Nafis Nahar,16918145910,nabil.mollik@gmail.com,Business,2.63,2022-05-22 15:47:12,16,Feni,Active,Chattogram
+S00433,Royal Logistics,Bangladesh,Nafis Uddin,14938899230,fahim.talukder@outlook.com,Children,3.62,2021-10-01 04:57:11,12,Cox's Bazar,Active,Chattogram
+S00434,Royal Supply Co,Bangladesh,Fahim Sarker,15607866580,farhan.khan@gmail.com,Business,2.93,2025-10-09 09:28:28,5,Shariatpur,Active,Dhaka
+S00435,Delta Books Ltd,Bangladesh,Tasnima Jahan,14497933700,ayesha.ahmed@yahoo.com,Business,2.81,2025-07-05 16:45:58,4,Munshiganj,Active,Dhaka
+S00436,Delta Publishing House,China,Tanvir Karim,15173070650,nabil.das@outlook.com,Fiction,3.97,2024-09-20 13:42:07,19,Kishoreganj,Suspended,Dhaka
+S00437,Eastern Books Ltd,Bangladesh,Karim Uddin,18913460870,arif.nahar@gmail.com,Business,3.76,2024-02-11 16:35:05,10,Gazipur,Active,Dhaka
+S00438,Bright Enterprises,Bangladesh,Tanvir Jahan,16592547360,sadia.khan@yahoo.com,Programming,4.36,2022-10-19 15:54:42,14,Chandpur,Active,Chattogram
+S00439,Green Supply Co,Usa,Imran Das,17279166860,nayeem.sheikh@gmail.com,Exam Prep,4.73,2021-06-11 17:34:59,8,Rangamati,Active,Chattogram
+S00440,Green Logistics,China,Tamim Amin,18708754390,karim.hossain@outlook.com,Fiction,3.12,2020-03-01 23:45:53,3,Faridpur,Inactive,Dhaka
+S00441,Global Supply Co,Bangladesh,Jannat Karim,15771520190,rahim.das@yahoo.com,Self Help,4.81,2025-10-10 07:50:23,9,Chittagong,Active,Chattogram
+S00442,Delta Publishing House,Bangladesh,Fahim Hossain,18287780790,mahin.jahan@outlook.com,Programming,3.61,2021-09-10 19:01:10,14,Brahmanbaria,Active,Chattogram
+S00443,Royal Supply Co,Bangladesh,Rahim Chowdhury,17548537090,fahim.khan@outlook.com,Exam Prep,3.15,2021-12-31 21:43:29,8,Kishoreganj,Inactive,Dhaka
+S00444,Global Publishing House,Bangladesh,Tamim Talukder,15629441690,nayeem.talukder@yahoo.com,Children,4.61,2019-12-27 22:02:47,12,Madaripur,Active,Dhaka
+S00445,Global Publishing House,Bangladesh,Nayeem Roy,19102230130,rafi.nahar@gmail.com,Children,3.46,2020-12-08 11:34:26,9,Manikganj,Suspended,Dhaka
+S00446,Global Logistics,Bangladesh,Arif Uddin,19870366250,mahin.chowdhury@yahoo.com,Programming,3.9,2023-06-11 00:50:27,8,Chittagong,Active,Chattogram
+S00447,Green Trade Group,Usa,Karim Ahmed,16649022050,muntasir.khan@gmail.com,Business,4.3,2021-12-25 18:12:48,6,Munshiganj,Active,Dhaka
+S00448,Ocean Logistics,Bangladesh,Fahim Das,15216222690,adib.roy@yahoo.com,Programming,3.2,2023-02-06 11:24:56,6,Feni,Inactive,Chattogram
+S00449,Green Books Ltd,Bangladesh,Arif Uddin,17834721360,rafi.chowdhury@gmail.com,Children,4.66,2020-06-24 16:54:27,6,Narayanganj,Inactive,Dhaka
+S00450,Global Logistics,Bangladesh,Sami Uddin,14773246810,ayesha.roy@outlook.com,Programming,3.1,2019-07-29 18:57:25,14,Gazipur,Active,Dhaka
+S00451,Global Books Ltd,India,Nayeem Jahan,18406000030,tamim.chowdhury@yahoo.com,Exam Prep,4.01,2025-03-13 16:37:28,8,Gazipur,Active,Dhaka
+S00452,Prime Trade Group,Bangladesh,Raisa Nahar,15910404990,rahim.roy@gmail.com,Exam Prep,2.7,2022-01-09 06:49:44,15,Narsingdi,Active,Dhaka
+S00453,Delta Logistics,Uk,Tanvir Bhuiyan,15972979460,tamim.sarker@outlook.com,Fiction,2.9,2021-07-12 03:48:55,7,Narsingdi,Active,Dhaka
+S00454,Delta Publishing House,Usa,Rafi Amin,16446552050,muntasir.hossain@outlook.com,Business,3.45,2021-01-01 06:15:11,7, Cumilla ,Active,
+S00455,National Books Ltd,Bangladesh,Rumana Bhuiyan,13649968340,sami.mollik@yahoo.com,Programming,4.64,2023-08-09 18:26:53,18,Shariatpur,Active,Dhaka
+S00456,Ocean Publishing House,Bangladesh,Sifat Talukder,17971544250,rumana.talukder@gmail.com,Programming,2.86,2022-12-10 05:24:13,17,Gopalganj,Active,Dhaka
+S00457,National Trade Group,Bangladesh,Rahim Bhuiyan,18126706840,adib.miah@yahoo.com,Self Help,4.69,2021-09-21 09:42:40,9,Madaripur,Active,Dhaka
+S00458,Green Enterprises,Bangladesh,Rumana Khan,16768500620,rahim.miah@yahoo.com,Business,3.07,2025-07-07 10:43:24,6,Bandarban,Active,Chattogram
+S00459,Green Supply Co,Usa,Nusrat Rahman,16486416090,adib.bhuiyan@outlook.com,Exam Prep,3.63,2025-04-23 19:48:43,14,Narayanganj,Active,Dhaka
+S00460,Prime Logistics,Bangladesh,Arif Talukder,18650234580,mahin.karim@gmail.com,Self Help,3.38,2020-05-22 10:27:41,3,Chittagong,Active,Chattogram
+S00461,Royal Logistics,India,Mahin Mollik,17517693690,muntasir.ahmed@outlook.com,Fiction,2.8,2023-06-30 22:12:17,10,Noakhali,Active,Chattogram
+S00462,Delta Publishing House,Bangladesh,Hasan Jahan,14567181950,rafi.mollik@gmail.com,Self Help,4.86,2025-10-11 03:09:55,12,Narayanganj,Active,Dhaka
+S00463,Prime Trade Group,Bangladesh,Tanjim Islam,19736540470,shuvo.islam@gmail.com,Fiction,3.6,2022-06-01 23:19:26,14,Bandarban,Active,Chattogram
+S00464,Green Distributors,Bangladesh,Jannat Uddin,13320232350,sadia.uddin@yahoo.com,Business,4.23,2019-03-19 03:40:23,3,Feni,Active,Chattogram
+S00465,Delta Logistics,Bangladesh,Tanvir Chowdhury,19501185250,nabil.karim@gmail.com,Religious,3.94,2019-12-04 18:10:41,2,Madaripur,Active,Dhaka
+S00466,Green Logistics,Bangladesh,Rahim Nahar,19902630920,sami.chowdhury@yahoo.com,Religious,3.75,2023-09-03 13:54:29,6,Tangail,Active,Dhaka
+S00467,Prime Logistics,Bangladesh,Nafis Patwary,18924766900,karim.bhuiyan@yahoo.com,Programming,4.04,2025-04-24 07:10:32,4,Munshiganj,Active,Dhaka
+S00468,Delta Trade Group,Bangladesh,Jannat Uddin,17863897110,hasan.sheikh@gmail.com,Fiction,4.75,2019-11-25 04:19:51,11,Chandpur,Active,Chattogram
+S00469,Eastern Publishing House,India,Sifat Uddin,14163255800,mim.talukder@outlook.com,Academic,4.25,2022-10-29 15:56:02,18, Cumilla ,Active,
+S00470,Delta Enterprises,Bangladesh,Rafi Sarker,16788838860,tanjim.islam@gmail.com,Biography,3.83,2022-06-23 23:25:09,7,Gopalganj,Active,Dhaka
+S00471,Bright Distributors,Usa,Adib Das,16568771440,nafis.patwary@outlook.com,Self Help,4.11,2020-12-29 14:17:22,10,Kishoreganj,Active,Dhaka
+S00472,Metro Enterprises,Bangladesh,Arif Mollik,17881415210,sadia.nahar@outlook.com,Self Help,4.02,2023-06-03 13:25:41,5,Dhaka,Active,Dhaka
+S00473,Eastern Books Ltd,Bangladesh,Karim Nahar,18198690300,nayeem.das@yahoo.com,Programming,3.58,2025-02-21 23:32:50,2,Dhaka,Active,Dhaka
+S00474,Metro Books Ltd,Bangladesh,Jannat Talukder,,arif.patwary@gmail.com,Self Help,4.06,2019-05-20 03:35:36,14,Faridpur,Active,Dhaka
+S00475,Metro Publishing House,Bangladesh,Muntasir Miah,18992208880,tanvir.sarker@outlook.com,Programming,3.61,2021-07-06 14:52:32,6,Chittagong,Active,Chattogram
+S00476,Global Distributors,Bangladesh,Tanjim Islam,16711199810,shuvo.sheikh@gmail.com,Academic,4.39,2021-03-13 18:44:03,11,Lakshmipur,Active,Chattogram
+S00477,Bright Distributors,Bangladesh,Rumana Khan,13939124120,ayesha.patwary@gmail.com,Children,4.92,2024-02-02 16:48:11,14,Narsingdi,Active,Dhaka
+S00478,Ocean Logistics,China,Jannat Hossain,14440534600,fahim.uddin@outlook.com,Fiction,4.9,2022-10-04 03:12:05,17,Lakshmipur,Active,Chattogram
+S00479,Delta Logistics,Bangladesh,Sadia Miah,18970677240,,Business,4.55,2019-02-15 17:55:27,5, Cumilla ,Active,
+S00480,Metro Distributors,Bangladesh,Tasnima Sheikh,16536248920,tamim.jahan@outlook.com,Biography,4.0,2021-05-18 13:34:14,12,Feni,Active,Chattogram
+S00481,Eastern Distributors,Bangladesh,Jannat Talukder,13980985870,rumana.sheikh@gmail.com,Fiction,4.37,2024-02-22 22:23:19,18, Cumilla ,Active,
+S00482,Royal Publishing House,Bangladesh,Mahin Chowdhury,13123477460,arif.nahar@yahoo.com,Religious,2.95,2022-05-03 12:47:10,10,Kishoreganj,Active,Dhaka
+S00483,Metro Logistics,Bangladesh,Sifat Khan,16103269760,mahin.jahan@outlook.com,Fiction,3.7,2022-12-09 16:04:55,2,Tangail,Active,Dhaka
+S00484,Bright Distributors,Bangladesh,Sakib Sarker,14664947940,tamim.talukder@outlook.com,Religious,3.14,2020-11-06 14:12:58,6,Tangail,Active,Dhaka
+S00485,Metro Books Ltd,Bangladesh,Karim Patwary,17368356120,rumana.islam@yahoo.com,Religious,2.51,2021-03-27 08:30:33,16,Chandpur,Active,Chattogram
+S00486,Prime Distributors,Bangladesh,Arif Miah,18646943860,farhan.das@outlook.com,Children,4.92,2019-11-29 11:49:01,16,Feni,Active,Chattogram
+S00487,Delta Enterprises,China,Arif Amin,14741198760,tasnima.islam@gmail.com,Programming,4.66,2019-07-28 15:26:30,7,Gazipur,Suspended,Dhaka
+S00488,Eastern Publishing House,Bangladesh,Shuvo Patwary,17830901320,nabil.hossain@yahoo.com,Academic,3.78,2023-05-15 22:38:16,5,Chittagong,Active,Chattogram
+S00489,Global Logistics,Usa,Mim Khan,14307769260,nafis.mollik@gmail.com,Biography,3.14,2020-02-07 22:40:15,7,Feni,Active,Chattogram
+S00490,National Enterprises,Bangladesh,Tasnima Bhuiyan,,muntasir.mollik@outlook.com,Exam Prep,4.23,2023-01-06 13:29:30,6,Gazipur,Active,Dhaka
+S00491,Green Logistics,Bangladesh,Tasnima Karim,19759287340,fahim.karim@outlook.com,Biography,3.59,2025-09-01 17:33:03,15,Narsingdi,Active,Dhaka
+S00492,Green Logistics,Uk,Tanvir Das,16586408420,adib.ahmed@outlook.com,Self Help,4.51,2023-11-18 02:13:15,17,Lakshmipur,Active,Chattogram
+S00493,Green Logistics,Bangladesh,Tanvir Islam,19502115360,sakib.das@outlook.com,Children,3.85,2023-01-10 17:31:47,2,Dhaka,Active,Dhaka
+S00494,Bright Distributors,India,Sifat Sheikh,14223209180,sakib.khan@gmail.com,Exam Prep,3.37,2019-10-26 16:58:08,15,Gopalganj,Active,Dhaka
+S00495,Prime Supply Co,Bangladesh,Tasnima Mollik,15687964010,mahin.mollik@yahoo.com,Academic,3.11,2022-06-03 18:46:11,15,Feni,Active,Chattogram
+S00496,National Enterprises,Bangladesh,Nabil Talukder,16479604350,shaila.chowdhury@outlook.com,Biography,3.17,2025-03-27 20:25:45,13,Kishoreganj,Active,Dhaka
+S00497,Eastern Enterprises,Uk,Mahin Uddin,16977387300,tanvir.sheikh@gmail.com,Self Help,2.73,2021-09-09 07:57:41,17,Chittagong,Active,Chattogram
+S00498,Green Logistics,Bangladesh,Nabil Chowdhury,19245163210,tanjim.ahmed@yahoo.com,Exam Prep,3.49,2023-12-16 17:19:31,2,Lakshmipur,Suspended,Chattogram
+S00499,Green Distributors,Bangladesh,Sami Patwary,13319877500,jannat.roy@outlook.com,Biography,2.54,2020-11-12 20:48:44,14,Shariatpur,Active,Dhaka
+S00500,Metro Enterprises,Bangladesh,Tamim Roy,18513563710,raisa.sarker@yahoo.com,Self Help,2.79,2019-12-28 01:25:16,4,Shariatpur,Active,Dhaka
+S00501,Royal Supply Co,Bangladesh,Tanvir Ahmed,19682075980,tasnima.bhuiyan@outlook.com,Self Help,3.18,2020-12-06 18:54:38,18,Rajbari,Active,Dhaka
+S00502,Green Trade Group,China,Raisa Jahan,16353363380,mahin.miah@yahoo.com,Academic,2.9,2021-04-30 21:13:54,10,Narayanganj,Active,Dhaka
+S00503,Eastern Trade Group,Bangladesh,Rumana Karim,15567303490,nabil.miah@yahoo.com,Academic,4.33,2023-08-04 11:39:34,3,Narsingdi,Active,Dhaka
+S00504,Royal Enterprises,Bangladesh,Fahim Patwary,14363220930,tamim.nahar@yahoo.com,Biography,2.76,2023-01-03 12:01:15,15,Bandarban,Active,Chattogram
+S00505,Ocean Enterprises,India,Adib Rahman,13819196700,tanjim.sheikh@yahoo.com,Fiction,4.66,2022-05-09 11:43:27,15,Lakshmipur,Active,Chattogram
+S00506,Prime Supply Co,Bangladesh,Arif Islam,19933257950,arif.mollik@outlook.com,Business,3.05,2024-01-22 17:05:55,10,Rangamati,Active,Chattogram
+S00507,Prime Distributors,India,Mim Sheikh,16660422200,sakib.nahar@outlook.com,Academic,2.77,2024-05-22 08:33:24,7,Khagrachari,Inactive,Chattogram
+S00508,Green Supply Co,Bangladesh,Nabil Sheikh,15562887390,nusrat.khan@gmail.com,Religious,2.53,2023-12-29 16:16:51,2,Gazipur,Active,Dhaka
+S00509,National Enterprises,Bangladesh,Karim Talukder,16739962410,mahin.hossain@outlook.com,Self Help,4.29,2025-04-12 00:18:22,18,Munshiganj,Suspended,Dhaka
+S00510,Global Books Ltd,India,Rumana Bhuiyan,17553539660,arif.das@yahoo.com,Self Help,3.8,2021-07-08 11:53:06,5,Cox's Bazar,Inactive,Chattogram
+S00511,Global Books Ltd,Bangladesh,Nafis Roy,13914055710,tanjim.islam@yahoo.com,Religious,3.77,2024-10-05 12:58:05,17,Bandarban,Active,Chattogram
+S00512,Royal Supply Co,Bangladesh,Tamim Das,19266001360,tamim.nahar@gmail.com,Religious,2.78,2021-12-11 10:55:32,12,Narayanganj,Inactive,Dhaka
+S00513,Royal Books Ltd,Bangladesh,Nafis Khan,15976013810,fahim.patwary@yahoo.com,Programming,4.96,2020-04-15 20:02:16,14,Munshiganj,Suspended,Dhaka
+S00514,Global Publishing House,India,Muntasir Islam,15830971490,tanjim.uddin@yahoo.com,Programming,2.81,2020-01-08 15:21:21,14,Gazipur,Active,Dhaka
+S00515,Green Distributors,Usa,Adib Chowdhury,18874660020,rafi.uddin@yahoo.com,Programming,3.53,2019-08-22 19:09:00,17,Munshiganj,Active,Dhaka
+S00516,Delta Publishing House,Bangladesh,Tanjim Patwary,13534617040,sadia.roy@gmail.com,Biography,4.63,2020-03-09 02:09:51,2,Rajbari,Active,Dhaka
+S00517,Ocean Distributors,Bangladesh,Nayeem Khan,16853481390,hasan.uddin@outlook.com,Fiction,3.11,2024-11-04 21:43:48,19,Narsingdi,Active,Dhaka
+S00518,Global Supply Co,China,Rahim Chowdhury,14376096670,shaila.bhuiyan@yahoo.com,Programming,3.17,2024-06-25 16:54:24,2,Bandarban,Active,Chattogram
+S00519,Metro Books Ltd,Bangladesh,Tasnima Talukder,,farhan.rahman@yahoo.com,Religious,4.52,2022-01-27 16:48:58,19,Manikganj,Active,Dhaka
+S00520,Delta Supply Co,Bangladesh,Mahin Chowdhury,19226405140,sakib.bhuiyan@gmail.com,Religious,3.18,2025-05-24 18:03:15,6,Kishoreganj,Active,Dhaka
+S00521,Ocean Supply Co,Bangladesh,Nayeem Hossain,14900127170,sifat.amin@gmail.com,Academic,2.51,2025-05-10 14:40:11,17,Lakshmipur,Active,Chattogram
+S00522,Delta Distributors,Bangladesh,Jannat Uddin,16353741640,nabil.sheikh@outlook.com,Fiction,3.57,2025-06-23 10:44:07,3,Narsingdi,Active,Dhaka
+S00523,Ocean Publishing House,,Shuvo Miah,15638307380,nafis.talukder@gmail.com,Religious,2.53,2022-06-24 01:07:57,10,Manikganj,Active,Dhaka
+S00524,Prime Logistics,,Rumana Bhuiyan,15226368890,nusrat.bhuiyan@outlook.com,Exam Prep,4.77,2021-02-01 05:44:57,11,Chandpur,Active,Chattogram
+S00525,Bright Books Ltd,Bangladesh,Rafi Sheikh,18480009960,raisa.rahman@outlook.com,Exam Prep,4.1,2019-04-22 23:16:53,19,Bandarban,Active,Chattogram
+S00526,Green Distributors,Bangladesh,Shaila Hossain,14755590470,arif.mollik@yahoo.com,Biography,3.96,2024-11-17 21:54:05,4,Bandarban,Active,Chattogram
+S00527,Green Trade Group,Bangladesh,Sifat Sheikh,18239532830,tanjim.roy@outlook.com,Exam Prep,3.0,2025-02-09 07:20:45,2,Madaripur,Active,Dhaka
+S00528,Global Trade Group,Bangladesh,Karim Sheikh,13789165190,tanvir.hossain@yahoo.com,Religious,4.25,2022-10-02 14:49:57,13, Cumilla ,Active,
+S00529,Delta Supply Co,Bangladesh,Sifat Patwary,17812820910,muntasir.miah@outlook.com,Fiction,4.19,2019-07-01 07:51:51,2,Kishoreganj,Inactive,Dhaka
+S00530,Delta Distributors,Bangladesh,Muntasir Bhuiyan,17461528890,rafi.hossain@gmail.com,Business,2.65,2024-10-04 01:20:35,15,Khagrachari,Active,Chattogram
+S00531,Ocean Logistics,Bangladesh,Hasan Bhuiyan,17923624560,shaila.bhuiyan@yahoo.com,Self Help,4.7,2021-02-01 10:53:08,2,Rajbari,Active,Dhaka
+S00532,Eastern Logistics,Bangladesh,Raisa Bhuiyan,19820641670,tanjim.talukder@yahoo.com,Programming,3.95,2022-11-02 14:53:34,19,Narsingdi,Active,Dhaka
+S00533,Ocean Distributors,Bangladesh,Farhan Jahan,19451401850,rafi.nahar@outlook.com,Exam Prep,4.48,2023-08-13 13:29:29,11,Narsingdi,Active,Dhaka
+S00534,Metro Logistics,Bangladesh,Farhan Ahmed,13535792160,nabil.karim@gmail.com,Children,3.12,2020-01-08 21:40:25,19,Rajbari,Active,Dhaka
+S00535,National Books Ltd,Bangladesh,Karim Karim,18801421780,karim.mollik@outlook.com,Children,2.81,2019-06-10 09:40:10,4,Chandpur,Active,Chattogram
+S00536,Bright Publishing House,Bangladesh,Tasnima Uddin,15363335130,nayeem.islam@gmail.com,Children,4.26,2019-07-22 11:38:38,6,Shariatpur,Active,Dhaka
+S00537,Ocean Enterprises,India,Tanvir Amin,16823494460,tamim.hossain@gmail.com,Children,4.48,2025-09-17 08:27:55,10,Gopalganj,Active,Dhaka
+S00538,Delta Publishing House,India,Sadia Miah,13395264020,tanvir.karim@yahoo.com,Religious,3.47,2025-09-12 15:39:05,2,Bandarban,Active,Chattogram
+S00539,Ocean Publishing House,India,Tanjim Ahmed,14825391520,sakib.talukder@gmail.com,Religious,2.56,2021-12-26 23:13:01,3,Manikganj,Active,Dhaka
+S00540,Delta Supply Co,Bangladesh,Shuvo Talukder,16178120390,sakib.khan@yahoo.com,Religious,4.55,2021-12-24 08:25:55,7,Gazipur,Active,Dhaka
+S00541,Metro Trade Group,Uk,Tanjim Talukder,14528000420,rahim.ahmed@outlook.com,Fiction,3.02,2021-11-05 19:19:36,15,Khagrachari,Suspended,Chattogram
+S00542,Metro Enterprises,Bangladesh,Rahim Das,19610508220,fahim.das@outlook.com,Religious,3.35,2021-06-14 22:20:18,14,Munshiganj,Active,Dhaka
+S00543,Prime Supply Co,Bangladesh,Farhan Sarker,19768333190,karim.sarker@gmail.com,Children,4.07,2022-10-21 23:25:49,3,Brahmanbaria,Inactive,Chattogram
+S00544,Royal Trade Group,Bangladesh,Shuvo Chowdhury,19956151950,rafi.uddin@yahoo.com,Programming,4.11,2021-06-29 17:03:23,3,Kishoreganj,Active,Dhaka
+S00545,Bright Books Ltd,Bangladesh,Sadia Talukder,14494484670,mahin.jahan@yahoo.com,Children,2.68,2023-04-24 21:42:08,13,Narayanganj,Active,Dhaka
+S00546,Green Enterprises,Bangladesh,Nafis Miah,17358151990,tasnima.hossain@gmail.com,Academic,2.56,2021-08-26 13:21:09,8,Narsingdi,Active,Dhaka
+S00547,Royal Distributors,Bangladesh,Karim Karim,14217022490,sakib.amin@yahoo.com,Children,4.79,2023-05-30 02:00:52,16,Gopalganj,Active,Dhaka
+S00548,National Books Ltd,India,Shaila Hossain,13551088210,tanjim.patwary@yahoo.com,Children,3.28,2025-08-12 09:53:07,7,Rangamati,Active,Chattogram
+S00549,Royal Supply Co,Bangladesh,Raisa Sarker,19496143680,shaila.chowdhury@outlook.com,Programming,4.15,2020-06-10 01:28:28,8,Munshiganj,Inactive,Dhaka
+S00550,Global Enterprises,Bangladesh,Sifat Rahman,19795080530,arif.uddin@gmail.com,Programming,4.97,2019-06-10 06:33:00,5,Bandarban,Active,Chattogram
+S00551,Delta Enterprises,Bangladesh,Hasan Talukder,13550536530,shuvo.roy@gmail.com,Religious,4.17,2022-09-08 01:44:01,6,Bandarban,Active,Chattogram
+S00552,Metro Publishing House,Bangladesh,Muntasir Roy,14322317230,nusrat.jahan@outlook.com,Business,3.81,2019-11-01 07:41:44,14,Rajbari,Active,Dhaka
+S00553,National Publishing House,Bangladesh,Nusrat Bhuiyan,14651229540,nusrat.jahan@outlook.com,Children,3.8,2020-08-14 09:46:37,10,Brahmanbaria,Active,Chattogram
+S00554,Prime Trade Group,Bangladesh,Sami Karim,14326679630,imran.amin@gmail.com,Academic,3.44,2024-07-11 08:22:57,13,Bandarban,Active,Chattogram
+S00555,Metro Books Ltd,Bangladesh,Tanjim Rahman,14421197130,nafis.das@gmail.com,Exam Prep,4.0,2021-12-04 03:06:46,3,Faridpur,Active,Dhaka
+S00556,Bright Publishing House,India,Hasan Jahan,17459970140,nafis.khan@yahoo.com,Biography,4.9,2022-11-05 06:58:32,11,Chittagong,Active,Chattogram
+S00557,Eastern Distributors,Usa,Mahin Ahmed,15565842280,nusrat.karim@outlook.com,Fiction,4.47,2024-06-06 20:32:55,10,Gazipur,Active,Dhaka
+S00558,Eastern Enterprises,Bangladesh,Muntasir Rahman,17113823090,mim.roy@gmail.com,Children,3.56,2019-11-25 12:57:31,18,Rajbari,Active,Dhaka
+S00559,Metro Logistics,Bangladesh,Muntasir Roy,19924787670,sadia.rahman@gmail.com,Fiction,3.33,2022-05-08 09:47:21,9,Narayanganj,Active,Dhaka
+S00560,Ocean Enterprises,Uk,Nafis Ahmed,17617142280,tamim.patwary@outlook.com,Children,4.71,2019-03-30 01:55:21,3,Rajbari,Active,Dhaka
+S00561,Global Books Ltd,China,Shuvo Bhuiyan,17496778450,tasnima.das@outlook.com,Fiction,2.84,2022-06-29 20:12:31,14,Faridpur,Active,Dhaka
+S00562,Prime Publishing House,Bangladesh,Raisa Jahan,15243764620,shaila.hossain@outlook.com,Programming,4.62,2020-07-27 03:25:54,4,Chittagong,Inactive,Chattogram
+S00563,Royal Supply Co,Uk,Nusrat Nahar,18388525650,ayesha.das@outlook.com,Self Help,3.14,2025-05-18 03:38:05,18,Rajbari,Suspended,Dhaka
+S00564,Royal Logistics,Usa,Muntasir Talukder,,mim.khan@outlook.com,Exam Prep,4.29,2020-10-28 15:10:25,8,Faridpur,Active,Dhaka
+S00565,Green Logistics,India,Tamim Bhuiyan,16659630240,imran.bhuiyan@gmail.com,Biography,4.52,2020-05-26 15:07:42,16,Dhaka,Active,Dhaka
+S00566,Delta Logistics,Bangladesh,Tanjim Miah,14755505080,shuvo.sheikh@gmail.com,Business,3.69,2019-02-06 07:53:02,13,Tangail,Active,Dhaka
+S00567,Ocean Supply Co,Bangladesh,Fahim Ahmed,16232970250,nayeem.miah@gmail.com,Programming,2.98,2019-12-07 15:56:08,10,Chandpur,Active,Chattogram
+S00568,Bright Books Ltd,Bangladesh,Adib Islam,18462485200,nafis.jahan@gmail.com,Business,4.61,2020-07-06 07:51:28,12,Bandarban,Active,Chattogram
+S00569,Ocean Distributors,Bangladesh,Shaila Jahan,17407147160,rafi.jahan@outlook.com,Academic,3.42,2020-08-05 21:03:03,5, Cumilla ,Active,
+S00570,Ocean Enterprises,Bangladesh,Ayesha Karim,16896646580,sadia.das@yahoo.com,Business,3.3,2024-03-02 03:26:12,3,Cox's Bazar,Active,Chattogram
+S00571,Royal Distributors,Bangladesh,Jannat Ahmed,14705195610,tanjim.karim@gmail.com,Fiction,3.78,2025-03-18 13:35:16,15,Khagrachari,Suspended,Chattogram
+S00572,Metro Supply Co,Bangladesh,Nabil Uddin,19678456750,karim.mollik@gmail.com,Programming,3.59,2024-12-26 11:43:27,19,Rangamati,Active,Chattogram
+S00573,National Enterprises,Bangladesh,Nabil Amin,14270791320,rafi.ahmed@gmail.com,Children,4.21,2025-09-10 11:02:53,17,Lakshmipur,Suspended,Chattogram
+S00574,Green Supply Co,Uk,Fahim Patwary,14195749810,nabil.jahan@yahoo.com,Exam Prep,2.84,2025-04-14 21:22:43,7,Feni,Active,Chattogram
+S00575,Bright Supply Co,Bangladesh,Jannat Talukder,18968627900,sadia.ahmed@yahoo.com,Self Help,3.59,2022-03-10 05:55:59,8,Rajbari,Active,Dhaka
+S00576,National Enterprises,Bangladesh,Sadia Bhuiyan,16638972530,nusrat.das@gmail.com,Biography,4.73,2021-09-23 14:53:11,8,Tangail,Active,Dhaka
+S00577,Delta Trade Group,India,Muntasir Jahan,18474115060,nusrat.nahar@outlook.com,Academic,2.59,2023-07-18 13:56:48,14,Brahmanbaria,Active,Chattogram
+S00578,National Logistics,Uk,Shuvo Mollik,16155630760,ayesha.amin@gmail.com,Children,3.64,2021-03-27 10:06:56,13,Kishoreganj,Active,Dhaka
+S00579,Eastern Supply Co,China,Tasnima Khan,16839914540,nafis.nahar@yahoo.com,Biography,4.15,2023-03-24 01:12:58,16,Chittagong,Active,Chattogram
+S00580,National Distributors,Uk,Sadia Sheikh,13294980980,sifat.sheikh@yahoo.com,Self Help,4.72,2025-12-30 15:27:49,19,Brahmanbaria,Active,Chattogram
+S00581,Green Enterprises,Uk,Jannat Ahmed,14824091400,karim.sarker@yahoo.com,Religious,3.98,2020-05-21 09:17:00,9,Tangail,Active,Dhaka
+S00582,Royal Enterprises,Bangladesh,Rafi Patwary,16580940590,sami.sarker@outlook.com,Fiction,4.56,2024-05-20 10:25:14,13,Khagrachari,Active,Chattogram
+S00583,Green Books Ltd,Bangladesh,Nayeem Islam,17348914810,sami.amin@outlook.com,Programming,3.06,2025-07-19 02:49:35,11,Chittagong,Active,Chattogram
+S00584,Global Distributors,Bangladesh,Adib Hossain,17127188950,mahin.sarker@gmail.com,Programming,3.38,2022-10-05 11:19:33,19,Noakhali,Active,Chattogram
+S00585,Metro Trade Group,Bangladesh,Nayeem Ahmed,13834250010,nayeem.ahmed@yahoo.com,Self Help,4.86,2021-06-28 23:56:11,8,Rangamati,Active,Chattogram
+S00586,Bright Logistics,Usa,Raisa Das,17494879450,rafi.rahman@gmail.com,Programming,4.71,2020-10-13 04:41:55,5,Feni,Active,Chattogram
+S00587,National Publishing House,Bangladesh,Nafis Sarker,13704664370,shaila.das@yahoo.com,Academic,4.01,2020-03-05 09:24:41,8,Munshiganj,Active,Dhaka
+S00588,Global Distributors,Bangladesh,Sakib Hossain,18350559700,arif.amin@yahoo.com,Exam Prep,3.69,2021-04-01 06:09:42,13,Kishoreganj,Active,Dhaka
+S00589,National Publishing House,Bangladesh,Sakib Roy,15313136130,adib.ahmed@yahoo.com,Exam Prep,3.63,2024-03-23 04:37:20,19,Munshiganj,Suspended,Dhaka
+S00590,Prime Books Ltd,Bangladesh,Ayesha Das,15345082570,fahim.nahar@gmail.com,Fiction,2.65,2022-08-10 06:30:38,16, Cumilla ,Active,
+S00591,Bright Trade Group,Bangladesh,Arif Amin,14487185490,muntasir.das@gmail.com,Children,4.73,2020-07-20 01:34:11,2,Khagrachari,Active,Chattogram
+S00592,Bright Enterprises,Bangladesh,Nabil Mollik,19786460360,adib.amin@gmail.com,Children,4.55,2022-10-17 13:32:04,11,Lakshmipur,Active,Chattogram
+S00593,Delta Distributors,Usa,Rumana Jahan,15948561750,arif.das@gmail.com,Self Help,3.64,2024-08-29 23:13:55,4,Chittagong,Active,Chattogram
+S00594,Eastern Logistics,Bangladesh,Arif Khan,14919666560,jannat.miah@yahoo.com,Programming,3.2,2019-02-04 23:06:09,8,Chittagong,Active,Chattogram
+S00595,Green Books Ltd,Uk,Shuvo Rahman,15586237520,tamim.das@outlook.com,Programming,3.36,2019-02-22 15:19:54,18,Noakhali,Active,Chattogram
+S00596,Delta Publishing House,Bangladesh,Adib Sheikh,14785822410,imran.hossain@gmail.com,Biography,2.81,2025-09-18 05:26:19,19,Chittagong,Active,Chattogram
+S00597,Eastern Logistics,Bangladesh,Fahim Islam,15174642600,fahim.chowdhury@gmail.com,Academic,4.3,2024-03-27 12:47:16,4,Gopalganj,Active,Dhaka
+S00598,Green Logistics,Bangladesh,Jannat Das,16242677020,farhan.mollik@yahoo.com,Children,3.89,2023-01-11 05:59:22,4,Tangail,Inactive,Dhaka
+S00599,Ocean Trade Group,India,Sifat Sheikh,19475347590,rumana.roy@outlook.com,Self Help,3.09,2025-05-04 17:50:44,14,Narayanganj,Active,Dhaka
+S00600,Royal Logistics,Bangladesh,Mim Karim,17151561670,mahin.karim@gmail.com,Programming,4.06,2023-02-14 21:19:23,9,Chandpur,Active,Chattogram
+S00601,Royal Enterprises,Usa,Shaila Das,,shaila.amin@gmail.com,Academic,4.95,2022-08-23 21:31:41,9,Chandpur,Active,Chattogram
+S00602,Metro Supply Co,Bangladesh,Arif Jahan,19917511100,nayeem.mollik@yahoo.com,Exam Prep,2.81,2020-06-24 12:29:06,17,Munshiganj,Active,Dhaka
+S00603,Bright Trade Group,Bangladesh,Farhan Roy,16901013200,jannat.rahman@yahoo.com,Children,3.65,2024-09-03 01:24:44,18,Munshiganj,Active,Dhaka
+S00604,Green Supply Co,,Adib Amin,14711505740,sadia.patwary@outlook.com,Self Help,3.65,2024-05-09 07:22:24,18,Gazipur,Suspended,Dhaka
+S00605,Prime Trade Group,Bangladesh,Fahim Ahmed,15316426190,rafi.patwary@gmail.com,Self Help,2.92,2021-01-25 13:15:42,16,Munshiganj,Suspended,Dhaka
+S00606,Bright Supply Co,Bangladesh,Nusrat Khan,14477829500,ayesha.talukder@gmail.com,Self Help,3.83,2024-02-28 10:45:16,19,Feni,Active,Chattogram
+S00607,Delta Trade Group,China,Shaila Bhuiyan,15290098890,imran.das@yahoo.com,Programming,4.01,2024-02-02 11:11:31,14,Chandpur,Active,Chattogram
+S00608,Global Books Ltd,Bangladesh,Shuvo Chowdhury,15972703230,tanvir.islam@yahoo.com,Fiction,2.89,2019-09-01 05:22:14,17,Noakhali,Suspended,Chattogram
+S00609,Green Supply Co,Bangladesh,Rumana Jahan,15196643960,nayeem.roy@outlook.com,Self Help,2.89,2020-02-15 00:01:47,11,Noakhali,Active,Chattogram
+S00610,Royal Enterprises,Bangladesh,Karim Miah,17894808310,rumana.roy@yahoo.com,Religious,4.64,2023-03-01 19:20:05,2,Khagrachari,Active,Chattogram
+S00611,Bright Enterprises,Bangladesh,Tanjim Mollik,15860717780,muntasir.rahman@yahoo.com,Religious,3.28,2023-05-13 21:19:23,16,Kishoreganj,Active,Dhaka
+S00612,Metro Logistics,India,Tasnima Patwary,17765326020,raisa.das@gmail.com,Children,4.08,2023-08-10 08:14:13,18,Narayanganj,Active,Dhaka
+S00613,Delta Trade Group,India,Farhan Roy,15133241210,tasnima.das@gmail.com,Religious,4.07,2021-08-11 22:55:29,7,Faridpur,Active,Dhaka
+S00614,Eastern Trade Group,Bangladesh,Tanjim Amin,15932011770,mim.islam@outlook.com,Religious,4.6,2024-11-05 17:05:38,9,Gazipur,Suspended,Dhaka
+S00615,Eastern Distributors,Uk,Ayesha Rahman,18805745390,tanvir.mollik@gmail.com,Fiction,4.35,2022-02-13 02:05:14,12,Madaripur,Active,Dhaka
+S00616,Royal Supply Co,Bangladesh,Sadia Roy,19435939640,nayeem.das@yahoo.com,Exam Prep,4.6,2020-06-10 18:27:26,13,Manikganj,Active,Dhaka
+S00617,Metro Supply Co,Bangladesh,Rafi Hossain,15932674880,mim.islam@outlook.com,Children,4.06,2019-10-22 05:49:55,14,Dhaka,Active,Dhaka
+S00618,Bright Distributors,Bangladesh,Jannat Mollik,17368163210,farhan.sarker@outlook.com,Exam Prep,3.62,2025-02-21 05:37:44,9,Khagrachari,Active,Chattogram
+S00619,Global Books Ltd,China,Hasan Patwary,14889551190,sadia.das@gmail.com,Biography,3.48,2023-12-13 11:41:23,17,Tangail,Active,Dhaka
+S00620,Prime Books Ltd,Bangladesh,Tasnima Sheikh,,shaila.hossain@gmail.com,Religious,3.45,2022-03-25 13:05:41,16,Chandpur,Active,Chattogram
+S00621,Green Supply Co,Bangladesh,Nayeem Mollik,18101215100,hasan.nahar@outlook.com,Academic,3.65,2020-06-18 23:14:22,18,Chandpur,Inactive,Chattogram
+S00622,Metro Enterprises,Bangladesh,Tasnima Karim,14991569570,rafi.karim@outlook.com,Programming,2.82,2019-09-04 17:08:41,12,Rangamati,Active,Chattogram
+S00623,Royal Trade Group,India,Nayeem Chowdhury,15754896930,raisa.amin@gmail.com,Programming,3.56,2020-01-26 12:22:56,3,Gopalganj,Active,Dhaka
+S00624,Royal Enterprises,Bangladesh,Mim Sheikh,16181514200,ayesha.amin@yahoo.com,Programming,3.47,2019-09-27 23:13:41,17,Narayanganj,Active,Dhaka
+S00625,National Trade Group,Bangladesh,Tasnima Uddin,14784989200,nayeem.nahar@gmail.com,Fiction,2.59,2022-09-15 04:10:10,3,Munshiganj,Active,Dhaka
+S00626,Prime Distributors,India,Sadia Das,13635154930,shuvo.rahman@outlook.com,Religious,3.19,2020-05-20 14:06:59,5,Bandarban,Active,Chattogram
+S00627,Global Supply Co,Bangladesh,Adib Uddin,15433267460,muntasir.islam@outlook.com,Fiction,3.48,2019-11-23 16:28:25,7,Tangail,Suspended,Dhaka
+S00628,Bright Books Ltd,Bangladesh,Nayeem Sarker,19645341930,raisa.amin@gmail.com,Religious,3.94,2020-12-23 17:03:33,5,Cox's Bazar,Active,Chattogram
+S00629,Prime Enterprises,Bangladesh,Karim Rahman,17415320940,imran.hossain@yahoo.com,Religious,4.52,2023-11-23 16:38:53,15,Bandarban,Active,Chattogram
+S00630,Green Supply Co,Bangladesh,Tamim Chowdhury,15717193720,tanjim.das@yahoo.com,Religious,3.86,2022-06-22 19:31:03,9,Madaripur,Active,Dhaka
+S00631,Prime Trade Group,Bangladesh,Mahin Islam,13640245950,tasnima.khan@gmail.com,Self Help,4.64,2020-01-28 21:25:57,5,Bandarban,Active,Chattogram
+S00632,Delta Supply Co,Uk,Mim Roy,17183031870,nayeem.bhuiyan@gmail.com,Self Help,4.49,2024-03-28 19:23:36,2,Rangamati,Active,Chattogram
+S00633,Prime Books Ltd,Bangladesh,Shuvo Mollik,18588289660,muntasir.mollik@outlook.com,Exam Prep,2.75,2022-06-05 07:42:57,5,Bandarban,Active,Chattogram
+S00634,Global Distributors,Bangladesh,Hasan Bhuiyan,14776755450,tasnima.miah@yahoo.com,Self Help,4.94,2020-04-22 06:30:49,14,Brahmanbaria,Active,Chattogram
+S00635,Metro Books Ltd,China,Tamim Talukder,19481226810,sami.amin@gmail.com,Self Help,2.54,2023-11-02 18:21:13,16,Kishoreganj,Active,Dhaka
+S00636,National Books Ltd,Bangladesh,Tanvir Das,14369470340,tamim.hossain@gmail.com,Fiction,3.99,2022-10-12 20:14:45,7,Dhaka,Active,Dhaka
+S00637,Metro Logistics,Bangladesh,Muntasir Roy,17142645810,karim.sarker@yahoo.com,Fiction,4.48,2020-02-17 20:24:04,3,Madaripur,Active,Dhaka
+S00638,Ocean Logistics,Usa,Raisa Chowdhury,16122300080,nusrat.rahman@outlook.com,Programming,3.33,2021-03-02 06:05:31,12,Dhaka,Active,Dhaka
+S00639,Bright Supply Co,Bangladesh,Muntasir Patwary,13487023910,nabil.uddin@yahoo.com,Programming,4.0,2023-03-13 00:14:31,16,Rajbari,Active,Dhaka
+S00640,Global Trade Group,India,Jannat Hossain,18895010740,sakib.ahmed@outlook.com,Exam Prep,3.41,2025-12-29 10:35:33,3,Lakshmipur,Active,Chattogram
+S00641,Ocean Supply Co,India,Adib Nahar,13319656500,sakib.roy@yahoo.com,Academic,2.65,2025-07-02 08:55:19,16,Rajbari,Active,Dhaka
+S00642,National Supply Co,Bangladesh,Shuvo Amin,,rumana.miah@outlook.com,Children,2.52,2025-07-13 07:07:58,5,Chandpur,Active,Chattogram
+S00643,National Books Ltd,Bangladesh,Mahin Uddin,19715875230,rafi.uddin@outlook.com,Exam Prep,2.74,2024-10-28 21:20:07,6,Khagrachari,Active,Chattogram
+S00644,Metro Publishing House,Bangladesh,Rafi Mollik,16154746880,ayesha.chowdhury@gmail.com,Self Help,3.34,2023-01-09 05:48:41,13,Cox's Bazar,Active,Chattogram
+S00645,Eastern Logistics,Bangladesh,Muntasir Rahman,13694710050,karim.talukder@gmail.com,Fiction,4.03,2023-07-15 00:06:54,2,Chandpur,Inactive,Chattogram
+S00646,Prime Trade Group,Bangladesh,Shuvo Mollik,15495131600,shaila.uddin@outlook.com,Fiction,3.81,2024-02-19 22:57:08,7,Cox's Bazar,Active,Chattogram
+S00647,Delta Books Ltd,Bangladesh,Nayeem Nahar,19760775560,raisa.miah@outlook.com,Religious,3.64,2024-01-03 19:12:08,4,Manikganj,Active,Dhaka
+S00648,Metro Enterprises,India,Tasnima Amin,18880838070,nafis.sheikh@gmail.com,Programming,4.23,2023-06-21 13:52:51,5,Rajbari,Suspended,Dhaka
+S00649,Prime Logistics,Usa,Rahim Jahan,14993022480,nusrat.sheikh@yahoo.com,Children,2.54,2019-12-10 00:42:35,15,Narsingdi,Active,Dhaka
+S00650,Green Books Ltd,India,Tanvir Patwary,17778924960,tanvir.chowdhury@outlook.com,Programming,3.18,2025-02-26 15:46:25,6,Feni,Active,Chattogram
+S00651,Ocean Distributors,Bangladesh,Ayesha Karim,19866961270,farhan.ahmed@outlook.com,Self Help,3.85,2019-01-25 16:46:13,2,Narsingdi,Inactive,Dhaka
+S00652,Bright Trade Group,Bangladesh,Tanvir Das,19849129720,nayeem.hossain@gmail.com,Exam Prep,4.77,2021-12-24 17:56:40,5,Noakhali,Active,Chattogram
+S00653,Bright Logistics,Bangladesh,Muntasir Patwary,15757239180,fahim.patwary@outlook.com,Self Help,3.6,2022-01-14 16:25:22,3,Kishoreganj,Active,Dhaka
+S00654,Prime Publishing House,Bangladesh,Jannat Nahar,15829218750,tasnima.chowdhury@yahoo.com,Religious,2.7,2025-12-20 21:22:21,13,Kishoreganj,Active,Dhaka
+S00655,Delta Supply Co,Usa,Ayesha Roy,19629487430,hasan.roy@outlook.com,Self Help,4.5,2019-08-17 19:26:56,19, Cumilla ,Inactive,
+S00656,Green Distributors,Bangladesh,Tasnima Sheikh,16674458320,imran.bhuiyan@gmail.com,Fiction,4.71,2022-05-01 03:13:58,5,Cox's Bazar,Inactive,Chattogram
+S00657,Ocean Supply Co,Bangladesh,Sakib Miah,16563445740,mahin.das@yahoo.com,Academic,3.53,2021-07-03 09:58:23,15,Chittagong,Inactive,Chattogram
+S00658,Metro Distributors,Uk,Imran Uddin,,karim.sheikh@gmail.com,Children,3.11,2019-09-07 17:26:07,8,Munshiganj,Active,Dhaka
+S00659,Ocean Logistics,Bangladesh,Hasan Khan,14750074170,tasnima.sarker@yahoo.com,Biography,2.61,2020-07-25 21:16:40,3,Dhaka,Active,Dhaka
+S00660,Delta Distributors,Bangladesh,Sami Chowdhury,18800549860,farhan.mollik@gmail.com,Religious,3.98,2021-12-14 20:09:30,14,Munshiganj,Inactive,Dhaka
+S00661,Eastern Publishing House,Bangladesh,Tanjim Patwary,18869533680,farhan.roy@yahoo.com,Fiction,4.77,2025-05-31 04:22:23,5,Shariatpur,Active,Dhaka
+S00662,Green Trade Group,Bangladesh,Tamim Miah,19647258910,tasnima.patwary@outlook.com,Self Help,4.19,2021-09-19 06:41:47,11,Narsingdi,Active,Dhaka
+S00663,Royal Publishing House,India,Tasnima Miah,14190632140,farhan.hossain@yahoo.com,Fiction,3.29,2025-02-27 10:09:18,11,Noakhali,Active,Chattogram
+S00664,Bright Books Ltd,Bangladesh,Hasan Chowdhury,18589789670,shaila.jahan@gmail.com,Religious,4.11,2024-02-19 11:57:06,12,Khagrachari,Inactive,Chattogram
+S00665,Bright Distributors,Usa,Tanvir Roy,19916212170,rafi.talukder@yahoo.com,Fiction,4.58,2024-09-24 05:13:48,4,Cox's Bazar,Active,Chattogram
+S00666,Delta Supply Co,Uk,Hasan Patwary,16616173270,nabil.islam@yahoo.com,Academic,3.69,2024-12-22 03:54:00,6,Dhaka,Active,Dhaka
+S00667,Delta Supply Co,Uk,Jannat Mollik,17621237860,mim.nahar@outlook.com,Fiction,4.55,2023-12-30 20:11:56,15,Gopalganj,Inactive,Dhaka
+S00668,Green Trade Group,Bangladesh,Raisa Islam,19250562100,sakib.talukder@gmail.com,Fiction,3.48,2024-02-18 15:20:51,18,Rajbari,Inactive,Dhaka
+S00669,Bright Distributors,Bangladesh,Sami Uddin,18298106470,adib.ahmed@gmail.com,Programming,3.37,2020-01-29 19:23:18,2,Brahmanbaria,Suspended,Chattogram
+S00670,Ocean Distributors,Uk,Jannat Roy,14527510240,nabil.rahman@yahoo.com,Academic,3.96,2024-01-07 18:41:31,9,Chittagong,Active,Chattogram
+S00671,Green Books Ltd,Bangladesh,Tanjim Bhuiyan,,jannat.bhuiyan@outlook.com,Fiction,3.66,2019-05-04 15:03:04,17,Munshiganj,Active,Dhaka
+S00672,Eastern Logistics,Bangladesh,Mim Das,,rahim.ahmed@yahoo.com,Religious,4.94,2024-02-28 19:07:47,7,Gazipur,Active,Dhaka
+S00673,Eastern Trade Group,India,Rafi Miah,16680846210,shaila.sheikh@gmail.com,Business,3.79,2023-07-30 08:05:48,10,Munshiganj,Active,Dhaka
+S00674,Royal Logistics,Bangladesh,Fahim Roy,14270064340,rahim.amin@gmail.com,Religious,3.46,2024-04-18 17:19:45,18,Feni,Inactive,Chattogram
+S00675,Ocean Logistics,India,Tanjim Uddin,13870846390,ayesha.roy@outlook.com,Religious,3.49,2023-06-30 14:40:59,19,Rangamati,Active,Chattogram
+S00676,Global Distributors,Usa,Sakib Talukder,18559680830,imran.roy@outlook.com,Biography,3.87,2021-07-31 08:45:20,13,Noakhali,Active,Chattogram
+S00677,Delta Trade Group,India,Nusrat Roy,13181123280,ayesha.amin@gmail.com,Self Help,3.39,2021-08-02 05:57:47,14,Brahmanbaria,Active,Chattogram
+S00678,Prime Enterprises,Bangladesh,Rumana Patwary,13745317520,rafi.amin@gmail.com,Fiction,4.31,2023-03-04 18:15:40,13,Gazipur,Active,Dhaka
+S00679,National Books Ltd,Uk,Tamim Nahar,14325153940,nabil.uddin@gmail.com,Exam Prep,3.45,2022-04-23 04:29:27,7,Rangamati,Inactive,Chattogram
+S00680,Eastern Distributors,Bangladesh,Karim Sarker,19888755270,tanjim.jahan@yahoo.com,Religious,3.46,2021-05-20 12:02:03,17,Gopalganj,Active,Dhaka
+S00681,Global Books Ltd,India,Nabil Patwary,18378614600,mahin.sheikh@outlook.com,Religious,4.04,2022-06-04 06:22:48,2,Manikganj,Active,Dhaka
+S00682,National Publishing House,Uk,Mim Mollik,17280243740,tasnima.chowdhury@gmail.com,Self Help,2.65,2022-10-03 12:40:51,3,Rangamati,Active,Chattogram
+S00683,Green Books Ltd,India,Rafi Hossain,19176372590,mim.miah@outlook.com,Children,4.14,2020-09-05 06:09:04,12,Tangail,Active,Dhaka
+S00684,National Enterprises,Bangladesh,Ayesha Uddin,18560378020,mahin.karim@gmail.com,Business,3.76,2023-06-20 06:04:49,17,Kishoreganj,Active,Dhaka
+S00685,Metro Logistics,Bangladesh,Nabil Rahman,18505663820,nafis.hossain@outlook.com,Self Help,3.63,2021-03-14 00:14:11,16,Tangail,Inactive,Dhaka
+S00686,Royal Distributors,Bangladesh,Rumana Nahar,14776180920,tanjim.nahar@gmail.com,Biography,4.3,2020-11-15 08:28:19,14,Faridpur,Active,Dhaka
+S00687,Delta Distributors,Bangladesh,Nayeem Chowdhury,17518142320,sami.miah@outlook.com,Academic,4.4,2021-12-05 09:41:19,8,Munshiganj,Active,Dhaka
+S00688,Royal Trade Group,Bangladesh,Sami Jahan,15409434370,sadia.khan@yahoo.com,Programming,4.62,2019-09-21 23:51:41,8,Noakhali,Active,Chattogram
+S00689,Metro Supply Co,Bangladesh,Tanvir Rahman,16335489420,tamim.roy@gmail.com,Fiction,3.44,2023-03-22 17:24:51,9,Munshiganj,Active,Dhaka
+S00690,Green Enterprises,Bangladesh,Fahim Talukder,14350332070,fahim.patwary@gmail.com,Children,3.97,2024-02-18 12:53:54,6,Lakshmipur,Active,Chattogram
+S00691,Metro Publishing House,India,Sadia Sheikh,13935063110,rahim.amin@outlook.com,Academic,4.29,2025-09-09 01:46:24,9,Bandarban,Active,Chattogram
+S00692,National Trade Group,Usa,Jannat Miah,14248570740,rafi.sheikh@yahoo.com,Programming,3.95,2020-12-25 21:36:42,3,Chandpur,Active,Chattogram
+S00693,National Publishing House,Bangladesh,Karim Mollik,14529068670,sifat.talukder@yahoo.com,Exam Prep,4.08,2022-10-08 08:47:59,7,Chittagong,Active,Chattogram
+S00694,Green Distributors,India,Muntasir Karim,15463503420,tanjim.chowdhury@outlook.com,Programming,3.89,2022-07-11 01:58:35,18,Bandarban,Active,Chattogram
+S00695,Royal Trade Group,Bangladesh,Fahim Mollik,13382300200,tanvir.karim@yahoo.com,Business,4.43,2024-02-12 20:31:07,14,Dhaka,Inactive,Dhaka
+S00696,National Enterprises,Bangladesh,Tanvir Hossain,14152572940,tanvir.das@yahoo.com,Exam Prep,2.98,2023-05-17 02:43:03,4,Noakhali,Active,Chattogram
+S00697,Metro Supply Co,Bangladesh,Shuvo Patwary,15811026790,fahim.jahan@yahoo.com,Religious,3.89,2024-08-24 16:40:32,7,Shariatpur,Active,Dhaka
+S00698,Prime Logistics,India,Hasan Ahmed,18561297620,arif.uddin@gmail.com,Biography,2.9,2024-12-14 05:34:45,6,Chandpur,Active,Chattogram
+S00699,Bright Logistics,China,Sifat Miah,14403287950,sami.uddin@gmail.com,Business,3.48,2019-10-18 03:02:31,7,Bandarban,Active,Chattogram
+S00700,Global Distributors,India,Sifat Mollik,14695844640,shaila.hossain@gmail.com,Fiction,4.16,2021-06-26 12:07:26,14,Chandpur,Active,Chattogram
+S00701,Royal Publishing House,Usa,Arif Jahan,15667581870,sakib.das@yahoo.com,Programming,3.73,2023-07-28 09:16:46,18,Narayanganj,Active,Dhaka
+S00702,Prime Distributors,China,Tamim Talukder,17945884870,karim.sarker@yahoo.com,Programming,3.45,2022-10-21 20:18:15,14,Khagrachari,Active,Chattogram
+S00703,Eastern Publishing House,Bangladesh,Rahim Miah,15460644890,shaila.roy@outlook.com,Programming,4.71,2022-05-17 06:36:00,10,Madaripur,Inactive,Dhaka
+S00704,National Trade Group,Bangladesh,Adib Patwary,17836034330,shuvo.karim@outlook.com,Self Help,4.43,2020-03-18 14:25:46,4,Chandpur,Inactive,Chattogram
+S00705,Global Publishing House,Bangladesh,Hasan Nahar,16813182580,adib.islam@gmail.com,Academic,3.82,2023-01-03 03:12:13,4,Bandarban,Active,Chattogram
+S00706,Global Enterprises,China,Rahim Roy,15542173170,imran.nahar@outlook.com,Programming,4.88,2024-03-07 22:06:54,16,Tangail,Active,Dhaka
+S00707,Prime Supply Co,Bangladesh,Farhan Mollik,16734012450,mim.roy@outlook.com,Business,3.56,2019-04-09 04:38:54,14,Dhaka,Active,Dhaka
+S00708,Green Supply Co,Bangladesh,Tanjim Chowdhury,17170433100,shaila.das@yahoo.com,Children,3.52,2023-02-21 01:21:54,11,Narsingdi,Active,Dhaka
+S00709,Bright Enterprises,Uk,Nayeem Hossain,18782218970,mim.hossain@yahoo.com,Religious,2.92,2025-05-05 06:53:53,12,Faridpur,Active,Dhaka
+S00710,Royal Enterprises,Bangladesh,Hasan Bhuiyan,13965649700,farhan.chowdhury@gmail.com,Self Help,3.21,2023-01-06 10:55:28,17,Tangail,Active,Dhaka
+S00711,Metro Trade Group,India,Shuvo Karim,17176477270,tamim.mollik@gmail.com,Programming,3.35,2025-09-01 07:35:27,16,Chittagong,Active,Chattogram
+S00712,Green Logistics,Bangladesh,Ayesha Chowdhury,16852504200,farhan.miah@gmail.com,Academic,2.76,2021-06-20 04:22:52,3,Tangail,Active,Dhaka
+S00713,Prime Supply Co,China,Tanjim Chowdhury,14939682020,sifat.jahan@yahoo.com,Academic,3.75,2019-01-09 21:35:42,9,Cox's Bazar,Active,Chattogram
+S00714,Bright Trade Group,Uk,Shuvo Khan,15303570000,imran.ahmed@yahoo.com,Business,2.98,2023-10-10 08:30:27,2,Narayanganj,Active,Dhaka
+S00715,Prime Supply Co,Bangladesh,Rahim Mollik,15572330060,rahim.chowdhury@gmail.com,Exam Prep,4.09,2020-06-27 21:29:14,8,Munshiganj,Active,Dhaka
+S00716,Delta Publishing House,India,Sifat Chowdhury,17935072400,muntasir.nahar@gmail.com,Fiction,2.98,2019-01-25 18:01:04,13,Rajbari,Active,Dhaka
+S00717,Eastern Enterprises,Bangladesh,Tanjim Talukder,14574930900,farhan.karim@gmail.com,Fiction,2.81,2025-07-15 09:04:19,5,Madaripur,Active,Dhaka
+S00718,National Books Ltd,Bangladesh,Farhan Karim,13933821280,hasan.sheikh@yahoo.com,Self Help,4.92,2024-06-20 00:20:39,4,Feni,Active,Chattogram
+S00719,Delta Logistics,Bangladesh,Imran Ahmed,15658526530,hasan.miah@outlook.com,Academic,4.15,2020-12-03 22:32:13,10,Feni,Active,Chattogram
+S00720,National Trade Group,Uk,Imran Uddin,17112066140,adib.das@yahoo.com,Academic,4.84,2023-03-09 16:37:23,11,Narsingdi,Active,Dhaka
+S00721,Ocean Enterprises,Bangladesh,Farhan Talukder,14717810690,rafi.roy@gmail.com,Children,3.72,2021-05-17 08:22:26,14,Feni,Active,Chattogram
+S00722,Metro Enterprises,Bangladesh,Tasnima Patwary,15108398280,nabil.miah@gmail.com,Biography,2.58,2020-03-29 06:21:22,2,Dhaka,Active,Dhaka
+S00723,Eastern Books Ltd,Bangladesh,Muntasir Miah,13843801720,adib.karim@gmail.com,Programming,3.94,2025-12-01 07:22:22,6,Gopalganj,Active,Dhaka
+S00724,Metro Trade Group,Bangladesh,Tamim Das,14190381980,imran.rahman@outlook.com,Children,3.9,2024-09-11 12:14:03,16,Manikganj,Active,Dhaka
+S00725,Ocean Books Ltd,Bangladesh,Imran Hossain,16207042940,imran.patwary@outlook.com,Fiction,2.54,2021-07-18 01:26:59,14,Narsingdi,Active,Dhaka
+S00726,Prime Books Ltd,Bangladesh,Muntasir Nahar,17589686250,tanvir.karim@gmail.com,Biography,4.65,2021-06-22 11:33:45,18,Madaripur,Active,Dhaka
+S00727,Global Publishing House,Bangladesh,Arif Amin,17542444150,imran.patwary@gmail.com,Exam Prep,4.05,2024-09-15 15:41:53,16,Tangail,Active,Dhaka
+S00728,Green Books Ltd,Uk,Tanjim Khan,18473753270,rumana.amin@gmail.com,Fiction,4.36,2022-03-23 22:48:15,17,Feni,Active,Chattogram
+S00729,Metro Enterprises,Bangladesh,Sadia Miah,13346141640,tasnima.hossain@outlook.com,Fiction,3.73,2021-08-21 11:44:18,11,Rajbari,Active,Dhaka
+S00730,Prime Enterprises,Bangladesh,Farhan Mollik,13114022620,mim.islam@gmail.com,Academic,4.05,2022-02-16 01:04:20,19,Rajbari,Active,Dhaka
+S00731,Ocean Distributors,Usa,Nafis Ahmed,14285966840,rafi.ahmed@outlook.com,Exam Prep,3.14,2022-08-25 15:32:50,9,Faridpur,Active,Dhaka
+S00732,Global Books Ltd,Bangladesh,Adib Rahman,13381149030,tamim.bhuiyan@yahoo.com,Children,4.93,2019-04-13 10:21:16,18,Manikganj,Active,Dhaka
+S00733,Royal Books Ltd,,Tanvir Uddin,16260386170,sami.hossain@gmail.com,Fiction,3.5,2022-05-12 05:51:34,9,Feni,Active,Chattogram
+S00734,Bright Distributors,Bangladesh,Karim Sarker,14118130020,tanjim.jahan@outlook.com,Business,2.91,2022-01-29 13:25:37,9,Feni,Active,Chattogram
+S00735,Ocean Books Ltd,Uk,Hasan Rahman,,shuvo.mollik@yahoo.com,Religious,2.64,2020-12-02 20:04:51,14,Gazipur,Active,Dhaka
+S00736,Royal Logistics,India,Mim Roy,16699489590,ayesha.das@outlook.com,Religious,4.09,2021-06-27 09:17:37,9,Dhaka,Active,Dhaka
+S00737,Delta Publishing House,Uk,Rumana Hossain,18655164710,rahim.patwary@gmail.com,Self Help,4.96,2021-07-24 16:14:00,4,Feni,Active,Chattogram
+S00738,Metro Distributors,Bangladesh,Karim Talukder,19330077360,nusrat.patwary@yahoo.com,Fiction,4.74,2025-05-10 17:02:02,18,Kishoreganj,Active,Dhaka
+S00739,Delta Distributors,Bangladesh,Muntasir Nahar,18943184080,sadia.ahmed@yahoo.com,Business,4.26,2022-09-12 21:26:16,10,Bandarban,Active,Chattogram
+S00740,Prime Distributors,India,Ayesha Uddin,16856499190,nafis.das@yahoo.com,Business,4.98,2022-07-09 09:32:16,18,Feni,Active,Chattogram
+S00741,Eastern Books Ltd,Bangladesh,Mahin Islam,13890904730,imran.bhuiyan@gmail.com,Academic,4.31,2025-05-31 06:48:28,9,Cox's Bazar,Active,Chattogram
+S00742,Prime Books Ltd,Bangladesh,Tanjim Patwary,16299380820,rafi.jahan@yahoo.com,Exam Prep,3.35,2019-03-01 06:20:24,19,Bandarban,Active,Chattogram
+S00743,Delta Trade Group,Bangladesh,Hasan Hossain,13747935350,imran.rahman@outlook.com,Programming,4.0,2022-11-07 02:59:37,12,Narsingdi,Active,Dhaka
+S00744,Eastern Books Ltd,China,Sakib Amin,16379003100,jannat.ahmed@outlook.com,Programming,2.7,2020-03-07 11:04:47,15,Cox's Bazar,Suspended,Chattogram
+S00745,Eastern Enterprises,Bangladesh,Arif Miah,15485032420,tanjim.uddin@gmail.com,Biography,3.05,2024-05-19 02:19:40,15,Chittagong,Active,Chattogram
+S00746,Prime Enterprises,Bangladesh,Fahim Amin,13351843320,sadia.khan@outlook.com,Children,3.54,2021-08-24 20:58:58,5,Khagrachari,Active,Chattogram
+S00747,Global Distributors,India,Tanvir Chowdhury,14820359370,nabil.das@outlook.com,Biography,3.0,2021-01-20 10:03:55,16,Tangail,Active,Dhaka
+S00748,Delta Enterprises,Bangladesh,Rumana Hossain,18669594430,sadia.nahar@gmail.com,Exam Prep,4.88,2019-05-29 03:06:40,19,Noakhali,Active,Chattogram
+S00749,Green Supply Co,,Rumana Roy,18475561340,rumana.ahmed@gmail.com,Children,4.99,2024-07-13 07:07:30,13,Cox's Bazar,Active,Chattogram
+S00750,Delta Supply Co,Bangladesh,Mahin Ahmed,17196277320,sakib.miah@outlook.com,Exam Prep,3.43,2021-10-10 09:48:10,19,Faridpur,Active,Dhaka
+S00751,Green Publishing House,Bangladesh,Sifat Chowdhury,16601720800,adib.islam@gmail.com,Exam Prep,4.27,2020-11-06 14:32:42,17,Munshiganj,Active,Dhaka
+S00752,Prime Distributors,Bangladesh,Karim Nahar,13593477680,shuvo.sarker@gmail.com,Business,3.52,2024-11-28 00:32:50,13,Feni,Active,Chattogram
+S00753,Green Publishing House,Uk,Farhan Patwary,18430831680,nusrat.mollik@yahoo.com,Business,2.85,2019-02-19 23:16:24,10,Gazipur,Active,Dhaka
+S00754,Metro Enterprises,India,Nusrat Islam,16357466200,ayesha.khan@yahoo.com,Self Help,3.34,2022-04-13 08:10:32,17, Cumilla ,Active,
+S00755,Royal Logistics,Bangladesh,Mim Mollik,14216544220,sifat.talukder@yahoo.com,Children,3.08,2020-02-15 19:45:22,5,Narayanganj,Active,Dhaka
+S00756,National Publishing House,Bangladesh,Imran Amin,15942046100,shaila.jahan@yahoo.com,Academic,3.32,2019-11-21 13:03:03,12,Kishoreganj,Active,Dhaka
+S00757,Ocean Distributors,Bangladesh,Tasnima Mollik,17661926010,raisa.bhuiyan@outlook.com,Religious,3.04,2019-02-25 08:16:26,16,Tangail,Active,Dhaka
+S00758,Prime Trade Group,China,Farhan Jahan,17528321190,rahim.uddin@outlook.com,Biography,2.78,2020-04-23 02:08:44,18,Noakhali,Inactive,Chattogram
+S00759,Delta Books Ltd,Usa,Farhan Jahan,15805960590,rafi.patwary@gmail.com,Programming,3.04,2025-08-17 16:36:38,6,Lakshmipur,Active,Chattogram
+S00760,Delta Enterprises,Usa,Mim Talukder,15609302770,,Children,4.76,2022-02-12 18:01:58,3,Narsingdi,Active,Dhaka
+S00761,Royal Logistics,Bangladesh,Shaila Jahan,16356961890,nafis.rahman@gmail.com,Programming,2.71,2025-12-30 22:35:25,8,Dhaka,Suspended,Dhaka
+S00762,Eastern Publishing House,Bangladesh,Sami Sheikh,15170893750,rafi.sheikh@yahoo.com,Fiction,3.31,2020-11-14 05:15:12,17,Lakshmipur,Active,Chattogram
+S00763,Bright Books Ltd,Bangladesh,Raisa Khan,16741210330,rumana.mollik@yahoo.com,Self Help,3.82,2024-05-02 06:15:11,11,Lakshmipur,Active,Chattogram
+S00764,National Books Ltd,Bangladesh,Mim Sarker,17987100560,nabil.sheikh@outlook.com,Religious,3.39,2019-08-18 00:31:10,2,Brahmanbaria,Suspended,Chattogram
+S00765,Global Trade Group,Bangladesh,Rahim Islam,13784591550,nusrat.uddin@yahoo.com,Business,3.79,2019-10-04 09:00:50,4,Chandpur,Active,Chattogram
+S00766,Global Books Ltd,,Mim Sheikh,18492791110,rafi.miah@gmail.com,Religious,2.61,2019-02-11 21:44:45,8,Tangail,Active,Dhaka
+S00767,Metro Publishing House,China,Farhan Das,14421391860,muntasir.chowdhury@outlook.com,Exam Prep,4.12,2025-04-16 16:54:37,8,Dhaka,Active,Dhaka
+S00768,Royal Books Ltd,Bangladesh,Ayesha Jahan,17875950060,shaila.sheikh@gmail.com,Exam Prep,3.91,2023-09-13 15:55:40,4,Gopalganj,Active,Dhaka
+S00769,Eastern Books Ltd,Bangladesh,Karim Patwary,17687365240,nabil.sarker@outlook.com,Business,4.2,2024-03-16 02:12:22,10,Gopalganj,Active,Dhaka
+S00770,Ocean Logistics,Uk,Shuvo Karim,13137926380,shaila.talukder@outlook.com,Religious,3.92,2025-06-28 06:29:38,10,Lakshmipur,Active,Chattogram
+S00771,Delta Publishing House,Bangladesh,Rafi Hossain,19900286400,muntasir.talukder@outlook.com,Academic,3.59,2021-04-29 05:12:27,5,Faridpur,Inactive,Dhaka
+S00772,Global Enterprises,,Rafi Amin,16673824280,tamim.chowdhury@outlook.com,Business,3.97,2024-01-21 19:14:49,6,Bandarban,Active,Chattogram
+S00773,Prime Logistics,Bangladesh,Sakib Mollik,17564023750,mim.nahar@gmail.com,Business,3.07,2022-07-07 19:44:10,13,Narayanganj,Active,Dhaka
+S00774,Bright Supply Co,Uk,Sadia Ahmed,14165926420,farhan.rahman@yahoo.com,Programming,3.75,2022-10-19 00:56:06,19,Dhaka,Inactive,Dhaka
+S00775,Delta Books Ltd,Bangladesh,Sakib Amin,14576099000,hasan.amin@yahoo.com,Biography,2.57,2023-08-19 10:57:54,19,Noakhali,Active,Chattogram
+S00776,Prime Supply Co,,Raisa Miah,15555729540,sakib.uddin@yahoo.com,Biography,3.32,2022-04-16 04:14:39,12,Dhaka,Active,Dhaka
+S00777,Green Logistics,Bangladesh,Nabil Bhuiyan,14944082810,tamim.sarker@outlook.com,Programming,4.19,2019-03-03 11:21:08,2,Khagrachari,Active,Chattogram
+S00778,Delta Publishing House,Bangladesh,Hasan Talukder,15861540670,jannat.mollik@yahoo.com,Religious,2.77,2019-07-11 20:31:21,18,Cox's Bazar,Active,Chattogram
+S00779,Royal Supply Co,Bangladesh,Nusrat Rahman,15499227730,nayeem.uddin@gmail.com,Academic,2.66,2022-07-05 22:31:32,19,Feni,Active,Chattogram
+S00780,Metro Supply Co,Bangladesh,Farhan Khan,17336819220,sadia.sheikh@outlook.com,Programming,4.13,2022-12-27 16:41:03,7,Gopalganj,Active,Dhaka
+S00781,Prime Publishing House,Bangladesh,Fahim Khan,14441271730,mim.amin@yahoo.com,Exam Prep,3.49,2024-02-16 00:03:55,9,Lakshmipur,Active,Chattogram
+S00782,Prime Trade Group,India,Rumana Khan,18493782720,raisa.miah@outlook.com,Exam Prep,4.5,2023-01-02 12:15:15,2,Brahmanbaria,Active,Chattogram
+S00783,Green Enterprises,,Ayesha Bhuiyan,17735619690,nayeem.nahar@gmail.com,Biography,4.84,2020-04-26 02:29:49,16,Narsingdi,Active,Dhaka
+S00784,Metro Logistics,Bangladesh,Sakib Miah,16173298230,arif.khan@outlook.com,Programming,4.89,2021-07-26 14:14:49,15,Chittagong,Active,Chattogram
+S00785,Metro Trade Group,Bangladesh,Tanjim Chowdhury,13522968850,arif.patwary@gmail.com,Biography,3.56,2022-02-08 07:53:20,2,Narayanganj,Inactive,Dhaka
+S00786,Global Distributors,Uk,Sami Jahan,18125397570,nusrat.khan@yahoo.com,Biography,3.16,2025-11-19 23:03:15,14,Manikganj,Active,Dhaka
+S00787,Ocean Supply Co,Bangladesh,Muntasir Jahan,19708318990,tamim.patwary@outlook.com,Religious,4.02,2022-09-23 03:31:41,9,Manikganj,Active,Dhaka
+S00788,Eastern Distributors,Bangladesh,Adib Talukder,13409339060,jannat.bhuiyan@yahoo.com,Academic,4.07,2023-06-12 00:06:03,11,Bandarban,Active,Chattogram
+S00789,Green Supply Co,Uk,Mim Sheikh,14954327530,mahin.sarker@gmail.com,Business,4.06,2024-02-24 02:31:19,5,Brahmanbaria,Active,Chattogram
+S00790,Eastern Logistics,Bangladesh,Shaila Miah,16391711790,,Exam Prep,3.3,2021-07-14 21:11:41,16,Madaripur,Active,Dhaka
+S00791,Prime Publishing House,India,Hasan Patwary,14607425300,rafi.roy@outlook.com,Religious,2.66,2025-10-01 03:26:54,9,Madaripur,Active,Dhaka
+S00792,Green Distributors,Bangladesh,Adib Islam,13331648810,,Biography,3.03,2023-09-22 01:41:34,17,Noakhali,Active,Chattogram
+S00793,Bright Distributors,Bangladesh,Shaila Nahar,14658101360,rafi.jahan@gmail.com,Self Help,2.89,2024-12-08 04:36:54,4,Tangail,Active,Dhaka
+S00794,Royal Books Ltd,Bangladesh,Sakib Karim,17520338110,tamim.chowdhury@gmail.com,Academic,2.81,2024-03-30 00:13:07,12,Khagrachari,Active,Chattogram
+S00795,Royal Books Ltd,Usa,Shuvo Patwary,13433565430,fahim.islam@gmail.com,Self Help,3.48,2023-05-08 14:25:33,7,Munshiganj,Active,Dhaka
+S00796,Ocean Distributors,Bangladesh,Ayesha Uddin,18283320410,sakib.karim@yahoo.com,Business,2.53,2019-03-20 22:05:03,19,Manikganj,Active,Dhaka
+S00797,National Books Ltd,Bangladesh,Farhan Bhuiyan,14200369200,farhan.bhuiyan@gmail.com,Self Help,4.0,2023-01-31 18:51:12,12,Manikganj,Active,Dhaka
+S00798,Ocean Publishing House,Bangladesh,Arif Miah,18207891220,nafis.nahar@outlook.com,Programming,4.87,2019-11-28 00:41:44,14,Tangail,Active,Dhaka
+S00799,Bright Supply Co,Bangladesh,Hasan Jahan,17999136010,rumana.nahar@gmail.com,Programming,3.4,2023-03-22 17:53:04,3,Cox's Bazar,Active,Chattogram
+S00800,Royal Logistics,Bangladesh,Sami Amin,17471079650,fahim.bhuiyan@yahoo.com,Academic,3.82,2023-11-28 18:37:41,14,Tangail,Active,Dhaka
+S00801,National Supply Co,Bangladesh,Nayeem Karim,14240006850,rafi.mollik@yahoo.com,Children,4.24,2022-10-25 11:26:19,3,Munshiganj,Suspended,Dhaka
+S00802,Royal Distributors,Bangladesh,Rahim Roy,19229243200,tanvir.mollik@yahoo.com,Religious,3.29,2021-02-27 09:00:15,8,Rangamati,Inactive,Chattogram
+S00803,Eastern Trade Group,Bangladesh,Raisa Islam,13476727510,nafis.khan@gmail.com,Religious,3.69,2019-06-01 17:33:23,6,Bandarban,Active,Chattogram
+S00804,Eastern Logistics,Bangladesh,Shaila Uddin,15745729820,adib.karim@yahoo.com,Programming,4.54,2023-09-12 05:01:59,2,Narsingdi,Active,Dhaka
+S00805,Prime Books Ltd,Bangladesh,Raisa Khan,16923139310,mim.sarker@yahoo.com,Children,4.36,2023-11-20 20:17:38,12,Dhaka,Active,Dhaka
+S00806,Ocean Publishing House,Bangladesh,Rafi Chowdhury,16741597660,nafis.talukder@yahoo.com,Programming,4.52,2022-05-06 14:20:55,6,Bandarban,Active,Chattogram
+S00807,Bright Logistics,Bangladesh,Nabil Sarker,19517263170,,Academic,4.97,2024-01-05 22:57:52,11,Brahmanbaria,Suspended,Chattogram
+S00808,Global Publishing House,Bangladesh,Mim Nahar,14304114420,tamim.roy@yahoo.com,Children,3.43,2024-06-14 10:03:01,15,Noakhali,Active,Chattogram
+S00809,Ocean Enterprises,,Rumana Hossain,13620337580,sakib.amin@yahoo.com,Programming,4.37,2022-08-02 21:35:43,5,Madaripur,Active,Dhaka
+S00810,Eastern Trade Group,Bangladesh,Tasnima Hossain,,nusrat.chowdhury@gmail.com,Religious,4.01,2019-05-02 20:36:31,14,Gopalganj,Active,Dhaka
+S00811,Prime Books Ltd,Bangladesh,Rahim Ahmed,18847389420,shaila.ahmed@gmail.com,Religious,4.17,2025-02-02 17:03:26,7,Rangamati,Active,Chattogram
+S00812,Metro Books Ltd,Bangladesh,Sakib Mollik,19329295180,jannat.sheikh@yahoo.com,Biography,4.35,2022-04-07 23:30:48,7,Bandarban,Active,Chattogram
+S00813,Green Trade Group,India,Sakib Jahan,16228212260,sifat.mollik@yahoo.com,Self Help,4.37,2023-09-15 17:57:47,12,Dhaka,Active,Dhaka
+S00814,Green Logistics,Bangladesh,Imran Ahmed,18696983750,tanjim.islam@outlook.com,Business,4.71,2025-05-17 07:18:45,13,Gazipur,Active,Dhaka
+S00815,National Books Ltd,Uk,Shaila Ahmed,16564273490,shuvo.miah@outlook.com,Self Help,3.37,2021-07-15 23:18:02,13,Shariatpur,Active,Dhaka
+S00816,Green Trade Group,Bangladesh,Fahim Uddin,17570851160,sami.khan@gmail.com,Academic,4.13,2023-05-09 19:36:19,5,Brahmanbaria,Active,Chattogram
+S00817,Global Trade Group,India,Farhan Rahman,18932157250,tamim.uddin@yahoo.com,Self Help,3.2,2019-02-20 08:07:49,12,Madaripur,Active,Dhaka
+S00818,Delta Enterprises,Bangladesh,Sami Uddin,19658072810,tasnima.khan@yahoo.com,Business,3.99,2025-03-12 04:27:20,6,Narayanganj,Active,Dhaka
+S00819,Eastern Logistics,Bangladesh,Muntasir Das,18134305030,imran.karim@gmail.com,Exam Prep,4.38,2019-06-01 05:12:43,6, Cumilla ,Active,
+S00820,Eastern Publishing House,Bangladesh,Nusrat Sheikh,15884539660,jannat.jahan@yahoo.com,Biography,4.48,2022-10-15 02:40:33,19,Rangamati,Active,Chattogram
+S00821,Ocean Books Ltd,Usa,Sami Rahman,13591141440,sadia.nahar@yahoo.com,Exam Prep,3.55,2021-06-18 04:42:45,3,Shariatpur,Active,Dhaka
+S00822,Delta Logistics,Bangladesh,Tamim Jahan,14486344670,rafi.uddin@gmail.com,Biography,3.77,2019-04-02 11:21:57,9,Narsingdi,Active,Dhaka
+S00823,Eastern Distributors,Bangladesh,Raisa Islam,14761270250,nafis.jahan@yahoo.com,Academic,3.33,2022-03-27 03:23:20,9,Narayanganj,Active,Dhaka
+S00824,National Logistics,,Nafis Karim,18782518610,fahim.hossain@outlook.com,Children,2.92,2025-07-19 09:03:07,6,Gopalganj,Active,Dhaka
+S00825,Metro Supply Co,India,Mahin Karim,17577310510,nayeem.patwary@gmail.com,Religious,3.15,2020-03-02 12:32:30,16,Faridpur,Active,Dhaka
+S00826,Eastern Books Ltd,Bangladesh,Tasnima Nahar,13436931040,sakib.jahan@yahoo.com,Programming,4.78,2021-01-17 01:07:51,10,Khagrachari,Active,Chattogram
+S00827,Global Logistics,Bangladesh,Karim Roy,16701644860,fahim.sarker@gmail.com,Children,3.27,2020-04-28 22:09:20,14,Dhaka,Active,Dhaka
+S00828,Eastern Publishing House,Bangladesh,Muntasir Chowdhury,13513014340,adib.miah@gmail.com,Exam Prep,4.94,2019-11-16 10:17:38,8,Feni,Active,Chattogram
+S00829,Royal Trade Group,Usa,Shuvo Patwary,19574727920,rafi.talukder@outlook.com,Academic,3.1,2020-08-11 10:05:08,18,Madaripur,Inactive,Dhaka
+S00830,Royal Publishing House,Bangladesh,Farhan Nahar,16723332120,sami.mollik@yahoo.com,Biography,4.31,2023-01-01 14:35:10,15,Chittagong,Active,Chattogram
+S00831,Bright Logistics,Bangladesh,Nusrat Chowdhury,18241862460,raisa.jahan@gmail.com,Children,3.93,2024-06-17 23:48:37,7,Noakhali,Active,Chattogram
+S00832,Eastern Enterprises,China,Arif Roy,16126959220,rumana.rahman@yahoo.com,Programming,4.24,2023-10-31 10:14:32,19, Cumilla ,Active,
+S00833,Green Distributors,Bangladesh,Hasan Roy,16832163040,muntasir.roy@gmail.com,Self Help,4.11,2024-05-25 09:52:52,17, Cumilla ,Active,
+S00834,Ocean Logistics,Bangladesh,Sakib Patwary,19355168250,raisa.bhuiyan@yahoo.com,Programming,4.27,2024-01-04 01:50:26,12,Manikganj,Active,Dhaka
+S00835,Green Supply Co,Bangladesh,Sami Jahan,15456321410,sadia.amin@gmail.com,Exam Prep,4.76,2021-09-05 19:00:32,2,Brahmanbaria,Active,Chattogram
+S00836,Ocean Enterprises,Bangladesh,Nayeem Bhuiyan,14374420210,nayeem.mollik@yahoo.com,Exam Prep,3.91,2025-04-20 00:37:40,12,Chandpur,Active,Chattogram
+S00837,Prime Supply Co,Bangladesh,Sifat Bhuiyan,15566831550,adib.karim@yahoo.com,Biography,2.67,2020-03-16 13:31:14,14,Rajbari,Active,Dhaka
+S00838,Ocean Trade Group,Bangladesh,Fahim Rahman,19590365020,raisa.talukder@yahoo.com,Programming,3.18,2023-11-24 15:01:29,8,Dhaka,Inactive,Dhaka
+S00839,Eastern Distributors,India,Farhan Miah,15795750210,tanvir.miah@yahoo.com,Biography,4.27,2019-10-11 11:33:50,4,Lakshmipur,Active,Chattogram
+S00840,Metro Enterprises,India,Raisa Ahmed,16296053560,arif.miah@gmail.com,Programming,3.74,2024-05-10 20:14:07,12,Kishoreganj,Active,Dhaka
+S00841,Metro Books Ltd,Bangladesh,Tanvir Amin,19344753230,karim.chowdhury@gmail.com,Biography,3.87,2019-08-11 16:51:37,16,Rangamati,Active,Chattogram
+S00842,Global Supply Co,Bangladesh,Jannat Das,19158702140,mim.bhuiyan@gmail.com,Exam Prep,3.99,2021-09-27 02:38:03,7,Noakhali,Active,Chattogram
+S00843,National Enterprises,Bangladesh,Hasan Das,14383416630,mahin.sheikh@yahoo.com,Children,3.46,2023-11-11 01:29:30,10,Dhaka,Active,Dhaka
+S00844,Delta Distributors,Usa,Sami Chowdhury,16324080970,farhan.uddin@yahoo.com,Religious,4.43,2019-04-27 09:45:18,2, Cumilla ,Active,
+S00845,Metro Books Ltd,Bangladesh,Sami Chowdhury,16772503720,shuvo.ahmed@outlook.com,Self Help,4.31,2020-10-19 19:11:29,14,Chandpur,Active,Chattogram
+S00846,Ocean Trade Group,Bangladesh,Jannat Uddin,18224966240,mim.roy@gmail.com,Children,4.29,2021-05-02 18:30:27,17,Madaripur,Active,Dhaka
+S00847,Bright Distributors,Bangladesh,Nafis Chowdhury,13918943450,rumana.patwary@gmail.com,Self Help,3.15,2024-02-12 11:45:54,15,Feni,Suspended,Chattogram
+S00848,Eastern Logistics,Bangladesh,Mim Islam,17578285350,nabil.jahan@outlook.com,Academic,4.73,2025-09-23 16:17:42,9,Gazipur,Inactive,Dhaka
+S00849,Delta Publishing House,Bangladesh,Ayesha Amin,18627498440,tamim.uddin@outlook.com,Self Help,3.99,2023-04-19 19:28:46,2,Madaripur,Active,Dhaka
+S00850,National Trade Group,India,Adib Miah,14559149660,sakib.rahman@outlook.com,Self Help,4.92,2022-07-21 04:21:47,10,Noakhali,Active,Chattogram
+S00851,Prime Publishing House,Bangladesh,Raisa Miah,17132422410,sami.bhuiyan@gmail.com,Children,2.8,2021-05-09 12:45:08,18, Cumilla ,Active,
+S00852,Bright Publishing House,Usa,Rafi Das,17503681570,muntasir.mollik@gmail.com,Exam Prep,4.08,2024-10-03 16:18:49,3,Gazipur,Suspended,Dhaka
+S00853,Metro Trade Group,Bangladesh,Tanjim Patwary,15361059780,mahin.bhuiyan@gmail.com,Children,4.29,2019-10-02 02:49:48,5,Gopalganj,Active,Dhaka
+S00854,Metro Trade Group,India,Imran Sarker,17463926460,sakib.sheikh@gmail.com,Religious,3.69,2019-11-27 09:41:24,17,Manikganj,Active,Dhaka
+S00855,Prime Publishing House,Uk,Hasan Amin,16818484200,muntasir.das@outlook.com,Biography,3.22,2020-05-29 05:20:49,12,Faridpur,Active,Dhaka
+S00856,National Enterprises,China,Rafi Sheikh,13423914570,arif.talukder@outlook.com,Children,3.88,2020-11-16 05:01:29,5,Kishoreganj,Active,Dhaka
+S00857,Royal Supply Co,Bangladesh,Shaila Jahan,13267091920,muntasir.islam@outlook.com,Children,3.41,2022-03-25 20:08:40,2,Bandarban,Active,Chattogram
+S00858,Bright Trade Group,Bangladesh,Sifat Das,,nayeem.jahan@outlook.com,Business,4.77,2025-08-16 08:56:42,9,Dhaka,Active,Dhaka
+S00859,Bright Distributors,Bangladesh,Tanvir Nahar,15647470680,adib.chowdhury@yahoo.com,Business,3.39,2023-07-21 09:46:38,12,Manikganj,Active,Dhaka
+S00860,Delta Enterprises,Bangladesh,Rahim Roy,18260033010,sadia.nahar@yahoo.com,Academic,2.94,2021-09-07 08:36:27,17,Munshiganj,Active,Dhaka
+S00861,Global Supply Co,Bangladesh,Mahin Das,14389768370,sadia.islam@outlook.com,Programming,3.94,2020-06-24 15:28:18,17,Rangamati,Active,Chattogram
+S00862,Bright Supply Co,China,Tamim Talukder,14769170350,fahim.uddin@outlook.com,Fiction,3.49,2023-07-16 07:49:31,10,Rangamati,Active,Chattogram
+S00863,Green Supply Co,China,Sakib Sarker,13880268150,muntasir.chowdhury@yahoo.com,Children,2.74,2020-10-09 00:22:05,9,Khagrachari,Suspended,Chattogram
+S00864,Metro Enterprises,Bangladesh,Farhan Khan,19870868540,muntasir.sarker@outlook.com,Fiction,3.91,2025-10-30 23:31:16,18,Narayanganj,Active,Dhaka
+S00865,Delta Books Ltd,Bangladesh,Imran Das,15202788580,rahim.ahmed@yahoo.com,Academic,3.84,2022-05-06 01:38:48,15,Tangail,Active,Dhaka
+S00866,Ocean Trade Group,Uk,Arif Khan,15401119570,jannat.ahmed@yahoo.com,Biography,2.93,2022-11-08 19:31:26,5,Tangail,Active,Dhaka
+S00867,Bright Trade Group,Usa,Arif Das,19668526080,tanjim.uddin@outlook.com,Biography,3.99,2025-04-28 08:09:36,14,Khagrachari,Active,Chattogram
+S00868,Royal Supply Co,Bangladesh,Nabil Uddin,19743425190,rahim.bhuiyan@yahoo.com,Business,3.92,2021-02-19 11:08:30,14, Cumilla ,Suspended,
+S00869,Green Books Ltd,Bangladesh,Rafi Sheikh,13162045050,raisa.uddin@outlook.com,Self Help,4.43,2022-04-20 22:21:58,6,Lakshmipur,Active,Chattogram
+S00870,Global Publishing House,Uk,Sakib Ahmed,13634006110,raisa.patwary@yahoo.com,Programming,3.4,2022-09-21 15:50:45,19,Bandarban,Suspended,Chattogram
+S00871,Delta Supply Co,Bangladesh,Sami Bhuiyan,14990170140,ayesha.hossain@gmail.com,Biography,3.12,2020-11-23 20:46:43,7,Noakhali,Active,Chattogram
+S00872,Delta Books Ltd,Bangladesh,Nafis Roy,13952224600,tanjim.jahan@gmail.com,Children,4.88,2019-05-20 15:39:51,11, Cumilla ,Active,
+S00873,Prime Trade Group,China,Rahim Ahmed,17152608020,nafis.sheikh@yahoo.com,Fiction,3.9,2020-12-26 06:08:17,10, Cumilla ,Active,
+S00874,Metro Distributors,China,Imran Chowdhury,15383983070,mim.das@yahoo.com,Exam Prep,2.57,2019-10-15 05:13:03,14,Chandpur,Active,Chattogram
+S00875,Royal Supply Co,Usa,Tasnima Khan,16216755290,imran.islam@yahoo.com,Children,4.55,2023-09-24 00:55:13,18,Narayanganj,Active,Dhaka
+S00876,Metro Trade Group,India,Nafis Chowdhury,13725318470,shaila.talukder@outlook.com,Self Help,2.99,2019-01-19 07:54:15,9,Brahmanbaria,Suspended,Chattogram
+S00877,Bright Distributors,Bangladesh,Nusrat Rahman,19346463520,sakib.amin@gmail.com,Business,4.47,2021-03-19 23:00:55,8,Narayanganj,Inactive,Dhaka
+S00878,Bright Distributors,Bangladesh,Sadia Das,19410379220,shuvo.sarker@gmail.com,Business,4.26,2025-03-10 00:58:50,15,Chandpur,Active,Chattogram
+S00879,National Logistics,Bangladesh,Tanjim Talukder,15181322980,tasnima.khan@outlook.com,Programming,4.92,2022-12-24 09:13:23,19,Manikganj,Inactive,Dhaka
+S00880,Green Logistics,Bangladesh,Hasan Ahmed,15548170800,tasnima.amin@yahoo.com,Self Help,4.91,2023-09-12 19:01:35,18,Feni,Inactive,Chattogram
+S00881,National Distributors,Bangladesh,Nusrat Hossain,17242351070,sakib.jahan@yahoo.com,Academic,3.19,2023-09-05 17:21:40,15,Bandarban,Active,Chattogram
+S00882,Global Logistics,Bangladesh,Tanvir Islam,14488881380,tanjim.amin@gmail.com,Exam Prep,4.42,2021-02-01 12:44:27,14, Cumilla ,Active,
+S00883,Green Trade Group,Bangladesh,Tanjim Talukder,13229007990,sadia.chowdhury@yahoo.com,Self Help,3.29,2023-06-05 05:00:23,15,Madaripur,Active,Dhaka
+S00884,Green Enterprises,India,Tanjim Sarker,17958464890,tanjim.hossain@yahoo.com,Self Help,4.07,2020-07-19 06:55:33,18,Feni,Active,Chattogram
+S00885,Global Publishing House,Bangladesh,Fahim Talukder,17230484270,tanjim.bhuiyan@yahoo.com,Biography,3.99,2023-06-13 08:08:23,2,Feni,Active,Chattogram
+S00886,National Distributors,Bangladesh,Tanjim Chowdhury,19569698430,raisa.uddin@gmail.com,Self Help,3.64,2023-10-12 22:39:03,12,Gopalganj,Suspended,Dhaka
+S00887,National Distributors,Bangladesh,Imran Ahmed,18277281840,tanvir.chowdhury@yahoo.com,Programming,2.51,2025-02-17 10:01:46,2,Narayanganj,Active,Dhaka
+S00888,Ocean Books Ltd,Bangladesh,Fahim Sheikh,17168725620,tasnima.rahman@yahoo.com,Programming,2.64,2025-06-08 07:46:29,12,Chittagong,Active,Chattogram
+S00889,National Publishing House,Uk,Jannat Khan,17282077750,nusrat.roy@gmail.com,Business,2.82,2019-03-03 07:07:38,9,Khagrachari,Active,Chattogram
+S00890,National Logistics,Bangladesh,Adib Khan,19149296690,rahim.sarker@gmail.com,Self Help,3.14,2021-02-03 14:23:18,7, Cumilla ,Active,
+S00891,Global Distributors,Bangladesh,Tanvir Khan,17225457640,arif.rahman@outlook.com,Business,4.77,2022-10-30 10:11:53,18,Shariatpur,Active,Dhaka
+S00892,Global Trade Group,India,Nafis Karim,17544135740,adib.roy@outlook.com,Religious,3.8,2021-04-01 21:43:19,14,Munshiganj,Active,Dhaka
+S00893,Ocean Publishing House,Bangladesh,Mim Bhuiyan,19434798310,nayeem.jahan@yahoo.com,Academic,4.49,2023-05-01 02:03:28,12,Lakshmipur,Active,Chattogram
+S00894,Eastern Books Ltd,Bangladesh,Nabil Bhuiyan,13636181590,mim.sarker@outlook.com,Fiction,4.6,2024-12-23 10:32:34,17,Khagrachari,Active,Chattogram
+S00895,Delta Supply Co,Bangladesh,Hasan Karim,16147260180,sakib.sheikh@outlook.com,Fiction,4.34,2020-10-21 12:48:47,3,Lakshmipur,Active,Chattogram
+S00896,Green Trade Group,Bangladesh,Adib Islam,17310803100,,Business,3.48,2025-04-02 11:14:45,13,Munshiganj,Active,Dhaka
+S00897,National Publishing House,Bangladesh,Jannat Karim,13434870560,fahim.karim@yahoo.com,Programming,4.66,2025-03-04 10:28:50,4,Rajbari,Active,Dhaka
+S00898,Delta Publishing House,Bangladesh,Imran Chowdhury,14164651380,nayeem.uddin@outlook.com,Exam Prep,4.36,2025-05-25 06:39:32,6,Madaripur,Active,Dhaka
+S00899,Metro Publishing House,,Nafis Bhuiyan,16298117970,raisa.sarker@gmail.com,Business,4.36,2019-07-07 22:59:14,5,Noakhali,Active,Chattogram
+S00900,Delta Enterprises,Bangladesh,Hasan Das,13520077630,sakib.talukder@outlook.com,Children,4.75,2021-01-19 07:15:06,11,Khagrachari,Active,Chattogram
+S00901,Global Enterprises,Bangladesh,Nusrat Miah,13523863730,nabil.rahman@gmail.com,Programming,4.0,2019-11-14 05:16:38,13,Kishoreganj,Active,Dhaka
+S00902,Delta Publishing House,Bangladesh,Shaila Sheikh,19893221740,rumana.bhuiyan@gmail.com,Academic,3.82,2019-11-04 12:27:14,15,Madaripur,Active,Dhaka
+S00903,Eastern Books Ltd,Uk,Tanjim Khan,19588456760,sadia.sheikh@yahoo.com,Self Help,4.73,2022-01-29 15:12:39,9,Bandarban,Inactive,Chattogram
+S00904,Global Enterprises,Bangladesh,Imran Karim,15747901860,karim.jahan@yahoo.com,Exam Prep,3.64,2019-08-11 22:38:12,18,Narsingdi,Inactive,Dhaka
+S00905,Global Trade Group,Bangladesh,Fahim Miah,13856176310,shaila.jahan@gmail.com,Fiction,4.53,2021-01-25 23:23:59,8,Shariatpur,Active,Dhaka
+S00906,Prime Logistics,Bangladesh,Tamim Bhuiyan,15106673950,rumana.jahan@gmail.com,Fiction,2.63,2025-11-13 08:46:34,4,Narayanganj,Active,Dhaka
+S00907,Bright Enterprises,Bangladesh,Rafi Karim,,nabil.patwary@yahoo.com,Academic,2.5,2025-03-09 03:55:00,2,Chittagong,Active,Chattogram
+S00908,Royal Books Ltd,Bangladesh,Mim Islam,13701723530,adib.patwary@gmail.com,Business,3.82,2025-07-23 04:46:40,4,Lakshmipur,Inactive,Chattogram
+S00909,Prime Publishing House,India,Imran Sheikh,13862025770,imran.chowdhury@outlook.com,Academic,2.68,2019-04-04 15:20:01,10,Noakhali,Active,Chattogram
+S00910,Eastern Distributors,Usa,Jannat Uddin,16746415680,,Biography,4.94,2023-08-17 06:54:04,9,Rajbari,Active,Dhaka
+S00911,National Supply Co,Bangladesh,Raisa Nahar,15218793420,farhan.islam@gmail.com,Children,2.51,2023-06-09 04:45:48,17,Feni,Active,Chattogram
+S00912,National Trade Group,Bangladesh,Nafis Khan,14681290660,,Religious,4.3,2019-12-06 08:17:39,4,Chittagong,Active,Chattogram
+S00913,Ocean Trade Group,Usa,Farhan Talukder,18340776080,adib.amin@gmail.com,Religious,3.11,2025-05-05 04:47:22,6,Kishoreganj,Active,Dhaka
+S00914,Eastern Trade Group,Bangladesh,Sadia Jahan,15950548460,tanvir.islam@yahoo.com,Fiction,4.92,2021-10-30 14:08:22,19,Feni,Active,Chattogram
+S00915,Bright Trade Group,Bangladesh,Nusrat Roy,18471735760,rafi.mollik@outlook.com,Self Help,3.45,2025-11-01 08:52:01,2,Narayanganj,Active,Dhaka
+S00916,National Trade Group,Bangladesh,Tanjim Hossain,14371218510,farhan.amin@gmail.com,Academic,2.57,2019-10-19 07:45:45,9,Chandpur,Active,Chattogram
+S00917,Green Books Ltd,Bangladesh,Shuvo Chowdhury,16610103040,fahim.roy@gmail.com,Self Help,2.57,2023-07-20 17:36:41,5, Cumilla ,Active,
+S00918,Delta Books Ltd,India,Muntasir Mollik,14159250090,raisa.karim@gmail.com,Exam Prep,3.88,2019-12-01 03:50:52,11,Noakhali,Active,Chattogram
+S00919,Metro Distributors,Bangladesh,Nafis Ahmed,16817713270,shaila.uddin@outlook.com,Religious,4.97,2025-08-25 00:04:25,19,Noakhali,Active,Chattogram
+S00920,Prime Enterprises,China,Rafi Nahar,14467519880,tasnima.miah@gmail.com,Self Help,4.95,2023-04-03 00:31:30,6,Feni,Suspended,Chattogram
+S00921,Delta Books Ltd,Bangladesh,Rumana Karim,14317921380,arif.talukder@yahoo.com,Business,3.34,2019-07-13 09:15:14,8,Tangail,Active,Dhaka
+S00922,Royal Supply Co,Bangladesh,Hasan Ahmed,17337407430,nafis.roy@yahoo.com,Fiction,3.71,2020-07-03 02:03:51,10,Narsingdi,Inactive,Dhaka
+S00923,Ocean Logistics,Bangladesh,Nafis Hossain,19255130500,raisa.sarker@gmail.com,Children,2.75,2021-07-07 07:34:15,16,Rajbari,Active,Dhaka
+S00924,Delta Enterprises,Bangladesh,Nusrat Jahan,14138702920,nabil.sarker@gmail.com,Biography,3.81,2019-02-02 20:52:40,19,Noakhali,Inactive,Chattogram
+S00925,Green Publishing House,Bangladesh,Raisa Islam,15608633300,raisa.amin@gmail.com,Business,4.0,2019-01-23 06:35:39,3,Kishoreganj,Active,Dhaka
+S00926,Global Publishing House,Bangladesh,Tanvir Uddin,14683662350,shaila.das@outlook.com,Self Help,3.13,2025-06-23 12:38:10,10,Tangail,Active,Dhaka
+S00927,Delta Publishing House,Bangladesh,Muntasir Jahan,14831160430,tanjim.nahar@outlook.com,Fiction,4.03,2025-11-12 21:44:14,15,Chittagong,Active,Chattogram
+S00928,Eastern Supply Co,Bangladesh,Imran Uddin,16967115270,mim.talukder@outlook.com,Biography,4.75,2022-10-02 13:21:41,2,Dhaka,Suspended,Dhaka
+S00929,National Logistics,Bangladesh,Fahim Miah,13749143130,rahim.khan@gmail.com,Self Help,2.5,2025-04-26 08:51:11,16,Chandpur,Suspended,Chattogram
+S00930,Green Supply Co,Bangladesh,Nayeem Jahan,19274046820,rahim.mollik@yahoo.com,Fiction,3.07,2023-08-02 18:09:14,6,Manikganj,Active,Dhaka
+S00931,Ocean Distributors,Bangladesh,Farhan Uddin,15481890500,arif.islam@yahoo.com,Programming,3.02,2019-03-13 16:51:21,11,Manikganj,Active,Dhaka
+S00932,Royal Distributors,Bangladesh,Mim Chowdhury,19759295130,karim.amin@outlook.com,Self Help,2.81,2024-01-01 05:56:14,19,Brahmanbaria,Active,Chattogram
+S00933,Royal Distributors,India,Tasnima Uddin,18328599770,farhan.sarker@gmail.com,Fiction,2.92,2019-02-16 08:19:45,13,Dhaka,Active,Dhaka
+S00934,Eastern Supply Co,India,Adib Mollik,19491983960,raisa.chowdhury@outlook.com,Academic,4.06,2024-09-17 23:49:53,19,Gopalganj,Active,Dhaka
+S00935,Global Supply Co,Bangladesh,Tasnima Jahan,17532027890,tanvir.miah@gmail.com,Fiction,2.76,2021-07-26 23:22:35,12,Rajbari,Active,Dhaka
+S00936,Global Publishing House,Bangladesh,Rumana Roy,17914667680,nafis.amin@yahoo.com,Religious,4.35,2019-12-28 01:17:39,5,Brahmanbaria,Active,Chattogram
+S00937,Bright Trade Group,Bangladesh,Sami Sarker,15559789430,tanvir.uddin@outlook.com,Children,4.72,2020-10-22 19:45:10,14,Gazipur,Active,Dhaka
+S00938,Delta Books Ltd,Bangladesh,Adib Islam,14419554060,nafis.karim@gmail.com,Business,4.82,2023-10-13 15:33:59,13,Narayanganj,Inactive,Dhaka
+S00939,Prime Trade Group,Bangladesh,Tasnima Chowdhury,18290031560,sami.khan@gmail.com,Biography,4.15,2024-12-04 18:12:48,7,Munshiganj,Active,Dhaka
+S00940,Ocean Books Ltd,Bangladesh,Nabil Ahmed,16830765110,muntasir.chowdhury@outlook.com,Academic,2.99,2022-12-29 18:29:47,3,Tangail,Active,Dhaka
+S00941,National Publishing House,Bangladesh,Sadia Karim,13155753700,sadia.hossain@gmail.com,Academic,2.71,2020-02-15 04:45:18,13,Munshiganj,Active,Dhaka
+S00942,Eastern Supply Co,Bangladesh,Arif Chowdhury,15381992860,tanjim.uddin@outlook.com,Business,3.08,2025-04-19 19:03:53,12,Dhaka,Active,Dhaka
+S00943,Bright Publishing House,Bangladesh,Nusrat Patwary,18862150390,jannat.das@yahoo.com,Academic,4.9,2024-07-13 21:36:02,15,Tangail,Active,Dhaka
+S00944,Bright Distributors,Bangladesh,Mahin Hossain,16440958300,muntasir.hossain@yahoo.com,Academic,4.91,2021-11-13 15:04:48,4,Khagrachari,Active,Chattogram
+S00945,Global Enterprises,Uk,Nabil Rahman,13839399700,mahin.uddin@outlook.com,Children,3.45,2022-11-18 04:46:32,11,Brahmanbaria,Active,Chattogram
+S00946,Eastern Publishing House,Usa,Sami Das,19498150630,sakib.patwary@outlook.com,Academic,3.31,2025-09-29 19:21:35,16,Narayanganj,Active,Dhaka
+S00947,Royal Logistics,Bangladesh,Nusrat Sarker,16778150500,shuvo.karim@gmail.com,Self Help,3.78,2021-08-22 14:43:14,18,Shariatpur,Active,Dhaka
+S00948,Eastern Supply Co,Usa,Hasan Amin,17221753730,sadia.bhuiyan@gmail.com,Children,3.23,2019-03-07 21:05:45,18,Gopalganj,Active,Dhaka
+S00949,Green Trade Group,Bangladesh,Rahim Karim,17932185190,mahin.patwary@gmail.com,Programming,4.95,2020-01-08 11:01:59,5,Madaripur,Active,Dhaka
+S00950,Ocean Distributors,Usa,Nabil Mollik,18570845110,sakib.mollik@gmail.com,Exam Prep,3.05,2023-03-15 09:50:52,5,Rajbari,Active,Dhaka
+S00951,Green Enterprises,China,Tasnima Hossain,14317340640,imran.roy@outlook.com,Religious,3.42,2025-12-25 02:22:31,12,Brahmanbaria,Active,Chattogram
+S00952,Ocean Publishing House,Bangladesh,Ayesha Amin,15338569550,hasan.amin@yahoo.com,Religious,3.57,2024-03-06 04:32:51,10,Shariatpur,Active,Dhaka
+S00953,National Publishing House,India,Tanvir Khan,15430051750,nusrat.talukder@outlook.com,Business,2.81,2023-04-29 13:44:26,6,Rangamati,Active,Chattogram
+S00954,Prime Publishing House,China,Fahim Sheikh,13745767570,shuvo.talukder@gmail.com,Self Help,3.46,2021-04-05 14:13:29,3,Chandpur,Active,Chattogram
+S00955,Global Trade Group,Usa,Rumana Talukder,16954642730,rafi.islam@outlook.com,Academic,4.64,2022-01-28 01:27:49,4,Dhaka,Active,Dhaka
+S00956,Global Trade Group,China,Tanvir Sarker,14702133680,hasan.nahar@outlook.com,Academic,2.85,2019-04-09 01:57:23,8,Tangail,Active,Dhaka
+S00957,Global Supply Co,Bangladesh,Tamim Hossain,14592449640,hasan.karim@outlook.com,Self Help,3.96,2021-08-06 14:26:55,15,Bandarban,Active,Chattogram
+S00958,National Enterprises,Bangladesh,Farhan Ahmed,16503738020,raisa.talukder@yahoo.com,Academic,3.52,2023-05-13 14:04:45,3,Faridpur,Active,Dhaka
+S00959,Prime Enterprises,Uk,Tanjim Chowdhury,17845375010,karim.uddin@outlook.com,Children,2.93,2025-05-04 00:59:33,3,Narsingdi,Active,Dhaka
+S00960,Delta Enterprises,Bangladesh,Tamim Sheikh,15864691480,tanvir.nahar@yahoo.com,Children,2.53,2025-06-15 17:09:38,6,Khagrachari,Active,Chattogram
+S00961,National Enterprises,Bangladesh,Sadia Amin,14363733900,sadia.sheikh@yahoo.com,Academic,3.18,2024-09-29 23:11:24,17,Narayanganj,Active,Dhaka
+S00962,Royal Enterprises,Bangladesh,Nabil Karim,15958078220,tanjim.das@yahoo.com,Children,2.65,2019-02-24 22:47:25,19,Rajbari,Active,Dhaka
+S00963,National Books Ltd,Bangladesh,Tasnima Khan,13455603820,sadia.chowdhury@gmail.com,Religious,3.44,2024-09-04 09:22:51,9,Madaripur,Active,Dhaka
+S00964,National Books Ltd,Bangladesh,Sami Uddin,15820070260,tasnima.rahman@outlook.com,Religious,4.53,2020-07-12 18:53:50,2,Faridpur,Active,Dhaka
+S00965,Eastern Trade Group,India,Nusrat Rahman,16970137880,farhan.karim@outlook.com,Academic,4.3,2023-04-25 00:04:44,2,Munshiganj,Active,Dhaka
+S00966,Global Enterprises,Bangladesh,Tasnima Talukder,18733292280,raisa.ahmed@outlook.com,Biography,4.87,2025-08-15 23:15:03,17,Cox's Bazar,Active,Chattogram
+S00967,Royal Trade Group,India,Nayeem Sarker,18245395650,nayeem.miah@outlook.com,Academic,3.57,2025-03-19 14:48:30,10,Rangamati,Active,Chattogram
+S00968,Eastern Publishing House,Uk,Arif Rahman,16627523250,,Exam Prep,4.27,2023-08-26 05:37:14,3,Chandpur,Active,Chattogram
+S00969,National Enterprises,Bangladesh,Sadia Uddin,14206899410,farhan.miah@outlook.com,Self Help,4.16,2021-02-03 22:55:56,17,Feni,Active,Chattogram
+S00970,Metro Publishing House,Bangladesh,Mahin Hossain,13725693330,rafi.das@gmail.com,Programming,3.04,2022-08-24 09:04:18,11,Chandpur,Active,Chattogram
+S00971,Eastern Publishing House,Bangladesh,Muntasir Roy,18919080700,nayeem.chowdhury@yahoo.com,Programming,3.26,2023-12-04 16:08:56,8,Chandpur,Active,Chattogram
+S00972,Royal Books Ltd,China,Tanvir Jahan,19262908860,shaila.sheikh@gmail.com,Academic,3.82,2022-08-07 07:47:02,10,Rajbari,Active,Dhaka
+S00973,National Books Ltd,India,Muntasir Khan,18453572050,farhan.uddin@gmail.com,Fiction,4.49,2021-10-30 18:26:32,6,Faridpur,Inactive,Dhaka
+S00974,Eastern Trade Group,Bangladesh,Muntasir Sheikh,15682406900,mahin.bhuiyan@yahoo.com,Self Help,3.65,2021-10-26 15:58:47,18,Narsingdi,Active,Dhaka
+S00975,Global Distributors,Bangladesh,Sifat Talukder,17477692730,sakib.miah@yahoo.com,Business,3.07,2023-03-14 14:19:36,16,Khagrachari,Active,Chattogram
+S00976,Metro Logistics,Bangladesh,Imran Patwary,19187222340,fahim.roy@outlook.com,Academic,4.98,2019-04-02 11:08:50,5,Tangail,Active,Dhaka
+S00977,Global Enterprises,Bangladesh,Tanvir Jahan,13832815290,sadia.khan@yahoo.com,Exam Prep,2.79,2025-12-26 06:41:51,15,Cox's Bazar,Active,Chattogram
+S00978,Metro Distributors,Usa,Tamim Nahar,15493608570,nayeem.sheikh@yahoo.com,Exam Prep,3.8,2019-09-18 21:05:09,5,Faridpur,Active,Dhaka
+S00979,Green Enterprises,India,Sakib Nahar,17491856130,adib.patwary@yahoo.com,Academic,4.52,2025-11-21 10:41:17,10,Kishoreganj,Active,Dhaka
+S00980,Bright Publishing House,Bangladesh,Raisa Mollik,,tanvir.das@yahoo.com,Academic,4.6,2019-04-01 10:05:40,15,Munshiganj,Inactive,Dhaka
+S00981,Royal Trade Group,Uk,Tanvir Bhuiyan,14938833890,mim.das@outlook.com,Children,4.49,2022-08-03 06:06:03,2,Narayanganj,Active,Dhaka
+S00982,Eastern Supply Co,Bangladesh,Shuvo Rahman,16401309420,imran.miah@gmail.com,Academic,3.02,2021-12-03 08:09:26,15,Rangamati,Active,Chattogram
+S00983,Royal Supply Co,Uk,Sami Islam,,karim.mollik@yahoo.com,Religious,4.08,2023-01-06 19:04:46,6,Shariatpur,Active,Dhaka
+S00984,National Enterprises,Bangladesh,Adib Bhuiyan,13378686820,tasnima.islam@yahoo.com,Children,4.39,2022-01-13 04:55:05,14,Chandpur,Active,Chattogram
+S00985,Royal Publishing House,Bangladesh,Tanvir Islam,16586127750,imran.talukder@gmail.com,Religious,4.36,2025-04-12 13:18:23,10,Chandpur,Active,Chattogram
+S00986,Royal Trade Group,,Sami Chowdhury,19930901180,rumana.karim@outlook.com,Children,3.18,2019-02-12 14:18:33,2,Rajbari,Active,Dhaka
+S00987,Bright Distributors,Bangladesh,Fahim Islam,15585348380,imran.nahar@yahoo.com,Biography,2.95,2025-11-24 06:50:13,15,Rangamati,Active,Chattogram
+S00988,Green Books Ltd,Bangladesh,Sifat Talukder,13655320610,sifat.patwary@gmail.com,Exam Prep,3.32,2023-10-29 04:44:43,6,Madaripur,Active,Dhaka
+S00989,Metro Distributors,China,Tasnima Hossain,14165921380,rafi.patwary@yahoo.com,Business,3.7,2024-06-13 02:55:01,19,Dhaka,Active,Dhaka
+S00990,Global Supply Co,Bangladesh,Sakib Bhuiyan,17529638180,imran.ahmed@outlook.com,Business,3.93,2019-12-24 08:15:01,17, Cumilla ,Active,
+S00991,Bright Logistics,Bangladesh,Raisa Amin,13771103700,sami.patwary@outlook.com,Academic,4.59,2019-06-16 14:40:31,5,Chandpur,Active,Chattogram
+S00992,Global Supply Co,Bangladesh,Tasnima Patwary,18617327150,nayeem.roy@gmail.com,Academic,4.42,2021-10-11 19:02:08,12,Manikganj,Active,Dhaka
+S00993,Bright Supply Co,Bangladesh,Sadia Sarker,18493122350,nayeem.khan@yahoo.com,Programming,4.19,2021-04-04 16:00:42,8,Khagrachari,Inactive,Chattogram
+S00994,Royal Publishing House,Bangladesh,Tasnima Talukder,14297344570,mahin.ahmed@gmail.com,Academic,3.64,2024-06-24 05:44:57,12,Gopalganj,Active,Dhaka
+S00995,Prime Trade Group,Bangladesh,Nafis Uddin,14390886560,hasan.ahmed@yahoo.com,Religious,3.7,2025-04-10 14:43:12,12,Manikganj,Active,Dhaka
+S00996,Green Enterprises,India,Karim Roy,14631969850,tamim.sheikh@yahoo.com,Business,3.34,2021-12-28 14:15:57,7,Gopalganj,Suspended,Dhaka
+S00997,Prime Logistics,Bangladesh,Shuvo Jahan,14659616570,nabil.bhuiyan@yahoo.com,Children,3.09,2019-06-02 05:38:35,13,Kishoreganj,Active,Dhaka
+S00998,Ocean Books Ltd,Bangladesh,Nusrat Chowdhury,15718078560,shuvo.karim@outlook.com,Programming,2.53,2024-03-12 03:32:43,6, Cumilla ,Inactive,
+S00999,Green Trade Group,Uk,Arif Karim,16914673470,arif.chowdhury@yahoo.com,Programming,3.35,2019-09-11 21:43:19,18,Chittagong,Active,Chattogram
+S01000,Prime Publishing House,Bangladesh,Sami Islam,16630206980,hasan.patwary@yahoo.com,Exam Prep,3.14,2023-09-04 05:04:57,19,Chandpur,Active,Chattogram
